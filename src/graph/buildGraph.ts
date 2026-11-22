@@ -18,8 +18,17 @@ export function nodeWidth(label: string) {
 
 const unionId = (a: string, b: string) => `u:${[a, b].sort().join('+')}`
 
+export type GraphOptions = {
+  /**
+   * Vue compacte (arbre complet) : sans filiations alternatives ni couples sans enfant visible.
+   * Ces liens relient des personnages éloignés et emmêlent l'arbre complet ; ils restent visibles
+   * dans la vue focalisée et sur les fiches.
+   */
+  compact?: boolean
+}
+
 /** Construit le graphe généalogique pour l'ensemble d'entités visibles. */
-export function buildGraph(index: Index, visible: Set<string>): Graph {
+export function buildGraph(index: Index, visible: Set<string>, opts: GraphOptions = {}): Graph {
   const nodes: GNode[] = []
   const edges: GEdge[] = []
   const unions = new Set<string>()
@@ -66,6 +75,7 @@ export function buildGraph(index: Index, visible: Set<string>): Graph {
     } else if (primary.length === 1) {
       addEdge(primary[0], id, 'parent')
     }
+    if (opts.compact) continue
     // filiations alternatives : arêtes directes en pointillés
     const primarySet = new Set(primary)
     for (const p of index.allParents.get(id) ?? []) {
@@ -73,8 +83,8 @@ export function buildGraph(index: Index, visible: Set<string>): Graph {
     }
   }
 
-  // unions sans enfant visible : on relie quand même les conjoints visibles
-  for (const id of visible) {
+  // unions sans enfant visible : on relie quand même les conjoints visibles (sauf en vue compacte)
+  if (!opts.compact) for (const id of visible) {
     for (const s of index.spouses.get(id) ?? []) {
       if (visible.has(s) && id < s) ensureUnion(id, s)
     }
@@ -99,5 +109,31 @@ export function focusSet(index: Index, id: string): Set<string> {
   for (const s of index.spouses.get(id) ?? []) out.add(s)
   // l'autre parent des enfants (pour rattacher les unions)
   for (const c of index.children.get(id) ?? []) for (const p of index.parents.get(c) ?? []) out.add(p)
+  return out
+}
+
+/**
+ * Lignée d'un personnage, mise en valeur dans l'arbre complet : tous ses ascendants et descendants
+ * (filiation principale, celle que l'arbre complet dessine) et les autres parents de ses enfants.
+ */
+export function lineageOf(index: Index, id: string): Set<string> {
+  const out = new Set<string>([id])
+  const up = [id]
+  while (up.length) {
+    for (const p of index.parents.get(up.pop()!) ?? []) if (!out.has(p)) out.add(p), up.push(p)
+  }
+  const down = [id]
+  const below = new Set<string>([id])
+  while (down.length) {
+    const x = down.pop()!
+    for (const c of index.children.get(x) ?? []) {
+      const ps = index.parents.get(c) ?? []
+      if (!ps.includes(x) || below.has(c)) continue
+      below.add(c)
+      out.add(c)
+      down.push(c)
+      if (x === id) for (const p of ps) out.add(p) // l'autre parent des enfants
+    }
+  }
   return out
 }

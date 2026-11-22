@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest'
 import { buildIndex } from '../data/model'
 import { kidSafetyIssues, validate } from '../data/validation'
 import type { Entity } from '../data/schema'
-import { buildGraph, focusSet } from './buildGraph'
+import { buildGraph, focusSet, lineageOf } from './buildGraph'
 
 const e = (id: string, parents: string[] = [], extra: Partial<Entity> = {}): Entity => ({
   id,
@@ -86,5 +86,21 @@ describe('charte jeunesse', () => {
     expect(kidSafetyIssues('x', 'Il ne faut pas violer la loi de l’hospitalité')).toHaveLength(0)
     expect(kidSafetyIssues('x', 'Une violente tempête brisa les navires')).toHaveLength(0)
     expect(kidSafetyIssues('x', 'Cronos frappa et renversa son père')).toHaveLength(0)
+  })
+})
+
+describe('arbre complet', () => {
+  it('la vue compacte retire filiations alternatives et couples sans enfant', () => {
+    const g = buildGraph(idx, new Set(data.map((d) => d.id)), { compact: true })
+    expect(g.edges.some((e) => e.kind === 'alt')).toBe(false)
+    // Zeus et Métis n'ont pas d'enfant en filiation principale : pas d'union dessinée
+    expect(g.nodes.some((n) => n.id === 'u:metis+zeus')).toBe(false)
+    expect(g.nodes.some((n) => n.id === 'u:hera+zeus')).toBe(true)
+  })
+  it('lineageOf : ascendants, descendants et autre parent des enfants', () => {
+    const l = lineageOf(idx, 'zeus')
+    for (const id of ['cronos', 'rhea', 'ouranos', 'gaia', 'ares', 'athena', 'hera']) expect(l.has(id)).toBe(true)
+    expect(l.has('metis')).toBe(false) // seulement parent en filiation alternative
+    expect([...lineageOf(idx, 'ares')].sort()).toEqual(['ares', 'cronos', 'gaia', 'hera', 'ouranos', 'rhea', 'zeus'])
   })
 })

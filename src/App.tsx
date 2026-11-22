@@ -169,6 +169,7 @@ export default function App() {
               selectedId={selectedId}
               highlight={matches}
               onSelect={handleSelect}
+              mode={mode}
               layoutKey={categories.size === CATEGORIES.length ? layoutKey(mode, selectedId) : null}
               obscuredBottom={isMobile ? SHEET_SHARE[sheet] : 0}
             />

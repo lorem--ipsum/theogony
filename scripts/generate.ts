@@ -30,15 +30,20 @@ const core = entities.map(({ histoires: _h, ...rest }) => rest)
 const stories = Object.fromEntries(entities.map((e) => [e.id, e.histoires]))
 
 const elk = new ELK()
-const layouts: Record<string, Record<string, [number, number]>> = {}
+const layouts: Record<string, { n: Record<string, [number, number]>; e?: Record<string, [number, number][]> }> = {}
 const t0 = Date.now()
-const views: [string, Set<string>][] = [
-  [layoutKey('full', ''), new Set(entities.map((e) => e.id))],
-  ...entities.map((e): [string, Set<string>] => [layoutKey('focus', e.id), focusSet(index, e.id)]),
+const views: [string, Set<string>, boolean][] = [
+  [layoutKey('full', ''), new Set(entities.map((e) => e.id)), true],
+  ...entities.map((e): [string, Set<string>, boolean] => [layoutKey('focus', e.id), focusSet(index, e.id), false]),
 ]
-for (const [key, visible] of views) {
-  const pos = fromElk(await elk.layout(toElk(buildGraph(index, visible))))
-  layouts[key] = Object.fromEntries([...pos].map(([id, p]) => [id, [p.x, p.y]]))
+for (const [key, visible, full] of views) {
+  const graph = buildGraph(index, visible, { compact: full })
+  // tracés ELK seulement pour l'arbre complet (les vues focalisées restent lisibles sans, et le fichier 4× plus léger)
+  const { pos, routes } = fromElk(await elk.layout(toElk(graph, full)), full)
+  layouts[key] = {
+    n: Object.fromEntries([...pos].map(([id, p]) => [id, [p.x, p.y]])),
+    ...(routes ? { e: Object.fromEntries(routes) } : {}),
+  }
 }
 
 const write = (name: string, data: unknown) => {
