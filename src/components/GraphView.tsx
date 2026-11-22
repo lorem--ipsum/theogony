@@ -11,7 +11,6 @@ import {
   type NodeProps,
   type Viewport,
 } from '@xyflow/react'
-import '@xyflow/react/dist/style.css'
 import { index } from '../data'
 import type { Categorie } from '../data/categories'
 import { buildGraph, type Graph } from '../graph/buildGraph'

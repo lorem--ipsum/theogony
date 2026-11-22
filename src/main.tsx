@@ -1,5 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+// CSS de React Flow avant le nôtre : sans @layer (retiré pour Safari 12), l'ordre fixe la priorité
+import '@xyflow/react/dist/style.css'
 import './styles/tokens.css'
 import './styles/app.css'
 import App from './App.tsx'
