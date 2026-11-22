@@ -11,6 +11,16 @@
       // Vieux Safari (iOS < 14) : pas de BigInt. React Flow ne s'en sert que comme compteur,
       // un simple Number suffit.
       if (typeof BigInt === 'undefined') window.BigInt = function (v) { return Number(v) }
+      // Safari < 14.1 ignore « gap » en flexbox : on le détecte pour activer des marges de repli.
+      ;(function () {
+        var d = document.createElement('div')
+        d.style.cssText = 'display:flex;flex-direction:column;row-gap:1px;position:absolute;visibility:hidden'
+        d.appendChild(document.createElement('div'))
+        d.appendChild(document.createElement('div'))
+        document.documentElement.appendChild(d)
+        if (d.scrollHeight !== 1) document.documentElement.className += ' no-flexgap'
+        document.documentElement.removeChild(d)
+      })()
     </script>
   </head>
   <body>

@@ -204,7 +204,7 @@ export function Toolbar(p: Props) {
       <div className="tools">
         <div className="dropdown" ref={catRef}>
           <button type="button" className="btn" aria-expanded={catOpen} onClick={() => setCatOpen((o) => !o)}>
-            Catégories
+            <span>Catégories</span>
             {!allCats && <span className="count">{p.categories.size}</span>}
             <svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true">
               <path d="M3 4.5 6 7.5 9 4.5" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" />
@@ -218,7 +218,7 @@ export function Toolbar(p: Props) {
                   <span className={`sicon cat-${c}`}>
                     <CategoryIcon categorie={c} size={12} />
                   </span>
-                  {CATEGORY_LABELS[c]}
+                  <span>{CATEGORY_LABELS[c]}</span>
                 </label>
               ))}
               <button type="button" className="menu-reset" onClick={p.onAllCategories}>
@@ -235,7 +235,7 @@ export function Toolbar(p: Props) {
           onClick={() => p.onOpenGlossary()}
         >
           <BookIcon />
-          Glossaire
+          <span>Glossaire</span>
         </button>
 
         <div className="segmented" role="group" aria-label="Mode d'affichage">

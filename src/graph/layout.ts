@@ -1,39 +1,37 @@
-import ELK from 'elkjs/lib/elk-api.js'
-import workerUrl from 'elkjs/lib/elk-worker.min.js?url'
 import type { Graph } from './buildGraph'
+import type { Positions } from './elkGraph'
 
-const elk = new ELK({ workerFactory: () => new Worker(workerUrl) })
+type Precomputed = Record<string, Record<string, [number, number]>>
 
-export type Positions = Map<string, { x: number; y: number }>
+let precomputed: Promise<Precomputed> | null = null
+/** Positions précalculées au build (src/generated/layouts.json), chargées une seule fois. */
+export function loadPrecomputed() {
+  return (precomputed ??= import('../generated/layouts.json').then((m) => m.default as unknown as Precomputed))
+}
 
 const cache = new Map<string, Positions>()
 
-/** Mise en page généalogique (haut → bas) calculée par ELK dans un Web Worker. */
-export async function layoutGraph(graph: Graph): Promise<Positions> {
-  const key = graph.nodes.map((n) => n.id).sort().join('|') + '#' + graph.edges.length
-  const hit = cache.get(key)
+/**
+ * Positions des nœuds : d'abord la mise en page précalculée correspondant à `key`
+ * (si elle couvre exactement les nœuds du graphe), sinon ELK à la volée.
+ */
+export async function layoutGraph(graph: Graph, key: string | null): Promise<Positions> {
+  const sig = graph.nodes.map((n) => n.id).sort().join('|') + '#' + graph.edges.length
+  const hit = cache.get(sig)
   if (hit) return hit
 
-  const res = await elk.layout({
-    id: 'root',
-    layoutOptions: {
-      'elk.algorithm': 'layered',
-      'elk.direction': 'DOWN',
-      'elk.layered.spacing.nodeNodeBetweenLayers': '46',
-      'elk.spacing.nodeNode': '18',
-      'elk.layered.nodePlacement.strategy': 'NETWORK_SIMPLEX',
-      'elk.layered.crossingMinimization.strategy': 'LAYER_SWEEP',
-      'elk.layered.cycleBreaking.strategy': 'DEPTH_FIRST',
-      'elk.separateConnectedComponents': 'true',
-      'elk.spacing.componentComponent': '60',
-    },
-    children: graph.nodes.map((n) => ({ id: n.id, width: n.width, height: n.height })),
-    edges: graph.edges.map((e) => ({ id: e.id, sources: [e.source], targets: [e.target] })),
-  })
-
-  const pos: Positions = new Map()
-  for (const c of res.children ?? []) pos.set(c.id, { x: c.x ?? 0, y: c.y ?? 0 })
+  let pos: Positions | null = null
+  if (key) {
+    const entry = (await loadPrecomputed())[key]
+    if (entry && graph.nodes.length === Object.keys(entry).length && graph.nodes.every((n) => entry[n.id])) {
+      pos = new Map(graph.nodes.map((n) => [n.id, { x: entry[n.id][0], y: entry[n.id][1] }]))
+    }
+  }
+  if (!pos) {
+    const { elkLayout } = await import('./elkLayout')
+    pos = await elkLayout(graph)
+  }
   if (cache.size > 200) cache.clear()
-  cache.set(key, pos)
+  cache.set(sig, pos)
   return pos
 }

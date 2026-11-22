@@ -1,12 +1,12 @@
 import { index } from '../data'
-import { primaryFiliation, siblingsOf } from '../data/model'
+import { primaryFiliation, siblingsOf, type CoreEntity } from '../data/model'
 import { CATEGORY_LABELS } from '../data/categories'
-import type { Entity } from '../data/schema'
+import { useStories } from '../data/stories'
 import { CategoryIcon } from './CategoryIcon'
 import { termForCategory } from '../data/glossary'
 
 type Props = {
-  entity: Entity
+  entity: CoreEntity
   onSelect: (id: string) => void
   activeTags: Set<string>
   onToggleTag: (tag: string) => void
@@ -23,7 +23,7 @@ export function EntityLink({ id, onSelect }: { id: string; onSelect: (id: string
   return (
     <button type="button" className={`elink cat-${e.categorie}`} onClick={() => onSelect(id)}>
       <CategoryIcon categorie={e.categorie} size={12} />
-      {e.nom}
+      <span>{e.nom}</span>
     </button>
   )
 }
@@ -44,7 +44,9 @@ export function DetailCard({ entity: e, onSelect, activeTags, onToggleTag, onOpe
   const children = [...(index.children.get(e.id) ?? [])].sort(byName)
   const spouses = [...(index.spouses.get(e.id) ?? [])].sort(byName)
   const siblings = new Set(siblingsOf(index, e.id))
-  const mentions = index.mentions.get(e.id) ?? []
+  const stories = useStories(e.id)
+  const histoires = stories?.histoires ?? []
+  const mentions = stories?.mentions ?? []
   const noteFor = (id: string) => e.unions?.find((u) => u.avec === id)?.note
 
   return (
@@ -57,7 +59,7 @@ export function DetailCard({ entity: e, onSelect, activeTags, onToggleTag, onOpe
           onClick={() => onOpenTerm(termForCategory.get(e.categorie)?.id)}
         >
           <CategoryIcon categorie={e.categorie} size={13} />
-          {CATEGORY_LABELS[e.categorie]}
+          <span>{CATEGORY_LABELS[e.categorie]}</span>
           <span className="badge-info" aria-hidden="true">?</span>
         </button>
         <h1>
@@ -158,8 +160,9 @@ export function DetailCard({ entity: e, onSelect, activeTags, onToggleTag, onOpe
 
       <section className="stories">
         <h2>Histoires</h2>
-        {e.histoires.length === 0 && <p className="muted">Aucune histoire pour l'instant.</p>}
-        {e.histoires.map((h, i) => (
+        {stories === null && <p className="muted">Chargement des histoires…</p>}
+        {stories !== null && histoires.length === 0 && <p className="muted">Aucune histoire pour l'instant.</p>}
+        {histoires.map((h, i) => (
           <div className="story" key={i}>
             <h3>{h.titre}</h3>
             <p>{h.resume}</p>

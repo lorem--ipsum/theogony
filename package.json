@@ -5,12 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run validate && tsc -b && vite build",
+    "build": "npm run validate && npm run generate && tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
     "validate": "tsx scripts/validate.ts",
     "test": "vitest run",
-    "deploy": "npm run build && touch dist/.nojekyll && gh-pages -d dist --dotfiles -m \"Déploiement\""
+    "deploy": "npm run build && touch dist/.nojekyll && gh-pages -d dist --dotfiles -m \"Déploiement\"",
+    "generate": "tsx scripts/generate.ts",
+    "predev": "npm run generate"
   },
   "dependencies": {
     "@juggle/resize-observer": "^3.4.0",

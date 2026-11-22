@@ -1,9 +1,12 @@
 // Pas d'import de valeur depuis ./schema : zod ne doit pas entrer dans le bundle de l'appli.
 import type { Entity } from './schema'
 
+/** Personnage sans ses histoires (chargées à part, en différé, dans l'appli). */
+export type CoreEntity = Omit<Entity, 'histoires'> & { histoires?: Entity['histoires'] }
+
 export type Index = {
-  entities: Entity[]
-  byId: Map<string, Entity>
+  entities: CoreEntity[]
+  byId: Map<string, CoreEntity>
   /** parents de la filiation principale */
   parents: Map<string, string[]>
   /** tous les parents connus (toutes filiations) */
@@ -22,7 +25,7 @@ function push<K, V>(map: Map<K, Set<V>>, k: K, v: V) {
   s.add(v)
 }
 
-export function primaryFiliation(e: Entity) {
+export function primaryFiliation(e: CoreEntity) {
   return e.filiations.find((f) => f.principale) ?? e.filiations[0]
 }
 
@@ -38,7 +41,7 @@ export function siblingsOf(index: Index, id: string): string[] {
   return out
 }
 
-export function buildIndex(entities: Entity[]): Index {
+export function buildIndex(entities: CoreEntity[]): Index {
   const byId = new Map(entities.map((e) => [e.id, e]))
   const parents = new Map<string, string[]>()
   const allParents = new Map<string, Set<string>>()
@@ -60,7 +63,7 @@ export function buildIndex(entities: Entity[]): Index {
       push(spouses, e.id, u.avec)
       push(spouses, u.avec, e.id)
     }
-    for (const h of e.histoires)
+    for (const h of e.histoires ?? [])
       for (const pid of h.personnages ?? []) {
         if (pid === e.id || !byId.has(pid)) continue
         const arr = mentions.get(pid) ?? []

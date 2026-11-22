@@ -1,6 +1,5 @@
-import { memo, useEffect, useMemo, useRef, useState } from 'react'
+import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import {
-  Background,
   Controls,
   Handle,
   MiniMap,
@@ -10,11 +9,13 @@ import {
   type Edge,
   type Node,
   type NodeProps,
+  type Viewport,
 } from '@xyflow/react'
 import '@xyflow/react/dist/style.css'
 import { index } from '../data'
 import type { Categorie } from '../data/categories'
-import { buildGraph } from '../graph/buildGraph'
+import { buildGraph, type Graph } from '../graph/buildGraph'
+import type { Positions } from '../graph/elkGraph'
 import { layoutGraph } from '../graph/layout'
 import { CategoryIcon } from './CategoryIcon'
 
@@ -48,32 +49,48 @@ const UnionNode = memo(function UnionNode({ data }: NodeProps<UnionNodeT>) {
 
 const nodeTypes = { entity: EntityNode, union: UnionNode }
 
+/** En dessous de ce zoom, les étiquettes sont illisibles : on ne les dessine plus. */
+const FAR_ZOOM = 0.45
+/** Au-delà de ce nombre de nœuds, la mini-carte coûte trop cher à chaque déplacement. */
+const MINIMAP_MAX_NODES = 120
+
+const minimapColor = (n: Node) => (n.type === 'union' ? 'transparent' : `var(--c-${(n.data as EntityData).categorie}-fg)`)
+
 type Props = {
   visible: Set<string>
   selectedId: string
   highlight: Set<string> | null
   onSelect: (id: string) => void
+  /** clé de la mise en page précalculée (null si un filtre rend la vue unique) */
+  layoutKey: string | null
   /** part (0–1) du bas du graphe masquée par le panneau de détail sur mobile */
   obscuredBottom?: number
 }
 
-export function GraphView({ visible, selectedId, highlight, onSelect, obscuredBottom = 0 }: Props) {
+export function GraphView({ visible, selectedId, highlight, onSelect, layoutKey, obscuredBottom = 0 }: Props) {
   const graph = useMemo(() => buildGraph(index, visible), [visible])
-  const [laid, setLaid] = useState<{ graph: typeof graph; pos: Map<string, { x: number; y: number }> } | null>(null)
+  const [laid, setLaid] = useState<{ graph: Graph; pos: Positions } | null>(null)
+  const [far, setFar] = useState(false)
   const rf = useReactFlow()
-  const lastGraph = useRef<typeof graph | null>(null)
+  const lastGraph = useRef<Graph | null>(null)
   const boxRef = useRef<HTMLDivElement>(null)
+  // objets nœuds/arêtes déjà transmis à React Flow, réutilisés tant qu'ils n'ont pas changé :
+  // une sélection ne re-rend alors que les quelques nœuds concernés
+  const nodeCache = useRef(new Map<string, Node>())
+  const edgeCache = useRef(new Map<string, Edge>())
   // on garde l'ancienne mise en page affichée pendant le calcul de la nouvelle
   const loading = laid?.graph !== graph
 
   useEffect(() => {
     let cancelled = false
-    layoutGraph(graph).then((pos) => {
+    layoutGraph(graph, layoutKey).then((pos) => {
       if (!cancelled) setLaid({ graph, pos })
     })
     return () => {
       cancelled = true
     }
+    // layoutKey change toujours en même temps que graph
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [graph])
 
   const related = useMemo(() => {
@@ -86,57 +103,73 @@ export function GraphView({ visible, selectedId, highlight, onSelect, obscuredBo
 
   const nodes: Node[] = useMemo(() => {
     if (!laid) return []
-    const graph = laid.graph
-    const positions = laid.pos
-    return graph.nodes.map((n) => {
-      const position = positions.get(n.id) ?? { x: 0, y: 0 }
+    const prev = nodeCache.current
+    const next = new Map<string, Node>()
+    const out = laid.graph.nodes.map((n) => {
+      const position = laid.pos.get(n.id) ?? { x: 0, y: 0 }
+      let node: Node
       if (n.kind === 'union') {
         const [a, b] = n.id.slice(2).split('+')
         const dim = highlight ? !(highlight.has(a) && highlight.has(b)) : false
-        return { id: n.id, type: 'union', position, data: { dim }, selectable: false, draggable: false, width: n.width, height: n.height }
+        const old = prev.get(n.id)
+        node =
+          old && old.position === position && (old.data as { dim: boolean }).dim === dim
+            ? old
+            : { id: n.id, type: 'union', position, data: { dim }, selectable: false, draggable: false, width: n.width, height: n.height }
+      } else {
+        const match = highlight?.has(n.entityId) ?? false
+        const selected = n.entityId === selectedId
+        const dim = highlight ? !match && !selected : false
+        const old = prev.get(n.id)
+        const od = old?.data as EntityData | undefined
+        node =
+          old && old.position === position && od!.selected === selected && od!.dim === dim && od!.match === match
+            ? old
+            : {
+                id: n.id,
+                type: 'entity',
+                position,
+                draggable: false,
+                width: n.width,
+                height: n.height,
+                data: { label: n.label, categorie: n.categorie, selected, dim, match },
+              }
       }
-      const match = highlight?.has(n.entityId) ?? false
-      return {
-        id: n.id,
-        type: 'entity',
-        position,
-        draggable: false,
-        width: n.width,
-        height: n.height,
-        data: {
-          label: n.label,
-          categorie: n.categorie,
-          selected: n.entityId === selectedId,
-          dim: highlight ? !match && n.entityId !== selectedId : false,
-          match,
-        },
-      }
+      next.set(n.id, node)
+      return node
     })
+    nodeCache.current = next
+    return out
   }, [laid, highlight, selectedId])
 
-  const edges: Edge[] = useMemo(
-    () =>
-      (laid?.graph.edges ?? []).map((e) => {
-        const touches = related.has(e.source) || related.has(e.target)
-        const endpoints = [e.source, e.target].flatMap((x) => (x.startsWith('u:') ? x.slice(2).split('+') : [x]))
-        const onSelected = endpoints.includes(selectedId)
-        const dim = highlight ? !endpoints.every((x) => highlight.has(x)) : false
-        const cls = ['gedge', `gedge-${e.kind}`]
-        if (onSelected && touches) cls.push('is-active')
-        if (dim) cls.push('is-dim')
-        return {
-          id: e.id,
-          source: e.source,
-          target: e.target,
-          type: 'smoothstep',
-          className: cls.join(' '),
-          pathOptions: { borderRadius: 10 },
-          selectable: false,
-          focusable: false,
-        } as Edge
-      }),
-    [laid, related, selectedId, highlight],
-  )
+  const edges: Edge[] = useMemo(() => {
+    const prev = edgeCache.current
+    const next = new Map<string, Edge>()
+    const out = (laid?.graph.edges ?? []).map((e) => {
+      const endpoints = [e.source, e.target].flatMap((x) => (x.startsWith('u:') ? x.slice(2).split('+') : [x]))
+      const active = endpoints.includes(selectedId) && (related.has(e.source) || related.has(e.target))
+      const dim = highlight ? !endpoints.every((x) => highlight.has(x)) : false
+      const className = `gedge gedge-${e.kind}${active ? ' is-active' : ''}${dim ? ' is-dim' : ''}`
+      const old = prev.get(e.id)
+      const edge: Edge =
+        old && old.className === className
+          ? old
+          : ({
+              id: e.id,
+              source: e.source,
+              target: e.target,
+              type: 'smoothstep',
+              className,
+              pathOptions: { borderRadius: 10 },
+              selectable: false,
+              focusable: false,
+            } as Edge)
+      next.set(e.id, edge)
+      return edge
+    })
+    edgeCache.current = next
+    return out
+  }, [laid, related, selectedId, highlight])
 
   // recadrage : vue d'ensemble quand le graphe change, sinon centrage sur la sélection
   useEffect(() => {
@@ -150,40 +183,49 @@ export function GraphView({ visible, selectedId, highlight, onSelect, obscuredBo
     const height = boxRef.current?.clientHeight ?? 0
     requestAnimationFrame(() => {
       if (graphChanged && graph.nodes.length < 60) {
-        rf.fitView({ padding, duration: 400, maxZoom: 1.2 })
+        rf.fitView({ padding, duration: 300, maxZoom: 1.2 })
       } else if (p && node) {
         const zoom = graphChanged ? 0.75 : Math.max(rf.getZoom(), 0.6)
         const shift = (height * obscuredBottom) / 2 / zoom
-        rf.setCenter(p.x + node.width / 2, p.y + node.height / 2 + shift, { zoom, duration: 500 })
+        rf.setCenter(p.x + node.width / 2, p.y + node.height / 2 + shift, { zoom, duration: 300 })
       } else if (graphChanged) {
-        rf.fitView({ padding, duration: 400 })
+        rf.fitView({ padding, duration: 300 })
       }
     })
   }, [laid, graph, selectedId, rf, obscuredBottom])
 
+  // un seul rendu quand on franchit le seuil de zoom, pas à chaque image
+  const onMove = useCallback((_: unknown, vp: Viewport) => setFar(vp.zoom < FAR_ZOOM), [])
+  const onNodeClick = useCallback((_: unknown, n: Node) => n.type === 'entity' && onSelect(n.id), [onSelect])
+
   return (
-    <div className="graph" ref={boxRef}>
+    <div className={`graph${far ? ' is-far' : ''}`} ref={boxRef}>
       <ReactFlow
         nodes={nodes}
         edges={edges}
         nodeTypes={nodeTypes}
-        onNodeClick={(_, n) => n.type === 'entity' && onSelect(n.id)}
+        onNodeClick={onNodeClick}
+        onMove={onMove}
+        onlyRenderVisibleElements
         nodesConnectable={false}
         nodesDraggable={false}
+        nodesFocusable={false}
+        edgesFocusable={false}
         elementsSelectable={false}
         minZoom={0.05}
         maxZoom={2}
         proOptions={{ hideAttribution: true }}
       >
-        <Background gap={24} size={1} color="var(--border)" />
-        <MiniMap
-          position="bottom-left"
-          pannable
-          zoomable
-          nodeColor={(n) => (n.type === 'union' ? 'transparent' : `var(--c-${(n.data as EntityData).categorie}-fg)`)}
-          maskColor="rgb(120 140 170 / 18%)"
-          style={{ width: 150, height: 100 }}
-        />
+        {nodes.length <= MINIMAP_MAX_NODES && (
+          <MiniMap
+            position="bottom-left"
+            pannable
+            zoomable
+            nodeColor={minimapColor}
+            maskColor="rgb(120 140 170 / 18%)"
+            style={{ width: 150, height: 100 }}
+          />
+        )}
         <Controls position="bottom-right" showInteractive={false} />
       </ReactFlow>
       {loading && <div className="graph-loading">Mise en page…</div>}

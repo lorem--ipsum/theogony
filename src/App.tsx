@@ -3,6 +3,7 @@ import { ReactFlowProvider } from '@xyflow/react'
 import { entities, index } from './data'
 import { CATEGORIES, CATEGORY_LABELS, type Categorie } from './data/categories'
 import { focusSet } from './graph/buildGraph'
+import { layoutKey } from './graph/elkGraph'
 import { GraphView } from './components/GraphView'
 import { DetailCard, EntityLink } from './components/DetailCard'
 import { Toolbar, type ViewMode } from './components/Toolbar'
@@ -168,6 +169,7 @@ export default function App() {
               selectedId={selectedId}
               highlight={matches}
               onSelect={handleSelect}
+              layoutKey={categories.size === CATEGORIES.length ? layoutKey(mode, selectedId) : null}
               obscuredBottom={isMobile ? SHEET_SHARE[sheet] : 0}
             />
           </ReactFlowProvider>
@@ -182,7 +184,7 @@ export default function App() {
                 onClick={() => handleOpenGlossary(termForCategory.get(c)?.id)}
               >
                 <CategoryIcon categorie={c} size={11} />
-                {CATEGORY_LABELS[c]}
+                <span>{CATEGORY_LABELS[c]}</span>
               </button>
             ))}
           </div>
