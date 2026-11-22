@@ -13,8 +13,8 @@
     ],
     "histoires": [
       {
-        "titre": "Né du cou de Méduse",
-        "resume": "Méduse, la seule Gorgone mortelle, avait été aimée de Poséidon. Lorsque Persée lui tranche la tête, deux êtres jaillissent de son cou : le géant Chrysaor et le cheval ailé Pégase. Hésiode explique son nom par les sources de l'Océan près desquelles il naquit. Pégase s'envole aussitôt vers l'Olympe, où il porte le tonnerre et l'éclair de Zeus.",
+        "titre": "Né de Méduse",
+        "resume": "Méduse, la seule Gorgone mortelle, avait été aimée de Poséidon. Lorsque Persée triomphe de la Gorgone, deux êtres naissent d'elle : le géant Chrysaor et le cheval ailé Pégase. Hésiode explique son nom par les sources de l'Océan près desquelles il naquit. Pégase s'envole aussitôt vers l'Olympe, où il porte le tonnerre et l'éclair de Zeus.",
         "personnages": ["meduse", "poseidon", "persee", "chrysaor", "zeus"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       },
@@ -55,7 +55,7 @@
     "histoires": [
       {
         "titre": "Le frère de Pégase",
-        "resume": "Chrysaor surgit du cou tranché de Méduse en même temps que Pégase, tenant dans ses mains une épée d'or qui lui donne son nom. Il s'unit à Callirrhoé, fille de l'illustre Océan. De cette union naît Géryon, le géant à trois corps, qui sera plus tard tué par Héraclès dans l'île d'Érythie. Hésiode lui attribue aussi Échidna dans certains manuscrits, mais la filiation reste discutée.",
+        "resume": "Chrysaor naît de Méduse, vaincue par Persée, en même temps que Pégase, tenant dans ses mains une épée d'or qui lui donne son nom. Il s'unit à Callirrhoé, fille de l'illustre Océan. De cette union naît Géryon, le géant à trois corps, qui sera plus tard tué par Héraclès dans l'île d'Érythie. Hésiode lui attribue aussi Échidna dans certains manuscrits, mais la filiation reste discutée.",
         "personnages": ["meduse", "pegase", "persee", "callirhoe", "geryon", "heracles"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       }
@@ -76,13 +76,13 @@
     "histoires": [
       {
         "titre": "Nés d'une nuée",
-        "resume": "Reçu à la table des dieux, Ixion ose convoiter Héra. Zeus façonne alors une nuée à l'image de la déesse, et Ixion s'unit à ce fantôme. Il en naît un être sans grâce, Centauros, qui s'accouple ensuite aux juments du mont Pélion. Ainsi apparaissent les Centaures, hommes par le haut du corps et chevaux par le bas. Ixion est quant à lui attaché à une roue enflammée qui tourne sans fin.",
+        "resume": "Reçu à la table des dieux, Ixion ose vouloir Héra pour lui. Zeus façonne alors une nuée à l'image de la déesse, et Ixion la prend pour Héra. De cette nuée naît un être sans grâce, Centauros, qui vit parmi les chevaux sauvages du mont Pélion. De lui descendent les Centaures, hommes par le haut du corps et chevaux par le bas. Ixion est quant à lui attaché à une roue enflammée qui tourne sans fin.",
         "personnages": ["ixion", "hera", "zeus"],
         "sources": ["Pindare, Pythiques II", "Diodore de Sicile, Bibliothèque historique"]
       },
       {
         "titre": "La Centauromachie",
-        "resume": "Pirithoos, roi des Lapithes, invite les Centaures à ses noces avec Hippodamie. Peu habitués au vin, ils s'enivrent et l'un d'eux, Eurytion, tente d'enlever la mariée. Les autres l'imitent en s'emparant des femmes présentes. Une bataille furieuse s'engage, où Thésée combat aux côtés de son ami. Les Lapithes l'emportent et chassent les Centaures du Pélion.",
+        "resume": "Pirithoos, roi des Lapithes, invite les Centaures à ses noces avec Hippodamie. Mais les Centaures sèment le désordre pendant le festin : l'un d'eux, Eurytion, veut enlever la mariée, et les autres tentent d'emporter les femmes présentes. Une bataille furieuse s'engage, où Thésée combat aux côtés de son ami. Les Lapithes l'emportent et chassent les Centaures du Pélion.",
         "personnages": ["perithoos", "thesee"],
         "sources": ["Homère, Odyssée XXI", "Ovide, Métamorphoses XII", "Diodore de Sicile, Bibliothèque historique"]
       },
@@ -118,7 +118,7 @@
       },
       {
         "titre": "Le précepteur des héros",
-        "resume": "Dans sa grotte du mont Pélion, Chiron élève et instruit de nombreux héros. Il enseigne la médecine à Asclépios, la chasse, la musique et la justice à Jason et à Achille, qu'il nourrit d'entrailles de lions et de sangliers. Il conseille aussi Pélée pour conquérir Thétis et lui offre une lance de frêne qui passera à Achille. Pindare en fait le modèle du maître sage et bienveillant.",
+        "resume": "Dans sa grotte du mont Pélion, Chiron élève et instruit de nombreux héros. Il enseigne la médecine à Asclépios, la chasse, la musique et la justice à Jason et à Achille, qu'il nourrit, dit-on, de la viande des lions et des sangliers pour lui donner leur force. Il conseille aussi Pélée pour conquérir Thétis et lui offre une lance de frêne qui passera à Achille. Pindare en fait le modèle du maître sage et bienveillant.",
         "personnages": ["asclepios", "jason", "achille", "pelee", "thetis", "aristee"],
         "sources": ["Pindare, Pythiques III et IV", "Homère, Iliade XI et XVI", "Apollodore, Bibliothèque"]
       },
@@ -143,7 +143,7 @@
     "histoires": [
       {
         "titre": "La tunique empoisonnée",
-        "resume": "Le Centaure Nessos fait payer le passage du fleuve Événos en portant les voyageurs. Il prend Déjanire, l'épouse d'Héraclès, sur son dos et tente de la violer au milieu des eaux. Héraclès le perce d'une flèche trempée dans le venin de l'Hydre. Mourant, Nessos fait croire à Déjanire que son sang est un philtre capable de lui garder l'amour de son mari. Des années plus tard, jalouse, elle en imprègne une tunique qu'elle envoie à Héraclès, et le poison le consume au point qu'il se fait brûler sur le mont Œta.",
+        "resume": "Le Centaure Nessos fait payer le passage du fleuve Événos en portant les voyageurs. Il prend Déjanire, l'épouse d'Héraclès, sur son dos et tente de l'enlever au milieu des eaux. Héraclès le perce d'une flèche trempée dans le venin de l'Hydre. Mourant, Nessos fait croire à Déjanire que son sang est un philtre capable de lui garder l'amour de son mari. Des années plus tard, jalouse, elle en imprègne une tunique qu'elle envoie à Héraclès, et le poison lui cause des souffrances terribles. Ne pouvant guérir, le héros quitte la terre sur un bûcher dressé au sommet du mont Œta.",
         "personnages": ["heracles", "hydre-de-lerne"],
         "sources": ["Sophocle, Les Trachiniennes", "Ovide, Métamorphoses IX", "Apollodore, Bibliothèque"]
       }
@@ -162,7 +162,7 @@
     "histoires": [
       {
         "titre": "La jarre de Dionysos",
-        "resume": "En chemin vers le mont Érymanthe, Héraclès est accueilli par le Centaure Pholos dans sa grotte. Pholos lui sert de la viande rôtie alors que lui-même la mange crue. À la demande du héros, il ouvre la jarre de vin que Dionysos avait laissée aux Centaures, ce qui provoque l'assaut de ses congénères. Après la bataille, Pholos retire une flèche d'un cadavre en s'étonnant qu'une si petite chose puisse tuer ; elle glisse de ses mains et lui blesse le pied, causant sa mort. Héraclès l'ensevelit au pied de la montagne qui porte son nom.",
+        "resume": "En chemin vers le mont Érymanthe, Héraclès est accueilli par le Centaure Pholos dans sa grotte. Pholos lui sert de la viande rôtie alors que lui-même la mange crue. À la demande du héros, il ouvre la jarre de vin que Dionysos avait laissée aux Centaures, ce qui provoque l'assaut de ses congénères. Après la bataille, Pholos retire une flèche du corps d'un Centaure tombé en s'étonnant qu'une si petite chose puisse tuer ; elle glisse de ses mains et lui blesse le pied, causant sa mort. Héraclès l'ensevelit au pied de la montagne qui porte son nom.",
         "personnages": ["heracles", "dionysos", "centaures", "chiron"],
         "sources": ["Apollodore, Bibliothèque", "Diodore de Sicile, Bibliothèque historique"]
       }
@@ -175,7 +175,7 @@
     "romain": "Faunes",
     "categorie": "creature",
     "epithete": "Compagnons de Dionysos",
-    "domaines": ["nature sauvage", "ivresse", "danse"],
+    "domaines": ["nature sauvage", "fête", "danse"],
     "symboles": ["queue de cheval", "thyrse", "aulos", "outre de vin"],
     "tags": ["hybride", "groupe", "vin", "danse", "désir", "forêt", "théâtre", "fête"],
     "filiations": [
@@ -185,7 +185,7 @@
     "histoires": [
       {
         "titre": "Le cortège de Dionysos",
-        "resume": "Hésiode qualifie les Satyres de race bonne à rien et inapte au travail. Avec les Ménades et Silène, ils forment le thiase de Dionysos, dansant et buvant au son de l'aulos. On les représente avec des oreilles et une queue de cheval, poursuivant les nymphes dans les bois. Ils formaient le chœur des drames satyriques joués après les tragédies lors des fêtes dionysiaques.",
+        "resume": "Hésiode qualifie les Satyres de race bonne à rien et inapte au travail. Avec les Ménades et Silène, ils forment le thiase de Dionysos, dansant et festoyant au son de l'aulos. On les représente avec des oreilles et une queue de cheval, gambadant dans les bois à la suite des nymphes. Ils formaient le chœur des drames satyriques joués après les tragédies lors des fêtes dionysiaques.",
         "personnages": ["dionysos", "silene", "dryades"],
         "sources": ["Hésiode, Catalogue des femmes", "Euripide, Le Cyclope", "Nonnos, Dionysiaques"]
       },
@@ -203,7 +203,7 @@
     "grec": "Σειληνός",
     "categorie": "creature",
     "epithete": "Le vieux précepteur de Dionysos",
-    "domaines": ["ivresse", "sagesse cachée"],
+    "domaines": ["fête", "sagesse cachée"],
     "symboles": ["âne", "outre de vin", "couronne de lierre"],
     "tags": ["vin", "sagesse", "prophétie", "fête", "hybride"],
     "filiations": [
@@ -213,13 +213,13 @@
     "histoires": [
       {
         "titre": "Silène et Midas",
-        "resume": "Le roi Midas désire entendre la sagesse de Silène et le fait capturer en versant du vin dans la source où il vient boire. Interrogé sur ce qui est le meilleur pour l'homme, le vieillard répond à contrecœur qu'il vaudrait mieux ne pas naître, et sinon mourir au plus tôt. Chez Ovide, des paysans phrygiens amènent Silène ivre à Midas, qui le traite avec honneur et le ramène à Dionysos. Pour le remercier, le dieu accorde au roi le vœu funeste de changer en or tout ce qu'il touche.",
+        "resume": "Le roi Midas désire entendre la sagesse de Silène et le fait capturer en versant du vin dans la source où il vient boire. Interrogé sur ce qui est le meilleur pour l'homme, le vieillard répond à contrecœur qu'il vaudrait mieux ne pas naître, et sinon mourir au plus tôt. Chez Ovide, des paysans phrygiens amènent à Midas Silène, qui s'était égaré, qui le traite avec honneur et le ramène à Dionysos. Pour le remercier, le dieu accorde au roi le vœu funeste de changer en or tout ce qu'il touche.",
         "personnages": ["midas", "dionysos"],
         "sources": ["Hérodote, Histoires VIII", "Aristote (fragment cité par Plutarque)", "Ovide, Métamorphoses XI"]
       },
       {
         "titre": "Le chant de Silène",
-        "resume": "Deux jeunes bergers surprennent Silène endormi après une beuverie et l'attachent avec ses propres guirlandes pour obtenir de lui un chant promis depuis longtemps. Le vieillard, amusé, s'exécute. Il chante la naissance du monde à partir des atomes, le déluge de Deucalion et Pyrrha, le règne de Saturne et le larcin de Prométhée, puis de nombreuses métamorphoses.",
+        "resume": "Deux jeunes bergers surprennent Silène endormi après une fête et l'attachent avec ses propres guirlandes pour obtenir de lui un chant promis depuis longtemps. Le vieillard, amusé, s'exécute. Il chante la naissance du monde à partir des atomes, le déluge de Deucalion et Pyrrha, le règne de Saturne et le larcin de Prométhée, puis de nombreuses métamorphoses.",
         "personnages": ["deucalion", "pyrrha", "promethee", "cronos"],
         "sources": ["Virgile, Bucoliques VI"]
       }
@@ -239,7 +239,7 @@
     "histoires": [
       {
         "titre": "Le défi lancé à Apollon",
-        "resume": "Athéna invente l'aulos mais le jette avec dégoût en voyant ses joues gonflées lorsqu'elle en joue. Le satyre phrygien Marsyas ramasse l'instrument et devient si habile qu'il ose défier Apollon et sa lyre. Les Muses sont choisies pour juges, et le vainqueur pourra traiter le vaincu à sa guise. Apollon l'emporte, notamment en jouant de son instrument renversé, ce que Marsyas ne peut imiter. Le dieu suspend alors le satyre à un pin et l'écorche vif ; de ses larmes ou de son sang naît un fleuve qui porte son nom.",
+        "resume": "Athéna invente l'aulos mais le jette avec dégoût en voyant ses joues gonflées lorsqu'elle en joue. Le satyre phrygien Marsyas ramasse l'instrument et devient si habile qu'il ose défier Apollon et sa lyre. Les Muses sont choisies pour juges, et le vainqueur pourra traiter le vaincu à sa guise. Apollon l'emporte, notamment en jouant de son instrument renversé, ce que Marsyas ne peut imiter. Le dieu punit alors cruellement Marsyas pour son orgueil ; des larmes versées sur son sort par les nymphes et les satyres naît un fleuve qui porte son nom.",
         "personnages": ["athena", "apollon", "calliope", "clio", "euterpe"],
         "sources": ["Apollodore, Bibliothèque", "Ovide, Métamorphoses VI", "Hérodote, Histoires VII"]
       }
@@ -322,7 +322,7 @@
     "histoires": [
       {
         "titre": "Le taureau de Minos",
-        "resume": "Pour prouver que la royauté de Crète lui revient, Minos prie Poséidon de faire sortir un taureau de la mer, promettant de le lui sacrifier. Le dieu envoie un taureau d'une beauté magnifique, mais Minos le garde et en immole un autre. Pour le punir, Poséidon rend la bête furieuse et inspire à Pasiphaé une passion pour elle. Avec l'aide de Dédale, la reine s'unit au taureau et met au monde le Minotaure.",
+        "resume": "Pour prouver que la royauté de Crète lui revient, Minos prie Poséidon de faire sortir un taureau de la mer, promettant de le lui sacrifier. Le dieu envoie un taureau d'une beauté magnifique, mais Minos le garde et en immole un autre. Pour le punir, Poséidon rend la bête furieuse et jette un sort à la reine Pasiphaé, qui s'éprend du taureau. La reine met ensuite au monde le Minotaure, un monstre à corps d'homme et à tête de taureau.",
         "personnages": ["minos", "poseidon", "pasiphae", "dedale", "minotaure"],
         "sources": ["Apollodore, Bibliothèque", "Diodore de Sicile, Bibliothèque historique"]
       },
@@ -353,7 +353,7 @@
     "histoires": [
       {
         "titre": "Le huitième travail d'Héraclès",
-        "resume": "Diomède, roi des Bistones de Thrace et fils d'Arès, nourrit ses juments de chair humaine. Eurysthée ordonne à Héraclès de les ramener à Mycènes. Le héros s'empare des bêtes et confie leur garde à son jeune compagnon Abdéros, qu'elles dévorent pendant qu'il repousse les Thraces. Héraclès tue Diomède et le livre à ses propres juments, puis fonde la cité d'Abdère près du tombeau de son ami. Il conduit ensuite les cavales, devenues dociles, à Eurysthée, qui les relâche.",
+        "resume": "Diomède, roi des Bistones de Thrace et fils d'Arès, possède des juments féroces qui dévorent les étrangers. Eurysthée ordonne à Héraclès de les ramener à Mycènes. Le héros s'empare des bêtes et confie leur garde à son jeune compagnon Abdéros, qu'elles dévorent pendant qu'il repousse les Thraces. Héraclès vainc Diomède, qui subit le sort qu'il réservait aux autres, puis fonde la cité d'Abdère près du tombeau de son ami. Il conduit ensuite les cavales, devenues dociles, à Eurysthée, qui les relâche.",
         "personnages": ["heracles", "ares"],
         "sources": ["Apollodore, Bibliothèque", "Euripide, Alceste", "Diodore de Sicile, Bibliothèque historique"]
       }

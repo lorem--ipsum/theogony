@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { buildIndex } from '../data/model'
-import { validate } from '../data/validation'
+import { kidSafetyIssues, validate } from '../data/validation'
 import type { Entity } from '../data/schema'
 import { buildGraph, focusSet } from './buildGraph'
 
@@ -72,5 +72,19 @@ describe('validate', () => {
     expect(errs.some((x) => x.includes('tag inconnu'))).toBe(true)
     expect(errs.some((x) => x.includes('"zzz"'))).toBe(true)
     expect(errs.some((x) => x.includes('cycle'))).toBe(true)
+  })
+})
+
+describe('charte jeunesse', () => {
+  it('refuse les termes explicites', () => {
+    expect(kidSafetyIssues('x', 'Il tenta de la violer')).toHaveLength(1)
+    expect(kidSafetyIssues('x', 'Cronos castra son père')).toHaveLength(1)
+    expect(kidSafetyIssues('x', 'Phèdre se pendit')).toHaveLength(1)
+    expect(kidSafetyIssues('x', 'Il crève son œil unique')).toHaveLength(1)
+  })
+  it('laisse passer les usages anodins', () => {
+    expect(kidSafetyIssues('x', 'Il ne faut pas violer la loi de l’hospitalité')).toHaveLength(0)
+    expect(kidSafetyIssues('x', 'Une violente tempête brisa les navires')).toHaveLength(0)
+    expect(kidSafetyIssues('x', 'Cronos frappa et renversa son père')).toHaveLength(0)
   })
 })

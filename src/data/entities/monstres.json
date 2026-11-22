@@ -18,19 +18,19 @@
     "histoires": [
       {
         "titre": "Le défi lancé à Zeus",
-        "resume": "Après la défaite des Titans, Gaïa s'unit au Tartare et met au monde Typhon, une créature immense dont les épaules portent cent têtes de serpent aux yeux de feu. Ses voix multiples imitent tour à tour les taureaux, les lions, les chiens et les sifflements des reptiles. Il se dresse pour arracher aux Olympiens la souveraineté du monde. Zeus l'affronte, embrase la terre et la mer de ses foudres et finit par le terrasser, puis le précipite dans le Tartare. De lui naissent ensuite les vents violents et irréguliers qui ravagent les navires et les cultures.",
+        "resume": "Après la défaite des Titans, Gaïa s'unit au Tartare et met au monde Typhon, une créature immense dont les épaules portent cent têtes de serpent aux yeux de feu. Ses voix multiples imitent tour à tour les taureaux, les lions, les chiens et les sifflements des reptiles. Il se dresse pour ravir aux Olympiens la souveraineté du monde. Zeus l'affronte, embrase la terre et la mer de ses foudres et finit par le terrasser, puis le précipite dans le Tartare. De lui naissent ensuite les vents violents et irréguliers qui ravagent les navires et les cultures.",
         "personnages": ["zeus", "gaia", "tartare"],
         "sources": ["Hésiode, Théogonie"]
       },
       {
         "titre": "Les nerfs volés de Zeus",
-        "resume": "Selon Apollodore, la seule vue de Typhon fait fuir les dieux jusqu'en Égypte, où ils se cachent sous des formes animales. Zeus le combat d'abord avec la foudre puis avec une faucille d'acier, mais le monstre l'enserre de ses anneaux, lui arrache la faucille et lui tranche les tendons des mains et des pieds. Il enferme le dieu impuissant dans une grotte de Cilicie et confie les nerfs à la dragonne Delphyné. Hermès et Égipan dérobent les tendons et les remettent en place, et Zeus, rétabli, reprend la poursuite sur un char tiré par des chevaux ailés.",
+        "resume": "Selon Apollodore, la seule vue de Typhon fait fuir les dieux jusqu'en Égypte, où ils se cachent sous des formes animales. Zeus le combat d'abord avec la foudre puis avec une faucille d'acier, mais le monstre l'enserre de ses anneaux, lui prend sa faucille et lui vole les tendons de ses mains et de ses pieds, qui faisaient sa force. Il enferme le dieu impuissant dans une grotte de Cilicie et confie ce trésor à la dragonne Delphyné. Hermès et Égipan dérobent les tendons et les rendent à Zeus, et Zeus, rétabli, reprend la poursuite sur un char tiré par des chevaux ailés.",
         "personnages": ["zeus", "hermes", "pan"],
         "sources": ["Apollodore, Bibliothèque I, 6", "Ovide, Métamorphoses V"]
       },
       {
         "titre": "Enseveli sous l'Etna",
-        "resume": "Poursuivi par Zeus à travers la Thrace et jusqu'en Sicile, Typhon tente de lui résister en lançant des montagnes entières. Les Moires l'ont trompé en lui faisant goûter des fruits éphémères qui l'ont affaibli. Zeus finit par jeter sur lui l'Etna, sous lequel le monstre demeure prisonnier. Les flammes et les grondements du volcan sont, selon les poètes, le souffle et les convulsions de Typhon enseveli.",
+        "resume": "Poursuivi par Zeus à travers la Thrace et jusqu'en Sicile, Typhon tente de lui résister en lançant des montagnes entières. Les Moires l'ont trompé en lui faisant goûter des fruits éphémères qui l'ont affaibli. Zeus finit par jeter sur lui l'Etna, sous lequel le monstre demeure prisonnier. Les flammes et les grondements du volcan sont, selon les poètes, le souffle et les secousses de Typhon enseveli.",
         "personnages": ["zeus"],
         "sources": ["Pindare, Pythiques I", "Eschyle, Prométhée enchaîné", "Apollodore, Bibliothèque I, 6"]
       }
@@ -90,7 +90,7 @@
       },
       {
         "titre": "Le dernier travail d'Héraclès",
-        "resume": "Eurysthée ordonne à Héraclès de ramener Cerbère des Enfers. Après s'être fait initier aux mystères d'Éleusis, le héros descend par le cap Ténare, guidé par Hermès et Athéna. Hadès accepte qu'il emmène le chien à condition de le maîtriser sans armes. Héraclès l'étrangle à moitié de ses bras, protégé par la peau du lion, et le traîne jusqu'à Tirynthe. Après l'avoir montré à Eurysthée terrifié, il le rend aux Enfers. On racontait que de la bave de Cerbère était née l'aconit, plante vénéneuse.",
+        "resume": "Eurysthée ordonne à Héraclès de ramener Cerbère des Enfers. Après s'être fait initier aux mystères d'Éleusis, le héros descend par le cap Ténare, guidé par Hermès et Athéna. Hadès accepte qu'il emmène le chien à condition de le maîtriser sans armes. Héraclès le maîtrise en le serrant de ses bras puissants, protégé par la peau du lion, et l'emmène jusqu'à Tirynthe. Après l'avoir montré à Eurysthée terrifié, il le rend aux Enfers. On racontait que de la bave de Cerbère était née l'aconit, plante vénéneuse.",
         "personnages": ["heracles", "hades", "persephone", "hermes", "athena"],
         "sources": ["Apollodore, Bibliothèque II, 5", "Homère, Iliade VIII", "Ovide, Métamorphoses VII"]
       },
@@ -140,7 +140,7 @@
     "histoires": [
       {
         "titre": "Le deuxième travail d'Héraclès",
-        "resume": "L'Hydre, élevée par Héra pour nuire à Héraclès, hante les marais de Lerne, près d'Argos, d'où elle sort pour ravager les troupeaux et le pays. Apollodore lui donne neuf têtes, dont une immortelle. Héraclès, accompagné de son neveu Iolaos, la force à quitter son repaire en lançant des flèches enflammées. Chaque fois qu'il écrase une tête, deux autres repoussent. Il demande alors à Iolaos de brûler chaque cou tranché avec des tisons pour empêcher la repousse, puis il enfouit la tête immortelle sous un lourd rocher.",
+        "resume": "L'Hydre, élevée par Héra pour nuire à Héraclès, hante les marais de Lerne, près d'Argos, d'où elle sort pour ravager les troupeaux et le pays. Apollodore lui donne neuf têtes, dont une immortelle. Héraclès, accompagné de son neveu Iolaos, la force à quitter son repaire en lançant des flèches enflammées. Chaque fois qu'il abat une tête, deux autres repoussent. Il demande alors à Iolaos de brûler aussitôt chaque blessure avec des tisons pour empêcher les têtes de revenir, puis il enfouit la tête immortelle sous un lourd rocher.",
         "personnages": ["heracles", "iolaos", "hera"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque II, 5"]
       },
@@ -152,7 +152,7 @@
       },
       {
         "titre": "Le venin des flèches",
-        "resume": "Après sa victoire, Héraclès trempe ses flèches dans le sang ou le fiel venimeux de l'Hydre, les rendant mortelles. Ces traits causent bien des morts par la suite, dont celle du centaure Nessos. Le sang de Nessos, mêlé à ce venin, imprègne la tunique qui provoquera plus tard la mort d'Héraclès lui-même. Les flèches passent ensuite à Philoctète, dont l'arc sera indispensable à la prise de Troie.",
+        "resume": "Après sa victoire, Héraclès trempe ses flèches dans le venin de l'Hydre, les rendant mortelles. Ces traits causent bien des morts par la suite, dont celle du centaure Nessos. Par une ruse de Nessos, ce même poison se retrouvera plus tard sur la tunique qui provoquera la mort d'Héraclès lui-même. Les flèches passent ensuite à Philoctète, dont l'arc sera indispensable à la prise de Troie.",
         "personnages": ["heracles", "nessos", "philoctete"],
         "sources": ["Apollodore, Bibliothèque II, 5 et II, 7", "Sophocle, Les Trachiniennes"]
       }
@@ -174,7 +174,7 @@
     "histoires": [
       {
         "titre": "Bellérophon et la Chimère",
-        "resume": "La Chimère ravage la Lycie : elle a le devant d'un lion, le milieu d'une chèvre et l'arrière d'un serpent, et elle souffle des flammes. Le roi Iobatès, chargé par son gendre Proétos de faire périr Bellérophon, ordonne au jeune homme de l'abattre en pensant l'envoyer à la mort. Monté sur Pégase, le cheval ailé qu'il a dompté grâce à Athéna, Bellérophon attaque le monstre depuis les airs et le crible de flèches. Une tradition tardive raconte qu'il plaça du plomb au bout de sa lance, qui fondit dans la gueule enflammée et brûla les entrailles de la bête.",
+        "resume": "La Chimère ravage la Lycie : elle a le devant d'un lion, le milieu d'une chèvre et l'arrière d'un serpent, et elle souffle des flammes. Le roi Iobatès, chargé par son gendre Proétos de faire périr Bellérophon, ordonne au jeune homme de l'abattre en pensant l'envoyer à la mort. Monté sur Pégase, le cheval ailé qu'il a dompté grâce à Athéna, Bellérophon attaque le monstre depuis les airs et la crible de flèches. Une tradition tardive raconte qu'il plaça du plomb au bout de sa lance : le métal fondit dans la gueule enflammée et vint à bout du monstre.",
         "personnages": ["bellerophon", "pegase", "athena"],
         "sources": ["Homère, Iliade VI", "Hésiode, Théogonie", "Pindare, Olympiques XIII", "Apollodore, Bibliothèque II, 3"]
       }
@@ -201,7 +201,7 @@
       },
       {
         "titre": "L'énigme résolue par Œdipe",
-        "resume": "Œdipe, qui vient de quitter Corinthe et a tué Laïos sans le connaître, arrive devant le Sphinx. Le monstre lui demande quel être, doué d'une seule voix, marche sur quatre pieds, puis sur deux, puis sur trois. Œdipe répond qu'il s'agit de l'homme, qui rampe enfant, marche debout adulte et s'appuie sur un bâton dans sa vieillesse. Vaincu, le Sphinx se jette du haut de son rocher. Œdipe devient roi de Thèbes et épouse Jocaste, sa propre mère, accomplissant ainsi l'oracle.",
+        "resume": "Œdipe, qui vient de quitter Corinthe et a tué Laïos sans le connaître, arrive devant le Sphinx. Le monstre lui demande quel être, doué d'une seule voix, marche sur quatre pieds, puis sur deux, puis sur trois. Œdipe répond qu'il s'agit de l'homme, qui rampe enfant, marche debout adulte et s'appuie sur un bâton dans sa vieillesse. Vaincu, le Sphinx disparaît du haut de son rocher et Thèbes est délivrée. Œdipe devient roi et épouse la reine Jocaste sans savoir qu'elle est sa mère, accomplissant ainsi l'oracle.",
         "personnages": ["oedipe", "jocaste", "laios", "creon"],
         "sources": ["Sophocle, Œdipe roi", "Apollodore, Bibliothèque III, 5"]
       }
@@ -223,7 +223,7 @@
     "histoires": [
       {
         "titre": "Le premier travail d'Héraclès",
-        "resume": "Élevé par Héra selon Hésiode, le lion ravage la région de Némée et sa peau ne peut être percée ni par le fer ni par le bronze. Eurysthée ordonne à Héraclès de lui rapporter sa dépouille. Le héros constate que ses flèches rebondissent sur l'animal ; il le pousse alors dans sa caverne à deux issues, bouche l'une d'elles et l'étrangle à mains nues. Il écorche ensuite le lion à l'aide de ses propres griffes et revêt sa peau comme une armure, la tête servant de casque. Effrayé, Eurysthée lui interdit désormais d'entrer dans la ville avec ses trophées.",
+        "resume": "Élevé par Héra selon Hésiode, le lion ravage la région de Némée et sa peau ne peut être percée ni par le fer ni par le bronze. Eurysthée ordonne à Héraclès de lui rapporter sa dépouille. Le héros constate que ses flèches rebondissent sur l'animal ; il le pousse alors dans sa caverne à deux issues, bouche l'une d'elles et le terrasse à mains nues. Il découpe ensuite la peau du lion à l'aide de ses propres griffes, seules assez tranchantes, et la revêt comme une armure, la tête servant de casque. Effrayé, Eurysthée lui interdit désormais d'entrer dans la ville avec ses trophées.",
         "personnages": ["heracles", "hera"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque II, 5", "Théocrite, Idylles XXV"]
       },
@@ -251,7 +251,7 @@
     "histoires": [
       {
         "titre": "Le dragon du jardin des Hespérides",
-        "resume": "Ladon est un serpent immortel aux cent têtes qui s'enroule autour de l'arbre aux pommes d'or, cadeau de Gaïa à Héra pour ses noces avec Zeus. Il garde le jardin des Hespérides, aux confins occidentaux du monde. Lors de son onzième travail, Héraclès doit rapporter ces fruits. Selon Apollonios de Rhodes, le héros tue le serpent de ses flèches, et les Argonautes, passant peu après, trouvent son corps encore palpitant sous l'arbre, pleuré par les Hespérides. Héra le place ensuite parmi les étoiles.",
+        "resume": "Ladon est un serpent immortel aux cent têtes qui s'enroule autour de l'arbre aux pommes d'or, cadeau de Gaïa à Héra pour ses noces avec Zeus. Il garde le jardin des Hespérides, aux confins occidentaux du monde. Lors de son onzième travail, Héraclès doit rapporter ces fruits. Selon Apollonios de Rhodes, le héros tue le serpent de ses flèches, et les Argonautes, passant peu après, trouvent le serpent sans vie sous l'arbre, pleuré par les Hespérides. Héra le place ensuite parmi les étoiles.",
         "personnages": ["heracles", "hera", "aigle", "erytheia", "hesperethousa"],
         "sources": ["Hésiode, Théogonie", "Apollonios de Rhodes, Argonautiques IV", "Apollodore, Bibliothèque II, 5"]
       }
@@ -262,8 +262,8 @@
     "nom": "Aigle du Caucase",
     "grec": "Καυκάσιος ἀετός",
     "categorie": "monstre",
-    "epithete": "Bourreau de Prométhée",
-    "symboles": ["foie de Prométhée", "Caucase"],
+    "epithete": "L'aigle du châtiment de Prométhée",
+    "symboles": ["rocher de Prométhée", "Caucase"],
     "tags": ["châtiment", "ailé", "animaux", "montagne", "transformé en constellation"],
     "filiations": [
       { "parents": ["typhon", "echidna"], "source": "Apollodore, Bibliothèque ; Hygin", "principale": true }
@@ -271,7 +271,7 @@
     "histoires": [
       {
         "titre": "Le supplice de Prométhée",
-        "resume": "Pour punir Prométhée d'avoir donné le feu aux hommes, Zeus le fait enchaîner sur un rocher du Caucase. Chaque jour, un aigle aux ailes déployées vient lui dévorer le foie, qui se reconstitue pendant la nuit. Le supplice dure de longues années jusqu'à ce qu'Héraclès, passant par là, abatte l'oiseau d'une flèche et délivre le Titan avec l'accord de Zeus, fier de la gloire de son fils. Selon certains auteurs, l'aigle fut ensuite transformé en constellation.",
+        "resume": "Pour punir Prométhée d'avoir donné le feu aux hommes, Zeus le fait enchaîner sur un rocher du Caucase. Chaque jour, un aigle immense vient le tourmenter, et chaque nuit Prométhée retrouve ses forces. Le supplice dure de longues années jusqu'à ce qu'Héraclès, passant par là, abatte l'oiseau d'une flèche et délivre le Titan avec l'accord de Zeus, fier de la gloire de son fils. Selon certains auteurs, l'aigle fut ensuite transformé en constellation.",
         "personnages": ["promethee", "zeus", "heracles"],
         "sources": ["Hésiode, Théogonie", "Eschyle, Prométhée enchaîné", "Apollodore, Bibliothèque II, 5"]
       }
@@ -295,19 +295,19 @@
     "histoires": [
       {
         "titre": "La seule Gorgone mortelle",
-        "resume": "Méduse est l'une des trois Gorgones, filles de Phorcys et de Céto, qui vivent au-delà de l'Océan, près du séjour de la Nuit. Contrairement à ses sœurs Sthéno et Euryale, elle est mortelle. Les Gorgones ont des têtes hérissées de serpents, de grandes défenses et des ailes d'or, et leur regard change en pierre quiconque les fixe. Hésiode raconte que Poséidon s'unit à Méduse dans une prairie tendre, parmi les fleurs du printemps.",
+        "resume": "Méduse est l'une des trois Gorgones, filles de Phorcys et de Céto, qui vivent au-delà de l'Océan, près du séjour de la Nuit. Contrairement à ses sœurs Sthéno et Euryale, elle est mortelle. Les Gorgones ont des têtes hérissées de serpents, de grandes défenses et des ailes d'or, et leur regard change en pierre quiconque les fixe. Hésiode raconte que Poséidon aima Méduse et qu'elle attendait de lui deux enfants.",
         "personnages": ["stheno", "euryale", "poseidon", "phorcys", "ceto"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque II, 4"]
       },
       {
         "titre": "La prêtresse punie par Athéna",
-        "resume": "Ovide propose une autre origine à sa monstruosité. Méduse était une jeune fille d'une grande beauté, célèbre surtout pour sa chevelure. Poséidon la viola dans un temple d'Athéna. Offensée par cette profanation de son sanctuaire, la déesse changea ses cheveux en serpents. Cette version fait de Méduse une victime autant qu'un monstre.",
+        "resume": "Ovide propose une autre origine à sa monstruosité. Méduse était une jeune fille d'une grande beauté, célèbre surtout pour sa chevelure. Un jour, Poséidon la poursuivit jusque dans un temple d'Athéna. Athéna, offensée qu'on ait manqué de respect à son sanctuaire, la changea en monstre et transforma ses cheveux en serpents. Cette version fait de Méduse une victime autant qu'un monstre.",
         "personnages": ["poseidon", "athena"],
         "sources": ["Ovide, Métamorphoses IV"]
       },
       {
-        "titre": "Décapitée par Persée",
-        "resume": "Envoyé par le roi Polydecte chercher la tête de Méduse, Persée obtient des Grées l'emplacement des Nymphes qui lui remettent des sandales ailées, une besace et le casque d'Hadès. Muni d'une serpe donnée par Hermès, il s'approche des Gorgones endormies et, guidé par Athéna, regarde le reflet de Méduse dans son bouclier de bronze pour ne pas croiser son regard. Il lui tranche la tête, et de son cou jaillissent Pégase et Chrysaor, les enfants qu'elle portait de Poséidon. Persée se sert ensuite de la tête pour pétrifier ses ennemis, puis l'offre à Athéna qui la fixe sur son égide.",
+        "titre": "Vaincue par Persée",
+        "resume": "Envoyé par le roi Polydecte chercher la tête de Méduse, Persée obtient des Grées l'emplacement des Nymphes qui lui remettent des sandales ailées, une besace et le casque d'Hadès. Muni d'une serpe donnée par Hermès, il s'approche des Gorgones endormies et, guidé par Athéna, regarde le reflet de Méduse dans son bouclier de bronze pour ne pas croiser son regard. D'un coup de serpe, il la vainc et emporte sa tête ; à cet instant naissent Pégase et Chrysaor, les enfants qu'elle attendait de Poséidon. Persée se sert ensuite de la tête pour pétrifier ses ennemis, puis l'offre à Athéna qui la fixe sur son égide.",
         "personnages": ["persee", "athena", "hermes", "polydectes", "pegase", "chrysaor", "grees"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque II, 4", "Ovide, Métamorphoses IV-V", "Pindare, Pythiques XII"]
       }
@@ -347,7 +347,7 @@
     "histoires": [
       {
         "titre": "La plainte d'Euryale",
-        "resume": "Euryale est l'une des deux Gorgones immortelles, sœurs de Méduse. Après la décapitation de Méduse, elle poursuit Persée avec Sthéno sans parvenir à l'atteindre. Pindare raconte qu'Athéna, entendant les gémissements aigus poussés par Euryale sur sa sœur, en tira l'idée de la flûte et d'un air nouveau qu'elle offrit aux hommes.",
+        "resume": "Euryale est l'une des deux Gorgones immortelles, sœurs de Méduse. Après la mort de Méduse, elle poursuit Persée avec Sthéno sans parvenir à l'atteindre. Pindare raconte qu'Athéna, entendant les gémissements aigus poussés par Euryale sur sa sœur, en tira l'idée de la flûte et d'un air nouveau qu'elle offrit aux hommes.",
         "personnages": ["persee", "meduse", "stheno", "athena"],
         "sources": ["Hésiode, Théogonie", "Pindare, Pythiques XII"]
       }
@@ -389,7 +389,7 @@
     "histoires": [
       {
         "titre": "Une naissance née d'une offense",
-        "resume": "Minos avait promis de sacrifier à Poséidon le magnifique taureau que le dieu avait fait sortir de la mer pour appuyer sa royauté. Ébloui par la bête, le roi en immola une autre. Pour le punir, Poséidon inspira à son épouse Pasiphaé un désir pour le taureau. Dédale fabriqua une vache de bois creuse dans laquelle la reine se dissimula, et de cette union naquit Astérios, appelé le Minotaure, un être à corps d'homme et à tête de taureau.",
+        "resume": "Minos avait promis de sacrifier à Poséidon le magnifique taureau que le dieu avait fait sortir de la mer pour appuyer sa royauté. Ébloui par la bête, le roi en immola une autre. Pour le punir, Poséidon jeta un sortilège sur son épouse Pasiphaé, qui s'éprit du taureau. Avec l'aide de l'ingénieux Dédale, la reine eut de l'animal un enfant étrange : Astérios, appelé le Minotaure, un être à corps d'homme et à tête de taureau.",
         "personnages": ["minos", "pasiphae", "poseidon", "dedale", "taureau-de-crete"],
         "sources": ["Apollodore, Bibliothèque III, 1", "Ovide, Métamorphoses VIII"]
       },
@@ -480,13 +480,13 @@
     "histoires": [
       {
         "titre": "Ulysse attaché au mât",
-        "resume": "Assises dans une prairie entourée d'ossements de marins, les Sirènes charment de leur chant ceux qui passent près de leur île, et nul ne revient alors dans sa patrie. Averti par Circé, Ulysse bouche avec de la cire les oreilles de ses compagnons. Lui-même veut entendre le chant et se fait attacher au mât en ordonnant qu'on resserre ses liens s'il demande à être détaché. Les Sirènes lui promettent la connaissance de tout ce qui advient sur la terre, mais le navire passe sans dommage.",
+        "resume": "Assises dans une prairie où bien des marins ont péri, les Sirènes charment de leur chant ceux qui passent près de leur île, et nul ne revient alors dans sa patrie. Averti par Circé, Ulysse bouche avec de la cire les oreilles de ses compagnons. Lui-même veut entendre le chant et se fait attacher au mât en ordonnant qu'on resserre ses liens s'il demande à être détaché. Les Sirènes lui promettent la connaissance de tout ce qui advient sur la terre, mais le navire passe sans dommage.",
         "personnages": ["ulysse", "circe"],
         "sources": ["Homère, Odyssée XII"]
       },
       {
         "titre": "Vaincues par Orphée",
-        "resume": "Lorsque les Argonautes longent l'île des Sirènes, Orphée prend sa lyre et joue un air rapide qui couvre leur chant. Seul Boutès, saisi par leurs voix, se jette à la mer ; Aphrodite le sauve. Selon une tradition, il était écrit que les Sirènes mourraient si un navire passait sans succomber, et elles se seraient jetées à la mer après cet échec.",
+        "resume": "Lorsque les Argonautes longent l'île des Sirènes, Orphée prend sa lyre et joue un air rapide qui couvre leur chant. Seul Boutès, saisi par leurs voix, se jette à la mer ; Aphrodite le sauve. Selon une tradition, il était écrit que les Sirènes mourraient si un navire passait sans succomber, et elles auraient disparu dans les flots après cet échec.",
         "personnages": ["orphee", "jason", "aphrodite"],
         "sources": ["Apollonios de Rhodes, Argonautiques IV", "Apollodore, Bibliothèque I, 9"]
       },
@@ -540,13 +540,13 @@
     "histoires": [
       {
         "titre": "La victoire d'Apollon à Delphes",
-        "resume": "Un serpent gigantesque, né de la Terre selon Ovide après le déluge, garde le site de Delphes et répand la terreur dans la région. L'Hymne homérique évoque une dragonne qui y sévissait et qui avait élevé Typhon pour Héra. Le jeune Apollon l'abat de ses flèches et laisse son corps pourrir au soleil, d'où viendrait le nom de Pythô. Il fonde alors son oracle, dont la prêtresse sera appelée la Pythie, et institue les jeux Pythiques en souvenir de sa victoire.",
+        "resume": "Un serpent gigantesque, né de la Terre selon Ovide après le déluge, garde le site de Delphes et répand la terreur dans la région. L'Hymne homérique évoque une dragonne qui y sévissait et qui avait élevé Typhon pour Héra. Le jeune Apollon l'abat de ses flèches et abandonne le monstre au soleil ; le nom de Pythô viendrait d'un mot grec qui signifie « pourrir ». Il fonde alors son oracle, dont la prêtresse sera appelée la Pythie, et institue les jeux Pythiques en souvenir de sa victoire.",
         "personnages": ["apollon", "gaia", "hera", "typhon"],
         "sources": ["Hymne homérique à Apollon", "Ovide, Métamorphoses I", "Apollodore, Bibliothèque I, 4"]
       },
       {
         "titre": "Le persécuteur de Léto",
-        "resume": "Selon Hygin, Python avait appris qu'il périrait de la main du fils de Léto. Lorsque Léto fut enceinte de Zeus, le serpent la poursuivit pour la tuer, mais elle trouva refuge à Délos où elle mit au monde Apollon et Artémis. Quelques jours après sa naissance, Apollon se rendit au Parnasse et vengea sa mère en abattant le monstre de ses flèches.",
+        "resume": "Selon Hygin, Python avait appris qu'il périrait de la main du fils de Léto. Lorsque Léto attendit les enfants de Zeus, le serpent la poursuivit pour la tuer, mais elle trouva refuge à Délos où elle mit au monde Apollon et Artémis. Quelques jours après sa naissance, Apollon se rendit au Parnasse et vengea sa mère en abattant le monstre de ses flèches.",
         "personnages": ["apollon", "leto", "artemis", "zeus"],
         "sources": ["Hygin, Fables 140"]
       }
@@ -557,7 +557,7 @@
     "nom": "Lamia",
     "grec": "Λάμια",
     "categorie": "monstre",
-    "epithete": "La dévoreuse d'enfants",
+    "epithete": "L'ogresse de Libye",
     "tags": ["jalousie", "vengeance", "métamorphose", "victime des dieux", "mort"],
     "filiations": [],
     "unions": [
@@ -566,7 +566,7 @@
     "histoires": [
       {
         "titre": "La reine changée en monstre",
-        "resume": "Lamia est une reine de Libye d'une grande beauté, aimée de Zeus. Jalouse, Héra fait périr les enfants nés de cette union, ou pousse Lamia à les tuer elle-même. Égarée par le chagrin, la reine se met à enlever et dévorer les enfants des autres mères, et son visage devient hideux. On disait que Zeus lui avait accordé de pouvoir retirer ses yeux pour trouver un peu de repos. Son nom servait aux nourrices grecques pour effrayer les enfants désobéissants.",
+        "resume": "Lamia est une reine de Libye d'une grande beauté, aimée de Zeus. Jalouse, Héra lui enlève les enfants qu'elle a eus de Zeus. Égarée par le chagrin, la reine devient une ogresse qui s'en prend aux enfants des autres mères, et son visage devient effrayant. On disait que Zeus, pris de pitié, lui avait accordé de pouvoir retirer ses yeux pour trouver un peu de repos. Son nom servait aux nourrices grecques pour effrayer les enfants désobéissants.",
         "personnages": ["zeus", "hera"],
         "sources": ["Diodore de Sicile, Bibliothèque historique XX", "Scholies à Aristophane"]
       }
@@ -586,7 +586,7 @@
     "histoires": [
       {
         "titre": "L'apparition des Grenouilles",
-        "resume": "Empuse est un spectre de la suite d'Hécate qui apparaît la nuit aux voyageurs et change sans cesse d'aspect : tantôt chienne, tantôt bœuf, tantôt femme séduisante. On lui attribue une jambe d'airain et un pied d'âne. Dans les Grenouilles d'Aristophane, Dionysos et son esclave, descendus aux Enfers, croient la voir surgir, et le dieu, terrifié, se réfugie auprès de son prêtre assis au théâtre. Une tradition plus tardive en fait une séductrice qui attire les jeunes gens pour se nourrir de leur sang.",
+        "resume": "Empuse est un spectre de la suite d'Hécate qui apparaît la nuit aux voyageurs et change sans cesse d'aspect : tantôt chienne, tantôt bœuf, tantôt belle jeune femme. On lui attribue une jambe d'airain et un pied d'âne. Dans les Grenouilles d'Aristophane, Dionysos et son serviteur, descendus aux Enfers, croient la voir surgir, et le dieu, terrifié, se réfugie auprès de son prêtre assis au théâtre. Une tradition plus tardive en fait un spectre trompeur qui attire les voyageurs sous l'apparence d'une belle jeune femme pour les dévorer.",
         "personnages": ["hecate", "dionysos"],
         "sources": ["Aristophane, Les Grenouilles", "Philostrate, Vie d'Apollonios de Tyane IV"]
       }
@@ -693,7 +693,7 @@
     "histoires": [
       {
         "titre": "Le Cyclope du tonnerre",
-        "resume": "Brontès, dont le nom évoque le tonnerre, est l'un des trois Cyclopes ouraniens. Libéré par Zeus avec ses frères, il contribue à forger l'arme qui assure la victoire des Olympiens sur les Titans. Callimaque le montre plus tard dans la forge, où la petite Artémis, encore enfant, ose lui arracher une poignée de poils de la poitrine.",
+        "resume": "Brontès, dont le nom évoque le tonnerre, est l'un des trois Cyclopes ouraniens. Libéré par Zeus avec ses frères, il contribue à forger l'arme qui assure la victoire des Olympiens sur les Titans. Callimaque le montre plus tard dans la forge, où la petite Artémis, encore enfant, ose lui tirer une poignée de poils de la poitrine.",
         "personnages": ["zeus", "steropes", "arges", "artemis"],
         "sources": ["Hésiode, Théogonie", "Callimaque, Hymne à Artémis"]
       }
@@ -759,7 +759,7 @@
     "histoires": [
       {
         "titre": "Dans la caverne du Cyclope",
-        "resume": "Ulysse et douze compagnons pénètrent dans la caverne de Polyphème, un Cyclope berger qui vit sans lois ni respect des dieux. À son retour, le géant bloque l'entrée d'un énorme rocher et dévore deux hommes à chacun de ses repas, méprisant les règles de l'hospitalité. Ulysse lui offre un vin très fort, et lorsque le Cyclope lui demande son nom, il répond s'appeler « Personne ». Une fois Polyphème ivre et endormi, les Grecs lui crèvent son œil unique avec un pieu durci au feu. Aux autres Cyclopes accourus, le géant crie que « Personne » le tue, et ils repartent.",
+        "resume": "Ulysse et douze compagnons pénètrent dans la caverne de Polyphème, un Cyclope berger qui vit sans lois ni respect des dieux. À son retour, le géant bloque l'entrée d'un énorme rocher et dévore plusieurs des compagnons, méprisant les règles de l'hospitalité. Ulysse lui offre un vin très fort, et lorsque le Cyclope lui demande son nom, il répond s'appeler « Personne ». Quand Polyphème est tombé dans un profond sommeil, les Grecs l'aveuglent avec un pieu durci au feu. Aux autres Cyclopes accourus, le géant crie que « Personne » le tue, et ils repartent.",
         "personnages": ["ulysse"],
         "sources": ["Homère, Odyssée IX", "Euripide, Le Cyclope"]
       },
@@ -771,7 +771,7 @@
       },
       {
         "titre": "L'amoureux de Galatée",
-        "resume": "Théocrite et Ovide montrent un Polyphème plus jeune, épris de la Néréide Galatée. Il chante sa passion en vantant ses troupeaux et ses fromages, mais la nymphe aime le jeune berger Acis. Surprenant les deux amants, le Cyclope jaloux arrache un morceau de montagne et écrase Acis. Galatée change le sang de son bien-aimé en un fleuve de Sicile.",
+        "resume": "Théocrite et Ovide montrent un Polyphème plus jeune, épris de la Néréide Galatée. Il chante sa passion en vantant ses troupeaux et ses fromages, mais la nymphe aime le jeune berger Acis. Surprenant les deux jeunes gens ensemble, le Cyclope jaloux lance sur Acis un énorme rocher. Galatée change alors son bien-aimé en un fleuve de Sicile.",
         "personnages": ["galatee"],
         "sources": ["Théocrite, Idylles XI", "Ovide, Métamorphoses XIII"]
       }
@@ -875,13 +875,13 @@
     "symboles": ["armures étincelantes", "jambes de serpent", "rochers"],
     "tags": ["géant", "gigantomachie", "groupe", "guerre", "terre", "orgueil"],
     "filiations": [
-      { "parents": ["gaia", "ouranos"], "source": "Hésiode, Théogonie (nés du sang d'Ouranos tombé sur Gaïa)", "principale": true },
+      { "parents": ["gaia", "ouranos"], "source": "Hésiode, Théogonie (nés du sang d'Ouranos blessé)", "principale": true },
       { "parents": ["gaia"], "source": "Apollodore, Bibliothèque (enfantés par Gaïa irritée du sort des Titans)" }
     ],
     "histoires": [
       {
         "titre": "Nés du sang d'Ouranos",
-        "resume": "Lorsque Cronos mutile Ouranos, les gouttes de sang qui tombent sur la terre fécondent Gaïa. Au fil des saisons naissent ainsi les Érinyes, les nymphes Méliennes et les grands Géants aux armes étincelantes, tenant de longues lances. Apollodore les décrit comme d'une taille et d'une force sans égales, avec une longue chevelure et des jambes en forme d'écailles de serpent.",
+        "resume": "Lorsque Cronos frappe et renverse son père Ouranos avec une faucille, quelques gouttes du sang du dieu blessé tombent sur la terre. Au fil des saisons, Gaïa en fait naître les Érinyes, les nymphes Méliennes et les grands Géants aux armes étincelantes, tenant de longues lances. Apollodore les décrit comme d'une taille et d'une force sans égales, avec une longue chevelure et des jambes en forme d'écailles de serpent.",
         "personnages": ["gaia", "ouranos", "cronos", "meliae"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque I, 6"]
       },
@@ -899,14 +899,14 @@
     "grec": "Πορφυρίων",
     "categorie": "monstre",
     "epithete": "Roi des Géants",
-    "tags": ["géant", "gigantomachie", "roi", "désir", "châtiment"],
+    "tags": ["géant", "gigantomachie", "roi", "combat", "châtiment"],
     "filiations": [
       { "parents": ["gaia", "ouranos"], "source": "Hésiode, Théogonie ; Apollodore", "principale": true }
     ],
     "histoires": [
       {
         "titre": "L'assaut contre Héra",
-        "resume": "Porphyrion est, avec Alcyonée, le plus puissant des Géants ; Pindare l'appelle leur roi. Pendant la Gigantomachie, il s'en prend à Héraclès et à Héra. Zeus lui inspire un désir violent pour la déesse, et le Géant déchire ses vêtements pour lui faire violence. Héra appelle au secours : Zeus foudroie Porphyrion et Héraclès l'achève d'une flèche.",
+        "resume": "Porphyrion est, avec Alcyonée, le plus puissant des Géants ; Pindare l'appelle leur roi. Pendant la Gigantomachie, il s'en prend à Héraclès et à Héra. Zeus le pousse à vouloir enlever la déesse pour l'épouser de force, et le Géant s'élance vers elle. Héra appelle au secours : Zeus foudroie Porphyrion et Héraclès l'achève d'une flèche.",
         "personnages": ["hera", "zeus", "heracles"],
         "sources": ["Apollodore, Bibliothèque I, 6", "Pindare, Pythiques VIII"]
       }
@@ -989,7 +989,7 @@
     "histoires": [
       {
         "titre": "Étouffé par Héraclès",
-        "resume": "Antée règne en Libye et force tous les étrangers qui traversent son pays à lutter contre lui, puis les tue ; Pindare raconte qu'il ornait de leurs crânes le temple de son père Poséidon. Chaque fois qu'il touche le sol, sa mère Gaïa lui rend ses forces. Héraclès, en route vers le jardin des Hespérides, accepte le combat. S'apercevant que son adversaire se relève plus vigoureux après chaque chute, il le soulève de terre et l'étouffe entre ses bras.",
+        "resume": "Antée règne en Libye et force tous les étrangers qui traversent son pays à lutter contre lui, puis les tue, si bien que nul voyageur n'ose plus traverser son royaume. Chaque fois qu'il touche le sol, sa mère Gaïa lui rend ses forces. Héraclès, en route vers le jardin des Hespérides, accepte le combat. S'apercevant que son adversaire se relève plus vigoureux après chaque chute, il le soulève de terre et l'étouffe entre ses bras.",
         "personnages": ["heracles", "gaia", "poseidon"],
         "sources": ["Apollodore, Bibliothèque II, 5", "Pindare, Isthmiques IV", "Ovide, Métamorphoses IX"]
       }
@@ -1011,13 +1011,13 @@
     "histoires": [
       {
         "titre": "Le gardien d'Io",
-        "resume": "Pour cacher sa liaison avec Io, Zeus change la jeune fille en génisse blanche. Héra, soupçonneuse, réclame l'animal en cadeau et le confie à la garde d'Argos, dont le corps est couvert d'yeux qui ne se ferment jamais tous ensemble. Argos attache la génisse à un olivier et la surveille jour et nuit. Auparavant, il avait déjà débarrassé l'Arcadie d'un taureau dévastateur, d'un satyre pillard et d'Échidna.",
+        "resume": "Pour cacher à Héra son amour pour Io, Zeus change la jeune fille en génisse blanche. Héra, soupçonneuse, réclame l'animal en cadeau et le confie à la garde d'Argos, dont le corps est couvert d'yeux qui ne se ferment jamais tous ensemble. Argos attache la génisse à un olivier et la surveille jour et nuit. Auparavant, il avait déjà débarrassé l'Arcadie d'un taureau dévastateur, d'un satyre pillard et d'Échidna.",
         "personnages": ["io", "zeus", "hera", "echidna"],
         "sources": ["Apollodore, Bibliothèque II, 1", "Eschyle, Prométhée enchaîné"]
       },
       {
         "titre": "Endormi et tué par Hermès",
-        "resume": "Zeus charge Hermès de délivrer Io. Chez Ovide, le dieu se déguise en berger et joue de la flûte de roseaux, puis raconte à Argos l'histoire de la nymphe Syrinx jusqu'à ce que tous ses yeux se ferment. Il lui tranche alors la tête, ce qui lui vaut le surnom d'Argeiphontès, « tueur d'Argos ». Héra recueille les yeux de son fidèle gardien et les dépose sur les plumes de la queue du paon, son oiseau.",
+        "resume": "Zeus charge Hermès de délivrer Io. Chez Ovide, le dieu se déguise en berger et joue de la flûte de roseaux, puis raconte à Argos l'histoire de la nymphe Syrinx jusqu'à ce que tous ses yeux se ferment. Il en profite pour le tuer, ce qui lui vaut le surnom d'Argeiphontès, « tueur d'Argos ». Héra recueille les yeux de son fidèle gardien et les dépose sur les plumes de la queue du paon, son oiseau.",
         "personnages": ["hermes", "hera", "io", "zeus", "syrinx"],
         "sources": ["Ovide, Métamorphoses I", "Apollodore, Bibliothèque II, 1"]
       }
@@ -1043,7 +1043,7 @@
       },
       {
         "titre": "Vaincu par Médée",
-        "resume": "Lorsque l'Argo veut aborder en Crète au retour de Colchide, Talos empêche les héros de débarquer en jetant des blocs de pierre. Médée l'ensorcelle par ses chants et ses regards maléfiques, qui lui envoient des visions trompeuses. Le géant se heurte la cheville contre une pointe de rocher et le clou se détache : son sang divin s'écoule comme du plomb fondu et il s'effondre. D'autres versions disent que Médée lui promit l'immortalité avant de retirer elle-même le clou, ou que Poias l'atteignit d'une flèche.",
+        "resume": "Lorsque l'Argo veut aborder en Crète au retour de Colchide, Talos empêche les héros de débarquer en jetant des blocs de pierre. Médée l'ensorcelle par ses chants et ses regards maléfiques, qui lui envoient des visions trompeuses. Le géant se heurte la cheville contre une pointe de rocher et le clou se détache : le liquide divin qui l'anime s'écoule comme du plomb fondu et il s'effondre. D'autres versions disent que Médée lui promit l'immortalité avant de retirer elle-même le clou, ou que Poias l'atteignit d'une flèche.",
         "personnages": ["medee", "jason"],
         "sources": ["Apollonios de Rhodes, Argonautiques IV", "Apollodore, Bibliothèque I, 9"]
       }

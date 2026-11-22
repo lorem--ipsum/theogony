@@ -9,6 +9,39 @@ import tagGroups from './tags.json'
 
 export const ALL_TAGS: string[] = Object.values(tagGroups as Record<string, string[]>).flat()
 
+/**
+ * Termes explicites refusés (charte jeunesse : src/data/CHARTE.md).
+ * Filet de sécurité : la charte va plus loin que cette liste, qui ne repère que l'évident.
+ */
+// \b et \w de JavaScript ne connaissent que l'ASCII (« écorcher », « crève » leur échappent) :
+// on construit des expressions Unicode, où « < » marque un début de mot, « > » une fin de mot
+// et « … » la suite d'un mot.
+const kw = (src: string) =>
+  new RegExp(src.replace(/</g, '(?<![\\p{L}])').replace(/>/g, '(?![\\p{L}])').replace(/…/g, '\\p{L}*'), 'iu')
+
+export const KID_BANNED: [RegExp, string][] = [
+  // « violer la loi / un serment » reste admis
+  [kw("<viol(?:er|é|ée|és|ées|a|ait|aient|èrent|ant)?>(?! (?:la |les |une |un |son |sa |ses |leur |leurs |cette |ce )?(?:loi|lois|serment|serments|règle|règles|promesse|hospitalité|interdit|trêve|pacte|sanctuaire|tombe)>)"), 'viol'],
+  [kw('<castr…|<émascul…|<mutil…'), 'mutilation'],
+  [kw('<incest…'), 'inceste'],
+  [kw('<sexe>|<sexu…'), 'sexualité'],
+  [kw('<séduire>|<séduit…|<séduisi…|<séduct…'), 'séduction'],
+  [kw('<amante?s?>'), 'amant'],
+  [kw('<partag… (?:sa|la|leur) couche|<passer? la nuit avec|<passa la nuit avec'), 'relation intime'],
+  [kw('<écorch…'), 'écorcher'],
+  [kw('<cannibal…|<anthropophag…|<chair humaine'), 'cannibalisme'],
+  [kw('<entrailles>|<cervelle>|<boyaux>'), 'gore'],
+  [kw("<cr[eè]v… (?:son |l'|les |leur |ses )?(?:œil|oeil|yeux)>"), 'crever les yeux'],
+  [kw("<suicid…|<se pend…|<pendue?s?>|<se donna la mort|<s'ôta la vie|<se poignard…|<se jet… sur (?:son |l')épée"), 'suicide'],
+]
+
+export function kidSafetyIssues(owner: string, text: string | undefined): string[] {
+  if (!text) return []
+  return KID_BANNED.filter(([rx]) => rx.test(text)).map(
+    ([rx, label]) => `${owner}: terme refusé par la charte jeunesse (${label}) : « ${text.match(rx)![0]} »`,
+  )
+}
+
 /** Vérifie la structure et l'intégrité référentielle ; renvoie la liste des erreurs. */
 export function validate(
   raw: unknown[],
@@ -36,6 +69,13 @@ export function validate(
   }
   for (const e of entities) {
     for (const t of e.tags) if (!tagSet.has(t)) errors.push(`${e.id}: tag inconnu "${t}"`)
+    errors.push(
+      ...kidSafetyIssues(`${e.id} (épithète)`, e.epithete),
+      ...[...(e.domaines ?? []), ...(e.symboles ?? [])].flatMap((x) => kidSafetyIssues(`${e.id} (domaines/symboles)`, x)),
+      ...(e.unions ?? []).flatMap((u) => kidSafetyIssues(`${e.id} (union ${u.avec})`, u.note)),
+      ...e.filiations.flatMap((f) => kidSafetyIssues(`${e.id} (filiation)`, f.source)),
+      ...e.histoires.flatMap((h) => kidSafetyIssues(`${e.id} « ${h.titre} »`, `${h.titre} — ${h.resume}`)),
+    )
     if (e.filiations.filter((f) => f.principale).length > 1)
       errors.push(`${e.id}: plusieurs filiations principales`)
     e.filiations.forEach((f) => f.parents.forEach((p) => {
@@ -81,6 +121,7 @@ export function validateGlossary(raw: unknown[], entityIds: Set<string>): string
     ids.add(t.id)
   }
   for (const t of terms) {
+    errors.push(...kidSafetyIssues(`glossaire ${t.id}`, t.definition))
     t.voir?.forEach((v) => !ids.has(v) && errors.push(`glossaire ${t.id}: renvoi inconnu "${v}"`))
     t.exemples?.forEach((x) => !entityIds.has(x) && errors.push(`glossaire ${t.id}: exemple inconnu "${x}"`))
   }

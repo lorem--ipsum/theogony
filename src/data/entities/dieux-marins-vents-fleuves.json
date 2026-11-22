@@ -450,7 +450,7 @@
       },
       {
         "titre": "Glaucos, Scylla et Circé",
-        "resume": "Devenu dieu, Glaucos s'éprend de la nymphe Scylla, qui le repousse. Il demande à la magicienne Circé un philtre pour la séduire, mais Circé tombe elle-même amoureuse de lui. Éconduite, elle se venge sur sa rivale en empoisonnant l'eau où elle se baigne. Scylla voit alors le bas de son corps se changer en chiens monstrueux et devient le fléau du détroit.",
+        "resume": "Devenu dieu, Glaucos s'éprend de la nymphe Scylla, qui le repousse. Il demande à la magicienne Circé un philtre pour gagner son cœur, mais Circé tombe elle-même amoureuse de lui. Repoussée, elle se venge sur sa rivale en versant un poison magique dans la source où celle-ci vient se rafraîchir. Scylla est alors changée en un monstre entouré de chiens féroces et devient le fléau du détroit.",
         "personnages": [
           "scylla",
           "circe"
@@ -510,7 +510,7 @@
     "histoires": [
       {
         "titre": "Le saut d'Ino et Mélicerte",
-        "resume": "Héra, irritée qu'Ino ait recueilli le petit Dionysos, frappe de folie Athamas et son épouse. Pour échapper à la démence meurtrière qui s'abat sur sa maison, Ino se jette dans la mer avec son jeune fils Mélicerte. Les dieux marins les accueillent : Ino devient la déesse Leucothée et l'enfant le dieu Palémon. Tous deux secourent désormais les marins dans la tempête.",
+        "resume": "Héra, irritée qu'Ino ait recueilli le petit Dionysos, frappe de folie Athamas et son épouse. Pour échapper à la folie qui s'abat sur sa maison, Ino s'enfuit et plonge dans la mer avec son jeune fils Mélicerte. Les dieux marins les accueillent : Ino devient la déesse Leucothée et l'enfant le dieu Palémon. Tous deux secourent désormais les marins dans la tempête.",
         "personnages": [
           "ino",
           "athamas",
@@ -525,7 +525,7 @@
       },
       {
         "titre": "La fondation des Jeux isthmiques",
-        "resume": "Selon la tradition corinthienne, un dauphin rapporta le corps de Mélicerte sur le rivage de l'isthme. Son oncle Sisyphe, roi de Corinthe, lui rendit les honneurs funèbres. Il institua en sa mémoire les Jeux isthmiques, célébrés près du sanctuaire de Poséidon, où Palémon reçut un culte.",
+        "resume": "Selon la tradition corinthienne, un dauphin ramena Mélicerte sur le rivage de l'isthme. Son oncle Sisyphe, roi de Corinthe, lui rendit les honneurs funèbres. Il institua en sa mémoire les Jeux isthmiques, célébrés près du sanctuaire de Poséidon, où Palémon reçut un culte.",
         "personnages": [
           "sisyphe",
           "poseidon"
@@ -575,7 +575,7 @@
     "histoires": [
       {
         "titre": "L'enlèvement d'Orithye",
-        "resume": "Borée s'éprend d'Orithye, fille du roi athénien Érechthée, mais ses demandes restent sans réponse. Renonçant à la persuasion, il recourt à la violence qui lui est naturelle. Il enveloppe la jeune fille de ses ailes alors qu'elle joue au bord de l'Ilissos et l'emporte en Thrace. Elle lui donne deux fils ailés, Zétès et Calaïs, qui prendront part à l'expédition des Argonautes.",
+        "resume": "Borée s'éprend d'Orithye, fille du roi athénien Érechthée, mais ses demandes restent sans réponse. Perdant patience, il se montre aussi impétueux que le vent du nord : il enveloppe la jeune fille de ses ailes alors qu'elle joue au bord de l'Ilissos et l'enlève jusqu'en Thrace. Devenue son épouse, Orithye lui donne deux fils ailés, Zétès et Calaïs, qui prendront part à l'expédition des Argonautes.",
         "personnages": [
           "zetes",
           "calais"
@@ -595,7 +595,7 @@
       },
       {
         "titre": "Les cavales d'Érichthonios",
-        "resume": "Homère raconte que Borée, ayant pris la forme d'un étalon à la crinière sombre, s'unit aux juments du riche roi troyen Érichthonios. Il en naquit douze pouliches si légères qu'elles couraient sur les épis sans les briser et sur la crête des vagues sans s'enfoncer.",
+        "resume": "Homère raconte que Borée, sous la forme d'un étalon à la crinière sombre, rejoignit les juments du riche roi troyen Érichthonios. Il devint le père de douze pouliches si légères qu'elles couraient sur les épis sans les briser et sur la crête des vagues sans s'enfoncer.",
         "sources": [
           "Homère, Iliade XX"
         ]
@@ -650,7 +650,7 @@
     "histoires": [
       {
         "titre": "La mort d'Hyacinthe",
-        "resume": "Selon plusieurs auteurs, Zéphyr aimait le jeune Spartiate Hyacinthe, qui lui préférait Apollon. Un jour où le dieu et le jeune homme s'exerçaient au lancer du disque, le vent jaloux dévia l'engin. Le disque frappa Hyacinthe à la tête et le tua. De son sang, Apollon fit naître la fleur qui porte son nom.",
+        "resume": "Selon plusieurs auteurs, Zéphyr aimait le jeune Spartiate Hyacinthe, qui lui préférait Apollon. Un jour où le dieu et le jeune homme s'exerçaient au lancer du disque, le vent jaloux dévia l'engin. Le disque frappa Hyacinthe, qui en mourut. De son sang, Apollon fit naître la fleur qui porte son nom.",
         "personnages": [
           "hyacinthe",
           "apollon"
@@ -896,7 +896,7 @@
     "histoires": [
       {
         "titre": "La lutte pour Déjanire",
-        "resume": "Achéloos et Héraclès se disputent la main de Déjanire, fille du roi de Calydon. Le dieu-fleuve affronte le héros en changeant de forme : il devient serpent, puis taureau. Héraclès le terrasse et lui arrache une corne. Vaincu, Achéloos renonce à Déjanire ; selon Ovide, les Naïades remplissent la corne de fruits et de fleurs, et elle devient la corne d'abondance.",
+        "resume": "Achéloos et Héraclès se disputent la main de Déjanire, fille du roi de Calydon. Le dieu-fleuve affronte le héros en changeant de forme : il devient serpent, puis taureau. Héraclès le terrasse et lui brise une corne. Vaincu, Achéloos renonce à Déjanire ; selon Ovide, les Naïades remplissent la corne de fruits et de fleurs, et elle devient la corne d'abondance.",
         "personnages": [
           "heracles",
           "naiades"
@@ -1006,13 +1006,13 @@
     "unions": [
       {
         "avec": "arethuse",
-        "note": "Poursuivie par Alphée, elle s'unit finalement à ses eaux"
+        "note": "Poursuivie par Alphée ; changée en source, elle voit les eaux du fleuve rejoindre les siennes"
       }
     ],
     "histoires": [
       {
         "titre": "La poursuite d'Aréthuse",
-        "resume": "La nymphe chasseresse Aréthuse se baigne dans les eaux claires de l'Alphée lorsque le dieu du fleuve, épris d'elle, l'interpelle. Elle s'enfuit à travers l'Élide et l'Arcadie, poursuivie sans relâche. À bout de forces, elle implore Artémis, qui la change en source. La déesse ouvre la terre et Aréthuse resurgit en Sicile, sur l'île d'Ortygie, mais l'Alphée traverse la mer sous les flots pour mêler ses eaux aux siennes.",
+        "resume": "La nymphe chasseresse Aréthuse se repose au bord des eaux claires de l'Alphée lorsque le dieu du fleuve, épris d'elle, l'appelle. Effrayée, elle s'enfuit à travers l'Élide et l'Arcadie, poursuivie sans relâche. À bout de forces, elle implore Artémis, qui la change en source. La déesse ouvre la terre et Aréthuse resurgit en Sicile, sur l'île d'Ortygie, mais l'Alphée traverse la mer sous les flots pour mêler ses eaux aux siennes.",
         "personnages": [
           "arethuse",
           "artemis"
@@ -1071,7 +1071,7 @@
     "histoires": [
       {
         "titre": "Le combat contre Achille",
-        "resume": "Après la mort de Patrocle, Achille massacre tant de Troyens que les eaux du Scamandre, que les dieux nomment Xanthos, sont encombrées de cadavres. Le fleuve lui demande de cesser, puis, devant son refus, se soulève contre lui. Ses flots poursuivent le héros sur la plaine et manquent de l'engloutir. Héra envoie alors Héphaïstos, dont les flammes embrasent la rive et font bouillir les eaux, jusqu'à ce que le fleuve, vaincu, promette de ne plus secourir les Troyens.",
+        "resume": "Après la mort de Patrocle, Achille abat tant de Troyens sur les rives du Scamandre, que les dieux nomment Xanthos, que le fleuve s'en indigne. Il lui demande de cesser, puis, devant son refus, se soulève contre lui. Ses flots poursuivent le héros sur la plaine et manquent de l'engloutir. Héra envoie alors Héphaïstos, dont les flammes embrasent la rive et font bouillir les eaux, jusqu'à ce que le fleuve, vaincu, promette de ne plus secourir les Troyens.",
         "personnages": [
           "achille",
           "hephaistos",
@@ -1170,7 +1170,7 @@
     "histoires": [
       {
         "titre": "La métamorphose de Daphné",
-        "resume": "Daphné, fille du Pénée, veut rester vierge et vouée à la chasse, comme Artémis. Frappé d'une flèche d'Éros, Apollon s'éprend d'elle et la poursuit à travers la campagne. Épuisée, arrivée près des eaux paternelles, elle supplie son père de lui ôter sa beauté. Ses membres s'engourdissent et elle devient laurier, arbre que le dieu fait sien.",
+        "resume": "Daphné, fille du Pénée, veut ne jamais se marier et se consacrer à la chasse, comme Artémis. Frappé d'une flèche d'Éros, Apollon s'éprend d'elle et la poursuit à travers la campagne. Épuisée, arrivée près des eaux paternelles, elle supplie son père de lui ôter sa beauté. Ses membres s'engourdissent et elle devient laurier, arbre que le dieu fait sien.",
         "personnages": [
           "daphne",
           "apollon",
@@ -1283,7 +1283,7 @@
     "histoires": [
       {
         "titre": "Né d'un champ trois fois labouré",
-        "resume": "Déméter s'unit au héros Iasion dans un champ labouré trois fois, en Crète. De cet amour naît Ploutos, dieu bienveillant qui parcourt la terre et la mer et enrichit tous ceux qu'il rencontre. Homère ajoute que Zeus, apprenant cette union, foudroya Iasion. Ploutos est associé aux mystères d'Éleusis comme dispensateur de l'abondance des récoltes.",
+        "resume": "Déméter aime le héros Iasion, rencontré dans un champ labouré trois fois, en Crète. De leur amour naît Ploutos, dieu bienveillant qui parcourt la terre et la mer et enrichit tous ceux qu'il rencontre. Homère ajoute que Zeus, apprenant cette union, foudroya Iasion. Ploutos est associé aux mystères d'Éleusis comme dispensateur de l'abondance des récoltes.",
         "personnages": [
           "demeter",
           "zeus"

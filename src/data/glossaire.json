@@ -149,7 +149,7 @@
   {
     "id": "apotheose",
     "terme": "Apothéose",
-    "definition": "L'apothéose est l'élévation d'un mortel au rang de dieu. Héraclès, après sa mort sur le bûcher du mont Œta, est accueilli sur l'Olympe et épouse Hébé. D'autres, comme Ganymède, Psyché ou Ino, deviennent également immortels.",
+    "definition": "L'apothéose est l'élévation d'un mortel au rang de dieu. Héraclès, après sa mort sur le mont Œta, est accueilli sur l'Olympe et épouse Hébé. D'autres, comme Ganymède, Psyché ou Ino, deviennent également immortels.",
     "voir": ["immortel", "demi-dieu", "catasterisme"],
     "exemples": ["heracles", "ganymede", "psyche", "ino", "asclepios"]
   },
@@ -163,7 +163,7 @@
   {
     "id": "metamorphose",
     "terme": "Métamorphose",
-    "definition": "Une métamorphose est une transformation d'apparence, en animal, en plante, en pierre ou en élément. Les dieux se métamorphosent pour séduire ou tromper (Zeus en taureau, en cygne, en pluie d'or), et ils métamorphosent les mortels pour les punir ou les sauver. Ovide a rassemblé ces récits dans ses Métamorphoses.",
+    "definition": "Une métamorphose est une transformation d'apparence, en animal, en plante, en pierre ou en élément. Les dieux changent d'apparence pour approcher les mortels ou les tromper (Zeus devient taureau, cygne ou pluie d'or), et ils métamorphosent les mortels pour les punir ou les sauver. Ovide a rassemblé ces récits dans ses Métamorphoses.",
     "voir": ["catasterisme", "hybris"],
     "exemples": ["daphne", "arachne", "narcisse", "io", "acteon", "callisto"]
   },
@@ -204,7 +204,7 @@
   {
     "id": "devin",
     "terme": "Devin",
-    "definition": "Un devin est un mortel qui connaît l'avenir ou la volonté des dieux, par un don divin ou par l'interprétation de signes (vol des oiseaux, entrailles des victimes). Tirésias, Cassandre et Amphiaraos sont les plus célèbres ; leurs avertissements sont souvent ignorés.",
+    "definition": "Un devin est un mortel qui connaît l'avenir ou la volonté des dieux, par un don divin ou par l'interprétation de signes (le vol des oiseaux, par exemple). Tirésias, Cassandre et Amphiaraos sont les plus célèbres ; leurs avertissements sont souvent ignorés.",
     "voir": ["oracle", "destin"],
     "exemples": ["tiresias", "cassandre", "amphiaraos", "protee"]
   },
@@ -246,7 +246,7 @@
   {
     "id": "erinyes",
     "terme": "Érinyes",
-    "definition": "Les Érinyes sont les déesses de la vengeance, nées du sang d'Ouranos mutilé tombé sur Gaïa. Elles poursuivent sans relâche les coupables de crimes familiaux, surtout le meurtre d'un parent, comme Oreste après la mort de Clytemnestre. Apaisées, elles deviennent les Euménides, « les Bienveillantes ». Les Romains les appellent Furies.",
+    "definition": "Les Érinyes sont les déesses de la vengeance, nées du sang d'Ouranos blessé, tombé sur Gaïa. Elles poursuivent sans relâche les coupables de crimes familiaux, comme Oreste après la mort de Clytemnestre. Apaisées, elles deviennent les Euménides, « les Bienveillantes ». Les Romains les appellent Furies.",
     "voir": ["destin"],
     "exemples": ["alecto", "megere", "tisiphone", "oreste"]
   },
@@ -288,7 +288,7 @@
   {
     "id": "meliade",
     "terme": "Méliade",
-    "definition": "Les Méliades sont les nymphes des frênes, nées comme les Érinyes et les Géants du sang d'Ouranos tombé sur la terre. Selon certaines traditions, la race d'airain des hommes serait issue des frênes.",
+    "definition": "Les Méliades sont les nymphes des frênes, nées, comme les Érinyes et les Géants, du sang d'Ouranos blessé tombé sur la terre. Selon certaines traditions, la race d'airain des hommes serait issue des frênes.",
     "voir": ["nymphe", "dryade"],
     "exemples": ["meliae"]
   },
@@ -323,7 +323,7 @@
   {
     "id": "geant",
     "terme": "Géant",
-    "definition": "Les Géants (Gigantes) sont des êtres colossaux et belliqueux nés de Gaïa, fécondée par le sang d'Ouranos. Souvent représentés avec des jambes de serpent, ils se révoltent contre les Olympiens lors de la Gigantomachie. Ce ne sont pas les Titans, avec lesquels on les confond souvent.",
+    "definition": "Les Géants (Gigantes) sont des êtres colossaux et belliqueux nés de Gaïa et du sang d'Ouranos blessé. Souvent représentés avec des jambes de serpent, ils se révoltent contre les Olympiens lors de la Gigantomachie. Ce ne sont pas les Titans, avec lesquels on les confond souvent.",
     "voir": ["gigantomachie", "titan", "monstre"],
     "exemples": ["geants", "porphyrion", "alcyonee", "encelade", "antee"]
   },
@@ -358,7 +358,7 @@
   {
     "id": "satyre",
     "terme": "Satyre",
-    "definition": "Les Satyres sont des génies des bois et des montagnes, au corps d'homme avec des oreilles, une queue et parfois des pattes de bouc ou de cheval. Compagnons de Dionysos, ils aiment le vin, la musique et la danse, et poursuivent les nymphes. Ils ont donné leur nom au « drame satyrique ».",
+    "definition": "Les Satyres sont des génies des bois et des montagnes, au corps d'homme avec des oreilles, une queue et parfois des pattes de bouc ou de cheval. Compagnons de Dionysos, ils aiment le vin, la musique, la danse et les farces. Ils ont donné leur nom au « drame satyrique ».",
     "voir": ["creature", "nymphe"],
     "exemples": ["satyres", "silene", "marsyas", "dionysos", "pan"]
   },
@@ -400,7 +400,7 @@
   {
     "id": "xenia",
     "terme": "Xénia (hospitalité)",
-    "definition": "La xénia est la loi sacrée de l'hospitalité, placée sous la protection de Zeus Xénios. L'hôte doit accueillir, nourrir et protéger l'étranger, qui lui doit respect en retour. La violer est une faute grave : l'enlèvement d'Hélène par son hôte Pâris déclenche la guerre de Troie, et Polyphème est puni pour avoir dévoré ses visiteurs.",
+    "definition": "La xénia est la loi sacrée de l'hospitalité, placée sous la protection de Zeus Xénios. L'hôte doit accueillir, nourrir et protéger l'étranger, qui lui doit respect en retour. Ne pas la respecter est une faute grave : l'enlèvement d'Hélène par son hôte Pâris déclenche la guerre de Troie, et Polyphème est puni pour avoir dévoré ses visiteurs.",
     "voir": ["hybris"],
     "exemples": ["zeus", "paris", "polypheme", "baucis", "philemon", "lycaon"]
   },

@@ -30,6 +30,8 @@ npm run deploy     # build + publication sur la branche gh-pages
 
 Les enfants ne sont jamais saisis : ils sont dérivés des filiations. Pour ajouter un personnage, l'inscrire d'abord dans `ids.md`, puis dans son fichier, et lancer `npm run validate`.
 
+Le contenu suit une **charte jeunesse** (8–12 ans) : `src/data/CHARTE.md`. `npm run validate` refuse les termes explicites (liste dans `src/data/validation.ts`), mais la charte va plus loin : toute nouvelle histoire doit la respecter.
+
 Les résumés sont des paraphrases rédigées d'après les sources antiques (Hésiode, Homère, Apollodore, Ovide, les tragiques…) ; ils peuvent contenir des imprécisions.
 
 Compatibilité : Safari 12 / iOS 12 et navigateurs récents.

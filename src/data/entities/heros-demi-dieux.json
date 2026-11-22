@@ -19,19 +19,19 @@
     "histoires": [
       {
         "titre": "Naissance et serpents au berceau",
-        "resume": "Zeus prit l'apparence d'Amphitryon pour s'unir à Alcmène pendant une nuit prolongée, et Héraclès naquit de cette union. Héra, jalouse, retarda sa naissance avec l'aide d'Ilithyie afin que son cousin Eurysthée naisse le premier et reçoive le pouvoir sur Argos. Elle envoya ensuite deux serpents dans le berceau du nourrisson. L'enfant les saisit et les étrangla de ses mains, révélant aussitôt sa nature divine. Le devin Tirésias annonça alors à ses parents le destin glorieux qui l'attendait.",
+        "resume": "Alcmène eut un fils de Zeus, venu à elle sous l'apparence de son époux Amphitryon : ce fut Héraclès. Héra, jalouse, retarda sa naissance avec l'aide d'Ilithyie afin que son cousin Eurysthée naisse le premier et reçoive le pouvoir sur Argos. Elle envoya ensuite deux serpents dans le berceau du nourrisson. L'enfant les saisit et les étrangla de ses mains, révélant aussitôt sa nature divine. Le devin Tirésias annonça alors à ses parents le destin glorieux qui l'attendait.",
         "personnages": ["zeus", "alcmene", "amphitryon", "hera", "eileithyia", "tiresias"],
         "sources": ["Pindare, Néméennes I", "Théocrite, Idylle XXIV", "Apollodore, Bibliothèque II"]
       },
       {
         "titre": "Les premiers travaux : Némée, Lerne, Cérynie, Érymanthe",
-        "resume": "Frappé de folie par Héra, Héraclès tua ses propres enfants ; pour expier ce crime, la Pythie lui ordonna de servir Eurysthée et d'accomplir ses travaux. Il étouffa d'abord le lion de Némée, dont la peau résistait aux armes, et en fit son vêtement. Il affronta ensuite l'Hydre de Lerne, dont les têtes repoussaient, et en vint à bout grâce à Iolaos qui cautérisait les cous tranchés. Il captura vivante la biche aux cornes d'or de Cérynie, consacrée à Artémis, après l'avoir poursuivie une année entière. Enfin il ramena le sanglier d'Érymanthe ; en chemin, chez le centaure Pholos, une querelle autour du vin provoqua un combat contre les Centaures.",
+        "resume": "Dans un accès de folie envoyé par Héra, Héraclès commit un crime terrible ; pour l'expier, la Pythie lui ordonna de servir Eurysthée et d'accomplir ses travaux. Il étouffa d'abord le lion de Némée, dont la peau résistait aux armes, et en fit son vêtement. Il affronta ensuite l'Hydre de Lerne, dont les têtes repoussaient, et en vint à bout grâce à Iolaos qui brûlait chaque blessure avec un tison pour empêcher les têtes de repousser. Il captura vivante la biche aux cornes d'or de Cérynie, consacrée à Artémis, après l'avoir poursuivie une année entière. Enfin il ramena le sanglier d'Érymanthe ; en chemin, chez le centaure Pholos, une querelle autour du vin provoqua un combat contre les Centaures.",
         "personnages": ["hera", "lion-de-nemee", "hydre-de-lerne", "iolaos", "cerf-de-cerynie", "artemis", "sanglier-d-erymanthe", "pholos", "centaures", "chiron"],
         "sources": ["Apollodore, Bibliothèque II", "Diodore de Sicile IV", "Euripide, Héraclès furieux"]
       },
       {
         "titre": "Augias, Stymphale, Crète et Thrace",
-        "resume": "Héraclès nettoya en un seul jour les écuries immenses d'Augias en détournant le cours de l'Alphée et du Pénée. Il chassa ensuite les oiseaux du lac Stymphale en les effrayant avec des crotales de bronze forgés par Héphaïstos et donnés par Athéna, puis les abattit de ses flèches. En Crète, avec l'accord de Minos, il dompta le taureau furieux que Poséidon avait fait sortir de la mer. En Thrace, il s'empara des juments mangeuses d'hommes du roi Diomède, qu'il livra lui-même en pâture à ses bêtes.",
+        "resume": "Héraclès nettoya en un seul jour les écuries immenses d'Augias en détournant le cours de l'Alphée et du Pénée. Il chassa ensuite les oiseaux du lac Stymphale en les effrayant avec des crotales de bronze forgés par Héphaïstos et donnés par Athéna, puis les abattit de ses flèches. En Crète, avec l'accord de Minos, il dompta le taureau furieux que Poséidon avait fait sortir de la mer. En Thrace, il vainquit le cruel roi Diomède et s'empara de ses juments mangeuses d'hommes.",
         "personnages": ["alphee", "peneios", "oiseaux-du-stymphale", "athena", "hephaistos", "taureau-de-crete", "minos", "poseidon", "juments-de-diomede"],
         "sources": ["Apollodore, Bibliothèque II", "Diodore de Sicile IV", "Pausanias"]
       },
@@ -49,7 +49,7 @@
       },
       {
         "titre": "La tunique de Nessos et l'apothéose",
-        "resume": "Le centaure Nessos, qui avait tenté d'enlever Déjanire, épouse d'Héraclès, fut abattu d'une flèche trempée dans le venin de l'Hydre. Mourant, il persuada Déjanire de recueillir son sang comme philtre d'amour. Des années plus tard, jalouse d'Iole, elle en imprégna une tunique qu'elle envoya au héros. Le poison lui dévora les chairs ; Héraclès fit dresser un bûcher sur le mont Œta et Philoctète accepta d'y mettre le feu, recevant l'arc en récompense. La part mortelle du héros fut consumée, tandis que sa part divine montait sur l'Olympe, où il se réconcilia avec Héra et épousa Hébé.",
+        "resume": "Le centaure Nessos, qui avait tenté d'enlever Déjanire, épouse d'Héraclès, fut abattu d'une flèche trempée dans le venin de l'Hydre. Avant de mourir, il fit croire à Déjanire que son sang était un philtre d'amour. Des années plus tard, jalouse d'Iole, elle en imprégna une tunique qu'elle envoya au héros. Le poison le brûla d'une douleur sans remède ; Héraclès fit dresser un bûcher sur le mont Œta et Philoctète accepta d'y mettre le feu, recevant l'arc en récompense. La part mortelle du héros fut consumée, tandis que sa part divine montait sur l'Olympe, où il se réconcilia avec Héra et épousa Hébé.",
         "personnages": ["nessos", "philoctete", "zeus", "hera", "hebe"],
         "sources": ["Sophocle, Les Trachiniennes", "Ovide, Métamorphoses IX", "Apollodore, Bibliothèque II"]
       }
@@ -73,13 +73,13 @@
     "histoires": [
       {
         "titre": "La pluie d'or et le coffre",
-        "resume": "Un oracle avait prédit au roi d'Argos Acrisios qu'il serait tué par le fils de sa fille Danaé. Il enferma donc celle-ci dans une chambre de bronze, mais Zeus pénétra jusqu'à elle sous la forme d'une pluie d'or. Lorsque Persée naquit, Acrisios fit enfermer la mère et l'enfant dans un coffre jeté à la mer. Le coffre aborda à Sériphos, où un pêcheur, Dictys, les recueillit.",
+        "resume": "Un oracle avait prédit au roi d'Argos Acrisios qu'il serait tué par le fils de sa fille Danaé. Il enferma donc celle-ci dans une chambre de bronze, mais Danaé eut pourtant un fils de Zeus, venu à elle sous la forme d'une pluie d'or : Persée. Acrisios fit enfermer la mère et l'enfant dans un coffre jeté à la mer. Le coffre aborda à Sériphos, où un pêcheur, Dictys, les recueillit.",
         "personnages": ["acrisios", "danae", "zeus"],
         "sources": ["Simonide", "Phérécyde", "Apollodore, Bibliothèque II"]
       },
       {
         "titre": "La tête de Méduse",
-        "resume": "Le roi de Sériphos, Polydectès, qui convoitait Danaé, chercha à éloigner Persée en lui réclamant la tête de la Gorgone. Guidé par Athéna et Hermès, le jeune homme alla trouver les Grées, auxquelles il déroba leur œil et leur dent uniques jusqu'à ce qu'elles lui indiquent le chemin des nymphes. Celles-ci lui confièrent des sandales ailées, une besace et le casque d'Hadès qui rend invisible ; Hermès lui donna une serpe. Regardant Méduse dans le reflet de son bouclier, il lui trancha la tête pendant son sommeil. Du cou jaillirent Pégase et Chrysaor, et Persée s'enfuit invisible devant les deux autres Gorgones.",
+        "resume": "Le roi de Sériphos, Polydectès, qui voulait épouser Danaé contre son gré, chercha à éloigner Persée en lui réclamant la tête de la Gorgone. Guidé par Athéna et Hermès, le jeune homme alla trouver les Grées, auxquelles il déroba leur œil et leur dent uniques jusqu'à ce qu'elles lui indiquent le chemin des nymphes. Celles-ci lui confièrent des sandales ailées, une besace et le casque d'Hadès qui rend invisible ; Hermès lui donna une serpe. Regardant Méduse dans le reflet de son bouclier, il la vainquit pendant son sommeil et emporta sa tête. De la Gorgone vaincue naquirent Pégase et Chrysaor, et Persée s'enfuit invisible devant les deux autres Gorgones.",
         "personnages": ["polydectes", "danae", "athena", "hermes", "grees", "hades", "meduse", "stheno", "euryale", "pegase", "chrysaor"],
         "sources": ["Hésiode, Théogonie", "Phérécyde", "Apollodore, Bibliothèque II", "Ovide, Métamorphoses IV"]
       },
@@ -137,19 +137,19 @@
       },
       {
         "titre": "La voile noire",
-        "resume": "Égée avait demandé à son fils de hisser une voile blanche au retour s'il était vainqueur. Bouleversé, ou distrait par la perte d'Ariane, Thésée oublia de changer la voile noire. Voyant le navire approcher, Égée se crut privé de son fils et se jeta du haut de l'Acropole ou dans la mer qui porte depuis son nom. Thésée devint alors roi et réunit les bourgades de l'Attique en une seule cité.",
+        "resume": "Égée avait demandé à son fils de hisser une voile blanche au retour s'il était vainqueur. Bouleversé, ou distrait par la perte d'Ariane, Thésée oublia de changer la voile noire. Voyant le navire approcher, Égée se crut privé de son fils et mourut de chagrin ; la mer Égée porte depuis son nom. Thésée devint alors roi et réunit les bourgades de l'Attique en une seule cité.",
         "personnages": ["egee"],
         "sources": ["Catulle LXIV", "Plutarque, Vie de Thésée", "Pausanias I"]
       },
       {
         "titre": "Phèdre et Hippolyte",
-        "resume": "Thésée épousa Phèdre, sœur d'Ariane, alors que son fils Hippolyte, né de l'Amazone, vouait sa chasteté à Artémis. Aphrodite, offensée par ce mépris, inspira à Phèdre une passion pour son beau-fils. Repoussée, Phèdre se pendit en laissant une accusation mensongère. Thésée maudit son fils en invoquant Poséidon, qui fit surgir de la mer un taureau ; les chevaux d'Hippolyte s'emballèrent et le jeune homme périt, avant que la vérité ne soit révélée.",
+        "resume": "Thésée épousa Phèdre, sœur d'Ariane, alors que son fils Hippolyte, né de l'Amazone, ne voulait servir qu'Artémis et refusait l'amour. Aphrodite, offensée par ce mépris, fit que Phèdre s'éprit de son beau-fils. Repoussée, Phèdre accusa faussement Hippolyte dans une lettre, puis mourut. Thésée maudit son fils en invoquant Poséidon, qui fit surgir de la mer un taureau ; les chevaux d'Hippolyte s'emballèrent et le jeune homme périt, avant que la vérité ne soit révélée.",
         "personnages": ["phedre", "hippolytos", "artemis", "aphrodite", "poseidon"],
         "sources": ["Euripide, Hippolyte", "Sénèque, Phèdre", "Ovide, Métamorphoses XV"]
       },
       {
         "titre": "L'expédition chez Hadès avec Pirithoos",
-        "resume": "Thésée et son ami Pirithoos s'étaient juré d'épouser chacun une fille de Zeus. Ils enlevèrent d'abord la jeune Hélène, puis descendirent aux Enfers pour ravir Perséphone. Hadès les invita à s'asseoir et ils restèrent collés à leurs sièges. Héraclès, venu chercher Cerbère, arracha Thésée à son siège mais ne put délivrer Pirithoos. Pendant ce temps, les Dioscures avaient repris Hélène et emmené Æthra en captivité.",
+        "resume": "Thésée et son ami Pirithoos s'étaient juré d'épouser chacun une fille de Zeus. Ils enlevèrent d'abord la jeune Hélène, puis descendirent aux Enfers pour enlever Perséphone. Hadès les invita à s'asseoir et ils restèrent collés à leurs sièges. Héraclès, venu chercher Cerbère, parvint à libérer Thésée de son siège mais ne put délivrer Pirithoos. Pendant ce temps, les Dioscures avaient repris Hélène et emmené Æthra en captivité.",
         "personnages": ["perithoos", "helene", "hades", "persephone", "heracles", "castor", "pollux", "ethra"],
         "sources": ["Apollodore, Épitomé I", "Plutarque, Vie de Thésée", "Pausanias"]
       }
@@ -168,19 +168,19 @@
       { "parents": ["pelee", "thetis"], "principale": true, "source": "Homère, Iliade" }
     ],
     "unions": [
-      { "avec": "patrocle", "note": "Compagnon inséparable, amant selon Eschyle et Platon" },
+      { "avec": "patrocle", "note": "Compagnon inséparable et ami le plus cher" },
       { "avec": "helene", "note": "Unis après la mort dans l'île Blanche selon une tradition tardive" }
     ],
     "histoires": [
       {
         "titre": "Enfance et éducation",
-        "resume": "Thétis voulut rendre son fils immortel, en le plaçant dans le feu selon Apollonios, ou en le plongeant dans le Styx selon une tradition plus tardive qui laissa le talon vulnérable. Interrompue par Pélée, elle quitta le foyer conjugal. L'enfant fut confié au centaure Chiron, qui le nourrit d'entrailles de bêtes sauvages et lui enseigna la chasse, la musique et la médecine. Il eut à choisir entre une vie longue et obscure et une vie brève et glorieuse.",
+        "resume": "Thétis voulut rendre son fils immortel, en le plaçant dans le feu selon Apollonios, ou en le plongeant dans le Styx selon une tradition plus tardive qui laissa le talon vulnérable. Interrompue par Pélée, elle quitta le foyer conjugal. L'enfant fut confié au centaure Chiron, qui l'éleva dans la montagne, le nourrit du gibier des forêts et lui enseigna la chasse, la musique et la médecine. Il eut à choisir entre une vie longue et obscure et une vie brève et glorieuse.",
         "personnages": ["thetis", "pelee", "chiron", "styx"],
         "sources": ["Homère, Iliade IX", "Apollonios de Rhodes, Argonautiques IV", "Stace, Achilléide"]
       },
       {
         "titre": "Caché à Skyros",
-        "resume": "Sachant que son fils mourrait à Troie, Thétis le cacha parmi les filles du roi Lycomède à Skyros, déguisé en jeune fille. Il s'y unit à Déidamie, qui lui donna Néoptolème. Ulysse vint le chercher sous l'apparence d'un marchand et présenta des parures mêlées à des armes ; au son d'une trompette, Achille saisit les armes et se trahit. Il partit alors pour la guerre.",
+        "resume": "Sachant que son fils mourrait à Troie, Thétis le cacha parmi les filles du roi Lycomède à Skyros, déguisé en jeune fille. Il y épousa en secret la princesse Déidamie, qui lui donna un fils, Néoptolème. Ulysse vint le chercher sous l'apparence d'un marchand et présenta des parures mêlées à des armes ; au son d'une trompette, Achille saisit les armes et se trahit. Il partit alors pour la guerre.",
         "personnages": ["thetis", "ulysse", "neoptoleme"],
         "sources": ["Apollodore, Bibliothèque III", "Stace, Achilléide", "Ovide, Métamorphoses XIII"]
       },
@@ -192,13 +192,13 @@
       },
       {
         "titre": "Patrocle vengé",
-        "resume": "Achille autorisa Patrocle à combattre revêtu de ses armes ; son ami fut tué par Hector avec l'aide d'Apollon. Fou de douleur, Achille se réconcilia avec Agamemnon et reçut de nouvelles armes forgées par Héphaïstos. Il massacra les Troyens, affronta le fleuve Scamandre, puis tua Hector devant les murs et traîna son corps derrière son char. Le vieux Priam, guidé par Hermès, vint de nuit le supplier, et Achille lui rendit le corps de son fils.",
+        "resume": "Achille autorisa Patrocle à combattre revêtu de ses armes ; son ami fut tué par Hector avec l'aide d'Apollon. Fou de douleur, Achille se réconcilia avec Agamemnon et reçut de nouvelles armes forgées par Héphaïstos. Il repoussa les Troyens, affronta le fleuve Scamandre, puis tua Hector devant les murs et, dans sa colère, refusa de rendre son corps. Le vieux Priam, guidé par Hermès, vint de nuit le supplier, et Achille lui rendit le corps de son fils.",
         "personnages": ["patrocle", "hector", "apollon", "hephaistos", "scamandre", "priam", "hermes", "agamemnon"],
         "sources": ["Homère, Iliade XVI à XXIV"]
       },
       {
         "titre": "Penthésilée et Memnon",
-        "resume": "Après la mort d'Hector, l'Amazone Penthésilée vint au secours de Troie ; Achille la tua et, la voyant morte, fut saisi par sa beauté. Memnon, fils d'Éos, arriva ensuite d'Éthiopie et tua Antiloque. Achille l'affronta en duel tandis que leurs mères divines imploraient Zeus, et le vainquit. Éos obtint pour son fils l'immortalité.",
+        "resume": "Après la mort d'Hector, l'Amazone Penthésilée vint au secours de Troie ; Achille la vainquit et, en découvrant son visage, fut saisi d'admiration et de regret. Memnon, fils d'Éos, arriva ensuite d'Éthiopie et tua Antiloque. Achille l'affronta en duel tandis que leurs mères divines imploraient Zeus, et le vainquit. Éos obtint pour son fils l'immortalité.",
         "personnages": ["penthesilee", "memnon", "eos", "thetis", "zeus"],
         "sources": ["Éthiopide (résumé de Proclos)", "Quintus de Smyrne, Suite d'Homère"]
       },
@@ -234,7 +234,7 @@
       },
       {
         "titre": "Le voyage de l'Argo",
-        "resume": "Jason réunit sur le navire Argo, construit avec l'aide d'Athéna, l'élite des héros grecs. À Lemnos, peuplée de femmes qui avaient tué leurs époux, les Argonautes s'attardèrent auprès d'elles. Ils perdirent Hylas, enlevé par une nymphe, et laissèrent derrière eux Héraclès parti le chercher. Pollux vainquit le roi Amycos au pugilat, Zétès et Calaïs chassèrent les Harpies qui tourmentaient Phinée, et le navire franchit les roches Symplégades grâce aux conseils du devin.",
+        "resume": "Jason réunit sur le navire Argo, construit avec l'aide d'Athéna, l'élite des héros grecs. À Lemnos, île habitée seulement par des femmes depuis qu'elles s'étaient débarrassées de leurs époux, les Argonautes furent bien accueillis et s'attardèrent longtemps. Ils perdirent Hylas, enlevé par une nymphe, et laissèrent derrière eux Héraclès parti le chercher. Pollux vainquit le roi Amycos au pugilat, Zétès et Calaïs chassèrent les Harpies qui tourmentaient Phinée, et le navire franchit les roches Symplégades grâce aux conseils du devin.",
         "personnages": ["athena", "heracles", "hylas", "pollux", "castor", "zetes", "calais", "harpies", "orphee", "pelee"],
         "sources": ["Apollonios de Rhodes, Argonautiques I-II", "Apollodore, Bibliothèque I"]
       },
@@ -246,13 +246,13 @@
       },
       {
         "titre": "Le retour",
-        "resume": "Poursuivis par les Colchidiens, les fugitifs se débarrassèrent d'Apsyrtos, frère de Médée, tué par ruse. Ils durent se faire purifier de ce meurtre par Circé. Orphée couvrit de son chant la voix des Sirènes, Thétis et les Néréides guidèrent le navire entre Scylla et Charybde, et en Crète Médée abattit le géant de bronze Talos. De retour à Iolcos, Médée persuada les filles de Pélias de découper leur père pour le rajeunir, et le roi périt.",
+        "resume": "Poursuivis par les Colchidiens, les fugitifs se débarrassèrent d'Apsyrtos, frère de Médée, tué par ruse. Ils durent se faire purifier de ce meurtre par Circé. Orphée couvrit de son chant la voix des Sirènes, Thétis et les Néréides guidèrent le navire entre Scylla et Charybde, et en Crète Médée abattit le géant de bronze Talos. De retour à Iolcos, Médée fit croire aux filles de Pélias qu'un sortilège pouvait rajeunir leur vieux père ; trompées, elles causèrent sa mort.",
         "personnages": ["medee", "circe", "orphee", "sirenes", "thetis", "nereides", "scylla", "charybde", "talos", "pelias"],
         "sources": ["Apollonios de Rhodes, Argonautiques IV", "Apollodore, Bibliothèque I", "Ovide, Métamorphoses VII"]
       },
       {
         "titre": "La tragédie de Corinthe",
-        "resume": "Exilés à Corinthe, Jason et Médée y vécurent plusieurs années. Jason décida d'épouser la fille du roi Créon et de répudier Médée. Celle-ci envoya à la fiancée une robe empoisonnée qui la consuma avec son père, puis tua ses propres enfants avant de s'enfuir sur le char du Soleil. Jason, seul et déchu, mourut selon une tradition écrasé par une poutre de l'Argo.",
+        "resume": "Exilés à Corinthe, Jason et Médée y vécurent plusieurs années. Jason décida d'épouser la fille du roi Créon et de répudier Médée. Celle-ci envoya à la fiancée une robe empoisonnée qui la fit périr avec son père, puis se vengea de Jason de la façon la plus cruelle qui soit, avant de s'enfuir sur le char du Soleil. Jason, seul et déchu, mourut selon une tradition frappé par une poutre de l'Argo.",
         "personnages": ["medee", "creon", "helios"],
         "sources": ["Euripide, Médée", "Apollodore, Bibliothèque I", "Sénèque, Médée"]
       }
@@ -280,7 +280,7 @@
       },
       {
         "titre": "La Chimère",
-        "resume": "Exilé pour un meurtre, Bellérophon fut purifié par Proétos, roi de Tirynthe, dont l'épouse s'éprit de lui. Repoussée, elle l'accusa d'avoir voulu la séduire. Proétos l'envoya chez son beau-père, le roi de Lycie, avec une tablette demandant sa mort. Celui-ci le chargea de tuer la Chimère, monstre crachant le feu, mi-lion, mi-chèvre, à queue de serpent. Monté sur Pégase, Bellérophon la cribla de flèches depuis les airs.",
+        "resume": "Exilé pour un meurtre, Bellérophon fut purifié par Proétos, roi de Tirynthe, dont l'épouse s'éprit de lui. Repoussée, elle l'accusa faussement de lui avoir manqué de respect. Proétos l'envoya chez son beau-père, le roi de Lycie, avec une tablette demandant sa mort. Celui-ci le chargea de tuer la Chimère, monstre crachant le feu, mi-lion, mi-chèvre, à queue de serpent. Monté sur Pégase, Bellérophon la vainquit de ses flèches depuis les airs.",
         "personnages": ["chimere", "pegase"],
         "sources": ["Homère, Iliade VI", "Hésiode, Théogonie", "Apollodore, Bibliothèque II"]
       },
@@ -324,13 +324,13 @@
       },
       {
         "titre": "Eurydice",
-        "resume": "Peu après ses noces, Eurydice fut mordue par un serpent alors qu'elle fuyait Aristée, et mourut. Orphée descendit aux Enfers ; son chant charma Cerbère, suspendit les supplices des damnés et émut Hadès et Perséphone. Ils lui accordèrent de ramener son épouse à condition de ne pas se retourner avant la sortie. Près du but, Orphée se retourna et Eurydice disparut pour toujours.",
+        "resume": "Peu après ses noces, Eurydice fut mordue par un serpent alors qu'elle fuyait Aristée, et mourut. Orphée descendit aux Enfers ; son chant charma Cerbère, fit oublier un instant leurs peines aux âmes punies et émut Hadès et Perséphone. Ils lui accordèrent de ramener son épouse à condition de ne pas se retourner avant la sortie. Près du but, Orphée se retourna et Eurydice disparut pour toujours.",
         "personnages": ["eurydice", "aristee", "cerbere", "hades", "persephone"],
         "sources": ["Virgile, Géorgiques IV", "Ovide, Métamorphoses X"]
       },
       {
         "titre": "La mort d'Orphée",
-        "resume": "Inconsolable, Orphée se détourna des femmes et vécut à l'écart en Thrace. Des Ménades, furieuses de son dédain ou envoyées par Dionysos qu'il négligeait au profit d'Apollon, le mirent en pièces. Sa tête et sa lyre, jetées dans l'Hèbre, dérivèrent jusqu'à Lesbos, la tête chantant encore. Les Muses recueillirent ses membres et la lyre devint une constellation.",
+        "resume": "Inconsolable, Orphée refusa de se remarier et vécut à l'écart en Thrace. Des Ménades, furieuses de son dédain ou envoyées par Dionysos qu'il négligeait au profit d'Apollon, le tuèrent. Sa lyre, emportée par le fleuve Hèbre jusqu'à Lesbos, résonnait encore de son chant. Les Muses lui donnèrent une sépulture et la lyre devint une constellation.",
         "personnages": ["dionysos", "apollon", "calliope"],
         "sources": ["Eschyle, Bassarides (selon Ératosthène)", "Virgile, Géorgiques IV", "Ovide, Métamorphoses XI"]
       }
@@ -351,7 +351,7 @@
     "histoires": [
       {
         "titre": "Les noces et la Centauromachie",
-        "resume": "Pirithoos, roi des Lapithes, invita les Centaures, ses parents, à ses noces avec Hippodamie. Échauffés par le vin, ceux-ci tentèrent d'enlever la mariée et les femmes présentes. Un combat sanglant éclata, où Thésée combattit aux côtés de son ami. Les Lapithes l'emportèrent et chassèrent les Centaures du Pélion.",
+        "resume": "Pirithoos, roi des Lapithes, invita les Centaures, ses parents, à ses noces avec Hippodamie. Au cours du festin, ceux-ci se déchaînèrent et tentèrent d'enlever la mariée et les autres invitées. Une grande bataille éclata, où Thésée combattit aux côtés de son ami. Les Lapithes l'emportèrent et chassèrent les Centaures du Pélion.",
         "personnages": ["centaures", "thesee"],
         "sources": ["Homère, Odyssée XXI", "Ovide, Métamorphoses XII", "Plutarque, Vie de Thésée"]
       },
@@ -440,7 +440,7 @@
     "histoires": [
       {
         "titre": "Née d'un œuf",
-        "resume": "Zeus s'unit à Léda sous la forme d'un cygne, et Hélène naquit d'un œuf. Selon les Chants cypriens, Zeus poursuivit Némésis, qui se métamorphosait pour lui échapper ; changée en oie, elle fut rejointe par le dieu changé en cygne, et pondit un œuf que Léda recueillit et couva. Encore enfant, Hélène fut enlevée par Thésée puis reprise par ses frères les Dioscures.",
+        "resume": "Léda eut de Zeus, venu à elle sous la forme d'un cygne, une fille qui naquit d'un œuf : Hélène. Selon les Chants cypriens, Hélène était en réalité la fille de Zeus et de Némésis, qui avait pris la forme d'une oie ; l'œuf qu'elle pondit fut recueilli et couvé par Léda. Encore enfant, Hélène fut enlevée par Thésée puis reprise par ses frères les Dioscures.",
         "personnages": ["zeus", "leda", "nemesis", "thesee", "castor", "pollux"],
         "sources": ["Chants cypriens (fragments)", "Euripide, Hélène", "Apollodore, Bibliothèque III"]
       },
@@ -452,7 +452,7 @@
       },
       {
         "titre": "Pâris et la guerre de Troie",
-        "resume": "Aphrodite avait promis à Pâris la plus belle des femmes en échange de la pomme d'or. Reçu à Sparte par Ménélas, le prince troyen profita de l'absence de son hôte pour emmener Hélène et des trésors. Les Grecs, liés par leur serment, assiégèrent Troie dix ans. Du haut des remparts, Hélène désignait à Priam les chefs achéens et se reprochait les malheurs qu'elle avait causés.",
+        "resume": "Aphrodite avait promis à Pâris la plus belle des femmes en échange de la pomme d'or. Reçu à Sparte par Ménélas, le prince troyen profita de l'absence de son hôte pour enlever Hélène et emporter des trésors. Les Grecs, liés par leur serment, assiégèrent Troie dix ans. Du haut des remparts, Hélène désignait à Priam les chefs achéens et se reprochait les malheurs qu'elle avait causés.",
         "personnages": ["aphrodite", "paris", "menelas", "priam", "agamemnon"],
         "sources": ["Homère, Iliade III", "Chants cypriens (résumé de Proclos)"]
       },
@@ -501,7 +501,7 @@
       },
       {
         "titre": "La vengeance d'Althée",
-        "resume": "Apprenant que son fils avait tué ses frères, Althée jeta le tison dans le feu. Méléagre mourut aussitôt, consumé de l'intérieur. Prise de remords, Althée se donna la mort, et les sœurs du héros, inconsolables, furent changées en pintades par Artémis. Aux Enfers, l'ombre de Méléagre raconta son destin à Héraclès et lui proposa d'épouser sa sœur Déjanire.",
+        "resume": "Apprenant que son fils avait tué ses frères, Althée jeta le tison dans le feu. Méléagre mourut aussitôt. Prise de remords, Althée ne survécut pas à son chagrin, et les sœurs du héros, inconsolables, furent changées en pintades par Artémis. Aux Enfers, l'ombre de Méléagre raconta son destin à Héraclès et lui proposa d'épouser sa sœur Déjanire.",
         "personnages": ["artemis", "heracles"],
         "sources": ["Bacchylide V", "Ovide, Métamorphoses VIII", "Apollodore, Bibliothèque I"]
       }
@@ -525,19 +525,19 @@
     "histoires": [
       {
         "titre": "L'enfant de l'ourse",
-        "resume": "Son père, qui voulait un fils, l'exposa dans la montagne à sa naissance. Une ourse envoyée par Artémis l'allaita, puis des chasseurs la recueillirent et l'élevèrent. Devenue adulte, elle vécut vierge dans les bois, consacrée à la chasse, et tua de ses flèches deux centaures qui tentaient de la violer.",
+        "resume": "Son père, qui voulait un fils, l'exposa dans la montagne à sa naissance. Une ourse envoyée par Artémis l'allaita, puis des chasseurs la recueillirent et l'élevèrent. Devenue adulte, elle vécut libre dans les bois, refusant le mariage et consacrée à la chasse, et tua de ses flèches deux centaures qui voulaient l'emporter de force.",
         "personnages": ["artemis", "centaures"],
         "sources": ["Apollodore, Bibliothèque III", "Élien, Histoires variées"]
       },
       {
         "titre": "À la chasse de Calydon",
-        "resume": "Atalante se joignit aux héros réunis par Méléagre pour traquer le sanglier de Calydon, malgré les protestations de certains qui refusaient de chasser avec une femme. Elle fut la première à blesser la bête. Méléagre, qui l'aimait, lui donna la peau et la hure de l'animal, provoquant un conflit sanglant. Selon Apollodore, elle participa aussi aux jeux funèbres de Pélias et y vainquit Pélée à la lutte.",
+        "resume": "Atalante se joignit aux héros réunis par Méléagre pour traquer le sanglier de Calydon, malgré les protestations de certains qui refusaient de chasser avec une femme. Elle fut la première à blesser la bête. Méléagre, qui l'aimait, lui donna la peau et la hure de l'animal, provoquant une querelle meurtrière. Selon Apollodore, elle participa aussi aux jeux funèbres de Pélias et y vainquit Pélée à la lutte.",
         "personnages": ["meleagre", "sanglier-de-calydon", "pelee"],
         "sources": ["Apollodore, Bibliothèque I et III", "Ovide, Métamorphoses VIII"]
       },
       {
         "titre": "La course aux pommes d'or",
-        "resume": "Retrouvée par son père, Atalante accepta de se marier à condition d'épouser seulement l'homme qui la battrait à la course ; les perdants seraient mis à mort. Hippomène, ou Mélanion selon d'autres, reçut d'Aphrodite trois pommes d'or qu'il laissa tomber pendant la course. Atalante s'arrêta pour les ramasser et perdit. Les époux, ayant profané un sanctuaire par leur union, furent changés en lions.",
+        "resume": "Retrouvée par son père, Atalante accepta de se marier à condition d'épouser seulement l'homme qui la battrait à la course ; les perdants seraient mis à mort. Hippomène, ou Mélanion selon d'autres, reçut d'Aphrodite trois pommes d'or qu'il laissa tomber pendant la course. Atalante s'arrêta pour les ramasser et perdit. Les époux, ayant offensé les dieux en profanant un sanctuaire, furent changés en lions.",
         "personnages": ["aphrodite", "zeus"],
         "sources": ["Hésiode, Catalogue des femmes (fragments)", "Ovide, Métamorphoses X", "Apollodore, Bibliothèque III"]
       }
@@ -573,7 +573,7 @@
       },
       {
         "titre": "Métamorphose en serpents",
-        "resume": "Accablés par les malheurs de leurs descendants, Sémélé foudroyée, Ino devenue folle, Actéon déchiré et Penthée mis en pièces, Cadmos et Harmonie quittèrent Thèbes pour l'Illyrie. Là, ils furent changés en serpents. Zeus les envoya ensuite aux Champs Élysées.",
+        "resume": "Accablés par les malheurs de leurs descendants, Sémélé foudroyée, Ino devenue folle, Actéon et Penthée morts tragiquement, Cadmos et Harmonie quittèrent Thèbes pour l'Illyrie. Là, ils furent changés en serpents. Zeus les envoya ensuite aux Champs Élysées.",
         "personnages": ["harmonie", "semele", "ino", "acteon", "zeus"],
         "sources": ["Euripide, Les Bacchantes", "Ovide, Métamorphoses IV", "Apollodore, Bibliothèque III"]
       }
@@ -612,7 +612,7 @@
       },
       {
         "titre": "Le Cyclope Polyphème",
-        "resume": "Sur le chemin du retour, Ulysse et ses compagnons pénétrèrent dans la grotte du Cyclope Polyphème, fils de Poséidon, qui les enferma et dévora plusieurs d'entre eux. Ulysse l'enivra et lui dit s'appeler « Personne », puis lui creva son œil unique avec un pieu durci au feu. Les survivants s'échappèrent accrochés sous le ventre des moutons. En partant, Ulysse révéla son vrai nom, et Polyphème appela sur lui la colère de son père.",
+        "resume": "Sur le chemin du retour, Ulysse et ses compagnons pénétrèrent dans la grotte du Cyclope Polyphème, fils de Poséidon, qui les enferma et dévora plusieurs d'entre eux. Ulysse lui fit boire un vin très fort qui l'endormit et lui dit s'appeler « Personne », puis l'aveugla avec un pieu durci au feu. Les survivants s'échappèrent accrochés sous le ventre des moutons. En partant, Ulysse révéla son vrai nom, et Polyphème appela sur lui la colère de son père.",
         "personnages": ["polypheme", "cyclopes", "poseidon"],
         "sources": ["Homère, Odyssée IX", "Euripide, Le Cyclope"]
       },
@@ -630,7 +630,7 @@
       },
       {
         "titre": "Le retour à Ithaque",
-        "resume": "Ramené à Ithaque par les Phéaciens, Ulysse fut déguisé par Athéna en vieux mendiant. Il se fit reconnaître de son fils Télémaque et observa les prétendants qui pillaient sa maison et pressaient Pénélope. Celle-ci proposa d'épouser celui qui tendrait l'arc d'Ulysse et ferait passer une flèche à travers douze haches. Seul le mendiant y parvint ; il massacra alors les prétendants avec Télémaque, puis se fit reconnaître de Pénélope grâce au secret de leur lit taillé dans un olivier.",
+        "resume": "Ramené à Ithaque par les Phéaciens, Ulysse fut déguisé par Athéna en vieux mendiant. Il se fit reconnaître de son fils Télémaque et observa les prétendants qui pillaient sa maison et pressaient Pénélope. Celle-ci proposa d'épouser celui qui tendrait l'arc d'Ulysse et ferait passer une flèche à travers douze haches. Seul le mendiant y parvint ; il vainquit alors les prétendants avec Télémaque, puis se fit reconnaître de Pénélope grâce au secret de leur lit taillé dans un olivier.",
         "personnages": ["athena", "telemaque", "penelope"],
         "sources": ["Homère, Odyssée XIII-XXIII"]
       }
@@ -663,7 +663,7 @@
       },
       {
         "titre": "Le jugement des armes et la mort d'Ajax",
-        "resume": "Après la mort d'Achille, ses armes furent promises au plus valeureux des Grecs. Ajax et Ulysse se les disputèrent, et elles furent attribuées à Ulysse. Fou de rage, Ajax voulut tuer les chefs grecs, mais Athéna l'égara et il massacra des troupeaux en les prenant pour ses ennemis. Revenu à lui et accablé de honte, il se jeta sur l'épée offerte jadis par Hector. Dans l'Hadès, son ombre refusa de répondre à Ulysse.",
+        "resume": "Après la mort d'Achille, ses armes furent promises au plus valeureux des Grecs. Ajax et Ulysse se les disputèrent, et elles furent attribuées à Ulysse. Fou de rage, Ajax voulut tuer les chefs grecs, mais Athéna l'égara et il s'en prit à des troupeaux en les prenant pour ses ennemis. Revenu à lui, il ne survécut pas à sa honte. Dans l'Hadès, son ombre refusa de répondre à Ulysse.",
         "personnages": ["ulysse", "achille", "athena", "agamemnon", "menelas", "hector"],
         "sources": ["Sophocle, Ajax", "Homère, Odyssée XI", "Petite Iliade (résumé de Proclos)", "Pindare, Néméennes VIII"]
       }
@@ -683,19 +683,19 @@
     "histoires": [
       {
         "titre": "Diomède contre les dieux",
-        "resume": "Inspiré par Athéna, Diomède accomplit de grands exploits sur le champ de bataille de Troie. Il blessa Énée et, lorsque Aphrodite vint sauver son fils, il la piqua au poignet de sa lance. Avec l'aide d'Athéna montée sur son char, il blessa ensuite Arès lui-même, qui remonta hurlant sur l'Olympe.",
+        "resume": "Inspiré par Athéna, Diomède accomplit de grands exploits sur le champ de bataille de Troie. Il blessa Énée et, lorsque Aphrodite vint sauver son fils, il la piqua au poignet de sa lance. Avec l'aide d'Athéna montée sur son char, il blessa ensuite Arès lui-même, qui regagna l'Olympe en gémissant.",
         "personnages": ["athena", "enee", "aphrodite", "ares", "apollon"],
         "sources": ["Homère, Iliade V"]
       },
       {
         "titre": "L'expédition nocturne et le Palladion",
-        "resume": "Diomède partit de nuit avec Ulysse espionner le camp troyen. Ils capturèrent l'espion Dolon, le tuèrent, puis massacrèrent le roi thrace Rhésos et ses compagnons, emmenant ses chevaux. Plus tard, les deux héros pénétrèrent dans Troie pour dérober le Palladion, statue d'Athéna dont dépendait le salut de la ville.",
+        "resume": "Diomède partit de nuit avec Ulysse espionner le camp troyen. Ils capturèrent l'espion Dolon, puis surprirent le camp du roi thrace Rhésos, qu'ils tuèrent, et emmenèrent ses chevaux. Plus tard, les deux héros pénétrèrent dans Troie pour dérober le Palladion, statue d'Athéna dont dépendait le salut de la ville.",
         "personnages": ["ulysse", "athena"],
         "sources": ["Homère, Iliade X", "Petite Iliade (résumé de Proclos)", "Virgile, Énéide II"]
       },
       {
         "titre": "Exil en Italie",
-        "resume": "À son retour à Argos, Diomède découvrit qu'Aphrodite, pour se venger, avait poussé son épouse à l'infidélité. Il quitta la Grèce et s'établit en Italie du Sud, où il fonda plusieurs cités. Les Latins lui demandèrent son aide contre Énée, mais il refusa de combattre à nouveau les Troyens.",
+        "resume": "À son retour à Argos, Diomède découvrit qu'Aphrodite, pour se venger, avait détourné de lui son épouse. Il quitta la Grèce et s'établit en Italie du Sud, où il fonda plusieurs cités. Les Latins lui demandèrent son aide contre Énée, mais il refusa de combattre à nouveau les Troyens.",
         "personnages": ["aphrodite", "enee"],
         "sources": ["Virgile, Énéide XI", "Ovide, Métamorphoses XIV"]
       }
@@ -724,13 +724,13 @@
       },
       {
         "titre": "La mort de Patrocle",
-        "resume": "Profitant de la retraite d'Achille, Hector repoussa les Achéens et incendia un navire. Lorsque Patrocle sortit au combat revêtu des armes d'Achille, Apollon l'étourdit et Hector l'acheva d'un coup de lance. Mourant, Patrocle lui prédit sa fin prochaine. Hector dépouilla le corps des armes d'Achille et les revêtit.",
+        "resume": "Profitant de la retraite d'Achille, Hector repoussa les Achéens et incendia un navire. Lorsque Patrocle sortit au combat revêtu des armes d'Achille, Apollon l'étourdit et Hector l'acheva d'un coup de lance. Mourant, Patrocle lui prédit sa fin prochaine. Hector prit les armes d'Achille et les revêtit.",
         "personnages": ["patrocle", "apollon", "achille", "ajax"],
         "sources": ["Homère, Iliade XV-XVII"]
       },
       {
         "titre": "Le duel fatal et la rançon",
-        "resume": "Resté seul hors des murs face à Achille, Hector prit la fuite et fit trois fois le tour de la ville. Athéna, sous les traits de son frère Déiphobe, le persuada de combattre. Abandonné par les dieux, il fut tué d'un coup à la gorge et demanda en vain que son corps soit rendu. Achille le traîna derrière son char pendant des jours, jusqu'à ce que Priam, guidé par Hermès, vienne le racheter ; Troie célébra alors ses funérailles.",
+        "resume": "Resté seul hors des murs face à Achille, Hector prit la fuite et fit trois fois le tour de la ville. Athéna, sous les traits de son frère Déiphobe, le persuada de combattre. Abandonné par les dieux, il tomba sous les coups d'Achille et demanda en vain que son corps soit rendu aux siens. Achille, dans sa colère, le garda pendant des jours, jusqu'à ce que Priam, guidé par Hermès, vienne le racheter ; Troie célébra alors ses funérailles.",
         "personnages": ["achille", "athena", "priam", "hermes", "zeus", "apollon", "andromaque", "hecube", "helene"],
         "sources": ["Homère, Iliade XXII-XXIV"]
       }
@@ -751,7 +751,7 @@
     "histoires": [
       {
         "titre": "Sauvé par les dieux",
-        "resume": "Aphrodite s'unit au berger troyen Anchise sur le mont Ida et lui annonça la naissance d'un fils qui régnerait sur les Troyens. Pendant la guerre, Énée fut blessé par Diomède et Aphrodite l'emporta du champ de bataille avant qu'Apollon ne le dissimule. Plus tard, face à Achille, il fut sauvé par Poséidon, qui annonça que sa lignée devait survivre à celle de Priam.",
+        "resume": "Aphrodite s'éprit du berger troyen Anchise sur le mont Ida et lui annonça la naissance d'un fils, Énée, qui régnerait sur les Troyens. Pendant la guerre, Énée fut blessé par Diomède et Aphrodite l'emporta du champ de bataille avant qu'Apollon ne le dissimule. Plus tard, face à Achille, il fut sauvé par Poséidon, qui annonça que sa lignée devait survivre à celle de Priam.",
         "personnages": ["aphrodite", "diomede", "apollon", "achille", "poseidon"],
         "sources": ["Hymne homérique à Aphrodite", "Homère, Iliade V et XX"]
       },
@@ -763,7 +763,7 @@
       },
       {
         "titre": "Didon",
-        "resume": "Jeté par une tempête suscitée par Junon sur la côte d'Afrique, Énée fut accueilli à Carthage par la reine Didon. Par l'action de Vénus et de Cupidon, elle s'éprit de lui et ils s'unirent lors d'une chasse interrompue par l'orage. Mercure vint rappeler à Énée sa mission en Italie. Il partit, et Didon, abandonnée, se donna la mort sur un bûcher en maudissant sa race.",
+        "resume": "Jeté par une tempête suscitée par Junon sur la côte d'Afrique, Énée fut accueilli à Carthage par la reine Didon. Par l'action de Vénus et de Cupidon, elle s'éprit de lui et, lors d'une chasse interrompue par l'orage, ils se réfugièrent dans une grotte ; Didon le considéra dès lors comme son époux. Mercure vint rappeler à Énée sa mission en Italie. Il partit, et Didon, abandonnée, maudit sa descendance et ne survécut pas à sa peine.",
         "personnages": ["hera", "aphrodite", "eros", "hermes", "eole"],
         "sources": ["Virgile, Énéide I et IV", "Ovide, Héroïdes VII"]
       },
@@ -804,7 +804,7 @@
       },
       {
         "titre": "La mort de Patrocle",
-        "resume": "Ému par les malheurs des Achéens, Patrocle obtint d'Achille la permission de combattre avec ses armes, à condition de seulement repousser les Troyens des navires. Il tua Sarpédon, fils de Zeus, puis, emporté par son élan, s'élança vers les murs de Troie. Apollon le frappa et lui arracha son armure, Euphorbe le blessa et Hector l'acheva. Achille lui offrit des funérailles grandioses suivies de jeux, et l'ombre de Patrocle demanda que leurs cendres soient réunies.",
+        "resume": "Ému par les malheurs des Achéens, Patrocle obtint d'Achille la permission de combattre avec ses armes, à condition de seulement repousser les Troyens des navires. Il tua Sarpédon, fils de Zeus, puis, emporté par son élan, s'élança vers les murs de Troie. Apollon l'étourdit et fit tomber son armure, Euphorbe le blessa et Hector l'acheva. Achille lui offrit des funérailles grandioses suivies de jeux, et l'ombre de Patrocle demanda que leurs cendres soient réunies.",
         "personnages": ["achille", "sarpedon", "apollon", "hector", "zeus", "ajax"],
         "sources": ["Homère, Iliade XVI et XXIII"]
       }
@@ -828,7 +828,7 @@
     "histoires": [
       {
         "titre": "Le taureau de Poséidon",
-        "resume": "Pour prouver que les dieux lui destinaient la royauté de Crète, Minos pria Poséidon de faire surgir un taureau de la mer, promettant de le lui sacrifier. Le dieu envoya un taureau magnifique, mais Minos le garda et en sacrifia un autre. Pour le punir, Poséidon inspira à Pasiphaé une passion pour l'animal. Avec l'aide de Dédale, elle s'unit au taureau et donna naissance au Minotaure, que Minos enferma dans le labyrinthe.",
+        "resume": "Pour prouver que les dieux lui destinaient la royauté de Crète, Minos pria Poséidon de faire surgir un taureau de la mer, promettant de le lui sacrifier. Le dieu envoya un taureau magnifique, mais Minos le garda et en sacrifia un autre. Pour le punir, Poséidon jeta un sort à son épouse Pasiphaé, qui s'attacha étrangement à l'animal. Elle donna naissance au Minotaure, monstre mi-homme mi-taureau, que Minos enferma dans le labyrinthe construit par Dédale.",
         "personnages": ["poseidon", "pasiphae", "taureau-de-crete", "dedale", "minotaure"],
         "sources": ["Apollodore, Bibliothèque III", "Euripide, Les Crétois (fragments)", "Ovide, Métamorphoses VIII"]
       },
@@ -840,7 +840,7 @@
       },
       {
         "titre": "La poursuite de Dédale",
-        "resume": "Dédale s'étant enfui de Crète avec Icare, Minos le poursuivit à travers le monde. Il proposait partout une énigme : faire passer un fil à travers une coquille spiralée. Le roi Cocalos de Sicile la résolut, grâce à Dédale caché chez lui. Minos exigea qu'on lui livre l'artisan, mais les filles de Cocalos l'ébouillantèrent dans son bain.",
+        "resume": "Dédale s'étant enfui de Crète avec Icare, Minos le poursuivit à travers le monde. Il proposait partout une énigme : faire passer un fil à travers une coquille spiralée. Le roi Cocalos de Sicile la résolut, grâce à Dédale caché chez lui. Minos exigea qu'on lui livre l'artisan, mais les filles de Cocalos le firent périr par ruse.",
         "personnages": ["dedale", "icare"],
         "sources": ["Hérodote VII", "Apollodore, Épitomé I", "Diodore de Sicile IV"]
       },
@@ -922,7 +922,7 @@
     "histoires": [
       {
         "titre": "La mort de Sarpédon",
-        "resume": "Allié des Troyens, Sarpédon mena les Lyciens à l'assaut du mur achéen. Lorsque Patrocle s'avança contre lui, Zeus hésita à sauver son fils, mais Héra le dissuada de bouleverser le destin. Le dieu fit tomber une pluie de sang en son honneur, puis Sarpédon fut tué par Patrocle. Sur l'ordre de Zeus, Apollon lava et parfuma le corps, que Sommeil et Mort emportèrent en Lycie pour y recevoir les honneurs funèbres.",
+        "resume": "Allié des Troyens, Sarpédon mena les Lyciens à l'assaut du mur achéen. Lorsque Patrocle s'avança contre lui, Zeus hésita à sauver son fils, mais Héra le dissuada de bouleverser le destin. Le dieu fit tomber du ciel une pluie de gouttes rouges en son honneur, puis Sarpédon fut tué par Patrocle. Sur l'ordre de Zeus, Apollon lava et parfuma le corps, que Sommeil et Mort emportèrent en Lycie pour y recevoir les honneurs funèbres.",
         "personnages": ["zeus", "hera", "patrocle", "apollon", "hypnos", "thanatos"],
         "sources": ["Homère, Iliade XII et XVI"]
       }
@@ -977,7 +977,7 @@
       },
       {
         "titre": "Les abeilles perdues",
-        "resume": "Aristée poursuivait Eurydice lorsqu'elle fut mordue par un serpent. En punition, les nymphes firent périr toutes ses abeilles. Sur le conseil de sa mère Cyrène, il captura le dieu marin Protée, qui se métamorphosa pour lui échapper avant de lui révéler la cause de son malheur. Aristée offrit des sacrifices aux mânes d'Orphée et d'Eurydice, et de nouveaux essaims naquirent des carcasses des bœufs immolés.",
+        "resume": "Aristée poursuivait Eurydice lorsqu'elle fut mordue par un serpent. En punition, les nymphes firent périr toutes ses abeilles. Sur le conseil de sa mère Cyrène, il captura le dieu marin Protée, qui se métamorphosa pour lui échapper avant de lui révéler la cause de son malheur. Aristée offrit des sacrifices aux mânes d'Orphée et d'Eurydice, et de nouveaux essaims naquirent des bœufs offerts en sacrifice.",
         "personnages": ["eurydice", "orphee", "cyrene", "protee", "naiades"],
         "sources": ["Virgile, Géorgiques IV"]
       }
@@ -1020,13 +1020,13 @@
     "histoires": [
       {
         "titre": "Le meurtre de Phocos et l'exil",
-        "resume": "Jaloux de leur demi-frère Phocos, excellent athlète, Pélée et Télamon le tuèrent, l'un d'un disque, selon certains. Éaque les bannit d'Égine. Pélée gagna la Phthie où il fut purifié, puis tua accidentellement son hôte lors de la chasse de Calydon. Réfugié à Iolcos, il repoussa l'épouse du roi Acaste, qui l'accusa ; abandonné sans arme sur le Pélion, il fut sauvé par Chiron.",
+        "resume": "Jaloux de leur demi-frère Phocos, excellent athlète, Pélée et Télamon le tuèrent, l'un d'un disque, selon certains. Éaque les bannit d'Égine. Pélée gagna la Phthie où il fut purifié, puis tua accidentellement son hôte lors de la chasse de Calydon. Réfugié à Iolcos, il repoussa l'amour de l'épouse du roi Acaste, qui l'accusa faussement ; abandonné sans arme sur le Pélion, il fut sauvé par Chiron.",
         "personnages": ["telamon", "eaque", "chiron", "sanglier-de-calydon"],
         "sources": ["Pindare, Néméennes V", "Apollodore, Bibliothèque III"]
       },
       {
         "titre": "Les noces de Pélée et Thétis",
-        "resume": "Zeus et Poséidon désiraient Thétis, mais une prophétie annonçait qu'elle enfanterait un fils plus puissant que son père. Les dieux la marièrent donc à un mortel, Pélée. Conseillé par Chiron, il la saisit et la tint malgré ses métamorphoses en feu, en eau et en bêtes sauvages. Tous les dieux assistèrent aux noces sur le Pélion ; Éris, non invitée, y jeta la pomme d'or à l'origine de la guerre de Troie.",
+        "resume": "Zeus et Poséidon voulaient épouser Thétis, mais une prophétie annonçait qu'elle enfanterait un fils plus puissant que son père. Les dieux la marièrent donc à un mortel, Pélée. Conseillé par Chiron, il parvint à la retenir malgré ses métamorphoses en feu, en eau et en bêtes sauvages, et elle accepta enfin de l'épouser. Tous les dieux assistèrent aux noces sur le Pélion ; Éris, non invitée, y jeta la pomme d'or à l'origine de la guerre de Troie.",
         "personnages": ["thetis", "zeus", "poseidon", "themis", "promethee", "chiron", "eris", "hera", "athena", "aphrodite"],
         "sources": ["Pindare, Isthmiques VIII", "Catulle LXIV", "Apollodore, Bibliothèque III", "Chants cypriens"]
       }
@@ -1072,7 +1072,7 @@
     "histoires": [
       {
         "titre": "L'aide contre l'Hydre",
-        "resume": "Iolaos accompagnait son oncle Héraclès comme cocher et écuyer. À Lerne, chaque tête de l'Hydre que le héros tranchait repoussait en double. Iolaos mit le feu à une forêt voisine et cautérisa les cous avec des tisons, empêchant les têtes de repousser. Eurysthée refusa pour cette raison de compter ce travail.",
+        "resume": "Iolaos accompagnait son oncle Héraclès comme cocher et écuyer. À Lerne, chaque tête de l'Hydre que le héros tranchait repoussait en double. Iolaos mit le feu à une forêt voisine et brûla chaque blessure avec des tisons, empêchant les têtes de repousser. Eurysthée refusa pour cette raison de compter ce travail.",
         "personnages": ["heracles", "hydre-de-lerne"],
         "sources": ["Apollodore, Bibliothèque II", "Euripide, Ion"]
       },
@@ -1128,7 +1128,7 @@
     "histoires": [
       {
         "titre": "Penthésilée à Troie",
-        "resume": "Ayant tué par accident sa sœur Hippolyté lors d'une chasse, Penthésilée vint à Troie pour se purifier et combattre aux côtés de Priam après la mort d'Hector. Elle accomplit de grands exploits à la tête des Amazones. Achille la transperça de sa lance et, en lui ôtant son casque, fut saisi par sa beauté. Thersite, qui se moquait de son émotion, fut tué par le héros.",
+        "resume": "Ayant tué par accident sa sœur Hippolyté lors d'une chasse, Penthésilée vint à Troie pour se purifier et combattre aux côtés de Priam après la mort d'Hector. Elle accomplit de grands exploits à la tête des Amazones. Achille la vainquit et, en lui ôtant son casque, fut saisi d'admiration devant sa beauté. Thersite, qui se moquait de son émotion, fut tué par le héros.",
         "personnages": ["hippolyte", "priam", "achille", "ares"],
         "sources": ["Éthiopide (résumé de Proclos)", "Quintus de Smyrne, Suite d'Homère I", "Apollodore, Épitomé V"]
       }
@@ -1153,13 +1153,13 @@
     "histoires": [
       {
         "titre": "Aveuglé puis guéri",
-        "resume": "Poséidon avait donné à Orion le pouvoir de marcher sur la mer. À Chios, il voulut épouser Mérope, fille du roi Œnopion, et la viola dans l'ivresse. Le roi l'aveugla pendant son sommeil. Guidé par un oracle, Orion prit sur ses épaules Cédalion, apprenti d'Héphaïstos, qui le mena vers l'Orient ; les rayons d'Hélios lui rendirent la vue.",
+        "resume": "Poséidon avait donné à Orion le pouvoir de marcher sur la mer. À Chios, il demanda en mariage Mérope, fille du roi Œnopion, mais offensa gravement le roi, qui l'aveugla pendant son sommeil. Guidé par un oracle, Orion prit sur ses épaules Cédalion, apprenti d'Héphaïstos, qui le mena vers l'Orient ; les rayons d'Hélios lui rendirent la vue.",
         "personnages": ["poseidon", "hephaistos", "helios"],
         "sources": ["Hésiode, Astronomie (fragments)", "Apollodore, Bibliothèque I", "Ératosthène, Catastérismes"]
       },
       {
         "titre": "La mort d'Orion",
-        "resume": "Les traditions divergent sur la mort du chasseur. Selon Homère, Artémis le tua de ses flèches parce que l'Aurore l'avait enlevé. D'autres racontent qu'il tenta de violer Artémis ou se vanta de pouvoir tuer toutes les bêtes de la terre ; Gaïa fit alors surgir un scorpion qui le piqua mortellement. Zeus le plaça parmi les étoiles, où il fuit éternellement le Scorpion.",
+        "resume": "Les traditions divergent sur la mort du chasseur. Selon Homère, Artémis le tua de ses flèches parce que l'Aurore l'avait enlevé. D'autres racontent qu'il offensa Artémis ou se vanta de pouvoir tuer toutes les bêtes de la terre ; Gaïa fit alors surgir un scorpion qui le piqua mortellement. Zeus le plaça parmi les étoiles, où il fuit éternellement le Scorpion.",
         "personnages": ["artemis", "eos", "gaia", "zeus"],
         "sources": ["Homère, Odyssée V", "Ératosthène, Catastérismes", "Ovide, Fastes V"]
       }
@@ -1180,13 +1180,13 @@
     "histoires": [
       {
         "titre": "L'arc d'Héraclès",
-        "resume": "Lorsque Héraclès, dévoré par la tunique empoisonnée, fit dresser son bûcher sur le mont Œta, personne n'osait y mettre le feu. Philoctète, ou son père Péas, accepta de l'allumer. En remerciement, le héros lui légua son arc et ses flèches infaillibles.",
+        "resume": "Lorsque Héraclès, brûlé par le poison de la tunique, fit dresser son bûcher sur le mont Œta, personne n'osait y mettre le feu. Philoctète, ou son père Péas, accepta de l'allumer. En remerciement, le héros lui légua son arc et ses flèches infaillibles.",
         "personnages": ["heracles"],
         "sources": ["Sophocle, Philoctète", "Apollodore, Bibliothèque II", "Ovide, Métamorphoses IX"]
       },
       {
         "titre": "Abandonné à Lemnos",
-        "resume": "En route pour Troie, Philoctète fut mordu au pied par un serpent lors d'un sacrifice. Sa plaie purulente répandait une odeur insupportable et ses cris troublaient les rites. Sur le conseil d'Ulysse, les Grecs l'abandonnèrent sur l'île de Lemnos, où il survécut dix ans en chassant avec son arc.",
+        "resume": "En route pour Troie, Philoctète fut mordu au pied par un serpent lors d'un sacrifice. Sa blessure refusait de guérir, et ses plaintes troublaient les sacrifices. Sur le conseil d'Ulysse, les Grecs l'abandonnèrent sur l'île de Lemnos, où il survécut dix ans en chassant avec son arc.",
         "personnages": ["ulysse", "agamemnon", "menelas"],
         "sources": ["Homère, Iliade II", "Sophocle, Philoctète"]
       },
@@ -1221,7 +1221,7 @@
       },
       {
         "titre": "Le sac de Troie",
-        "resume": "Pendant la prise de la ville, Néoptolème tua le vieux Priam réfugié à l'autel de Zeus. Il précipita aussi, selon certains, le petit Astyanax du haut des remparts. Sur l'ordre de l'ombre d'Achille, il sacrifia Polyxène sur le tombeau de son père. Il reçut Andromaque comme part de butin.",
+        "resume": "Pendant la prise de la ville, Néoptolème tua le vieux Priam réfugié à l'autel de Zeus. Selon certains, il causa aussi la mort du petit Astyanax, fils d'Hector. Sur l'ordre de l'ombre d'Achille, la princesse Polyxène fut offerte en sacrifice sur le tombeau de son père. Il reçut Andromaque comme part de butin.",
         "personnages": ["priam", "andromaque", "hecube", "achille"],
         "sources": ["Sac de Troie (résumé de Proclos)", "Euripide, Hécube", "Virgile, Énéide II"]
       },
@@ -1253,7 +1253,7 @@
       },
       {
         "titre": "Aux côtés de son père",
-        "resume": "Échappant à l'embuscade que les prétendants lui avaient tendue, Télémaque regagna Ithaque et retrouva chez le porcher Eumée un mendiant qui se révéla être Ulysse. Il l'aida à préparer la vengeance en cachant les armes de la grande salle. Lors du massacre des prétendants, il combattit aux côtés de son père.",
+        "resume": "Échappant à l'embuscade que les prétendants lui avaient tendue, Télémaque regagna Ithaque et retrouva chez le porcher Eumée un mendiant qui se révéla être Ulysse. Il l'aida à préparer la vengeance en cachant les armes de la grande salle. Lors du combat contre les prétendants, il combattit aux côtés de son père.",
         "personnages": ["ulysse", "penelope", "athena"],
         "sources": ["Homère, Odyssée XV-XXII"]
       }
@@ -1342,7 +1342,7 @@
     "histoires": [
       {
         "titre": "Le voleur et Sisyphe",
-        "resume": "Hermès avait donné à son fils le don de dérober sans être pris et de changer l'apparence des choses volées. Autolycos déroba ainsi les troupeaux de Sisyphe en modifiant la couleur des bêtes. Mais Sisyphe avait gravé une marque sous leurs sabots et reconnut ses animaux. Selon une tradition, il séduisit alors Anticlée, fille d'Autolycos, qui aurait conçu Ulysse de lui.",
+        "resume": "Hermès avait donné à son fils le don de dérober sans être pris et de changer l'apparence des choses volées. Autolycos déroba ainsi les troupeaux de Sisyphe en modifiant la couleur des bêtes. Mais Sisyphe avait gravé une marque sous leurs sabots et reconnut ses animaux. Selon une tradition, Sisyphe s'éprit alors d'Anticlée, fille d'Autolycos, et serait le véritable père d'Ulysse.",
         "personnages": ["hermes", "sisyphe", "ulysse"],
         "sources": ["Homère, Odyssée XIX", "Hygin, Fables", "Ovide, Métamorphoses XI"]
       },
@@ -1367,14 +1367,14 @@
     ],
     "histoires": [
       {
-        "titre": "Le festin de Lycaon",
-        "resume": "Selon une tradition, le roi Lycaon, voulant éprouver la divinité de Zeus venu chez lui, lui servit à manger son petit-fils Arcas découpé. Zeus renversa la table, foudroya la maison et changea Lycaon en loup. Il rassembla les membres de l'enfant et le ramena à la vie.",
+        "titre": "Le crime de Lycaon",
+        "resume": "Selon une tradition, le roi Lycaon, voulant éprouver la divinité de Zeus venu chez lui, lui offrit un repas abominable, commettant un crime monstrueux envers son petit-fils Arcas. Zeus renversa la table, foudroya la maison et changea Lycaon en loup. Puis il rendit la vie au petit Arcas.",
         "personnages": ["lycaon", "zeus"],
         "sources": ["Hésiode (fragments)", "Ératosthène, Catastérismes", "Hygin, Astronomie"]
       },
       {
         "titre": "La Grande et la Petite Ourse",
-        "resume": "Callisto, la mère d'Arcas, avait été changée en ourse par Zeus, Héra ou Artémis. Devenu chasseur, Arcas rencontra l'ourse dans la forêt et s'apprêtait à la tuer sans la reconnaître. Zeus empêcha le matricide en les emportant tous deux au ciel, où ils devinrent la Grande Ourse et le Bouvier. Arcas régna auparavant sur l'Arcadie, à laquelle il donna son nom, et enseigna à son peuple la culture du blé et le tissage.",
+        "resume": "Callisto, la mère d'Arcas, avait été changée en ourse par Zeus, Héra ou Artémis. Devenu chasseur, Arcas rencontra l'ourse dans la forêt et s'apprêtait à la tuer sans la reconnaître. Zeus l'empêcha de tuer sa propre mère en les emportant tous deux au ciel, où ils devinrent la Grande Ourse et le Bouvier. Arcas régna auparavant sur l'Arcadie, à laquelle il donna son nom, et enseigna à son peuple la culture du blé et le tissage.",
         "personnages": ["callisto", "zeus", "hera", "artemis"],
         "sources": ["Ovide, Métamorphoses II", "Pausanias VIII", "Apollodore, Bibliothèque III"]
       }
@@ -1418,7 +1418,7 @@
     "histoires": [
       {
         "titre": "La vengeance d'Antiope",
-        "resume": "Antiope, enceinte de Zeus, s'enfuit de Thèbes et accoucha de jumeaux, Amphion et Zéthos, qui furent abandonnés puis élevés par un berger. Leur mère fut longtemps maltraitée par son oncle Lycos et par Dircé, l'épouse de celui-ci. Elle parvint à s'échapper et ses fils la reconnurent. Ils tuèrent Lycos et attachèrent Dircé à un taureau qui la traîna jusqu'à la mort.",
+        "resume": "Antiope, qui attendait des enfants de Zeus, s'enfuit de Thèbes et accoucha de jumeaux, Amphion et Zéthos, qui furent abandonnés puis élevés par un berger. Leur mère fut longtemps maltraitée par son oncle Lycos et par Dircé, l'épouse de celui-ci. Elle parvint à s'échapper et ses fils la reconnurent. Ils tuèrent Lycos et punirent cruellement Dircé.",
         "personnages": ["zethos", "zeus"],
         "sources": ["Euripide, Antiope (fragments)", "Apollodore, Bibliothèque III"]
       },
@@ -1430,7 +1430,7 @@
       },
       {
         "titre": "Le malheur de Niobé",
-        "resume": "Niobé, épouse d'Amphion, se vanta d'être plus féconde que Léto, mère de deux enfants seulement. Apollon et Artémis tuèrent alors de leurs flèches tous ses fils et toutes ses filles. Accablé, Amphion se donna la mort, ou fut tué par Apollon en voulant attaquer son temple.",
+        "resume": "Niobé, épouse d'Amphion, se vanta d'avoir plus d'enfants que Léto, mère de deux enfants seulement. Apollon et Artémis tuèrent alors de leurs flèches tous ses fils et toutes ses filles. Accablé, Amphion ne survécut pas à sa peine, ou fut tué par Apollon en voulant attaquer son temple.",
         "personnages": ["niobe", "leto", "apollon", "artemis"],
         "sources": ["Homère, Iliade XXIV", "Ovide, Métamorphoses VI"]
       }
@@ -1476,7 +1476,7 @@
       },
       {
         "titre": "La mort sous les murs de Thèbes",
-        "resume": "Lors de l'expédition des Sept, Tydée fut mortellement blessé par Mélanippe, qu'il tua à son tour. Athéna, qui le protégeait, apportait un remède pour le rendre immortel. Mais Amphiaraos, qui le haïssait, lui jeta la tête de Mélanippe ; Tydée en dévora la cervelle. Saisie de dégoût, Athéna renonça à son présent et le héros mourut.",
+        "resume": "Lors de l'expédition des Sept, Tydée fut mortellement blessé par Mélanippe, qu'il tua à son tour. Athéna, qui le protégeait, apportait un remède pour le rendre immortel. Mais Amphiaraos, qui le haïssait, poussa Tydée, fou de rage, à commettre un acte barbare envers son ennemi vaincu. Saisie de dégoût, Athéna renonça à son présent et le héros mourut.",
         "personnages": ["athena", "amphiaraos"],
         "sources": ["Eschyle, Les Sept contre Thèbes", "Apollodore, Bibliothèque III", "Stace, Thébaïde VIII"]
       }

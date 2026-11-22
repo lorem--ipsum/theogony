@@ -42,14 +42,14 @@
     ],
     "histoires": [
       {
-        "titre": "La Terre au large sein",
+        "titre": "La Terre, mère de tous les êtres",
         "resume": "Apparue juste après Chaos, Gaïa est le siège solide et durable de tous les êtres. Sans union, elle engendre seule Ouranos, le Ciel étoilé, pour qu'il la recouvre entièrement, puis les hautes Montagnes et Pontos, la mer stérile. Elle s'unit ensuite à Ouranos et donne naissance aux douze Titans, aux trois Cyclopes et aux trois Hécatonchires aux cent bras. Hésiode fait d'elle l'aïeule de presque toute la race divine.",
         "personnages": ["gaia", "ouranos", "ourea", "pontos", "cyclopes", "hecatonchires", "cronos"],
         "sources": ["Hésiode, Théogonie"]
       },
       {
         "titre": "La faucille et la révolte contre Ouranos",
-        "resume": "Ouranos, haïssant ses enfants, les empêchait de sortir à la lumière et les retenait enfouis dans le corps de Gaïa. Accablée de douleur, la déesse forgea une grande faucille d'acier et demanda à ses fils de la venger. Seul Cronos, le plus jeune des Titans, accepta. Gaïa le cacha en embuscade, et lorsque Ouranos vint s'étendre sur elle, Cronos le mutila. Du sang tombé sur la terre, Gaïa conçut encore les Érinyes, les Géants et les nymphes Méliades.",
+        "resume": "Ouranos, haïssant ses enfants, les empêchait de sortir à la lumière et les retenait enfouis dans les profondeurs de la Terre. Accablée de douleur, la déesse forgea une grande faucille d'acier et demanda à ses fils de la venger. Seul Cronos, le plus jeune des Titans, accepta. Gaïa le cacha en embuscade, et lorsque Ouranos s'approcha, Cronos surgit, le frappa avec la faucille et le renversa. Du sang d'Ouranos blessé, tombé sur la terre, Gaïa conçut encore les Érinyes, les Géants et les nymphes Méliades.",
         "personnages": ["gaia", "ouranos", "cronos", "geants", "meliae", "alecto", "megere", "tisiphone"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       },
@@ -66,7 +66,7 @@
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       },
       {
-        "titre": "La première maîtresse de Delphes",
+        "titre": "La première gardienne de Delphes",
         "resume": "Plusieurs traditions font de Gaïa la première détentrice de l'oracle de Delphes. Eschyle, au début des Euménides, énumère la succession des prophétesses : Gaïa d'abord, puis Thémis, puis Phoébé, qui offrit le sanctuaire à Apollon. D'autres récits disent que le serpent Python gardait l'oracle pour le compte de la Terre. Apollon dut tuer le monstre pour s'emparer du lieu, ce qui expliquait les rites d'expiation pratiqués à Delphes.",
         "personnages": ["gaia", "themis", "phoebe", "apollon", "python"],
         "sources": ["Eschyle, Euménides", "Hymne homérique à Apollon", "Pausanias, Description de la Grèce"]
@@ -95,7 +95,7 @@
       },
       {
         "titre": "Le père de Typhon",
-        "resume": "Après la défaite des Titans, Gaïa s'unit au Tartare grâce à Aphrodite, dit Hésiode. De cette union naquit Typhon, monstre aux cent têtes de serpent qui crachaient le feu et poussaient toutes sortes de cris. Typhon voulut s'emparer du pouvoir sur les dieux et les hommes. Zeus le vainquit et le précipita à son tour dans le Tartare, d'où proviennent depuis les vents mauvais.",
+        "resume": "Après la défaite des Titans, Gaïa s'unit au Tartare, dit Hésiode. De cette union naquit Typhon, monstre aux cent têtes de serpent qui crachaient le feu et poussaient toutes sortes de cris. Typhon voulut s'emparer du pouvoir sur les dieux et les hommes. Zeus le vainquit et le précipita à son tour dans le Tartare, d'où proviennent depuis les vents mauvais.",
         "personnages": ["tartare", "gaia", "typhon", "zeus"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       }
@@ -107,8 +107,8 @@
     "grec": "Ἔρως",
     "romain": "Amor",
     "categorie": "primordial",
-    "epithete": "La force primordiale du désir",
-    "domaines": ["désir", "union", "génération"],
+    "epithete": "La force primordiale de l'amour",
+    "domaines": ["amour", "union", "génération"],
     "tags": ["amour", "désir", "création", "naissance", "personnification", "immortel", "ailé"],
     "filiations": [
       { "parents": ["nyx"], "source": "Aristophane, Oiseaux (né d'un œuf pondu par la Nuit)" }
@@ -116,13 +116,13 @@
     "histoires": [
       {
         "titre": "Le plus beau des immortels",
-        "resume": "Chez Hésiode, Éros apparaît dès l'origine, juste après Chaos, Gaïa et le Tartare, sans avoir de parents. Il est le plus beau des dieux immortels, celui qui rompt les membres et dompte la raison des dieux comme des hommes. Sa présence est nécessaire pour que les puissances primordiales s'unissent et engendrent. Plus tard, il accompagne Aphrodite dès sa naissance avec Himéros. Les poètes postérieurs le distingueront de l'enfant ailé, fils d'Aphrodite.",
+        "resume": "Chez Hésiode, Éros apparaît dès l'origine, juste après Chaos, Gaïa et le Tartare, sans avoir de parents. Il est le plus beau des dieux immortels, celui qui trouble les cœurs et dompte la raison des dieux comme des hommes. Sa présence est nécessaire pour que les puissances primordiales s'unissent et engendrent. Plus tard, il accompagne Aphrodite dès sa naissance avec Himéros. Les poètes postérieurs le distingueront de l'enfant ailé, fils d'Aphrodite.",
         "personnages": ["eros", "chaos", "gaia", "aphrodite"],
         "sources": ["Hésiode, Théogonie"]
       },
       {
         "titre": "L'œuf de la Nuit",
-        "resume": "Dans une parodie de cosmogonie, le chœur des Oiseaux d'Aristophane raconte qu'au commencement la Nuit aux ailes noires pondit un œuf dans le sein immense de l'Érèbe. De cet œuf, avec le temps, sortit Éros aux ailes d'or, semblable aux tourbillons du vent. En s'unissant au Chaos, il engendra la race des oiseaux, plus ancienne que celle des dieux. Ce récit fait écho aux théogonies orphiques, où un être primordial nommé Phanès ou Éros naît d'un œuf cosmique.",
+        "resume": "Dans une parodie de cosmogonie, le chœur des Oiseaux d'Aristophane raconte qu'au commencement la Nuit aux ailes noires pondit un œuf dans les profondeurs immenses de l'Érèbe. De cet œuf, avec le temps, sortit Éros aux ailes d'or, semblable aux tourbillons du vent. En s'unissant au Chaos, il engendra la race des oiseaux, plus ancienne que celle des dieux. Ce récit fait écho aux théogonies orphiques, où un être primordial nommé Phanès ou Éros naît d'un œuf cosmique.",
         "personnages": ["eros", "nyx", "erebe", "chaos"],
         "sources": ["Aristophane, Oiseaux", "Fragments orphiques"]
       }
@@ -263,14 +263,14 @@
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       },
       {
-        "titre": "La mutilation d'Ouranos",
-        "resume": "Une nuit, Ouranos vint s'étendre sur Gaïa, ignorant que Cronos était caché en embuscade. Le Titan saisit la faucille que sa mère avait forgée et trancha les parties de son père, qu'il jeta derrière lui. Les gouttes de sang fécondèrent la Terre, qui enfanta les Érinyes, les Géants et les nymphes Méliades. Les parties tombées dans la mer furent longtemps ballottées par les flots, et de l'écume qui les entourait naquit Aphrodite. Ouranos perdit alors sa souveraineté, et la succession divine commença.",
+        "titre": "Cronos renverse Ouranos",
+        "resume": "Une nuit, Ouranos s'approcha de Gaïa, ignorant que Cronos était caché en embuscade. Le Titan saisit la faucille que sa mère avait forgée, frappa son père et le renversa. Les gouttes du sang d'Ouranos blessé tombèrent sur la Terre, qui enfanta les Érinyes, les Géants et les nymphes Méliades. Au même moment, de l'écume de la mer naquit Aphrodite. Ouranos perdit alors sa souveraineté, et la succession divine commença.",
         "personnages": ["ouranos", "cronos", "gaia", "aphrodite", "geants", "meliae", "alecto", "megere", "tisiphone"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       },
       {
         "titre": "La malédiction des Titans",
-        "resume": "Après sa mutilation, Ouranos donna à ses fils le nom de Titans, que Hésiode rattache au verbe signifiant tendre ou s'efforcer. Il leur reprocha d'avoir commis un crime et leur annonça qu'ils en paieraient le prix plus tard. Avec Gaïa, il prédit aussi à Cronos qu'il serait à son tour renversé par son propre fils. La prophétie se réalisa lorsque Zeus vainquit les Titans. Ouranos et Gaïa conseillèrent ensuite Zeus, notamment au sujet de Métis.",
+        "resume": "Après sa défaite, Ouranos donna à ses fils le nom de Titans, que Hésiode rattache au verbe signifiant tendre ou s'efforcer. Il leur reprocha d'avoir commis un crime et leur annonça qu'ils en paieraient le prix plus tard. Avec Gaïa, il prédit aussi à Cronos qu'il serait à son tour renversé par son propre fils. La prophétie se réalisa lorsque Zeus vainquit les Titans. Ouranos et Gaïa conseillèrent ensuite Zeus, notamment au sujet de Métis.",
         "personnages": ["ouranos", "cronos", "zeus", "gaia", "metis"],
         "sources": ["Hésiode, Théogonie"]
       }

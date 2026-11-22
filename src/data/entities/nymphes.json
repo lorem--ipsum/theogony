@@ -59,7 +59,7 @@
       },
       {
         "titre": "La mère de Phaéton",
-        "resume": "Chez Ovide, Clymène est l'épouse du roi d'Éthiopie Mérops mais a conçu son fils Phaéton avec le Soleil. Lorsque l'enfant doute de son origine, elle jure par la lumière du jour qu'il est bien fils d'Hélios et l'envoie interroger son père. Phaéton obtient de conduire le char solaire, perd le contrôle et est foudroyé par Zeus. Clymène erre ensuite sur la terre en pleurant son fils.",
+        "resume": "Chez Ovide, Clymène est l'épouse du roi d'Éthiopie Mérops mais son fils Phaéton a pour père le Soleil. Lorsque l'enfant doute de son origine, elle jure par la lumière du jour qu'il est bien fils d'Hélios et l'envoie interroger son père. Phaéton obtient de conduire le char solaire, perd le contrôle et est foudroyé par Zeus. Clymène erre ensuite sur la terre en pleurant son fils.",
         "personnages": ["helios", "zeus"],
         "sources": ["Ovide, Métamorphoses I-II"]
       }
@@ -81,7 +81,7 @@
     "histoires": [
       {
         "titre": "Mère des Charites",
-        "resume": "Hésiode rapporte que Zeus s'unit à l'Océanide Eurynomé, à la beauté désirable. Elle lui donna trois filles aux belles joues, les Charites : Aglaé, Euphrosyne et Thalie. De leurs paupières coule le désir, et leur regard sous les sourcils est plein de charme. Les Charites devinrent les compagnes des Muses et d'Aphrodite.",
+        "resume": "Hésiode rapporte que Zeus s'unit à l'Océanide Eurynomé, à la beauté charmante. Elle lui donna trois filles aux belles joues, les Charites : Aglaé, Euphrosyne et Thalie. Leur regard est plein de grâce et de charme. Les Charites devinrent les compagnes des Muses et d'Aphrodite.",
         "personnages": ["zeus", "aglae", "euphrosyne", "thalie-charite"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque I"]
       },
@@ -154,7 +154,7 @@
     "histoires": [
       {
         "titre": "Mère de Géryon",
-        "resume": "Callirrhoé, fille de l'illustre Océan, s'unit à Chrysaor, né du cou tranché de Méduse. Elle enfanta Géryon, le géant à trois têtes qui régnait sur l'île d'Érythie, au-delà de l'Océan. Géryon possédait un troupeau de bœufs rouges gardé par le chien Orthros. Héraclès le tua pour s'emparer de ce troupeau lors de son dixième travail. Selon une lecture d'Hésiode, Callirrhoé serait aussi la mère d'Échidna.",
+        "resume": "Callirrhoé, fille de l'illustre Océan, s'unit à Chrysaor, né de Méduse au moment où Persée la vainquit. Elle enfanta Géryon, le géant à trois têtes qui régnait sur l'île d'Érythie, au-delà de l'Océan. Géryon possédait un troupeau de bœufs rouges gardé par le chien Orthros. Héraclès le tua pour s'emparer de ce troupeau lors de son dixième travail. Selon une lecture d'Hésiode, Callirrhoé serait aussi la mère d'Échidna.",
         "personnages": ["chrysaor", "geryon", "heracles", "orthros", "echidna"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque II"]
       }
@@ -254,7 +254,7 @@
     "nom": "Clytie",
     "grec": "Κλυτία",
     "categorie": "nymphe",
-    "epithete": "L'amante délaissée du Soleil",
+    "epithete": "L'amoureuse délaissée du Soleil",
     "symboles": ["héliotrope"],
     "tags": ["soleil", "amour", "jalousie", "métamorphose", "transformé en plante", "fleurs"],
     "filiations": [
@@ -266,7 +266,7 @@
     "histoires": [
       {
         "titre": "La fleur qui suit le Soleil",
-        "resume": "Clytie aimait Hélios, mais le dieu se détourna d'elle pour la princesse perse Leucothoé. Rongée de jalousie, Clytie révéla l'aventure au père de la jeune fille, qui la fit enterrer vivante. Hélios, désespéré, ne revint jamais vers Clytie. Elle se laissa dépérir, assise sur la terre nue, sans boire ni manger, les yeux fixés sur la course du Soleil. Ses membres prirent racine et elle devint une fleur qui tourne toujours son visage vers l'astre.",
+        "resume": "Clytie aimait Hélios, mais le dieu se détourna d'elle pour la princesse perse Leucothoé. Rongée de jalousie, Clytie révéla cet amour au père de la jeune fille, qui, furieux, la punit cruellement. Hélios, désespéré, ne revint jamais vers Clytie. Elle se laissa dépérir, assise sur la terre nue, sans boire ni manger, les yeux fixés sur la course du Soleil. Ses membres prirent racine et elle devint une fleur qui tourne toujours son visage vers l'astre.",
         "personnages": ["helios"],
         "sources": ["Ovide, Métamorphoses IV"]
       }
@@ -292,7 +292,7 @@
     "histoires": [
       {
         "titre": "Le dauphin messager",
-        "resume": "Poséidon voulut épouser la Néréide Amphitrite, mais elle s'enfuit pour préserver sa virginité et se cacha auprès d'Atlas, aux confins du monde. Le dieu envoya de nombreux émissaires à sa recherche. Un dauphin la découvrit et sut la convaincre d'accepter le mariage. En remerciement, Poséidon plaça l'image du dauphin parmi les constellations.",
+        "resume": "Poséidon voulut épouser la Néréide Amphitrite, mais elle voulait rester libre : elle s'enfuit et se cacha auprès d'Atlas, aux confins du monde. Le dieu envoya de nombreux émissaires à sa recherche. Un dauphin la découvrit et sut la convaincre d'accepter le mariage. En remerciement, Poséidon plaça l'image du dauphin parmi les constellations.",
         "personnages": ["poseidon", "atlas"],
         "sources": ["Ératosthène, Catastérismes", "Hygin, Astronomie II"]
       },
@@ -323,7 +323,7 @@
     "histoires": [
       {
         "titre": "La prophétie et les noces avec Pélée",
-        "resume": "Zeus et Poséidon se disputaient la main de Thétis jusqu'au jour où Thémis, ou Prométhée selon d'autres, révéla qu'elle enfanterait un fils plus puissant que son père. Les dieux décidèrent alors de la marier à un mortel, Pélée. La Néréide résista en prenant toutes sortes de formes, feu, eau, lion ou serpent, mais Pélée, conseillé par Chiron, la tint fermement jusqu'à ce qu'elle cède. Leurs noces sur le Pélion réunirent tous les dieux, sauf Éris, qui jeta la pomme de discorde à l'origine de la guerre de Troie.",
+        "resume": "Zeus et Poséidon se disputaient la main de Thétis jusqu'au jour où Thémis, ou Prométhée selon d'autres, révéla qu'elle enfanterait un fils plus puissant que son père. Les dieux décidèrent alors de la marier à un mortel, Pélée. La Néréide résista en prenant toutes sortes de formes, feu, eau, lion ou serpent, mais Pélée, conseillé par Chiron, ne la lâcha pas jusqu'à ce qu'elle accepte de l'épouser. Leurs noces sur le Pélion réunirent tous les dieux, sauf Éris, qui jeta la pomme de discorde à l'origine de la guerre de Troie.",
         "personnages": ["zeus", "poseidon", "themis", "promethee", "pelee", "chiron", "eris"],
         "sources": ["Pindare, Isthmiques VIII", "Eschyle, Prométhée enchaîné", "Apollodore, Bibliothèque III", "Ovide, Métamorphoses XI"]
       },
@@ -363,7 +363,7 @@
     "histoires": [
       {
         "titre": "Galatée, Acis et Polyphème",
-        "resume": "La Néréide Galatée aimait le jeune berger sicilien Acis, fils de Faunus. Le Cyclope Polyphème, épris d'elle, chantait son amour sur les rochers et lui promettait toutes ses richesses, sans jamais la toucher. Surprenant un jour les deux amants, il arracha un bloc de la montagne et écrasa Acis. Galatée fit alors couler le sang de son bien-aimé sous la forme d'un fleuve, et Acis devint un dieu de l'eau.",
+        "resume": "La Néréide Galatée aimait le jeune berger sicilien Acis, fils de Faunus. Le Cyclope Polyphème, épris d'elle, chantait son amour sur les rochers et lui promettait toutes ses richesses, en vain. Surprenant un jour les deux amoureux, il lança, fou de jalousie, un énorme rocher sur Acis. Galatée changea alors son bien-aimé en fleuve, et Acis devint un dieu de l'eau.",
         "personnages": ["polypheme"],
         "sources": ["Ovide, Métamorphoses XIII", "Théocrite, Idylles XI"]
       }
@@ -386,7 +386,7 @@
     "histoires": [
       {
         "titre": "Le loup de Psamathé",
-        "resume": "Pour échapper à Éaque, Psamathé se changea en phoque, mais le roi d'Égine s'unit à elle et elle donna naissance à Phocos. Le jeune homme, excellent athlète, fut tué par ses demi-frères Pélée et Télamon, jaloux de lui. Pour venger son fils, Psamathé envoya un loup monstrueux ravager les troupeaux de Pélée exilé. À la prière de Thétis, elle consentit à apaiser sa colère et le loup fut changé en pierre.",
+        "resume": "Pour échapper à Éaque, Psamathé se changea en phoque, mais le roi d'Égine finit par l'épouser et elle donna naissance à Phocos. Le jeune homme, excellent athlète, fut tué par ses demi-frères Pélée et Télamon, jaloux de lui. Pour venger son fils, Psamathé envoya un loup monstrueux ravager les troupeaux de Pélée exilé. À la prière de Thétis, elle consentit à apaiser sa colère et le loup fut changé en pierre.",
         "personnages": ["eaque", "pelee", "telamon", "thetis"],
         "sources": ["Apollodore, Bibliothèque III", "Ovide, Métamorphoses XI"]
       }
@@ -437,19 +437,19 @@
     "histoires": [
       {
         "titre": "La punition d'Héra",
-        "resume": "Écho était une Oréade bavarde. Quand Zeus folâtrait avec les nymphes des montagnes, elle retenait Héra par de longs discours pour laisser à ses compagnes le temps de fuir. Ayant découvert la ruse, Héra la condamna à ne plus jamais parler la première. Écho ne put désormais que répéter les derniers mots de ce qu'elle entendait.",
+        "resume": "Écho était une Oréade bavarde. Quand Zeus rendait visite aux nymphes des montagnes, elle retenait Héra par de longs discours pour laisser à ses compagnes le temps de fuir. Ayant découvert la ruse, Héra la condamna à ne plus jamais parler la première. Écho ne put désormais que répéter les derniers mots de ce qu'elle entendait.",
         "personnages": ["hera", "zeus"],
         "sources": ["Ovide, Métamorphoses III"]
       },
       {
         "titre": "Écho et Narcisse",
-        "resume": "Écho s'éprit du beau Narcisse en le voyant chasser dans les bois. Incapable de lui parler la première, elle répéta ses paroles et sortit des bois pour l'enlacer, mais il la repoussa avec dédain. Honteuse, elle se cacha dans les grottes et se consuma de chagrin. Son corps se dessécha, ses os se changèrent en pierre, et il ne resta d'elle qu'une voix. Narcisse fut puni à son tour par Némésis pour avoir méprisé tant d'amours.",
+        "resume": "Écho s'éprit du beau Narcisse en le voyant chasser dans les bois. Incapable de lui parler la première, elle répéta ses paroles et sortit des bois pour aller vers lui, mais il la repoussa avec dédain. Honteuse, elle se cacha dans les grottes et se consuma de chagrin. Elle dépérit peu à peu, ses os se changèrent en pierre, et il ne resta d'elle qu'une voix. Narcisse fut puni à son tour par Némésis pour avoir méprisé tant d'amours.",
         "personnages": ["narcisse", "nemesis"],
         "sources": ["Ovide, Métamorphoses III"]
       },
       {
         "titre": "Écho et Pan",
-        "resume": "Dans une autre version, Écho était une nymphe musicienne élevée par les Muses, qui refusait l'amour des hommes comme des dieux. Pan, jaloux de sa musique et irrité de ses refus, frappa de folie les bergers. Ceux-ci la mirent en pièces et dispersèrent ses membres chantants sur toute la terre. Gaïa recueillit ces fragments, qui continuent de répéter les sons.",
+        "resume": "Dans une autre version, Écho était une nymphe musicienne élevée par les Muses, qui refusait l'amour des hommes comme des dieux. Pan, jaloux de sa musique et irrité de ses refus, frappa de folie les bergers, qui se jetèrent sur elle et la firent périr. Sa voix fut dispersée sur toute la terre. Gaïa recueillit ces chants, qui continuent de répéter les sons.",
         "personnages": ["pan", "gaia"],
         "sources": ["Longus, Daphnis et Chloé III"]
       }
@@ -473,13 +473,13 @@
     "histoires": [
       {
         "titre": "Apollon et le laurier",
-        "resume": "Apollon, fier d'avoir tué le serpent Python, se moqua d'Éros et de son arc. Pour se venger, Éros le frappa d'une flèche d'or qui fait naître l'amour, et Daphné d'une flèche de plomb qui le repousse. La nymphe, vouée à la chasse et à la virginité comme Artémis, s'enfuit devant le dieu. Sur le point d'être rattrapée, elle supplia son père Pénée de lui ôter sa beauté, et fut changée en laurier. Apollon fit de cet arbre son emblème et en couronna sa lyre et son front.",
+        "resume": "Apollon, fier d'avoir tué le serpent Python, se moqua d'Éros et de son arc. Pour se venger, Éros le frappa d'une flèche d'or qui fait naître l'amour, et Daphné d'une flèche de plomb qui le repousse. La nymphe, qui voulait comme Artémis chasser librement et ne jamais se marier, s'enfuit devant le dieu. Sur le point d'être rattrapée, elle supplia son père Pénée de lui ôter sa beauté, et fut changée en laurier. Apollon fit de cet arbre son emblème et en couronna sa lyre et son front.",
         "personnages": ["apollon", "eros", "peneios", "python", "artemis"],
         "sources": ["Ovide, Métamorphoses I"]
       },
       {
         "titre": "Leucippos déguisé",
-        "resume": "Selon une tradition arcadienne, le jeune Leucippos, épris de Daphné, se déguisa en jeune fille pour l'accompagner à la chasse. Apollon, jaloux, inspira aux compagnes de Daphné l'envie de se baigner dans le Ladon. Leucippos refusa de se dévêtir, mais les nymphes le forcèrent et découvrirent la supercherie. Elles le tuèrent de leurs javelots.",
+        "resume": "Selon une tradition arcadienne, le jeune Leucippos, épris de Daphné, se déguisa en jeune fille pour l'accompagner à la chasse. Apollon, jaloux, inspira aux compagnes de Daphné l'envie de se baigner dans le Ladon. Leucippos refusa d'entrer dans l'eau, ce qui éveilla les soupçons des nymphes, qui découvrirent la supercherie. Furieuses, elles le tuèrent de leurs javelots.",
         "personnages": ["apollon"],
         "sources": ["Pausanias, Description de la Grèce VIII", "Parthénios, Passions d'amour"]
       }
@@ -500,7 +500,7 @@
     "histoires": [
       {
         "titre": "L'origine de la flûte de Pan",
-        "resume": "Syrinx était une nymphe des monts d'Arcadie, dévouée à Artémis et à la chasse. Pan la vit revenir du Lycée et la poursuivit. Arrivée au bord du fleuve Ladon, elle supplia ses sœurs les nymphes de la sauver. Au moment où Pan croyait la saisir, il n'étreignit que des roseaux. Le souffle du vent dans les tiges produisit un son plaintif, et Pan en fit une flûte de roseaux de longueurs inégales qui porte depuis le nom de la nymphe.",
+        "resume": "Syrinx était une nymphe des monts d'Arcadie, dévouée à Artémis et à la chasse. Pan la vit revenir du Lycée et la poursuivit. Arrivée au bord du fleuve Ladon, elle supplia ses sœurs les nymphes de la sauver. Au moment où Pan croyait l'attraper, il ne saisit que des roseaux. Le souffle du vent dans les tiges produisit un son plaintif, et Pan en fit une flûte de roseaux de longueurs inégales qui porte depuis le nom de la nymphe.",
         "personnages": ["pan", "artemis"],
         "sources": ["Ovide, Métamorphoses I"]
       }
@@ -531,7 +531,7 @@
       },
       {
         "titre": "Le message d'Hermès",
-        "resume": "À la demande d'Athéna, Zeus envoya Hermès ordonner à Calypso de libérer Ulysse. La nymphe protesta contre la jalousie des dieux, qui refusent aux déesses de s'unir aux mortels, rappelant le sort d'Orion. Elle obéit pourtant et fournit au héros des outils pour construire un radeau, des provisions et un vent favorable. Elle ne lui révéla pas que l'ordre venait des dieux, préférant paraître agir par bonté.",
+        "resume": "À la demande d'Athéna, Zeus envoya Hermès ordonner à Calypso de libérer Ulysse. La nymphe protesta contre la jalousie des dieux, qui refusent aux déesses le droit d'aimer des mortels, rappelant le sort d'Orion. Elle obéit pourtant et fournit au héros des outils pour construire un radeau, des provisions et un vent favorable. Elle ne lui révéla pas que l'ordre venait des dieux, préférant paraître agir par bonté.",
         "personnages": ["hermes", "zeus", "athena", "ulysse", "orion"],
         "sources": ["Homère, Odyssée V"]
       }
@@ -556,7 +556,7 @@
     "histoires": [
       {
         "titre": "Les compagnons changés en porcs",
-        "resume": "En abordant l'île d'Aiaié, Ulysse envoya une partie de ses hommes explorer les lieux. Ils trouvèrent la demeure de Circé, entourée de loups et de lions charmés par ses drogues. La magicienne leur servit un breuvage mêlé de filtres, puis les toucha de sa baguette et les changea en porcs. Hermès donna à Ulysse l'herbe moly, qui le protégea des sortilèges. Circé, vaincue, rendit leur forme humaine aux marins et accueillit Ulysse pendant une année.",
+        "resume": "En abordant l'île d'Aiaié, Ulysse envoya une partie de ses hommes explorer les lieux. Ils trouvèrent la demeure de Circé, entourée de loups et de lions charmés par sa magie. La magicienne leur servit un breuvage mêlé de filtres, puis les toucha de sa baguette et les changea en porcs. Hermès donna à Ulysse l'herbe moly, qui le protégea des sortilèges. Circé, vaincue, rendit leur forme humaine aux marins et accueillit Ulysse pendant une année.",
         "personnages": ["ulysse", "hermes"],
         "sources": ["Homère, Odyssée X"]
       },
@@ -597,7 +597,7 @@
     "histoires": [
       {
         "titre": "La naissance d'Hermès",
-        "resume": "Maïa vivait à l'écart des dieux dans une grotte profonde du mont Cyllène, en Arcadie. Zeus venait l'y rejoindre en pleine nuit, pendant que Héra dormait. Au dixième mois, elle mit au monde Hermès. Le jour même de sa naissance, l'enfant fabriqua la première lyre avec une carapace de tortue et partit voler les vaches d'Apollon.",
+        "resume": "Maïa vivait à l'écart des dieux dans une grotte profonde du mont Cyllène, en Arcadie. Zeus l'aima et venait la voir en secret, à l'insu d'Héra. Au dixième mois, elle mit au monde Hermès. Le jour même de sa naissance, l'enfant fabriqua la première lyre avec une carapace de tortue et partit voler les vaches d'Apollon.",
         "personnages": ["zeus", "hermes", "hera", "apollon"],
         "sources": ["Hymne homérique à Hermès", "Hésiode, Théogonie"]
       },
@@ -725,7 +725,7 @@
     "histoires": [
       {
         "titre": "La biche de Taygète",
-        "resume": "Pour échapper aux avances de Zeus, Taygète fut changée en biche par Artémis, dont elle était la compagne. Reconnaissante, elle consacra plus tard à la déesse une biche aux cornes d'or, la biche de Cérynie, qu'Héraclès dut capturer. Zeus finit cependant par s'unir à elle. Elle donna naissance à Lacédémon, fondateur de Sparte, et la montagne qui domine la Laconie porte son nom.",
+        "resume": "Pour échapper à Zeus qui la poursuivait, Taygète fut changée en biche par Artémis, dont elle était la compagne. Reconnaissante, elle consacra plus tard à la déesse une biche aux cornes d'or, la biche de Cérynie, qu'Héraclès dut capturer. Zeus finit cependant par la retrouver, et elle eut de lui un fils. Elle donna naissance à Lacédémon, fondateur de Sparte, et la montagne qui domine la Laconie porte son nom.",
         "personnages": ["zeus", "artemis", "cerf-de-cerynie", "heracles"],
         "sources": ["Pindare, Olympiques III (scholies)", "Apollodore, Bibliothèque III", "Pausanias, Description de la Grèce III"]
       }
@@ -863,7 +863,7 @@
     "histoires": [
       {
         "titre": "La morsure du serpent",
-        "resume": "Peu après ses noces avec le poète Orphée, la dryade Eurydice se promenait dans une prairie. Selon Virgile, elle fuyait les avances du berger Aristée lorsqu'elle ne vit pas un serpent caché dans les hautes herbes. La morsure fut mortelle et Eurydice descendit chez les morts. Les dryades, ses compagnes, firent retentir les montagnes de leurs lamentations.",
+        "resume": "Peu après ses noces avec le poète Orphée, la dryade Eurydice se promenait dans une prairie. Selon Virgile, elle fuyait le berger Aristée, qui la poursuivait, lorsqu'elle ne vit pas un serpent caché dans les hautes herbes. La morsure fut mortelle et Eurydice descendit chez les morts. Les dryades, ses compagnes, firent retentir les montagnes de leurs lamentations.",
         "personnages": ["orphee", "aristee", "dryades"],
         "sources": ["Virgile, Géorgiques IV", "Ovide, Métamorphoses X"]
       },
@@ -875,7 +875,7 @@
       },
       {
         "titre": "Le châtiment d'Aristée",
-        "resume": "Pour venger la mort d'Eurydice, les nymphes firent périr toutes les abeilles d'Aristée. Celui-ci se plaignit à sa mère Cyrène, qui l'envoya interroger Protée. Le dieu marin, capturé de force, lui révéla la cause de son malheur. Aristée apaisa les mânes d'Eurydice et d'Orphée par des sacrifices, et de nouveaux essaims naquirent des carcasses des bœufs immolés.",
+        "resume": "Pour venger la mort d'Eurydice, les nymphes firent périr toutes les abeilles d'Aristée. Celui-ci se plaignit à sa mère Cyrène, qui l'envoya interroger Protée. Le dieu marin, capturé de force, lui révéla la cause de son malheur. Aristée apaisa les mânes d'Eurydice et d'Orphée par des sacrifices, et de nouveaux essaims naquirent des bœufs offerts en sacrifice.",
         "personnages": ["aristee", "cyrene", "protee", "orphee"],
         "sources": ["Virgile, Géorgiques IV"]
       }
@@ -904,7 +904,7 @@
       },
       {
         "titre": "La mort de Pâris et d'Œnone",
-        "resume": "À la fin de la guerre, Pâris fut blessé par les flèches d'Héraclès que maniait Philoctète. Il se fit porter sur l'Ida et supplia Œnone de le guérir. Pleine de rancune, elle refusa, et il mourut en redescendant vers Troie. Saisie de remords, Œnone courut avec ses remèdes, mais arriva trop tard. Elle se donna la mort, en se pendant ou en se jetant sur le bûcher de Pâris.",
+        "resume": "À la fin de la guerre, Pâris fut blessé par les flèches d'Héraclès que maniait Philoctète. Il se fit porter sur l'Ida et supplia Œnone de le guérir. Pleine de rancune, elle refusa, et il mourut en redescendant vers Troie. Saisie de remords, Œnone courut avec ses remèdes, mais arriva trop tard. Désespérée, elle ne survécut pas à sa peine.",
         "personnages": ["paris", "philoctete", "heracles"],
         "sources": ["Apollodore, Épitomé V", "Quintus de Smyrne, Suite d'Homère X"]
       }
@@ -950,7 +950,7 @@
     "histoires": [
       {
         "titre": "Salmacis et Hermaphrodite",
-        "resume": "Salmacis était une naïade de Carie qui préférait se parer et se baigner plutôt que chasser avec Artémis. Elle vit un jour le jeune fils d'Hermès et d'Aphrodite et s'éprit de lui, mais il la repoussa. Quand il plongea dans son bassin, elle l'enlaça et supplia les dieux de ne jamais les séparer. Leurs deux corps se fondirent en un seul être à la fois homme et femme. Hermaphrodite obtint alors que quiconque se baignerait dans cette source en ressortirait amolli.",
+        "resume": "Salmacis était une naïade de Carie qui préférait se coiffer au bord de sa source plutôt que chasser avec Artémis. Elle vit un jour Hermaphrodite, le jeune fils d'Hermès et d'Aphrodite, et s'éprit de lui, mais il la repoussa. Quand il s'approcha de sa source, elle supplia les dieux de ne jamais être séparée de lui. Les dieux l'exaucèrent et unirent leurs deux corps en un seul être, à la fois homme et femme. Hermaphrodite obtint alors de ses parents que la source garde à jamais un étrange pouvoir de métamorphose.",
         "personnages": ["hermes", "aphrodite", "artemis"],
         "sources": ["Ovide, Métamorphoses IV"]
       }
@@ -998,7 +998,7 @@
     "histoires": [
       {
         "titre": "Le bain de Pallas",
-        "resume": "La nymphe Chariclo était la compagne préférée d'Athéna, qui l'emmenait partout avec elle. Un jour de grande chaleur, toutes deux se baignaient dans une source de l'Hélicon. Le jeune Tirésias, fils de Chariclo, vint y boire et aperçut la déesse nue ; il perdit aussitôt la vue. Chariclo reprocha amèrement à son amie la cécité de son fils. Athéna, ne pouvant revenir sur la loi divine, lui accorda en compensation le don de prophétie et une longue vie.",
+        "resume": "La nymphe Chariclo était la compagne préférée d'Athéna, qui l'emmenait partout avec elle. Un jour de grande chaleur, toutes deux se baignaient dans une source de l'Hélicon. Le jeune Tirésias, fils de Chariclo, vint y boire et aperçut la déesse au bain, ce qu'aucun mortel n'a le droit de voir ; il perdit aussitôt la vue. Chariclo reprocha amèrement à son amie la cécité de son fils. Athéna, ne pouvant revenir sur la loi divine, lui accorda en compensation le don de prophétie et une longue vie.",
         "personnages": ["athena", "tiresias"],
         "sources": ["Callimaque, Hymne V (Le Bain de Pallas)", "Apollodore, Bibliothèque III"]
       }
@@ -1014,12 +1014,12 @@
     "tags": ["enfers", "jalousie", "transformé en plante", "métamorphose", "amour"],
     "filiations": [],
     "unions": [
-      { "avec": "hades", "note": "maîtresse" }
+      { "avec": "hades", "note": "aimée du dieu" }
     ],
     "histoires": [
       {
         "titre": "La plante parfumée",
-        "resume": "Menthé, nymphe liée au fleuve infernal Cocyte, fut aimée d'Hadès. Elle se vanta d'être plus belle que Perséphone et prétendit que le dieu reviendrait vers elle. La reine des Enfers, ou Déméter selon d'autres, la piétina avec colère et la changea en une humble plante. Hadès lui accorda du moins un parfum agréable. Sur le mont Triphylien, près de Pylos, se trouvait un sanctuaire qui conservait son souvenir.",
+        "resume": "Menthé, nymphe liée au fleuve infernal Cocyte, fut aimée d'Hadès. Elle se vanta d'être plus belle que Perséphone et prétendit que le dieu reviendrait vers elle. La reine des Enfers, ou Déméter selon d'autres, la changea avec colère en une humble plante. Hadès lui accorda du moins un parfum agréable. Sur le mont Triphylien, près de Pylos, se trouvait un sanctuaire qui conservait son souvenir.",
         "personnages": ["hades", "persephone", "demeter"],
         "sources": ["Strabon, Géographie VIII", "Oppien, Halieutiques III", "Ovide, Métamorphoses X"]
       }
@@ -1039,7 +1039,7 @@
     "histoires": [
       {
         "titre": "Nourrice de Zeus en Crète",
-        "resume": "Pour sauver le petit Zeus de Cronos qui dévorait ses enfants, Rhéa le cacha dans une grotte de Crète. Selon les uns, la nymphe Amalthée nourrit l'enfant du lait d'une chèvre ; selon d'autres, Amalthée était la chèvre elle-même. Pendant ce temps, les Courètes entrechoquaient leurs boucliers pour couvrir ses pleurs. Devenu maître du monde, Zeus plaça la chèvre parmi les étoiles.",
+        "resume": "Pour sauver le petit Zeus de Cronos qui avalait ses enfants, Rhéa le cacha dans une grotte de Crète. Selon les uns, la nymphe Amalthée nourrit l'enfant du lait d'une chèvre ; selon d'autres, Amalthée était la chèvre elle-même. Pendant ce temps, les Courètes entrechoquaient leurs boucliers pour couvrir ses pleurs. Devenu maître du monde, Zeus plaça la chèvre parmi les étoiles.",
         "personnages": ["zeus", "rhea", "cronos"],
         "sources": ["Apollodore, Bibliothèque I", "Callimaque, Hymne à Zeus", "Hygin, Astronomie II"]
       },
@@ -1068,8 +1068,8 @@
     ],
     "histoires": [
       {
-        "titre": "La séduction de Zeus",
-        "resume": "Callisto était une compagne d'Artémis, vouée comme elle à la chasse et à la virginité. Zeus la remarqua dans les bois d'Arcadie et, pour l'approcher, prit l'apparence d'Artémis elle-même. Il s'unit à elle malgré sa résistance. Quelques mois plus tard, lors d'un bain, ses compagnes découvrirent sa grossesse et Artémis la chassa de sa troupe.",
+        "titre": "La ruse de Zeus",
+        "resume": "Callisto était une compagne d'Artémis, qui avait juré comme elle de chasser librement et de ne jamais se marier. Zeus la remarqua dans les bois d'Arcadie et, pour l'approcher, prit l'apparence d'Artémis elle-même. Callisto eut bientôt de lui un enfant. Quand ses compagnes découvrirent qu'elle attendait un bébé, Artémis, qui exigeait de sa troupe qu'elle reste fidèle à son serment, la chassa.",
         "personnages": ["zeus", "artemis"],
         "sources": ["Ovide, Métamorphoses II", "Apollodore, Bibliothèque III"]
       },
@@ -1081,7 +1081,7 @@
       },
       {
         "titre": "La Grande Ourse",
-        "resume": "Des années plus tard, Arcas, devenu un jeune chasseur, rencontra l'ourse dans la forêt. Ne reconnaissant pas sa mère, il s'apprêtait à la transpercer de sa lance. Zeus empêcha le crime en les enlevant tous deux dans le ciel, où ils devinrent la Grande Ourse et le Bouvier. Indignée, Héra obtint d'Océan et de Téthys que l'Ourse ne se baigne jamais dans leurs eaux, et elle ne se couche donc jamais sous l'horizon.",
+        "resume": "Des années plus tard, Arcas, devenu un jeune chasseur, rencontra l'ourse dans la forêt. Ne reconnaissant pas sa mère, il s'apprêtait à la frapper de sa lance. Zeus empêcha le crime en les enlevant tous deux dans le ciel, où ils devinrent la Grande Ourse et le Bouvier. Indignée, Héra obtint d'Océan et de Téthys que l'Ourse ne se baigne jamais dans leurs eaux, et elle ne se couche donc jamais sous l'horizon.",
         "personnages": ["arcas", "zeus", "hera", "oceanos", "tethys"],
         "sources": ["Ovide, Métamorphoses II", "Hygin, Astronomie II"]
       }
@@ -1102,7 +1102,7 @@
     "histoires": [
       {
         "titre": "Nées du sang d'Ouranos",
-        "resume": "Lorsque Cronos mutila son père Ouranos avec la faucille, les gouttes de sang tombèrent sur Gaïa. La Terre en conçut les Érinyes, les Géants en armes et les nymphes appelées Méliades, qui vivent dans les frênes. Le bois de frêne servait à fabriquer les lances, ce qui rattache ces nymphes à la violence de leur origine. Hésiode fait sortir des frênes la race d'airain, des hommes terribles et guerriers.",
+        "resume": "Lorsque Cronos frappa et renversa son père Ouranos avec la faucille, des gouttes du sang d'Ouranos blessé tombèrent sur Gaïa. La Terre en conçut les Érinyes, les Géants en armes et les nymphes appelées Méliades, qui vivent dans les frênes. Le bois de frêne servait à fabriquer les lances, ce qui rattache ces nymphes à la violence de leur origine. Hésiode fait sortir des frênes la race d'airain, des hommes terribles et guerriers.",
         "personnages": ["ouranos", "gaia", "cronos", "geants"],
         "sources": ["Hésiode, Théogonie", "Hésiode, Les Travaux et les Jours"]
       },
@@ -1192,7 +1192,7 @@
     "histoires": [
       {
         "titre": "Le chêne d'Érysichthon",
-        "resume": "Le Thessalien Érysichthon méprisait les dieux et fit abattre un chêne immense consacré à Déméter, où dansaient les dryades. Sous la hache, l'arbre gémit et saigna, et la nymphe qui l'habitait maudit le sacrilège en mourant. Ses sœurs implorèrent Déméter, qui envoya la Faim s'emparer du coupable. Érysichthon, dévoré d'un appétit insatiable, finit par se dévorer lui-même.",
+        "resume": "Le Thessalien Érysichthon méprisait les dieux et fit abattre un chêne immense consacré à Déméter, où dansaient les dryades. Sous la hache, l'arbre gémit, et la nymphe qui l'habitait maudit le sacrilège en mourant. Ses sœurs implorèrent Déméter, qui envoya la Faim s'emparer du coupable. Érysichthon, tourmenté par une faim que rien ne pouvait apaiser, vendit tous ses biens et finit par périr misérablement.",
         "personnages": ["demeter"],
         "sources": ["Ovide, Métamorphoses VIII", "Callimaque, Hymne VI"]
       },
