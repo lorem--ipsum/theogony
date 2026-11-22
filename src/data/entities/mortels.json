@@ -1,0 +1,1296 @@
+[
+  {
+    "id": "alcmene",
+    "nom": "Alcmène",
+    "grec": "Ἀλκμήνη",
+    "romain": "Alcmena",
+    "categorie": "mortel",
+    "epithete": "Mère d'Héraclès",
+    "tags": ["mortel", "reine", "thèbes", "argos", "fidélité", "naissance", "aimé des dieux", "travaux d'héraclès"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille d'Électryon, roi de Mycènes, et d'Anaxo (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "amphitryon", "note": "Époux" },
+      { "avec": "zeus", "note": "Zeus prit l'apparence d'Amphitryon" }
+    ],
+    "histoires": [
+      {
+        "titre": "La nuit trois fois longue",
+        "resume": "Pendant qu'Amphitryon combattait les Téléboens, Zeus se présenta à Alcmène sous les traits exacts de son mari. Pour prolonger son séjour, le dieu fit durer la nuit l'équivalent de trois nuits. Le véritable Amphitryon rentra peu après et s'étonna de l'accueil de son épouse, qui croyait l'avoir déjà revu. Le devin Tirésias lui révéla la vérité. Alcmène conçut ainsi des jumeaux : Héraclès, fils de Zeus, et Iphiclès, fils d'Amphitryon.",
+        "personnages": ["alcmene", "zeus", "amphitryon", "tiresias", "heracles"],
+        "sources": ["Apollodore, Bibliothèque II", "Plaute, Amphitryon", "Hésiode, Bouclier"]
+      },
+      {
+        "titre": "La naissance retardée d'Héraclès",
+        "resume": "Zeus avait annoncé qu'un enfant de son sang né ce jour-là régnerait sur les peuples voisins. Héra, jalouse, obtint d'Ilithyie qu'elle retarde l'accouchement d'Alcmène, tandis qu'elle hâtait la naissance d'Eurysthée. Selon Ovide, la déesse des naissances resta assise, jambes et doigts croisés, devant la chambre de la parturiente. La servante Galanthis la trompa en annonçant faussement la délivrance, ce qui rompit le charme ; elle fut changée en belette pour sa ruse.",
+        "personnages": ["alcmene", "hera", "eileithyia", "zeus", "heracles"],
+        "sources": ["Homère, Iliade XIX", "Ovide, Métamorphoses IX"]
+      }
+    ]
+  },
+  {
+    "id": "amphitryon",
+    "nom": "Amphitryon",
+    "grec": "Ἀμφιτρύων",
+    "romain": "Amphitryon",
+    "categorie": "mortel",
+    "epithete": "Père mortel d'Héraclès",
+    "tags": ["mortel", "roi", "thèbes", "argos", "guerre", "famille", "travaux d'héraclès"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils d'Alcée, fils de Persée (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "alcmene", "note": "Épouse" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'exil à Thèbes",
+        "resume": "Amphitryon tua accidentellement son oncle et beau-père Électryon, roi de Mycènes, et dut s'exiler à Thèbes avec Alcmène. Celle-ci refusa de consommer leur mariage tant qu'il n'aurait pas vengé la mort de ses frères, tués par les Téléboens. Amphitryon mena donc une expédition contre ces pirates et remporta la victoire grâce à la trahison de Comaitho, fille du roi Ptérélas. À son retour, il découvrit que Zeus l'avait devancé auprès de son épouse.",
+        "personnages": ["amphitryon", "alcmene", "zeus"],
+        "sources": ["Apollodore, Bibliothèque II", "Hésiode, Bouclier"]
+      }
+    ]
+  },
+  {
+    "id": "danae",
+    "nom": "Danaé",
+    "grec": "Δανάη",
+    "romain": "Danae",
+    "categorie": "mortel",
+    "epithete": "Mère de Persée",
+    "symboles": ["pluie d'or", "coffre"],
+    "tags": ["mortel", "argos", "persée", "aimé des dieux", "victime des dieux", "prophétie", "famille"],
+    "filiations": [
+      { "parents": ["acrisios"], "principale": true, "source": "Fille d'Acrisios et d'Eurydice (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Sous forme de pluie d'or" }
+    ],
+    "histoires": [
+      {
+        "titre": "La pluie d'or",
+        "resume": "Un oracle avait averti Acrisios que le fils de sa fille le tuerait. Le roi enferma donc Danaé dans une chambre souterraine de bronze, à l'abri de tout prétendant. Zeus parvint pourtant jusqu'à elle en se changeant en pluie d'or qui ruissela par le toit. De cette union naquit Persée, que sa mère éleva en secret pendant quelque temps.",
+        "personnages": ["danae", "zeus", "acrisios", "persee"],
+        "sources": ["Apollodore, Bibliothèque II", "Ovide, Métamorphoses IV", "Phérécyde"]
+      },
+      {
+        "titre": "Le coffre jeté à la mer",
+        "resume": "Ayant découvert l'enfant, Acrisios refusa de croire à la paternité de Zeus. Il fit enfermer Danaé et Persée dans un coffre de bois qu'il abandonna aux flots. Le coffre dériva jusqu'à l'île de Sériphos, où le pêcheur Dictys le recueillit dans ses filets. Danaé et son fils vécurent ensuite sous sa protection, jusqu'à ce que le roi Polydectès, frère de Dictys, convoite la mère.",
+        "personnages": ["danae", "persee", "acrisios", "polydectes"],
+        "sources": ["Simonide, fragment", "Apollodore, Bibliothèque II"]
+      }
+    ]
+  },
+  {
+    "id": "acrisios",
+    "nom": "Acrisios",
+    "grec": "Ἀκρίσιος",
+    "romain": "Acrisius",
+    "categorie": "mortel",
+    "epithete": "Roi d'Argos",
+    "tags": ["mortel", "roi", "argos", "prophétie", "oracle", "destin", "persée"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils d'Abas, roi d'Argos, et d'Aglaïa (Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'oracle accompli",
+        "resume": "Averti qu'il mourrait de la main de son petit-fils, Acrisios tenta de se débarrasser de Danaé et de Persée. Des années plus tard, apprenant le retour de Persée, il s'enfuit à Larissa, en Thessalie. Persée vint y participer à des jeux funèbres et lança le disque, qu'un coup de vent ou le hasard dévia sur la tête du vieillard. Acrisios mourut sur le coup, et l'oracle se trouva accompli malgré toutes ses précautions.",
+        "personnages": ["acrisios", "persee", "danae"],
+        "sources": ["Apollodore, Bibliothèque II", "Pausanias II"]
+      }
+    ]
+  },
+  {
+    "id": "polydectes",
+    "nom": "Polydectès",
+    "grec": "Πολυδέκτης",
+    "categorie": "mortel",
+    "epithete": "Roi de Sériphos",
+    "tags": ["mortel", "roi", "persée", "ruse", "châtiment", "métamorphose"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Magnès et d'une Naïade (Apollodore) ; frère de Dictys" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le présent de la tête de Méduse",
+        "resume": "Polydectès voulait épouser Danaé, mais Persée protégeait sa mère. Le roi feignit de rechercher la main d'Hippodamie et demanda à chacun un cadeau. Persée, sans ressources, promit imprudemment de rapporter la tête de la Gorgone, et Polydectès le prit au mot. À son retour, trouvant sa mère persécutée, Persée brandit la tête de Méduse devant le roi et ses compagnons, qui furent changés en pierre.",
+        "personnages": ["polydectes", "persee", "danae", "meduse"],
+        "sources": ["Apollodore, Bibliothèque II", "Pindare, Pythiques XII", "Ovide, Métamorphoses V"]
+      }
+    ]
+  },
+  {
+    "id": "andromede",
+    "nom": "Andromède",
+    "grec": "Ἀνδρομέδα",
+    "romain": "Andromeda",
+    "categorie": "mortel",
+    "epithete": "Princesse enchaînée",
+    "symboles": ["rocher", "chaînes"],
+    "tags": ["mortel", "reine", "éthiopie", "sacrifice", "persée", "transformé en constellation", "étoiles", "mariage"],
+    "filiations": [
+      { "parents": ["cephee", "cassiopee"], "principale": true, "source": "Apollodore, Ovide" }
+    ],
+    "unions": [
+      { "avec": "persee", "note": "Époux" }
+    ],
+    "histoires": [
+      {
+        "titre": "Offerte au monstre marin",
+        "resume": "Pour apaiser Poséidon, irrité par la vanité de Cassiopée, l'oracle d'Ammon exigea que la princesse Andromède soit livrée au monstre marin qui ravageait l'Éthiopie. Elle fut enchaînée à un rocher face à la mer. Persée, revenant de son expédition contre les Gorgones, l'aperçut et obtint de ses parents la promesse de l'épouser s'il la sauvait. Il tua le monstre et délivra la jeune femme.",
+        "personnages": ["andromede", "persee", "ketos", "cephee", "cassiopee", "poseidon"],
+        "sources": ["Apollodore, Bibliothèque II", "Ovide, Métamorphoses IV", "Euripide, Andromède (fragments)"]
+      },
+      {
+        "titre": "Les noces troublées",
+        "resume": "Andromède avait été promise auparavant à son oncle Phinée. Pendant le banquet de noces avec Persée, Phinée surgit avec une troupe armée pour réclamer la fiancée. Le combat tourna mal pour Persée, qui finit par sortir la tête de Méduse et pétrifia ses adversaires. Après sa mort, Andromède fut placée par Athéna parmi les étoiles.",
+        "personnages": ["andromede", "persee", "meduse", "athena"],
+        "sources": ["Ovide, Métamorphoses V", "Ératosthène, Catastérismes"]
+      }
+    ]
+  },
+  {
+    "id": "cephee",
+    "nom": "Céphée",
+    "grec": "Κηφεύς",
+    "romain": "Cepheus",
+    "categorie": "mortel",
+    "epithete": "Roi d'Éthiopie",
+    "tags": ["mortel", "roi", "éthiopie", "persée", "transformé en constellation", "sacrifice"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Bélos (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "cassiopee", "note": "Épouse" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le sacrifice consenti",
+        "resume": "Lorsque le monstre marin envoyé par Poséidon dévasta son royaume, Céphée consulta l'oracle d'Ammon. Pressé par son peuple, il accepta d'exposer sa fille Andromède pour obtenir la délivrance. Il promit ensuite sa main à Persée en échange de son salut. Céphée fut plus tard placé dans le ciel sous forme de constellation, près de son épouse et de sa fille.",
+        "personnages": ["cephee", "andromede", "persee", "cassiopee", "poseidon"],
+        "sources": ["Apollodore, Bibliothèque II", "Ératosthène, Catastérismes"]
+      }
+    ]
+  },
+  {
+    "id": "cassiopee",
+    "nom": "Cassiopée",
+    "grec": "Κασσιέπεια",
+    "romain": "Cassiopeia",
+    "categorie": "mortel",
+    "epithete": "La reine vaniteuse",
+    "symboles": ["trône"],
+    "tags": ["mortel", "reine", "éthiopie", "orgueil", "beauté", "châtiment", "transformé en constellation"],
+    "filiations": [
+      { "parents": [], "principale": true }
+    ],
+    "unions": [
+      { "avec": "cephee", "note": "Époux" }
+    ],
+    "histoires": [
+      {
+        "titre": "La rivale des Néréides",
+        "resume": "Cassiopée se vanta d'être plus belle que les Néréides. Offensées, les nymphes marines se plaignirent à Poséidon, qui envoya un déluge et un monstre marin contre l'Éthiopie. Il fallut sacrifier Andromède pour apaiser le dieu. Placée ensuite parmi les constellations, la reine y est assise sur son trône, tournant de façon à paraître parfois la tête en bas, en punition de son orgueil.",
+        "personnages": ["cassiopee", "nereides", "poseidon", "andromede", "ketos"],
+        "sources": ["Apollodore, Bibliothèque II", "Ératosthène, Catastérismes", "Hygin, Astronomiques"]
+      }
+    ]
+  },
+  {
+    "id": "leda",
+    "nom": "Léda",
+    "grec": "Λήδα",
+    "romain": "Leda",
+    "categorie": "mortel",
+    "epithete": "Reine de Sparte",
+    "symboles": ["cygne", "œuf"],
+    "tags": ["mortel", "reine", "sparte", "aimé des dieux", "métamorphose", "famille", "naissance"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille de Thestios, roi d'Étolie (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "tyndare", "note": "Époux" },
+      { "avec": "zeus", "note": "Sous forme de cygne" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le cygne et les œufs",
+        "resume": "Zeus s'unit à Léda sous l'apparence d'un cygne. La même nuit, elle partagea aussi la couche de son époux Tyndare. Elle donna ensuite naissance à des enfants issus d'œufs, dont Hélène et Pollux, réputés enfants de Zeus, ainsi que Castor et Clytemnestre, attribués à Tyndare. Les traditions varient sur le nombre d'œufs et la répartition des paternités.",
+        "personnages": ["leda", "zeus", "tyndare", "helene", "pollux", "castor", "clytemnestre"],
+        "sources": ["Apollodore, Bibliothèque III", "Euripide, Hélène", "Hygin, Fables"]
+      }
+    ]
+  },
+  {
+    "id": "tyndare",
+    "nom": "Tyndare",
+    "grec": "Τυνδάρεως",
+    "romain": "Tyndareus",
+    "categorie": "mortel",
+    "epithete": "Roi de Sparte",
+    "tags": ["mortel", "roi", "sparte", "serment", "mariage", "guerre de troie"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils d'Œbalos ou de Périérès selon les versions (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "leda", "note": "Épouse" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le serment des prétendants",
+        "resume": "Quand vint le temps de marier Hélène, une foule de princes grecs se présenta à Sparte, et Tyndare craignit que le choix d'un seul ne provoque la guerre. Sur le conseil d'Ulysse, il fit jurer à tous les prétendants de défendre l'élu contre quiconque lui disputerait son épouse. Hélène choisit Ménélas. Ce serment fut plus tard invoqué pour rassembler les Grecs contre Troie après l'enlèvement d'Hélène. En récompense, Tyndare aida Ulysse à obtenir la main de Pénélope.",
+        "personnages": ["tyndare", "helene", "ulysse", "menelas", "penelope"],
+        "sources": ["Apollodore, Bibliothèque III", "Hésiode, Catalogue des femmes (fragments)", "Pausanias III"]
+      }
+    ]
+  },
+  {
+    "id": "europe",
+    "nom": "Europe",
+    "grec": "Εὐρώπη",
+    "romain": "Europa",
+    "categorie": "mortel",
+    "epithete": "Princesse phénicienne",
+    "symboles": ["taureau blanc"],
+    "tags": ["mortel", "reine", "crète", "enlèvement", "métamorphose", "aimé des dieux", "voyage"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille d'Agénor, roi de Tyr, et de Téléphassa ; Homère la dit fille de Phénix" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Sous forme de taureau" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'enlèvement d'Europe",
+        "resume": "Europe cueillait des fleurs avec ses compagnes sur le rivage de Phénicie quand un magnifique taureau blanc s'approcha d'elle, docile. Elle le caressa, lui tressa des guirlandes, puis s'assit sur son dos. Le taureau, qui était Zeus, se jeta alors dans la mer et la porta jusqu'en Crète. Là, elle devint mère de Minos, Rhadamanthe et, selon certains, Sarpédon. Elle épousa ensuite le roi crétois Astérion, qui adopta ses fils.",
+        "personnages": ["europe", "zeus", "minos", "rhadamanthe", "sarpedon"],
+        "sources": ["Moschos, Europe", "Ovide, Métamorphoses II", "Apollodore, Bibliothèque III"]
+      },
+      {
+        "titre": "La quête de Cadmos",
+        "resume": "Après la disparition d'Europe, son père envoya ses fils à sa recherche en leur défendant de revenir sans elle. Cadmos erra longtemps avant de consulter l'oracle de Delphes, qui lui ordonna d'abandonner sa quête et de suivre une vache jusqu'à l'endroit où elle se coucherait. C'est là qu'il fonda Thèbes.",
+        "personnages": ["europe", "cadmos", "apollon"],
+        "sources": ["Apollodore, Bibliothèque III", "Ovide, Métamorphoses III"]
+      }
+    ]
+  },
+  {
+    "id": "semele",
+    "nom": "Sémélé",
+    "grec": "Σεμέλη",
+    "romain": "Semele",
+    "categorie": "mortel",
+    "epithete": "Mère de Dionysos",
+    "tags": ["mortel", "thèbes", "aimé des dieux", "victime des dieux", "jalousie", "foudre", "divinisé", "cycle thébain"],
+    "filiations": [
+      { "parents": ["cadmos", "harmonie"], "principale": true, "source": "Hésiode, Apollodore" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Amant divin" }
+    ],
+    "histoires": [
+      {
+        "titre": "La foudre de Zeus",
+        "resume": "Aimée de Zeus, Sémélé attendait un enfant de lui. Héra, jalouse, prit l'apparence de sa vieille nourrice et insinua le doute dans son esprit : son amant était-il vraiment le roi des dieux ? Sémélé obtint de Zeus la promesse d'exaucer un vœu, puis lui demanda de se montrer dans toute sa gloire. Lié par son serment, le dieu apparut avec ses éclairs, et la mortelle fut consumée. Zeus sauva l'enfant et le cousit dans sa cuisse jusqu'à terme : ce fut Dionysos.",
+        "personnages": ["semele", "zeus", "hera", "dionysos"],
+        "sources": ["Ovide, Métamorphoses III", "Apollodore, Bibliothèque III", "Euripide, Les Bacchantes"]
+      },
+      {
+        "titre": "Remontée des Enfers",
+        "resume": "Devenu dieu, Dionysos descendit aux Enfers pour en ramener sa mère. Il la conduisit sur l'Olympe, où elle reçut l'immortalité sous le nom de Thyoné. Ainsi Sémélé, née mortelle, fut admise parmi les divinités.",
+        "personnages": ["semele", "dionysos", "hades"],
+        "sources": ["Apollodore, Bibliothèque III", "Pausanias II", "Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "io",
+    "nom": "Io",
+    "grec": "Ἰώ",
+    "romain": "Io",
+    "categorie": "mortel",
+    "epithete": "Prêtresse d'Héra changée en génisse",
+    "symboles": ["génisse", "taon"],
+    "tags": ["mortel", "prêtresse", "argos", "égypte", "transformé en animal", "jalousie", "voyage", "victime des dieux"],
+    "filiations": [
+      { "parents": ["inachos"], "principale": true, "source": "Eschyle, Apollodore" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Amant divin" }
+    ],
+    "histoires": [
+      {
+        "titre": "La génisse gardée par Argos",
+        "resume": "Zeus s'éprit d'Io, prêtresse d'Héra à Argos. Pour la soustraire au regard de son épouse, il la changea en génisse blanche. Héra, qui n'était pas dupe, réclama l'animal en cadeau et le confia à la garde d'Argos aux cent yeux. Zeus envoya Hermès, qui endormit le gardien par la musique et des récits avant de le tuer.",
+        "personnages": ["io", "zeus", "hera", "argos-panoptes", "hermes"],
+        "sources": ["Ovide, Métamorphoses I", "Apollodore, Bibliothèque II"]
+      },
+      {
+        "titre": "L'errance jusqu'en Égypte",
+        "resume": "Héra envoya un taon qui poursuivit sans répit la génisse à travers le monde. Io traversa la mer qui prit son nom et le détroit appelé Bosphore, le passage de la vache. Chez Eschyle, elle rencontre Prométhée enchaîné, qui lui prédit sa délivrance. Parvenue en Égypte, elle retrouva forme humaine au toucher de Zeus et mit au monde Épaphos.",
+        "personnages": ["io", "hera", "promethee", "zeus", "epaphos"],
+        "sources": ["Eschyle, Prométhée enchaîné", "Eschyle, Les Suppliantes", "Apollodore, Bibliothèque II"]
+      }
+    ]
+  },
+  {
+    "id": "egee",
+    "nom": "Égée",
+    "grec": "Αἰγεύς",
+    "romain": "Aegeus",
+    "categorie": "mortel",
+    "epithete": "Roi d'Athènes",
+    "tags": ["mortel", "roi", "athènes", "thésée", "oracle", "mer", "tragédie"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Pandion II (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "ethra", "note": "Mère de Thésée" },
+      { "avec": "medee", "note": "Épouse à Athènes" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'épée sous le rocher",
+        "resume": "Sans héritier, Égée consulta la Pythie, qui lui donna une réponse obscure. Sur le chemin du retour, il fit étape à Trézène chez le roi Pitthée, qui lui fit partager la couche de sa fille Æthra. Avant de partir, Égée cacha son épée et ses sandales sous un lourd rocher. Il demanda à Æthra d'envoyer leur fils à Athènes lorsqu'il serait assez fort pour soulever la pierre.",
+        "personnages": ["egee", "ethra", "thesee"],
+        "sources": ["Plutarque, Vie de Thésée", "Apollodore, Épitomé"]
+      },
+      {
+        "titre": "La voile noire",
+        "resume": "Lorsque Thésée partit pour la Crète affronter le Minotaure, Égée lui fit promettre de hisser une voile blanche au retour s'il avait survécu. Dans l'euphorie de la victoire, ou affligé par l'abandon d'Ariane, Thésée oublia de changer la voile noire. Voyant le navire approcher, Égée crut son fils mort et se jeta du haut de la falaise. La mer prit dès lors le nom d'Égée.",
+        "personnages": ["egee", "thesee", "minotaure", "ariane"],
+        "sources": ["Plutarque, Vie de Thésée", "Catulle, Poème 64", "Diodore IV"]
+      }
+    ]
+  },
+  {
+    "id": "ethra",
+    "nom": "Æthra",
+    "grec": "Αἴθρα",
+    "romain": "Aethra",
+    "categorie": "mortel",
+    "epithete": "Mère de Thésée",
+    "tags": ["mortel", "thésée", "famille", "guerre de troie", "enlèvement"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille de Pitthée, roi de Trézène" }
+    ],
+    "unions": [
+      { "avec": "egee", "note": "Père de Thésée" },
+      { "avec": "poseidon", "note": "Même nuit, selon la tradition de Trézène" }
+    ],
+    "histoires": [
+      {
+        "titre": "Mère de Thésée, captive à Troie",
+        "resume": "Æthra éleva Thésée à Trézène et lui révéla, le moment venu, le secret du rocher cachant l'épée d'Égée. Une tradition rapporte que, la même nuit qu'Égée, Poséidon s'était uni à elle, d'où la double paternité attribuée au héros. Plus tard, lorsque les Dioscures vinrent reprendre leur sœur Hélène enlevée par Thésée, ils emmenèrent Æthra comme captive. Elle suivit Hélène à Troie comme servante et fut libérée par ses petits-fils à la chute de la ville.",
+        "personnages": ["ethra", "thesee", "egee", "poseidon", "castor", "pollux", "helene"],
+        "sources": ["Plutarque, Vie de Thésée", "Homère, Iliade III", "Apollodore, Épitomé"]
+      }
+    ]
+  },
+  {
+    "id": "ariane",
+    "nom": "Ariane",
+    "grec": "Ἀριάδνη",
+    "romain": "Ariadna",
+    "categorie": "mortel",
+    "epithete": "Princesse au fil",
+    "symboles": ["pelote de fil", "couronne"],
+    "tags": ["mortel", "crète", "thésée", "amour", "divinisé", "transformé en constellation", "mariage"],
+    "filiations": [
+      { "parents": ["minos", "pasiphae"], "principale": true, "source": "Apollodore, Plutarque" }
+    ],
+    "unions": [
+      { "avec": "thesee", "note": "Amant qui l'abandonna" },
+      { "avec": "dionysos", "note": "Époux divin" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le fil d'Ariane",
+        "resume": "Éprise de Thésée, venu en Crète parmi les jeunes Athéniens destinés au Minotaure, Ariane décida de l'aider contre la promesse qu'il l'emmènerait. Sur le conseil de Dédale, elle lui remit une pelote de fil qu'il déroula en pénétrant dans le Labyrinthe. Après avoir tué le monstre, Thésée retrouva la sortie en suivant le fil. Ariane s'enfuit avec lui.",
+        "personnages": ["ariane", "thesee", "minotaure", "dedale"],
+        "sources": ["Apollodore, Épitomé", "Plutarque, Vie de Thésée", "Ovide, Héroïdes X"]
+      },
+      {
+        "titre": "Abandonnée à Naxos",
+        "resume": "Sur le chemin du retour, Thésée laissa Ariane endormie sur l'île de Naxos. Les raisons varient : oubli, ordre divin, ou nouvel amour. À son réveil, elle se lamenta seule sur le rivage. Dionysos arriva alors avec son cortège, la prit pour épouse et lui offrit une couronne qu'il plaça ensuite parmi les étoiles.",
+        "personnages": ["ariane", "thesee", "dionysos"],
+        "sources": ["Catulle, Poème 64", "Ovide, Métamorphoses VIII", "Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "phedre",
+    "nom": "Phèdre",
+    "grec": "Φαίδρα",
+    "romain": "Phaedra",
+    "categorie": "mortel",
+    "epithete": "Reine d'Athènes",
+    "tags": ["mortel", "reine", "crète", "athènes", "désir", "tragédie", "vengeance", "thésée"],
+    "filiations": [
+      { "parents": ["minos", "pasiphae"], "principale": true, "source": "Euripide, Apollodore" }
+    ],
+    "unions": [
+      { "avec": "thesee", "note": "Époux" }
+    ],
+    "histoires": [
+      {
+        "titre": "La passion pour Hippolyte",
+        "resume": "Épouse de Thésée, Phèdre fut frappée par Aphrodite d'un amour coupable pour son beau-fils Hippolyte, qui dédaignait la déesse. Sa nourrice révéla ce secret au jeune homme, qui le repoussa avec horreur. Désespérée et craignant le déshonneur, Phèdre se pendit en laissant une tablette qui accusait Hippolyte de l'avoir violentée. Thésée, trompé, maudit son fils.",
+        "personnages": ["phedre", "hippolytos", "thesee", "aphrodite"],
+        "sources": ["Euripide, Hippolyte", "Sénèque, Phèdre", "Ovide, Héroïdes IV"]
+      }
+    ]
+  },
+  {
+    "id": "hippolytos",
+    "nom": "Hippolyte (fils de Thésée)",
+    "grec": "Ἱππόλυτος",
+    "romain": "Hippolytus",
+    "categorie": "mortel",
+    "epithete": "Chasseur chaste, dévot d'Artémis",
+    "tags": ["mortel", "chasse", "chevaux", "athènes", "tragédie", "victime des dieux", "thésée"],
+    "filiations": [
+      { "parents": ["thesee", "hippolyte"], "principale": true, "source": "Euripide, Plutarque ; la mère est aussi nommée Antiope" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mort d'Hippolyte",
+        "resume": "Fidèle à Artémis et indifférent à l'amour, Hippolyte offensa Aphrodite, qui suscita contre lui la passion de Phèdre. Faussement accusé, il fut banni par Thésée, qui invoqua contre lui l'un des vœux promis par Poséidon. Alors qu'il longeait le rivage en char, un taureau monstrueux surgit des flots et affola ses chevaux. Hippolyte fut traîné et mortellement blessé. Artémis révéla trop tard son innocence à Thésée.",
+        "personnages": ["hippolytos", "phedre", "thesee", "poseidon", "artemis", "aphrodite"],
+        "sources": ["Euripide, Hippolyte", "Ovide, Métamorphoses XV", "Sénèque, Phèdre"]
+      },
+      {
+        "titre": "Ressuscité par Asclépios",
+        "resume": "Selon certaines traditions, Artémis obtint d'Asclépios qu'il ramène Hippolyte à la vie. Zeus, irrité que l'ordre de la mort soit bafoué, foudroya le médecin. Les Romains racontaient qu'Hippolyte fut transporté en Italie, dans le bois sacré d'Aricie, où il fut honoré sous le nom de Virbius.",
+        "personnages": ["hippolytos", "asclepios", "artemis", "zeus"],
+        "sources": ["Apollodore, Bibliothèque III", "Ovide, Métamorphoses XV", "Virgile, Énéide VII"]
+      }
+    ]
+  },
+  {
+    "id": "pasiphae",
+    "nom": "Pasiphaé",
+    "grec": "Πασιφάη",
+    "romain": "Pasiphae",
+    "categorie": "mortel",
+    "epithete": "Reine de Crète",
+    "tags": ["mortel", "reine", "crète", "désir", "malédiction", "magie", "châtiment"],
+    "filiations": [
+      { "parents": ["helios", "perseis"], "principale": true, "source": "Apollodore, Apollonios de Rhodes" }
+    ],
+    "unions": [
+      { "avec": "minos", "note": "Époux" },
+      { "avec": "taureau-de-crete", "note": "Passion envoyée par Poséidon" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère du Minotaure",
+        "resume": "Minos avait promis de sacrifier à Poséidon le taureau splendide que le dieu avait fait sortir de la mer, mais il le garda. Pour le punir, Poséidon inspira à Pasiphaé une passion pour l'animal. Dédale construisit pour elle une vache de bois creuse, recouverte de cuir, dans laquelle elle se dissimula. De cette union naquit le Minotaure, que Minos fit enfermer dans le Labyrinthe.",
+        "personnages": ["pasiphae", "minos", "poseidon", "taureau-de-crete", "dedale", "minotaure"],
+        "sources": ["Apollodore, Bibliothèque III", "Ovide, Art d'aimer I", "Diodore IV"]
+      },
+      {
+        "titre": "Le sortilège contre Minos",
+        "resume": "Fille du Soleil et sœur de Circé, Pasiphaé connaissait les charmes. Irritée par les infidélités de Minos, elle lui jeta un sort : toute femme qu'il approchait mourait, dévorée par les bêtes venimeuses qui sortaient de son corps. Procris le guérit grâce à une racine donnée par Circé.",
+        "personnages": ["pasiphae", "minos", "circe"],
+        "sources": ["Apollodore, Bibliothèque III", "Antoninus Liberalis, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "dedale",
+    "nom": "Dédale",
+    "grec": "Δαίδαλος",
+    "romain": "Daedalus",
+    "categorie": "mortel",
+    "epithete": "L'artisan ingénieux",
+    "domaines": ["artisanat", "architecture", "invention"],
+    "symboles": ["ailes de cire", "labyrinthe"],
+    "tags": ["mortel", "artisanat", "science", "crète", "athènes", "ruse", "ailé"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Métion ou d'Eupalamos, de la lignée royale d'Athènes (Apollodore, Diodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le meurtre de Talos le neveu",
+        "resume": "À Athènes, Dédale prit en apprentissage son neveu, que les sources nomment Talos ou Perdix. Le jeune garçon se révéla si doué qu'il inventa la scie et le compas. Jaloux de ce talent, Dédale le précipita du haut de l'Acropole. Selon Ovide, Athéna recueillit l'enfant et le changea en perdrix. Condamné, Dédale s'enfuit en Crète auprès de Minos.",
+        "personnages": ["dedale", "athena"],
+        "sources": ["Ovide, Métamorphoses VIII", "Apollodore, Bibliothèque III", "Diodore IV"]
+      },
+      {
+        "titre": "Le Labyrinthe",
+        "resume": "En Crète, Dédale fabriqua la vache de bois qui permit à Pasiphaé de s'unir au taureau. Lorsque naquit le Minotaure, Minos lui ordonna de construire une prison d'où nul ne pourrait sortir. Il conçut le Labyrinthe, aux couloirs si enchevêtrés qu'il eut lui-même peine à en retrouver l'issue. Il souffla plus tard à Ariane l'idée du fil qui sauva Thésée.",
+        "personnages": ["dedale", "minos", "pasiphae", "minotaure", "ariane", "thesee"],
+        "sources": ["Apollodore, Bibliothèque III", "Ovide, Métamorphoses VIII"]
+      },
+      {
+        "titre": "L'envol hors de Crète",
+        "resume": "Minos retint Dédale et son fils Icare prisonniers. Ne pouvant fuir ni par terre ni par mer, l'inventeur fabriqua des ailes de plumes liées par de la cire. Il mit son fils en garde contre l'excès de hauteur comme de bassesse. Icare s'approcha trop du soleil et périt ; Dédale, endeuillé, gagna la Sicile, où le roi Cocalos le protégea contre Minos, venu le réclamer.",
+        "personnages": ["dedale", "icare", "minos"],
+        "sources": ["Ovide, Métamorphoses VIII", "Apollodore, Épitomé", "Diodore IV"]
+      }
+    ]
+  },
+  {
+    "id": "icare",
+    "nom": "Icare",
+    "grec": "Ἴκαρος",
+    "romain": "Icarus",
+    "categorie": "mortel",
+    "epithete": "Celui qui vola trop haut",
+    "symboles": ["ailes de cire"],
+    "tags": ["mortel", "crète", "ailé", "orgueil", "soleil", "mer", "mort"],
+    "filiations": [
+      { "parents": ["dedale"], "principale": true, "source": "Fils de Dédale et de Naucraté, esclave de Minos (Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "La chute d'Icare",
+        "resume": "Prisonnier de Minos avec son père, Icare s'envola avec lui grâce aux ailes de plumes et de cire fabriquées par Dédale. Grisé par le vol, il oublia les avertissements paternels et s'éleva vers le soleil. La chaleur fit fondre la cire, les plumes se détachèrent et le jeune homme tomba dans la mer. Celle-ci prit son nom, mer Icarienne, et l'île voisine où son corps fut enseveli fut appelée Icarie.",
+        "personnages": ["icare", "dedale", "minos", "helios"],
+        "sources": ["Ovide, Métamorphoses VIII", "Ovide, Art d'aimer II", "Apollodore, Épitomé"]
+      }
+    ]
+  },
+  {
+    "id": "midas",
+    "nom": "Midas",
+    "grec": "Μίδας",
+    "romain": "Midas",
+    "categorie": "mortel",
+    "epithete": "Roi de Phrygie",
+    "symboles": ["or", "oreilles d'âne"],
+    "tags": ["mortel", "roi", "richesse", "châtiment", "musique", "orgueil", "métamorphose"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Gordias ; parfois de Cybèle (Hygin)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le toucher d'or",
+        "resume": "Midas accueillit avec égards Silène, égaré et ivre, et le ramena à Dionysos. Pour le remercier, le dieu lui offrit d'exaucer un souhait, et le roi demanda que tout ce qu'il toucherait se change en or. Il découvrit vite que la nourriture et le vin devenaient métal dans sa bouche. Implorant Dionysos, il reçut l'ordre de se baigner dans le fleuve Pactole, qui depuis charrie des paillettes d'or.",
+        "personnages": ["midas", "silene", "dionysos"],
+        "sources": ["Ovide, Métamorphoses XI", "Hygin, Fables"]
+      },
+      {
+        "titre": "Les oreilles d'âne",
+        "resume": "Lors d'un concours musical entre Apollon et Pan, arbitré par le dieu de la montagne Tmolos, tous donnèrent la victoire à Apollon, sauf Midas. Pour punir son mauvais goût, Apollon lui fit pousser des oreilles d'âne, qu'il cacha sous un bonnet. Seul son barbier connaissait le secret ; ne pouvant le garder, il le confia à un trou creusé dans la terre. Des roseaux y poussèrent et répétèrent le secret à chaque souffle du vent.",
+        "personnages": ["midas", "apollon", "pan"],
+        "sources": ["Ovide, Métamorphoses XI"]
+      }
+    ]
+  },
+  {
+    "id": "narcisse",
+    "nom": "Narcisse",
+    "grec": "Νάρκισσος",
+    "romain": "Narcissus",
+    "categorie": "mortel",
+    "epithete": "Épris de son reflet",
+    "symboles": ["narcisse", "reflet"],
+    "tags": ["mortel", "beauté", "orgueil", "châtiment", "transformé en plante", "fleurs", "désir"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils du fleuve Céphise et de la nymphe Liriopé (Ovide)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Narcisse et Écho",
+        "resume": "À sa naissance, Tirésias prédit que Narcisse vivrait longtemps s'il ne se connaissait pas lui-même. D'une grande beauté, le jeune homme repoussait tous ceux qui l'aimaient, dont la nymphe Écho, qui dépérit jusqu'à n'être plus qu'une voix. Un amant éconduit pria pour qu'il aime à son tour sans retour, et Némésis l'exauça. Penché sur une source, Narcisse s'éprit de son propre reflet et se consuma sur place. À l'endroit de sa mort poussa la fleur qui porte son nom.",
+        "personnages": ["narcisse", "echo", "tiresias", "nemesis"],
+        "sources": ["Ovide, Métamorphoses III", "Pausanias IX", "Conon, Narrations"]
+      }
+    ]
+  },
+  {
+    "id": "adonis",
+    "nom": "Adonis",
+    "grec": "Ἄδωνις",
+    "romain": "Adonis",
+    "categorie": "mortel",
+    "epithete": "Bien-aimé d'Aphrodite",
+    "symboles": ["anémone", "sanglier"],
+    "tags": ["mortel", "beauté", "chasse", "aimé des dieux", "transformé en plante", "fleurs", "mort", "chypre"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Cinyras et de sa fille Myrrha (Ovide) ; de Théias et Smyrna (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "aphrodite", "note": "Amante" },
+      { "avec": "persephone", "note": "Qui le disputa à Aphrodite" }
+    ],
+    "histoires": [
+      {
+        "titre": "Né de l'arbre à myrrhe",
+        "resume": "Myrrha conçut une passion interdite pour son père et, une fois découverte, s'enfuit. Les dieux la changèrent en arbre à myrrhe, dont l'écorce s'ouvrit pour laisser naître Adonis. Selon Apollodore, Aphrodite cacha l'enfant dans un coffre confié à Perséphone, qui refusa ensuite de le rendre. Zeus trancha : Adonis passerait une part de l'année sous terre auprès de Perséphone et l'autre auprès d'Aphrodite.",
+        "personnages": ["adonis", "aphrodite", "persephone", "zeus"],
+        "sources": ["Ovide, Métamorphoses X", "Apollodore, Bibliothèque III"]
+      },
+      {
+        "titre": "La mort d'Adonis",
+        "resume": "Aphrodite, éprise d'Adonis, le suppliait de fuir les bêtes dangereuses. Mais le jeune chasseur poursuivit un sanglier, qui le blessa mortellement à l'aine ; certains disent que la bête était envoyée par Artémis ou par Arès jaloux. La déesse accourut trop tard et fit naître de son sang l'anémone, fleur éphémère. Sa mort était pleurée chaque année lors des fêtes des Adonies.",
+        "personnages": ["adonis", "aphrodite", "artemis", "ares"],
+        "sources": ["Ovide, Métamorphoses X", "Bion, Chant funèbre pour Adonis", "Apollodore, Bibliothèque III"]
+      }
+    ]
+  },
+  {
+    "id": "hyacinthe",
+    "nom": "Hyacinthe",
+    "grec": "Ὑάκινθος",
+    "romain": "Hyacinthus",
+    "categorie": "mortel",
+    "epithete": "Prince de Sparte aimé d'Apollon",
+    "symboles": ["jacinthe", "disque"],
+    "tags": ["mortel", "sparte", "beauté", "aimé des dieux", "transformé en plante", "fleurs", "jalousie", "mort"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils d'Amyclas, roi de Sparte (Pausanias, Apollodore)" },
+      { "parents": ["clio"], "source": "Fils de Piéros et de la Muse Clio (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "apollon", "note": "Amant divin" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le disque fatal",
+        "resume": "Apollon aimait le jeune Hyacinthe et délaissait pour lui ses sanctuaires. Un jour, ils s'exercèrent ensemble au lancer du disque. Le disque lancé par le dieu rebondit et frappa le jeune homme à la tête ; une variante attribue le drame à Zéphyr, jaloux, qui en dévia la course. Incapable de le sauver, Apollon fit naître de son sang une fleur marquée de signes de deuil. Sparte célébrait sa mémoire lors des fêtes des Hyacinthies.",
+        "personnages": ["hyacinthe", "apollon", "zephyr"],
+        "sources": ["Ovide, Métamorphoses X", "Apollodore, Bibliothèque I", "Pausanias III"]
+      }
+    ]
+  },
+  {
+    "id": "ganymede",
+    "nom": "Ganymède",
+    "grec": "Γανυμήδης",
+    "romain": "Catamitus",
+    "categorie": "mortel",
+    "epithete": "Échanson des dieux",
+    "symboles": ["coupe", "aigle"],
+    "tags": ["mortel", "troie", "beauté", "jeunesse", "enlèvement", "aimé des dieux", "olympe", "transformé en constellation"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Tros, roi de Troie, et de Callirrhoé (Homère, Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Ravisseur" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'enlèvement par l'aigle",
+        "resume": "Ganymède, prince troyen, était réputé le plus beau des mortels. Zeus s'en éprit et le fit enlever par un aigle, ou prit lui-même cette forme, alors que le jeune homme gardait ses troupeaux sur l'Ida. Sur l'Olympe, il devint l'échanson des dieux et reçut l'immortalité et la jeunesse éternelle. Pour consoler son père, Zeus lui offrit des chevaux divins. Ganymède fut aussi associé à la constellation du Verseau.",
+        "personnages": ["ganymede", "zeus", "hebe"],
+        "sources": ["Homère, Iliade XX", "Hymne homérique à Aphrodite", "Ovide, Métamorphoses X"]
+      }
+    ]
+  },
+  {
+    "id": "psyche",
+    "nom": "Psyché",
+    "grec": "Ψυχή",
+    "romain": "Psyche",
+    "categorie": "mortel",
+    "epithete": "L'âme aimée d'Éros",
+    "symboles": ["papillon", "lampe"],
+    "tags": ["mortel", "beauté", "amour", "jalousie", "divinisé", "mariage", "enfers", "aimé des dieux"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille cadette d'un roi anonyme (Apulée)" }
+    ],
+    "unions": [
+      { "avec": "eros", "note": "Époux (Cupidon chez Apulée)" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'époux invisible",
+        "resume": "La beauté de Psyché détournait les hommes du culte de Vénus, qui chargea son fils Cupidon de la rendre amoureuse d'un être méprisable. Mais le dieu s'éprit lui-même de la jeune fille. Un oracle ordonna de l'exposer sur un rocher comme pour des noces funèbres ; Zéphyr l'emporta alors vers un palais merveilleux. Chaque nuit, un époux inconnu la rejoignait, lui interdisant de chercher à voir son visage.",
+        "personnages": ["psyche", "eros", "aphrodite", "zephyr"],
+        "sources": ["Apulée, Métamorphoses IV-V"]
+      },
+      {
+        "titre": "La lampe et la goutte d'huile",
+        "resume": "Ses sœurs jalouses persuadèrent Psyché que son mari était un serpent monstrueux qui finirait par la dévorer. Une nuit, elle alluma une lampe et prit un poignard, mais découvrit le dieu Amour endormi. Troublée, elle laissa tomber une goutte d'huile brûlante sur son épaule. Réveillé et trahi, le dieu s'envola, et le palais s'évanouit.",
+        "personnages": ["psyche", "eros"],
+        "sources": ["Apulée, Métamorphoses V"]
+      },
+      {
+        "titre": "Les épreuves de Vénus",
+        "resume": "Errant à la recherche de son époux, Psyché se livra à Vénus, qui lui imposa des tâches impossibles. Elle dut trier un monceau de graines mêlées, aidée par des fourmis, puis rapporter la laine d'or de béliers redoutables et puiser l'eau d'une source gardée par des dragons, grâce à l'aigle de Jupiter. Enfin, elle descendit aux Enfers demander à Proserpine une parcelle de sa beauté. Sur le chemin du retour, elle ouvrit la boîte et tomba dans un sommeil mortel.",
+        "personnages": ["psyche", "aphrodite", "persephone", "zeus"],
+        "sources": ["Apulée, Métamorphoses VI"]
+      },
+      {
+        "titre": "Noces sur l'Olympe",
+        "resume": "Guéri de sa blessure, Cupidon réveilla Psyché et plaida sa cause auprès de Jupiter. Le roi des dieux réunit l'assemblée divine, apaisa Vénus et fit boire l'ambroisie à Psyché, qui devint immortelle. Les noces furent célébrées sur l'Olympe. De leur union naquit une fille, Volupté.",
+        "personnages": ["psyche", "eros", "zeus", "aphrodite"],
+        "sources": ["Apulée, Métamorphoses VI"]
+      }
+    ]
+  },
+  {
+    "id": "pandore",
+    "nom": "Pandore",
+    "grec": "Πανδώρα",
+    "romain": "Pandora",
+    "categorie": "mortel",
+    "epithete": "La première femme",
+    "symboles": ["jarre", "espérance"],
+    "tags": ["mortel", "création", "malédiction", "châtiment", "beauté", "mariage"],
+    "filiations": [
+      { "parents": ["hephaistos"], "principale": true, "source": "Façonnée dans l'argile par Héphaïstos sur l'ordre de Zeus (Hésiode) ; elle n'a pas de parents au sens propre" }
+    ],
+    "unions": [
+      { "avec": "epimethee", "note": "Époux" }
+    ],
+    "histoires": [
+      {
+        "titre": "La création de Pandore",
+        "resume": "Pour punir les hommes du vol du feu par Prométhée, Zeus ordonna à Héphaïstos de modeler dans la terre et l'eau une figure de jeune fille. Athéna lui apprit le tissage et la para, Aphrodite lui donna la grâce et le désir, et Hermès lui mit au cœur la ruse et les paroles trompeuses. Chaque dieu lui ayant fait un présent, elle reçut le nom de Pandore. Hermès la conduisit ensuite vers Épiméthée.",
+        "personnages": ["pandore", "zeus", "hephaistos", "athena", "aphrodite", "hermes", "promethee", "epimethee"],
+        "sources": ["Hésiode, Les Travaux et les Jours", "Hésiode, Théogonie"]
+      },
+      {
+        "titre": "La jarre ouverte",
+        "resume": "Prométhée avait averti son frère de ne rien accepter de Zeus, mais Épiméthée accueillit Pandore. Elle souleva le couvercle d'une grande jarre et en laissa échapper les maux, les maladies et les peines qui, jusque-là, épargnaient les hommes. Elle referma le récipient à temps pour que seule l'Espérance y demeure. Depuis, les maux errent en silence parmi les mortels.",
+        "personnages": ["pandore", "epimethee", "promethee", "zeus"],
+        "sources": ["Hésiode, Les Travaux et les Jours"]
+      }
+    ]
+  },
+  {
+    "id": "niobe",
+    "nom": "Niobé",
+    "grec": "Νιόβη",
+    "romain": "Niobe",
+    "categorie": "mortel",
+    "epithete": "La mère en pleurs",
+    "symboles": ["rocher qui pleure"],
+    "tags": ["mortel", "reine", "thèbes", "lydie", "orgueil", "châtiment", "métamorphose", "famille"],
+    "filiations": [
+      { "parents": ["tantale"], "principale": true, "source": "Fille de Tantale et de Dioné, fille d'Atlas (Ovide, Hygin)" }
+    ],
+    "unions": [
+      { "avec": "amphion", "note": "Époux, roi de Thèbes" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le massacre des Niobides",
+        "resume": "Reine de Thèbes et mère d'une nombreuse descendance, Niobé se vanta d'être supérieure à Léto, qui n'avait que deux enfants. Elle interdit même aux Thébaines de rendre hommage à la déesse. Offensée, Léto appela ses enfants : Apollon abattit de ses flèches les fils de Niobé, et Artémis les filles. Le nombre des enfants varie selon les auteurs. Accablé, Amphion se donna la mort.",
+        "personnages": ["niobe", "leto", "apollon", "artemis", "amphion"],
+        "sources": ["Homère, Iliade XXIV", "Ovide, Métamorphoses VI", "Apollodore, Bibliothèque III"]
+      },
+      {
+        "titre": "Le rocher du Sipyle",
+        "resume": "Restée seule au milieu des corps de ses enfants, Niobé se figea de douleur. Les dieux la changèrent en pierre, et un vent l'emporta jusqu'à sa patrie, sur le mont Sipyle en Lydie. Là, le rocher continue de verser des larmes qui ruissellent sans fin. Homère rapporte que même changée en pierre, elle rumine encore les maux envoyés par les dieux.",
+        "personnages": ["niobe"],
+        "sources": ["Homère, Iliade XXIV", "Ovide, Métamorphoses VI", "Pausanias I"]
+      }
+    ]
+  },
+  {
+    "id": "arachne",
+    "nom": "Arachné",
+    "grec": "Ἀράχνη",
+    "romain": "Arachne",
+    "categorie": "mortel",
+    "epithete": "La tisserande de Lydie",
+    "symboles": ["toile", "araignée", "métier à tisser"],
+    "tags": ["mortel", "lydie", "artisanat", "orgueil", "châtiment", "transformé en animal", "arts"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille d'Idmon de Colophon, teinturier en pourpre (Ovide)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le défi lancé à Athéna",
+        "resume": "Arachné, jeune Lydienne d'humble naissance, tissait avec une habileté qui émerveillait les nymphes. Elle refusait d'admettre qu'elle devait son art à Athéna et défia la déesse. Athéna vint sous les traits d'une vieille femme pour l'inviter à l'humilité, puis se révéla et accepta le concours. La déesse tissa les dieux dans leur majesté et le châtiment des mortels présomptueux ; Arachné représenta les tromperies amoureuses des dieux. Son ouvrage était sans défaut.",
+        "personnages": ["arachne", "athena", "zeus"],
+        "sources": ["Ovide, Métamorphoses VI"]
+      },
+      {
+        "titre": "Changée en araignée",
+        "resume": "Furieuse de ne trouver aucun défaut dans la toile de sa rivale et offensée par son sujet, Athéna la déchira et frappa Arachné de sa navette. Humiliée, la jeune fille se pendit. La déesse, prise de pitié ou voulant prolonger la leçon, la changea en araignée, condamnée à tisser éternellement, suspendue à son fil.",
+        "personnages": ["arachne", "athena"],
+        "sources": ["Ovide, Métamorphoses VI"]
+      }
+    ]
+  },
+  {
+    "id": "tantale",
+    "nom": "Tantale",
+    "grec": "Τάνταλος",
+    "romain": "Tantalus",
+    "categorie": "mortel",
+    "epithete": "Le supplicié des Enfers",
+    "tags": ["mortel", "roi", "lydie", "châtiment", "enfers", "tartare", "orgueil", "maison d'atrée"],
+    "filiations": [
+      { "parents": ["zeus"], "principale": true, "source": "Fils de Zeus et de la nymphe Plouto (Pausanias, Hygin)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le festin abominable",
+        "resume": "Roi de Lydie, Tantale jouissait du privilège rare de partager la table des dieux. Pour éprouver leur clairvoyance, il fit tuer son fils Pélops, le fit cuire et le leur servit. Tous reconnurent l'horreur et refusèrent d'y toucher, sauf Déméter, absorbée par le deuil de Perséphone, qui mangea une épaule. Les dieux ramenèrent Pélops à la vie et remplacèrent l'épaule manquante par une pièce d'ivoire.",
+        "personnages": ["tantale", "pelops", "demeter", "zeus", "persephone"],
+        "sources": ["Pindare, Olympiques I", "Ovide, Métamorphoses VI", "Hygin, Fables"]
+      },
+      {
+        "titre": "Le supplice de Tantale",
+        "resume": "D'autres versions accusent Tantale d'avoir dérobé le nectar et l'ambroisie pour les partager avec les mortels, ou d'avoir divulgué les secrets des dieux. Précipité aux Enfers, il se tient dans une eau qui lui monte jusqu'au menton, sous des arbres chargés de fruits. Dès qu'il se penche pour boire, l'eau se retire ; dès qu'il tend la main vers les fruits, le vent les écarte. Selon Pindare, un rocher suspendu au-dessus de sa tête menace aussi sans cesse de l'écraser.",
+        "personnages": ["tantale", "zeus"],
+        "sources": ["Homère, Odyssée XI", "Pindare, Olympiques I", "Euripide, Oreste"]
+      }
+    ]
+  },
+  {
+    "id": "pelops",
+    "nom": "Pélops",
+    "grec": "Πέλοψ",
+    "romain": "Pelops",
+    "categorie": "mortel",
+    "epithete": "Éponyme du Péloponnèse",
+    "symboles": ["épaule d'ivoire", "char"],
+    "tags": ["mortel", "roi", "maison d'atrée", "chevaux", "malédiction", "ruse", "aimé des dieux", "fondateur"],
+    "filiations": [
+      { "parents": ["tantale"], "principale": true, "source": "Fils de Tantale et de Dioné ou d'Euryanassa" }
+    ],
+    "unions": [
+      { "avec": "poseidon", "note": "Amant divin qui lui offrit un char ailé (Pindare)" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'épaule d'ivoire",
+        "resume": "Enfant, Pélops fut tué par son père Tantale et servi aux dieux. Rappelé à la vie par les Olympiens, il reçut une épaule d'ivoire à la place de celle que Déméter avait mangée. Pindare refuse ce récit et préfère dire que Poséidon, épris de lui, l'avait enlevé sur l'Olympe.",
+        "personnages": ["pelops", "tantale", "demeter", "poseidon"],
+        "sources": ["Pindare, Olympiques I", "Ovide, Métamorphoses VI"]
+      },
+      {
+        "titre": "La course contre Œnomaos",
+        "resume": "Le roi Œnomaos de Pisa promettait sa fille Hippodamie à qui le battrait à la course de chars, et tuait les perdants. Pélops obtint de Poséidon des chevaux ailés, et selon la version la plus répandue soudoya Myrtilos, cocher du roi, pour qu'il remplace les chevilles des roues par de la cire. Le char d'Œnomaos se brisa et le roi périt. Lorsque Myrtilos réclama sa récompense, Pélops le jeta à la mer ; en mourant, le cocher maudit sa descendance, source des malheurs des Atrides.",
+        "personnages": ["pelops", "poseidon"],
+        "sources": ["Pindare, Olympiques I", "Apollodore, Épitomé", "Sophocle, Électre", "Pausanias VIII"]
+      }
+    ]
+  },
+  {
+    "id": "atree",
+    "nom": "Atrée",
+    "grec": "Ἀτρεύς",
+    "romain": "Atreus",
+    "categorie": "mortel",
+    "epithete": "Roi de Mycènes",
+    "symboles": ["agneau d'or"],
+    "tags": ["mortel", "roi", "mycènes", "maison d'atrée", "vengeance", "discorde", "malédiction"],
+    "filiations": [
+      { "parents": ["pelops"], "principale": true, "source": "Fils de Pélops et d'Hippodamie" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'agneau à la toison d'or",
+        "resume": "Atrée et son frère Thyeste se disputaient le trône de Mycènes. Atrée possédait un agneau à la toison d'or, signe de royauté, mais son épouse Aéropé, amante de Thyeste, le livra en secret à celui-ci. Thyeste obtint alors que la royauté revienne au possesseur de l'agneau. Zeus intervint en faveur d'Atrée en inversant la course du soleil, et Atrée devint roi en chassant son frère.",
+        "personnages": ["atree", "thyeste", "zeus", "helios"],
+        "sources": ["Apollodore, Épitomé", "Euripide, Électre", "Euripide, Oreste"]
+      },
+      {
+        "titre": "Le festin de Thyeste",
+        "resume": "Ayant appris la trahison d'Aéropé, Atrée feignit la réconciliation et invita Thyeste à un banquet. Il fit égorger les fils de son frère, les fit cuire et les lui servit. À la fin du repas, il montra à Thyeste les têtes et les mains de ses enfants. Le soleil, dit-on, se détourna d'horreur. Ce crime aggrava la malédiction pesant sur les descendants de Pélops.",
+        "personnages": ["atree", "thyeste", "helios"],
+        "sources": ["Eschyle, Agamemnon", "Sénèque, Thyeste", "Apollodore, Épitomé"]
+      }
+    ]
+  },
+  {
+    "id": "thyeste",
+    "nom": "Thyeste",
+    "grec": "Θυέστης",
+    "romain": "Thyestes",
+    "categorie": "mortel",
+    "epithete": "Frère ennemi d'Atrée",
+    "tags": ["mortel", "roi", "mycènes", "maison d'atrée", "vengeance", "malédiction", "oracle"],
+    "filiations": [
+      { "parents": ["pelops"], "principale": true, "source": "Fils de Pélops et d'Hippodamie" }
+    ],
+    "histoires": [
+      {
+        "titre": "La vengeance par Égisthe",
+        "resume": "Après le festin où il avait mangé ses propres enfants, Thyeste consulta un oracle sur le moyen de se venger. Il lui fut répondu qu'un fils engendré avec sa propre fille Pélopia accomplirait la vengeance. De cette union naquit Égisthe, qui tua Atrée et rendit le trône de Mycènes à son père. Plus tard, Égisthe s'allia à Clytemnestre pour assassiner Agamemnon.",
+        "personnages": ["thyeste", "atree", "agamemnon", "clytemnestre"],
+        "sources": ["Hygin, Fables", "Apollodore, Épitomé", "Eschyle, Agamemnon"]
+      }
+    ]
+  },
+  {
+    "id": "agamemnon",
+    "nom": "Agamemnon",
+    "grec": "Ἀγαμέμνων",
+    "romain": "Agamemno",
+    "categorie": "mortel",
+    "epithete": "Roi de Mycènes, chef des Achéens",
+    "symboles": ["sceptre"],
+    "tags": ["mortel", "roi", "mycènes", "guerre de troie", "maison d'atrée", "sacrifice", "orgueil", "tragédie"],
+    "filiations": [
+      { "parents": ["atree"], "principale": true, "source": "Fils d'Atrée et d'Aéropé (Homère, tragiques)" },
+      { "parents": [], "source": "Fils de Plisthène, élevé par Atrée (Hésiode, Catalogue)" }
+    ],
+    "unions": [
+      { "avec": "clytemnestre", "note": "Épouse" },
+      { "avec": "cassandre", "note": "Captive ramenée de Troie" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le sacrifice d'Iphigénie",
+        "resume": "La flotte grecque rassemblée à Aulis pour partir contre Troie était bloquée par des vents contraires. Le devin Calchas révéla qu'Artémis était irritée contre Agamemnon et exigeait le sacrifice de sa fille Iphigénie. Le roi fit venir la jeune fille sous prétexte de la marier à Achille. Il consentit à l'immolation, et les vents se levèrent. Ce sacrifice nourrit la haine de Clytemnestre.",
+        "personnages": ["agamemnon", "iphigenie", "artemis", "clytemnestre", "achille"],
+        "sources": ["Eschyle, Agamemnon", "Euripide, Iphigénie à Aulis", "Apollodore, Épitomé"]
+      },
+      {
+        "titre": "La colère d'Achille",
+        "resume": "Pendant la dixième année du siège de Troie, Agamemnon dut rendre sa captive Chryséis à son père, prêtre d'Apollon, pour faire cesser la peste. En compensation, il s'empara de Briséis, la captive d'Achille. Outragé, Achille se retira du combat, et les Grecs subirent de lourdes défaites. Agamemnon finit par proposer réparation, mais le héros ne revint qu'après la mort de Patrocle.",
+        "personnages": ["agamemnon", "achille", "apollon", "patrocle"],
+        "sources": ["Homère, Iliade I, IX, XIX"]
+      },
+      {
+        "titre": "Le meurtre dans le bain",
+        "resume": "À son retour de Troie, Agamemnon fut accueilli par Clytemnestre, qui lui fit fouler un tapis de pourpre. Pendant son bain, elle l'enveloppa d'un filet ou d'un vêtement sans issue et le frappa avec l'aide d'Égisthe. Cassandre, qu'il avait ramenée comme captive, fut tuée avec lui. Chez Homère, le meurtre a lieu lors d'un banquet organisé par Égisthe.",
+        "personnages": ["agamemnon", "clytemnestre", "cassandre"],
+        "sources": ["Homère, Odyssée XI", "Eschyle, Agamemnon"]
+      }
+    ]
+  },
+  {
+    "id": "menelas",
+    "nom": "Ménélas",
+    "grec": "Μενέλαος",
+    "romain": "Menelaus",
+    "categorie": "mortel",
+    "epithete": "Roi de Sparte, époux d'Hélène",
+    "tags": ["mortel", "roi", "sparte", "guerre de troie", "maison d'atrée", "mariage", "égypte"],
+    "filiations": [
+      { "parents": ["atree"], "principale": true, "source": "Fils d'Atrée et d'Aéropé" }
+    ],
+    "unions": [
+      { "avec": "helene", "note": "Épouse" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le duel contre Pâris",
+        "resume": "Choisi par Hélène parmi tous les prétendants, Ménélas devint roi de Sparte. Lorsque Pâris enleva son épouse, il rassembla les Grecs liés par le serment de Tyndare. Devant Troie, il affronta Pâris en combat singulier pour décider de la guerre. Il allait l'emporter quand Aphrodite enveloppa Pâris d'une nuée et le ramena dans sa chambre. La trêve fut rompue par la flèche de Pandaros.",
+        "personnages": ["menelas", "paris", "helene", "aphrodite", "tyndare"],
+        "sources": ["Homère, Iliade III-IV"]
+      },
+      {
+        "titre": "Le retour par l'Égypte",
+        "resume": "Après la chute de Troie, Ménélas reprit Hélène, qu'il avait d'abord voulu tuer. Leur retour dura huit ans, et des vents contraires les retinrent en Égypte. Sur l'île de Pharos, Ménélas captura le dieu marin Protée, qui changeait de forme, afin d'apprendre de lui le chemin du retour et le sort de ses compagnons. Il rentra enfin à Sparte, où Télémaque le trouva vivant en paix avec Hélène.",
+        "personnages": ["menelas", "helene", "protee", "telemaque"],
+        "sources": ["Homère, Odyssée IV", "Euripide, Hélène"]
+      }
+    ]
+  },
+  {
+    "id": "clytemnestre",
+    "nom": "Clytemnestre",
+    "grec": "Κλυταιμνήστρα",
+    "romain": "Clytaemnestra",
+    "categorie": "mortel",
+    "epithete": "Reine de Mycènes",
+    "symboles": ["hache", "filet"],
+    "tags": ["mortel", "reine", "mycènes", "sparte", "vengeance", "maison d'atrée", "tragédie", "famille"],
+    "filiations": [
+      { "parents": ["tyndare", "leda"], "principale": true, "source": "Apollodore, Euripide" }
+    ],
+    "unions": [
+      { "avec": "agamemnon", "note": "Époux" }
+    ],
+    "histoires": [
+      {
+        "titre": "La vengeance de la reine",
+        "resume": "Pendant les dix ans de guerre, Clytemnestre ne pardonna pas à Agamemnon le sacrifice d'Iphigénie. Elle prit pour amant Égisthe, cousin et ennemi de son mari, et guetta le signal des feux annonçant la chute de Troie. Au retour du roi, elle l'accueillit avec une fausse tendresse, puis le tua dans son bain. Elle mit à mort également la captive Cassandre.",
+        "personnages": ["clytemnestre", "agamemnon", "iphigenie", "cassandre"],
+        "sources": ["Eschyle, Agamemnon", "Homère, Odyssée III, XI"]
+      },
+      {
+        "titre": "Tuée par son fils",
+        "resume": "Des années plus tard, Oreste revint en secret à Mycènes, sur l'ordre d'Apollon, pour venger son père. Avec l'aide d'Électre, il tua Égisthe puis sa mère, malgré ses supplications. Le fantôme de Clytemnestre réveilla ensuite les Érinyes pour qu'elles poursuivent le matricide.",
+        "personnages": ["clytemnestre", "oreste", "electre", "apollon", "alecto", "megere", "tisiphone"],
+        "sources": ["Eschyle, Les Choéphores", "Eschyle, Les Euménides", "Sophocle, Électre"]
+      }
+    ]
+  },
+  {
+    "id": "iphigenie",
+    "nom": "Iphigénie",
+    "grec": "Ἰφιγένεια",
+    "romain": "Iphigenia",
+    "categorie": "mortel",
+    "epithete": "Fille sacrifiée à Aulis",
+    "tags": ["mortel", "prêtresse", "sacrifice", "maison d'atrée", "guerre de troie", "tragédie"],
+    "filiations": [
+      { "parents": ["agamemnon", "clytemnestre"], "principale": true, "source": "Eschyle, Euripide" },
+      { "parents": ["thesee", "helene"], "source": "Fille de Thésée et d'Hélène, élevée par Clytemnestre (Stésichore, Pausanias)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le sacrifice d'Aulis",
+        "resume": "Attirée à Aulis par la promesse d'un mariage avec Achille, Iphigénie apprit qu'elle devait être sacrifiée à Artémis pour que la flotte puisse partir. Chez Euripide, après avoir supplié son père, elle accepte finalement de mourir pour la Grèce. Au moment du coup fatal, Artémis la remplaça sur l'autel par une biche et l'enleva. Dans d'autres versions, comme chez Eschyle, elle meurt réellement.",
+        "personnages": ["iphigenie", "agamemnon", "clytemnestre", "artemis", "achille"],
+        "sources": ["Euripide, Iphigénie à Aulis", "Eschyle, Agamemnon", "Ovide, Métamorphoses XII"]
+      },
+      {
+        "titre": "Prêtresse en Tauride",
+        "resume": "Transportée par Artémis chez les Taures, Iphigénie devint prêtresse de la déesse, chargée de consacrer les étrangers voués au sacrifice. Un jour arrivèrent Oreste et Pylade, venus dérober la statue de la déesse sur l'ordre d'Apollon. Le frère et la sœur se reconnurent au moyen d'une lettre. Ensemble, ils s'enfuirent avec la statue, protégés par Athéna.",
+        "personnages": ["iphigenie", "oreste", "artemis", "athena", "apollon"],
+        "sources": ["Euripide, Iphigénie en Tauride"]
+      }
+    ]
+  },
+  {
+    "id": "electre",
+    "nom": "Électre (fille d'Agamemnon)",
+    "grec": "Ἠλέκτρα",
+    "romain": "Electra",
+    "categorie": "mortel",
+    "epithete": "La fille fidèle au père",
+    "tags": ["mortel", "mycènes", "argos", "maison d'atrée", "vengeance", "famille", "tragédie"],
+    "filiations": [
+      { "parents": ["agamemnon", "clytemnestre"], "principale": true, "source": "Eschyle, Sophocle, Euripide" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les retrouvailles au tombeau",
+        "resume": "Après le meurtre d'Agamemnon, Électre vécut humiliée dans le palais de sa mère ; chez Euripide, elle est mariée de force à un paysan. Elle avait sauvé son jeune frère Oreste en l'éloignant de Mycènes. Des années plus tard, une boucle de cheveux déposée sur le tombeau de son père lui fit pressentir le retour d'Oreste. Le frère et la sœur se reconnurent et préparèrent ensemble la vengeance contre Clytemnestre et Égisthe.",
+        "personnages": ["electre", "oreste", "agamemnon", "clytemnestre"],
+        "sources": ["Eschyle, Les Choéphores", "Sophocle, Électre", "Euripide, Électre"]
+      }
+    ]
+  },
+  {
+    "id": "oreste",
+    "nom": "Oreste",
+    "grec": "Ὀρέστης",
+    "romain": "Orestes",
+    "categorie": "mortel",
+    "epithete": "Le vengeur matricide",
+    "tags": ["mortel", "roi", "mycènes", "maison d'atrée", "vengeance", "folie", "justice", "athènes"],
+    "filiations": [
+      { "parents": ["agamemnon", "clytemnestre"], "principale": true, "source": "Homère, tragiques" }
+    ],
+    "histoires": [
+      {
+        "titre": "La vengeance d'Agamemnon",
+        "resume": "Encore enfant lors du meurtre de son père, Oreste fut éloigné de Mycènes et élevé en Phocide, où il se lia d'amitié avec Pylade. Devenu adulte, il reçut d'Apollon à Delphes l'ordre de venger Agamemnon. Revenu en secret, il se fit passer pour un messager annonçant sa propre mort. Il tua Égisthe puis Clytemnestre, malgré la poitrine que sa mère lui tendit en suppliant.",
+        "personnages": ["oreste", "agamemnon", "clytemnestre", "electre", "apollon"],
+        "sources": ["Eschyle, Les Choéphores", "Sophocle, Électre", "Homère, Odyssée I"]
+      },
+      {
+        "titre": "Poursuivi par les Érinyes",
+        "resume": "Aussitôt le matricide accompli, les Érinyes surgirent pour châtier Oreste et le plongèrent dans la folie. Il chercha refuge à Delphes, où Apollon le purifia, sans pour autant le délivrer de ses poursuivantes. Il erra longtemps de terre en terre. Euripide montre son délire et sa détresse à Argos, condamné à mort par le peuple.",
+        "personnages": ["oreste", "alecto", "megere", "tisiphone", "apollon"],
+        "sources": ["Eschyle, Les Euménides", "Euripide, Oreste"]
+      },
+      {
+        "titre": "Le procès de l'Aréopage",
+        "resume": "Sur le conseil d'Apollon, Oreste se rendit à Athènes et embrassa la statue d'Athéna. La déesse institua un tribunal de citoyens, l'Aréopage, pour juger son cas. Apollon le défendit et les Érinyes l'accusèrent. Les voix s'étant partagées également, Athéna fit pencher la balance en faveur de l'acquittement. Elle apaisa ensuite les Érinyes en leur offrant un culte à Athènes, où elles devinrent les Euménides.",
+        "personnages": ["oreste", "athena", "apollon", "alecto", "megere", "tisiphone"],
+        "sources": ["Eschyle, Les Euménides"]
+      },
+      {
+        "titre": "L'expédition en Tauride",
+        "resume": "Pour être définitivement délivré, Oreste reçut d'Apollon l'ordre de rapporter en Grèce la statue d'Artémis conservée chez les Taures. Capturé avec Pylade, il allait être sacrifié lorsqu'il reconnut dans la prêtresse sa sœur Iphigénie. Tous trois s'enfuirent avec la statue. Oreste régna ensuite sur Mycènes et Argos.",
+        "personnages": ["oreste", "iphigenie", "artemis", "apollon", "athena"],
+        "sources": ["Euripide, Iphigénie en Tauride", "Apollodore, Épitomé"]
+      }
+    ]
+  },
+  {
+    "id": "priam",
+    "nom": "Priam",
+    "grec": "Πρίαμος",
+    "romain": "Priamus",
+    "categorie": "mortel",
+    "epithete": "Roi de Troie",
+    "tags": ["mortel", "roi", "troie", "guerre de troie", "famille", "tragédie", "hospitalité"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Laomédon, roi de Troie (Homère, Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "hecube", "note": "Épouse principale" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le prix de la rançon",
+        "resume": "Né sous le nom de Podarcès, il fut le seul fils de Laomédon épargné par Héraclès lors du sac de Troie. Sa sœur Hésione le racheta en offrant son voile, d'où son nouveau nom, que les Anciens rattachaient au verbe acheter. Il régna ensuite longtemps sur une Troie prospère et eut une très nombreuse descendance, cinquante fils selon Homère.",
+        "personnages": ["priam", "heracles"],
+        "sources": ["Apollodore, Bibliothèque II-III", "Homère, Iliade XXIV"]
+      },
+      {
+        "titre": "Priam dans la tente d'Achille",
+        "resume": "Après la mort d'Hector, Achille traîna son corps derrière son char pendant des jours. Guidé par Hermès, le vieux Priam traversa de nuit le camp grec et vint se jeter aux genoux du meurtrier de son fils, baisant ses mains. Il évoqua le père d'Achille, Pélée, et les deux hommes pleurèrent ensemble leurs morts. Achille accepta la rançon et rendit le corps, accordant une trêve pour les funérailles.",
+        "personnages": ["priam", "achille", "hector", "hermes", "pelee"],
+        "sources": ["Homère, Iliade XXIV"]
+      },
+      {
+        "titre": "La mort de Priam",
+        "resume": "Lors de la prise de Troie, le vieux roi revêtit ses armes et se réfugia avec Hécube près de l'autel de Zeus dans son palais. Il vit Néoptolème, fils d'Achille, tuer sous ses yeux son fils Politès. Priam lança contre lui un javelot sans force. Néoptolème le traîna jusqu'à l'autel et l'égorgea.",
+        "personnages": ["priam", "neoptoleme", "hecube", "zeus"],
+        "sources": ["Virgile, Énéide II", "Apollodore, Épitomé", "Euripide, Les Troyennes"]
+      }
+    ]
+  },
+  {
+    "id": "hecube",
+    "nom": "Hécube",
+    "grec": "Ἑκάβη",
+    "romain": "Hecuba",
+    "categorie": "mortel",
+    "epithete": "Reine de Troie",
+    "tags": ["mortel", "reine", "troie", "guerre de troie", "vengeance", "transformé en animal", "tragédie", "famille"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille de Dymas, roi de Phrygie (Homère) ; ou de Cissée (Euripide)" }
+    ],
+    "unions": [
+      { "avec": "priam", "note": "Époux" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le songe de la torche",
+        "resume": "Enceinte de Pâris, Hécube rêva qu'elle accouchait d'une torche enflammée qui embrasait toute la ville. Les devins y virent l'annonce de la ruine de Troie et conseillèrent de faire périr l'enfant. Le nouveau-né fut exposé sur le mont Ida, mais survécut, recueilli par un berger.",
+        "personnages": ["hecube", "paris", "priam"],
+        "sources": ["Apollodore, Bibliothèque III", "Euripide, Les Troyennes", "Pindare, Péans"]
+      },
+      {
+        "titre": "La vengeance et la chienne",
+        "resume": "Après la chute de Troie, Hécube devint l'esclave des Grecs et vit sa fille Polyxène sacrifiée sur la tombe d'Achille. Elle découvrit ensuite que son dernier fils, Polydore, confié au roi thrace Polymestor, avait été assassiné pour son or. Elle attira le roi dans un piège, lui creva les yeux et tua ses enfants. Elle fut ensuite métamorphosée en chienne.",
+        "personnages": ["hecube", "achille"],
+        "sources": ["Euripide, Hécube", "Ovide, Métamorphoses XIII"]
+      }
+    ]
+  },
+  {
+    "id": "paris",
+    "nom": "Pâris",
+    "grec": "Πάρις",
+    "romain": "Paris",
+    "categorie": "mortel",
+    "epithete": "Alexandre, prince de Troie",
+    "symboles": ["pomme d'or", "arc"],
+    "tags": ["mortel", "troie", "guerre de troie", "beauté", "enlèvement", "discorde", "bergers", "amour"],
+    "filiations": [
+      { "parents": ["priam", "hecube"], "principale": true, "source": "Homère, Apollodore" }
+    ],
+    "unions": [
+      { "avec": "oenone", "note": "Première épouse, nymphe de l'Ida" },
+      { "avec": "helene", "note": "Enlevée à Sparte" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'enfant exposé sur l'Ida",
+        "resume": "Hécube ayant rêvé qu'elle mettait au monde une torche qui brûlait Troie, Priam fit exposer le nouveau-né sur le mont Ida. Une ourse l'allaita, puis un berger le recueillit et l'éleva. Devenu jeune homme, Pâris vécut parmi les bergers et épousa la nymphe Œnone. Il fut plus tard reconnu par sa famille lors de jeux funèbres, où il triompha de ses propres frères.",
+        "personnages": ["paris", "priam", "hecube", "oenone", "cassandre"],
+        "sources": ["Apollodore, Bibliothèque III", "Euripide, Alexandros (fragments)"]
+      },
+      {
+        "titre": "Le jugement de Pâris",
+        "resume": "Aux noces de Pélée et Thétis, Éris lança une pomme d'or destinée « à la plus belle ». Héra, Athéna et Aphrodite se la disputèrent, et Zeus chargea Pâris de trancher. Hermès conduisit les déesses sur l'Ida. Héra promit la royauté, Athéna la victoire au combat, et Aphrodite l'amour de la plus belle des femmes. Pâris donna la pomme à Aphrodite, s'attirant la haine des deux autres déesses.",
+        "personnages": ["paris", "eris", "hera", "athena", "aphrodite", "hermes", "zeus", "pelee", "thetis"],
+        "sources": ["Chants cypriens (résumé de Proclos)", "Euripide, Les Troyennes", "Apollodore, Épitomé"]
+      },
+      {
+        "titre": "L'enlèvement d'Hélène",
+        "resume": "Avec l'aide d'Aphrodite, Pâris se rendit à Sparte, où Ménélas l'accueillit en hôte. Profitant d'une absence du roi, il emmena Hélène et une partie des trésors du palais. Cette violation de l'hospitalité déclencha l'expédition des Grecs contre Troie. Selon Stésichore et Euripide, seule une image d'Hélène fut emportée, la vraie étant cachée en Égypte.",
+        "personnages": ["paris", "helene", "menelas", "aphrodite"],
+        "sources": ["Homère, Iliade III", "Chants cypriens", "Euripide, Hélène"]
+      },
+      {
+        "titre": "La flèche et la mort",
+        "resume": "Archer plus que guerrier, Pâris tua Achille d'une flèche guidée par Apollon, qui l'atteignit au talon. Peu après, il fut blessé à mort par une flèche empoisonnée de Philoctète. Il se fit porter auprès d'Œnone, seule capable de le guérir, mais celle-ci, blessée par son abandon, refusa. Elle se donna la mort de remords lorsqu'il eut expiré.",
+        "personnages": ["paris", "achille", "apollon", "philoctete", "oenone"],
+        "sources": ["Apollodore, Épitomé", "Ovide, Métamorphoses XII", "Quintus de Smyrne, Suite d'Homère"]
+      }
+    ]
+  },
+  {
+    "id": "cassandre",
+    "nom": "Cassandre",
+    "grec": "Κασσάνδρα",
+    "romain": "Cassandra",
+    "categorie": "mortel",
+    "epithete": "La prophétesse que nul ne croit",
+    "tags": ["mortel", "prêtresse", "devin", "prophétie", "troie", "guerre de troie", "malédiction", "victime des dieux"],
+    "filiations": [
+      { "parents": ["priam", "hecube"], "principale": true, "source": "Homère, Eschyle" }
+    ],
+    "unions": [
+      { "avec": "apollon", "note": "Prétendant repoussé" },
+      { "avec": "agamemnon", "note": "Captive ramenée de Troie" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le don maudit d'Apollon",
+        "resume": "Apollon, épris de Cassandre, lui accorda le don de prophétie en échange de son amour. Mais la jeune femme se refusa à lui. Ne pouvant reprendre un don divin, le dieu la condamna à ce que personne ne croie jamais ses prédictions. Elle annonça ainsi en vain les malheurs qu'apporterait Pâris et le piège du cheval de bois.",
+        "personnages": ["cassandre", "apollon", "paris"],
+        "sources": ["Eschyle, Agamemnon", "Apollodore, Bibliothèque III", "Virgile, Énéide II"]
+      },
+      {
+        "titre": "Captive d'Agamemnon",
+        "resume": "Pendant le sac de Troie, Cassandre se réfugia près de la statue d'Athéna. Ajax fils d'Oïlée l'en arracha de force, sacrilège qui attira la colère de la déesse sur la flotte grecque. Attribuée comme captive à Agamemnon, elle le suivit à Mycènes. Devant le palais, elle prédit sa propre mort et celle du roi, avant d'entrer pour être tuée par Clytemnestre.",
+        "personnages": ["cassandre", "agamemnon", "clytemnestre", "athena"],
+        "sources": ["Eschyle, Agamemnon", "Euripide, Les Troyennes", "Apollodore, Épitomé"]
+      }
+    ]
+  },
+  {
+    "id": "andromaque",
+    "nom": "Andromaque",
+    "grec": "Ἀνδρομάχη",
+    "romain": "Andromacha",
+    "categorie": "mortel",
+    "epithete": "Épouse d'Hector",
+    "tags": ["mortel", "troie", "guerre de troie", "fidélité", "famille", "tragédie", "mariage"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille d'Éétion, roi de Thèbe sous le Placos (Homère)" }
+    ],
+    "unions": [
+      { "avec": "hector", "note": "Époux" },
+      { "avec": "neoptoleme", "note": "Captive après la chute de Troie" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les adieux d'Hector",
+        "resume": "Andromaque avait perdu son père et ses frères, tués par Achille lors du sac de leur cité. Aux portes Scées, elle supplia Hector de ne pas s'exposer, lui rappelant qu'il était désormais toute sa famille. Hector répondit qu'il ne pouvait fuir le combat sans honte. Leur petit Astyanax prit peur devant le casque à crinière de son père, qui l'ôta pour l'embrasser. Andromaque rentra en pleurs, pressentant sa mort.",
+        "personnages": ["andromaque", "hector", "achille"],
+        "sources": ["Homère, Iliade VI", "Homère, Iliade XXII"]
+      },
+      {
+        "titre": "Esclave de Néoptolème",
+        "resume": "Après la chute de Troie, les Grecs précipitèrent son fils Astyanax du haut des remparts. Andromaque fut attribuée comme captive à Néoptolème, fils du meurtrier de son époux, et lui donna un fils, Molossos. Après la mort de Néoptolème, elle épousa Hélénos, frère d'Hector, et régna avec lui en Épire, où Énée la rencontra.",
+        "personnages": ["andromaque", "neoptoleme", "enee"],
+        "sources": ["Euripide, Andromaque", "Euripide, Les Troyennes", "Virgile, Énéide III"]
+      }
+    ]
+  },
+  {
+    "id": "penelope",
+    "nom": "Pénélope",
+    "grec": "Πηνελόπεια",
+    "romain": "Penelopa",
+    "categorie": "mortel",
+    "epithete": "L'épouse fidèle",
+    "symboles": ["métier à tisser", "linceul"],
+    "tags": ["mortel", "reine", "ithaque", "fidélité", "ruse", "mariage", "odyssée"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille d'Icarios et de la nymphe Périboea (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "ulysse", "note": "Époux" }
+    ],
+    "histoires": [
+      {
+        "titre": "La toile de Pénélope",
+        "resume": "Pendant les vingt ans d'absence d'Ulysse, de nombreux prétendants envahirent son palais d'Ithaque pour obtenir sa main. Pénélope déclara qu'elle choisirait un époux dès qu'elle aurait achevé le linceul de son beau-père Laërte. Le jour, elle tissait ; la nuit, elle défaisait son ouvrage. La ruse dura trois ans, jusqu'à ce qu'une servante la trahisse.",
+        "personnages": ["penelope", "ulysse", "telemaque"],
+        "sources": ["Homère, Odyssée II, XIX, XXIV"]
+      },
+      {
+        "titre": "L'épreuve de l'arc et le secret du lit",
+        "resume": "Pressée de choisir, Pénélope promit sa main à celui qui tendrait l'arc d'Ulysse et ferait passer une flèche à travers douze haches. Aucun prétendant n'y parvint, sauf un mendiant, qui n'était autre qu'Ulysse déguisé et qui massacra ensuite les prétendants. Prudente, Pénélope éprouva encore son époux en évoquant le déplacement de leur lit. Ulysse s'indigna : il l'avait taillé dans un olivier enraciné, impossible à déplacer. Ce secret partagé la convainquit, et elle se jeta dans ses bras.",
+        "personnages": ["penelope", "ulysse", "telemaque", "athena"],
+        "sources": ["Homère, Odyssée XXI-XXIII"]
+      }
+    ]
+  }
+]

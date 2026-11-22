@@ -1,0 +1,35 @@
+{
+  "name": "greek-mythology",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run validate && tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "validate": "tsx scripts/validate.ts",
+    "test": "vitest run",
+    "deploy": "npm run build && touch dist/.nojekyll && gh-pages -d dist --dotfiles -m \"Déploiement\""
+  },
+  "dependencies": {
+    "@xyflow/react": "^13.0.2",
+    "elkjs": "^0.12.1",
+    "fuse.js": "^7.5.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "gh-pages": "^6.3.0",
+    "oxlint": "^1.90.0",
+    "tsx": "^4.23.15",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.6",
+    "vitest": "^5.1.1"
+  }
+}

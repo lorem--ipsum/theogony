@@ -1,0 +1,787 @@
+[
+  {
+    "id": "zeus",
+    "nom": "Zeus",
+    "grec": "Ζεύς",
+    "romain": "Jupiter",
+    "categorie": "olympien",
+    "epithete": "Roi des dieux et des hommes",
+    "domaines": ["Ciel", "Foudre", "Ordre du monde", "Justice", "Hospitalité", "Serments"],
+    "symboles": ["Foudre", "Aigle", "Sceptre", "Chêne", "Égide"],
+    "tags": ["ciel", "foudre", "royauté", "justice", "hospitalité", "olympe", "titanomachie", "immortel"],
+    "filiations": [
+      { "parents": ["cronos", "rhea"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "metis", "note": "Première épouse, avalée par Zeus ; mère d'Athéna" },
+      { "avec": "themis", "note": "Mère des Heures et des Moires selon Hésiode" },
+      { "avec": "eurynome", "note": "Mère des Charites" },
+      { "avec": "demeter", "note": "Mère de Perséphone" },
+      { "avec": "mnemosyne", "note": "Neuf nuits d'union, mère des Muses" },
+      { "avec": "leto", "note": "Mère d'Apollon et d'Artémis" },
+      { "avec": "hera", "note": "Épouse légitime ; mère d'Arès, Hébé et Ilithyie" },
+      { "avec": "maia", "note": "Mère d'Hermès" },
+      { "avec": "semele", "note": "Mère de Dionysos" },
+      { "avec": "alcmene", "note": "Sous les traits d'Amphitryon ; mère d'Héraclès" },
+      { "avec": "danae", "note": "En pluie d'or ; mère de Persée" },
+      { "avec": "leda", "note": "Sous la forme d'un cygne ; mère d'Hélène et de Pollux" },
+      { "avec": "europe", "note": "Sous la forme d'un taureau ; mère de Minos, Rhadamanthe et Sarpédon" },
+      { "avec": "io", "note": "Mère d'Épaphos" },
+      { "avec": "aegina", "note": "Enlevée sous la forme d'un aigle ; mère d'Éaque" },
+      { "avec": "callisto", "note": "Sous les traits d'Artémis ; mère d'Arcas" },
+      { "avec": "electre-pleiade", "note": "Mère de Dardanos" },
+      { "avec": "taygete", "note": "Mère de Lacédémon" },
+      { "avec": "dione", "note": "Mère d'Aphrodite selon Homère" }
+    ],
+    "histoires": [
+      {
+        "titre": "La naissance cachée en Crète",
+        "resume": "Cronos, averti qu'un de ses enfants le détrônerait, avalait chacun d'eux à sa naissance. Rhéa, enceinte de Zeus, se réfugia en Crète sur le conseil de Gaïa et d'Ouranos et y mit l'enfant au monde en secret. À la place du nouveau-né, elle tendit à Cronos une pierre emmaillotée qu'il engloutit sans soupçon. Caché dans une grotte, l'enfant fut nourri du lait de la chèvre Amalthée, tandis que les Courètes entrechoquaient leurs armes pour couvrir ses pleurs.",
+        "personnages": ["zeus", "cronos", "rhea", "gaia", "ouranos", "amalthee"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque", "Callimaque, Hymne à Zeus"]
+      },
+      {
+        "titre": "La Titanomachie",
+        "resume": "Devenu adulte, Zeus fit absorber à Cronos un breuvage, avec l'aide de Métis, qui lui fit recracher la pierre puis les frères et sœurs avalés. Les jeunes dieux, installés sur l'Olympe, affrontèrent alors les Titans retranchés sur le mont Othrys pendant dix années. Sur le conseil de Gaïa, Zeus libéra du Tartare les Cyclopes, qui lui forgèrent la foudre, et les Hécatonchires aux cent bras. Leur aide fut décisive : les Titans vaincus furent précipités dans le Tartare, gardés par les Hécatonchires, et Atlas fut condamné à soutenir le ciel.",
+        "personnages": ["zeus", "cronos", "metis", "gaia", "cyclopes", "hecatonchires", "atlas", "poseidon", "hades"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le combat contre Typhon",
+        "resume": "Après la défaite des Titans, Gaïa s'unit au Tartare et enfanta Typhon, monstre colossal aux cent têtes de serpent crachant le feu. Il menaça de s'emparer du pouvoir sur les dieux et les hommes. Zeus l'affronta dans une lutte qui embrasa la terre, la mer et le ciel, et finit par le terrasser sous ses foudres. Selon Apollodore, Typhon parvint d'abord à trancher les tendons de Zeus, qu'Hermès récupéra en secret. Vaincu, le monstre fut enseveli sous l'Etna ou jeté dans le Tartare.",
+        "personnages": ["zeus", "typhon", "gaia", "tartare", "hermes"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque", "Pindare, Pythiques"]
+      },
+      {
+        "titre": "Métis avalée et la naissance d'Athéna",
+        "resume": "Gaïa et Ouranos prédirent à Zeus que Métis, son épouse, lui donnerait d'abord une fille puis un fils qui deviendrait roi des dieux. Pour échapper au sort de son père et de son grand-père, Zeus avala Métis alors qu'elle était enceinte. Il garda ainsi en lui la sagesse rusée de la déesse. Le moment venu, Athéna jaillit tout armée de la tête de son père, fendue d'un coup de hache.",
+        "personnages": ["zeus", "metis", "athena", "gaia", "ouranos", "hephaistos"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque", "Pindare, Olympiques"]
+      },
+      {
+        "titre": "Prométhée et Pandore",
+        "resume": "Lors du partage du bœuf à Mécôné, Prométhée tenta de tromper Zeus en lui laissant les os couverts de graisse. Zeus, irrité, priva les hommes du feu, que Prométhée vola alors pour le leur rendre. Pour châtier le Titan, Zeus le fit enchaîner sur une montagne où un aigle dévorait chaque jour son foie. Quant aux hommes, il leur envoya Pandore, première femme façonnée par Héphaïstos et parée par les dieux, qu'épousa Épiméthée et dont la jarre libéra les maux.",
+        "personnages": ["zeus", "promethee", "epimethee", "pandore", "hephaistos", "aigle-du-caucase"],
+        "sources": ["Hésiode, Théogonie", "Hésiode, Les Travaux et les Jours", "Eschyle, Prométhée enchaîné"]
+      },
+      {
+        "titre": "L'enlèvement d'Europe",
+        "resume": "Épris d'Europe, fille du roi de Phénicie, Zeus prit l'apparence d'un taureau d'une blancheur éclatante et se mêla aux troupeaux près du rivage où elle jouait avec ses compagnes. Séduite par la douceur de l'animal, la jeune fille monta sur son dos. Le taureau s'élança aussitôt dans la mer et la porta jusqu'en Crète. Elle y donna à Zeus trois fils, Minos, Rhadamanthe et Sarpédon.",
+        "personnages": ["zeus", "europe", "minos", "rhadamanthe", "sarpedon"],
+        "sources": ["Moschos, Europe", "Ovide, Métamorphoses", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "hera",
+    "nom": "Héra",
+    "grec": "Ἥρα",
+    "romain": "Junon",
+    "categorie": "olympien",
+    "epithete": "Reine des dieux",
+    "domaines": ["Mariage", "Femmes mariées", "Naissances", "Royauté"],
+    "symboles": ["Paon", "Diadème", "Grenade", "Coucou", "Sceptre"],
+    "tags": ["mariage", "famille", "jalousie", "vengeance", "royauté", "olympe", "argos", "reine"],
+    "filiations": [
+      { "parents": ["cronos", "rhea"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Épouse et sœur de Zeus" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les noces avec Zeus",
+        "resume": "Avalée à sa naissance par Cronos puis libérée, Héra devint la dernière épouse légitime de Zeus selon Hésiode. Une tradition locale rapporte que Zeus se changea en coucou transi pour qu'elle le réchauffe contre elle, avant de reprendre sa forme et de la séduire. Leurs noces furent célébrées avec éclat, et Gaïa offrit en cadeau l'arbre aux pommes d'or confié aux Hespérides. De leur union naquirent Arès, Hébé et Ilithyie.",
+        "personnages": ["hera", "zeus", "gaia", "ares", "hebe", "eileithyia"],
+        "sources": ["Hésiode, Théogonie", "Pausanias, Description de la Grèce", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La persécution d'Héraclès",
+        "resume": "Furieuse de l'infidélité de Zeus avec Alcmène, Héra retarda la naissance d'Héraclès en retenant Ilithyie, afin qu'Eurysthée naisse le premier et règne sur lui. Elle envoya ensuite deux serpents dans le berceau du nourrisson, qui les étrangla de ses mains. Plus tard, elle le frappa de folie, ce qui le poussa à tuer ses propres enfants et le conduisit à accomplir ses douze travaux. Elle ne se réconcilia avec lui qu'après son apothéose, en lui donnant sa fille Hébé pour épouse.",
+        "personnages": ["hera", "heracles", "alcmene", "zeus", "eileithyia", "hebe"],
+        "sources": ["Homère, Iliade", "Pindare, Néméennes", "Euripide, Héraclès furieux", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Io et Argos aux cent yeux",
+        "resume": "Pour cacher sa liaison avec Io, prêtresse d'Héra à Argos, Zeus la changea en génisse. Héra, qui n'était pas dupe, demanda l'animal en présent et le confia à la garde d'Argos Panoptès, dont les yeux ne se fermaient jamais tous à la fois. Après qu'Hermès eut tué le gardien sur l'ordre de Zeus, la déesse plaça ses yeux sur la queue du paon. Elle envoya ensuite un taon qui poursuivit Io à travers le monde jusqu'en Égypte.",
+        "personnages": ["hera", "io", "zeus", "argos-panoptes", "hermes"],
+        "sources": ["Eschyle, Prométhée enchaîné", "Ovide, Métamorphoses", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La perte de Sémélé",
+        "resume": "Apprenant que Sémélé, fille de Cadmos, portait un enfant de Zeus, Héra prit l'apparence de la vieille nourrice de la princesse. Elle sema le doute dans son esprit et l'incita à exiger de son amant qu'il se montre dans toute sa majesté divine. Zeus, lié par une promesse, apparut avec ses foudres et Sémélé fut consumée. L'enfant qu'elle portait, Dionysos, fut sauvé et achevé dans la cuisse de son père.",
+        "personnages": ["hera", "semele", "zeus", "dionysos", "cadmos"],
+        "sources": ["Ovide, Métamorphoses", "Apollodore, Bibliothèque", "Euripide, Les Bacchantes"]
+      },
+      {
+        "titre": "Ixion et la nuée",
+        "resume": "Accueilli à la table des dieux par Zeus, le roi Ixion osa convoiter Héra. Zeus, voulant s'assurer de son crime, façonna une nuée à l'image de la déesse, à laquelle Ixion s'unit. De cette union naquit Centauros, ancêtre des Centaures. Ixion fut châtié en étant attaché pour l'éternité à une roue enflammée.",
+        "personnages": ["hera", "ixion", "zeus", "centaures"],
+        "sources": ["Pindare, Pythiques", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le jugement de Pâris",
+        "resume": "Aux noces de Pélée et Thétis, Éris lança une pomme d'or destinée « à la plus belle ». Héra, Athéna et Aphrodite se la disputèrent, et Zeus confia l'arbitrage au berger troyen Pâris, conduit par Hermès sur le mont Ida. Héra lui promit la souveraineté sur l'Asie, mais Pâris préféra la promesse d'Aphrodite. Humiliée, Héra devint dès lors l'ennemie acharnée de Troie pendant toute la guerre.",
+        "personnages": ["hera", "paris", "athena", "aphrodite", "eris", "hermes", "zeus"],
+        "sources": ["Homère, Iliade", "Chants cypriens (résumé de Proclos)", "Euripide, Les Troyennes"]
+      }
+    ]
+  },
+  {
+    "id": "poseidon",
+    "nom": "Poséidon",
+    "grec": "Ποσειδῶν",
+    "romain": "Neptune",
+    "categorie": "olympien",
+    "epithete": "Ébranleur de la terre",
+    "domaines": ["Mer", "Séismes", "Chevaux", "Eaux"],
+    "symboles": ["Trident", "Cheval", "Taureau", "Dauphin"],
+    "tags": ["mer", "chevaux", "tempête", "navigation", "vengeance", "olympe", "immortel", "titanomachie"],
+    "filiations": [
+      { "parents": ["cronos", "rhea"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "amphitrite", "note": "Épouse ; mère de Triton" },
+      { "avec": "demeter", "note": "Sous la forme d'un étalon ; mère du cheval Arion et de Despoina" },
+      { "avec": "meduse", "note": "Père de Pégase et de Chrysaor" },
+      { "avec": "gaia", "note": "Père d'Antée" },
+      { "avec": "ethra", "note": "Père de Thésée selon une tradition" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le partage du monde",
+        "resume": "Après la victoire sur les Titans, Zeus, Poséidon et Hadès tirèrent au sort le partage de l'univers. Zeus reçut le ciel, Hadès le monde souterrain, et Poséidon la mer grise, la terre et l'Olympe restant communs aux trois. Pour la guerre contre les Titans, les Cyclopes avaient forgé pour Poséidon son trident. Dans l'Iliade, il rappelle fièrement cette égalité de rang lorsque Zeus prétend lui donner des ordres.",
+        "personnages": ["poseidon", "zeus", "hades", "cyclopes"],
+        "sources": ["Homère, Iliade", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La dispute pour l'Attique",
+        "resume": "Poséidon et Athéna se disputèrent la possession de l'Attique sous le règne de Cécrops. Poséidon frappa le rocher de l'Acropole de son trident et fit jaillir une source d'eau salée. Athéna fit pousser un olivier. Les juges désignèrent Athéna comme protectrice de la cité, et Poséidon, furieux, inonda la plaine de Thria.",
+        "personnages": ["poseidon", "athena", "cecrops"],
+        "sources": ["Hérodote, Histoires", "Apollodore, Bibliothèque", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Les murailles de Troie",
+        "resume": "Pour s'être révoltés contre Zeus, Poséidon et Apollon furent condamnés à servir un an le roi troyen Laomédon. Poséidon bâtit les murailles de Troie, tandis qu'Apollon gardait les troupeaux. Laomédon refusa ensuite de payer le salaire promis et menaça les dieux. Poséidon envoya alors un monstre marin ravager le pays, et conserva contre les Troyens une rancune qui le rangea du côté des Grecs.",
+        "personnages": ["poseidon", "apollon", "zeus", "heracles"],
+        "sources": ["Homère, Iliade", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La colère contre Ulysse",
+        "resume": "Prisonnier dans la caverne du Cyclope Polyphème, fils de Poséidon, Ulysse aveugla le géant pour s'échapper avec ses compagnons. Polyphème supplia son père de le venger. Poséidon poursuivit dès lors Ulysse de sa haine, déchaînant les tempêtes et retardant son retour à Ithaque pendant dix ans. Il brisa encore son radeau lorsqu'il quitta l'île de Calypso.",
+        "personnages": ["poseidon", "ulysse", "polypheme", "calypso", "athena"],
+        "sources": ["Homère, Odyssée"]
+      },
+      {
+        "titre": "Le taureau de Minos",
+        "resume": "Pour prouver son droit au trône de Crète, Minos demanda à Poséidon de faire sortir un taureau de la mer, promettant de le lui sacrifier. Le dieu exauça sa prière, mais Minos, ébloui par la beauté de l'animal, en sacrifia un autre. Pour le punir, Poséidon inspira à son épouse Pasiphaé une passion pour le taureau. De cette union naquit le Minotaure, et le taureau, rendu furieux, devint plus tard l'un des travaux d'Héraclès.",
+        "personnages": ["poseidon", "minos", "pasiphae", "taureau-de-crete", "minotaure", "dedale", "heracles"],
+        "sources": ["Apollodore, Bibliothèque", "Diodore de Sicile, Bibliothèque historique"]
+      },
+      {
+        "titre": "Le monstre envoyé contre l'Éthiopie",
+        "resume": "La reine Cassiopée se vanta d'être plus belle que les Néréides. Offensées, celles-ci obtinrent de Poséidon qu'il châtie le royaume de Céphée par une inondation et un monstre marin. Un oracle déclara que le pays ne serait délivré que si la princesse Andromède était offerte au monstre. Persée, de passage, tua la bête et épousa la jeune fille.",
+        "personnages": ["poseidon", "cassiopee", "cephee", "andromede", "persee", "ketos", "nereides"],
+        "sources": ["Apollodore, Bibliothèque", "Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "demeter",
+    "nom": "Déméter",
+    "grec": "Δημήτηρ",
+    "romain": "Cérès",
+    "categorie": "olympien",
+    "epithete": "Déesse des moissons",
+    "domaines": ["Agriculture", "Blé", "Moissons", "Fertilité de la terre", "Mystères"],
+    "symboles": ["Épi de blé", "Torche", "Faucille", "Pavot", "Corne d'abondance"],
+    "tags": ["agriculture", "moisson", "fertilité", "terre", "famille", "mystères", "mystères d'éleusis", "immortel"],
+    "filiations": [
+      { "parents": ["cronos", "rhea"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Mère de Perséphone" },
+      { "avec": "poseidon", "note": "Changée en jument ; mère du cheval Arion et de Despoina" }
+    ],
+    "histoires": [
+      {
+        "titre": "La quête de Perséphone",
+        "resume": "Alors que Perséphone cueillait des fleurs, Hadès surgit de terre et l'emporta dans son royaume avec l'accord de Zeus. Déméter, n'entendant que l'écho de son cri, parcourut le monde neuf jours durant, une torche à la main, sans manger ni se laver. Hécate et Hélios, qui avait tout vu, lui révélèrent enfin le nom du ravisseur. Indignée, la déesse quitta l'Olympe et erra parmi les hommes sous l'apparence d'une vieille femme.",
+        "personnages": ["demeter", "persephone", "hades", "zeus", "hecate", "helios"],
+        "sources": ["Hymne homérique à Déméter", "Ovide, Métamorphoses", "Ovide, Fastes"]
+      },
+      {
+        "titre": "La famine et le retour des saisons",
+        "resume": "Retirée dans son temple d'Éleusis, Déméter empêcha toute semence de germer, si bien que les hommes mouraient de faim et que les dieux étaient privés de sacrifices. Zeus dut envoyer Hermès chercher Perséphone aux Enfers. Mais Hadès lui avait fait goûter un grain de grenade, ce qui la liait à jamais au monde souterrain. Il fut convenu qu'elle passerait une partie de l'année auprès de son époux et le reste avec sa mère, dont le retour de la joie faisait renaître la végétation.",
+        "personnages": ["demeter", "persephone", "hades", "zeus", "hermes", "rhea"],
+        "sources": ["Hymne homérique à Déméter", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Les mystères d'Éleusis et Triptolème",
+        "resume": "Accueillie à Éleusis par la famille du roi Céléos, Déméter s'occupa du jeune prince Démophon et tenta de le rendre immortel en le plaçant chaque nuit dans le feu, jusqu'à ce que sa mère interrompe le rite. Révélant alors sa divinité, elle exigea qu'on lui bâtisse un temple. Avant de regagner l'Olympe, elle enseigna ses rites secrets aux princes d'Éleusis. Elle confia à Triptolème un char tiré par des serpents ailés pour qu'il répande la culture du blé parmi les hommes.",
+        "personnages": ["demeter", "triptoleme", "persephone"],
+        "sources": ["Hymne homérique à Déméter", "Apollodore, Bibliothèque", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "L'épaule de Pélops",
+        "resume": "Pour éprouver la clairvoyance des dieux, Tantale leur servit en festin son propre fils Pélops. Tous reconnurent l'horreur du repas, sauf Déméter, accablée par la perte de sa fille, qui mangea distraitement une épaule. Les dieux rendirent la vie à l'enfant et remplacèrent l'épaule manquante par une pièce d'ivoire. Tantale fut condamné à une faim et une soif éternelles aux Enfers.",
+        "personnages": ["demeter", "tantale", "pelops"],
+        "sources": ["Pindare, Olympiques", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Le châtiment d'Érysichthon",
+        "resume": "Le roi thessalien Érysichthon fit abattre un chêne sacré du bois de Déméter, malgré les supplications des nymphes qui l'habitaient. Pour le punir, la déesse lui envoya la Faim. Saisi d'un appétit que rien ne pouvait combler, il engloutit toute sa fortune et alla jusqu'à vendre sa fille. Il finit par dévorer sa propre chair.",
+        "personnages": ["demeter", "dryades"],
+        "sources": ["Callimaque, Hymne à Déméter", "Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "hestia",
+    "nom": "Hestia",
+    "grec": "Ἑστία",
+    "romain": "Vesta",
+    "categorie": "olympien",
+    "epithete": "Déesse du foyer",
+    "domaines": ["Foyer", "Feu sacré", "Famille", "Cité"],
+    "symboles": ["Flamme du foyer", "Voile", "Âtre"],
+    "tags": ["foyer", "feu", "famille", "cité", "hospitalité", "sacrifice", "immortel"],
+    "filiations": [
+      { "parents": ["cronos", "rhea"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [],
+    "histoires": [
+      {
+        "titre": "La première et la dernière",
+        "resume": "Hestia est l'aînée des enfants de Cronos et de Rhéa, et fut donc la première avalée par son père. Lorsque Zeus contraignit Cronos à rendre ses enfants, ceux-ci ressortirent dans l'ordre inverse, et Hestia fut la dernière à revoir le jour. C'est pourquoi l'Hymne homérique à Aphrodite la dit à la fois la première et la plus jeune des enfants de Cronos.",
+        "personnages": ["hestia", "cronos", "rhea", "zeus"],
+        "sources": ["Hésiode, Théogonie", "Hymne homérique à Aphrodite"]
+      },
+      {
+        "titre": "Le vœu de virginité",
+        "resume": "Poséidon et Apollon demandèrent tous deux Hestia en mariage. La déesse refusa et, touchant la tête de Zeus, jura de rester vierge à jamais. Zeus lui accorda en échange un honneur insigne : siéger au centre de chaque maison et recevoir la part la plus riche des offrandes. Elle fait partie des trois déesses sur lesquelles Aphrodite n'a aucun pouvoir, avec Athéna et Artémis.",
+        "personnages": ["hestia", "poseidon", "apollon", "zeus", "aphrodite", "athena", "artemis"],
+        "sources": ["Hymne homérique à Aphrodite"]
+      },
+      {
+        "titre": "Les honneurs du foyer",
+        "resume": "Hestia ne quitte jamais l'Olympe et ne prend part ni aux querelles ni aux aventures des autres dieux. Elle est présente dans chaque foyer domestique et dans le foyer commun de la cité, le prytanée, où brûle une flamme perpétuelle. Les colons emportaient une braise de ce feu pour fonder une nouvelle cité. Aux banquets et aux sacrifices, on lui adressait la première et la dernière libation.",
+        "personnages": ["hestia"],
+        "sources": ["Hymnes homériques à Hestia", "Platon, Phèdre"]
+      },
+      {
+        "titre": "Priape et l'âne",
+        "resume": "Lors d'une fête champêtre réunissant les dieux, Hestia s'endormit à l'écart. Priape, la voyant seule, s'approcha d'elle pour abuser de son sommeil. Mais un âne se mit à braire au moment décisif et réveilla la déesse, qui donna l'alerte. Priape s'enfuit sous les moqueries, et l'âne fut dès lors honoré lors des fêtes de Vesta.",
+        "personnages": ["hestia", "priape"],
+        "sources": ["Ovide, Fastes"]
+      }
+    ]
+  },
+  {
+    "id": "hades",
+    "nom": "Hadès",
+    "grec": "ᾍδης",
+    "romain": "Pluton",
+    "categorie": "olympien",
+    "epithete": "Seigneur des Enfers",
+    "domaines": ["Enfers", "Morts", "Richesses du sous-sol"],
+    "symboles": ["Casque d'invisibilité", "Sceptre", "Cerbère", "Cyprès", "Narcisse"],
+    "tags": ["enfers", "mort", "richesse", "enlèvement", "royauté", "titanomachie", "immortel"],
+    "filiations": [
+      { "parents": ["cronos", "rhea"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "persephone", "note": "Épouse et reine des Enfers" },
+      { "avec": "menthe", "note": "Nymphe aimée d'Hadès, changée en menthe" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le casque d'invisibilité",
+        "resume": "Libérés du Tartare par Zeus, les Cyclopes forgèrent des armes pour les trois frères : la foudre pour Zeus, le trident pour Poséidon et un casque rendant invisible pour Hadès. Grâce à lui, Hadès put approcher les Titans sans être vu et contribuer à leur défaite. Lors du partage du monde, il reçut le royaume souterrain des morts. Le casque fut plus tard prêté à Persée et à Athéna.",
+        "personnages": ["hades", "zeus", "poseidon", "cyclopes", "persee", "athena"],
+        "sources": ["Apollodore, Bibliothèque", "Homère, Iliade"]
+      },
+      {
+        "titre": "L'enlèvement de Perséphone",
+        "resume": "Avec l'accord de Zeus, Hadès décida de prendre pour épouse sa nièce Perséphone. Gaïa fit pousser un narcisse merveilleux pour attirer la jeune fille, et lorsqu'elle le cueillit, la terre s'ouvrit. Hadès surgit sur son char d'or et l'emporta aux Enfers. Avant qu'elle ne remonte vers sa mère, il lui fit manger quelques grains de grenade, qui l'obligèrent à revenir chaque année auprès de lui.",
+        "personnages": ["hades", "persephone", "demeter", "zeus", "gaia", "hermes"],
+        "sources": ["Hymne homérique à Déméter", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Orphée et Eurydice",
+        "resume": "Lorsque Eurydice mourut d'une morsure de serpent, Orphée descendit aux Enfers pour la réclamer. Son chant émut tant Hadès et Perséphone qu'ils consentirent à la lui rendre. Ils posèrent une condition : Orphée ne devait pas se retourner avant d'avoir regagné la lumière. Au dernier instant, il regarda en arrière et Eurydice s'évanouit à jamais parmi les ombres.",
+        "personnages": ["hades", "orphee", "eurydice", "persephone"],
+        "sources": ["Virgile, Géorgiques", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Thésée et Pirithoos aux Enfers",
+        "resume": "Pirithoos, roi des Lapithes, résolut d'épouser Perséphone et entraîna son ami Thésée dans sa descente aux Enfers. Hadès les accueillit avec une feinte hospitalité et les invita à s'asseoir. Les deux héros restèrent collés à leurs sièges, prisonniers de l'oubli. Héraclès, venu chercher Cerbère, put délivrer Thésée, mais Pirithoos demeura captif pour toujours.",
+        "personnages": ["hades", "thesee", "perithoos", "persephone", "heracles"],
+        "sources": ["Apollodore, Bibliothèque", "Diodore de Sicile, Bibliothèque historique"]
+      },
+      {
+        "titre": "Héraclès et Cerbère",
+        "resume": "Pour son dernier travail, Héraclès reçut l'ordre de ramener de l'Enfer le chien Cerbère. Guidé par Hermès et Athéna, il descendit dans le royaume des morts et demanda le chien à Hadès. Le dieu y consentit à condition que le héros le maîtrise sans armes. Héraclès l'étrangla à demi entre ses bras, le montra à Eurysthée, puis le ramena aux Enfers.",
+        "personnages": ["hades", "heracles", "cerbere", "hermes", "athena", "persephone"],
+        "sources": ["Homère, Odyssée", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La nymphe Menthé",
+        "resume": "Hadès s'éprit de la nymphe Menthé, qui vivait près du Cocyte. Perséphone, jalouse, la piétina et la transforma en une humble plante. Selon une autre version, c'est Déméter qui la châtia pour venger sa fille. La plante garda le nom de la nymphe et son parfum persistant.",
+        "personnages": ["hades", "menthe", "persephone", "demeter"],
+        "sources": ["Strabon, Géographie", "Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "athena",
+    "nom": "Athéna",
+    "grec": "Ἀθηνᾶ",
+    "romain": "Minerve",
+    "categorie": "olympien",
+    "epithete": "Déesse aux yeux pers",
+    "domaines": ["Sagesse", "Stratégie guerrière", "Artisanat", "Tissage", "Protection des cités"],
+    "symboles": ["Chouette", "Olivier", "Égide", "Lance", "Casque", "Gorgonéion"],
+    "tags": ["sagesse", "guerre", "artisanat", "cité", "ruse", "athènes", "guerre de troie", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "metis"], "source": "Hésiode, Théogonie ; Apollodore, Bibliothèque", "principale": true },
+      { "parents": ["zeus"], "source": "Hymne homérique à Athéna ; Eschyle, Les Euménides" }
+    ],
+    "unions": [],
+    "histoires": [
+      {
+        "titre": "La naissance tout armée",
+        "resume": "Zeus, ayant avalé Métis enceinte, fut pris d'un violent mal de tête au moment de la naissance. Héphaïstos, ou Prométhée selon certains, lui fendit le crâne d'un coup de hache. Athéna en jaillit, adulte et revêtue de ses armes, en poussant un cri de guerre. L'Olympe trembla, la terre gronda et le soleil arrêta sa course jusqu'à ce qu'elle dépose ses armes.",
+        "personnages": ["athena", "zeus", "metis", "hephaistos", "promethee", "helios"],
+        "sources": ["Hésiode, Théogonie", "Hymne homérique à Athéna", "Pindare, Olympiques"]
+      },
+      {
+        "titre": "L'olivier de l'Acropole",
+        "resume": "Athéna disputa à Poséidon la protection de l'Attique au temps du roi Cécrops. Poséidon fit jaillir de l'Acropole une source salée d'un coup de trident. Athéna fit pousser le premier olivier, présent plus utile aux habitants. Elle fut reconnue victorieuse et la cité prit son nom.",
+        "personnages": ["athena", "poseidon", "cecrops"],
+        "sources": ["Hérodote, Histoires", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Érichthonios",
+        "resume": "Héphaïstos, épris d'Athéna, tenta de s'unir à elle, mais la déesse le repoussa et sa semence tomba à terre. Gaïa en conçut un enfant, Érichthonios, qu'Athéna recueillit et éleva en secret. Elle l'enferma dans un coffre confié aux filles de Cécrops, en leur interdisant de l'ouvrir. Les jeunes filles désobéirent et, voyant l'enfant gardé par un serpent, furent saisies de folie. Érichthonios devint plus tard roi d'Athènes et institua le culte de la déesse.",
+        "personnages": ["athena", "hephaistos", "gaia", "erichthonios", "cecrops"],
+        "sources": ["Apollodore, Bibliothèque", "Euripide, Ion", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Le défi d'Arachné",
+        "resume": "La jeune Lydienne Arachné, tisserande d'une habileté prodigieuse, prétendit surpasser Athéna elle-même. La déesse, déguisée en vieille femme, l'avertit en vain, puis accepta le concours. Athéna tissa la gloire des dieux, tandis qu'Arachné représenta sans défaut leurs amours trompeuses. Irritée par l'insolence du sujet, Athéna déchira l'ouvrage et frappa sa rivale, qui tenta de se pendre. La déesse la changea alors en araignée, condamnée à tisser pour toujours.",
+        "personnages": ["athena", "arachne"],
+        "sources": ["Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "L'aide à Persée",
+        "resume": "Athéna soutint Persée dans sa quête de la tête de Méduse. Avec Hermès, elle lui procura les moyens de trouver les Grées puis les nymphes qui détenaient sandales ailées, besace et casque d'invisibilité. Elle guida sa main pour qu'il frappe la Gorgone en regardant son reflet dans un bouclier poli. En remerciement, Persée lui offrit la tête de Méduse, qu'elle fixa sur son égide.",
+        "personnages": ["athena", "persee", "meduse", "hermes", "grees"],
+        "sources": ["Apollodore, Bibliothèque", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "La protectrice d'Ulysse",
+        "resume": "Athéna, qui chérissait l'esprit rusé d'Ulysse, plaida sa cause devant les dieux pour qu'il puisse enfin rentrer à Ithaque. Sous les traits de Mentor, elle encouragea Télémaque à partir en quête de nouvelles de son père. Elle accueillit Ulysse à son retour, le déguisa en vieux mendiant et l'aida à préparer le massacre des prétendants. Elle mit enfin un terme à la guerre civile qui menaçait d'éclater.",
+        "personnages": ["athena", "ulysse", "telemaque", "penelope", "zeus"],
+        "sources": ["Homère, Odyssée"]
+      }
+    ]
+  },
+  {
+    "id": "apollon",
+    "nom": "Apollon",
+    "grec": "Ἀπόλλων",
+    "romain": "Apollon",
+    "categorie": "olympien",
+    "epithete": "Phébus, le dieu brillant",
+    "domaines": ["Lumière", "Prophétie", "Musique", "Poésie", "Médecine", "Tir à l'arc", "Purification"],
+    "symboles": ["Lyre", "Arc d'argent", "Laurier", "Trépied", "Corbeau", "Cygne"],
+    "tags": ["musique", "poésie", "prophétie", "oracle", "guérison", "delphes", "délos", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "leto"], "source": "Hésiode, Théogonie ; Hymne homérique à Apollon", "principale": true }
+    ],
+    "unions": [
+      { "avec": "cyrene", "note": "Mère d'Aristée" },
+      { "avec": "daphne", "note": "Nymphe aimée en vain, changée en laurier" },
+      { "avec": "hyacinthe", "note": "Jeune Spartiate aimé du dieu" },
+      { "avec": "cassandre", "note": "Repoussa le dieu après avoir reçu le don de prophétie" },
+      { "avec": "calliope", "note": "Mère d'Orphée selon certaines traditions" }
+    ],
+    "histoires": [
+      {
+        "titre": "La naissance à Délos",
+        "resume": "Enceinte des œuvres de Zeus, Léto erra longtemps, car aucune terre n'osait l'accueillir par crainte d'Héra. Seule l'île flottante de Délos accepta, contre la promesse qu'Apollon y fonderait son sanctuaire. Héra retint Ilithyie sur l'Olympe et Léto endura neuf jours de travail, jusqu'à ce qu'Iris aille chercher la déesse des naissances. Agrippée à un palmier, Léto mit enfin au monde Apollon, qui réclama aussitôt sa lyre et son arc.",
+        "personnages": ["apollon", "leto", "zeus", "hera", "eileithyia", "iris", "artemis", "asteria"],
+        "sources": ["Hymne homérique à Apollon", "Callimaque, Hymne à Délos"]
+      },
+      {
+        "titre": "Le serpent Python",
+        "resume": "Encore tout jeune, Apollon parcourut la Grèce pour fonder son oracle et arriva au pied du Parnasse. Une dragonne monstrueuse, Python, y ravageait le pays et gardait l'antique oracle de la Terre. Le dieu la tua de ses flèches et laissa son corps pourrir au soleil. Il établit à Delphes son sanctuaire, où la Pythie rendait ses oracles en son nom, et dut se purifier de ce meurtre.",
+        "personnages": ["apollon", "python", "gaia"],
+        "sources": ["Hymne homérique à Apollon", "Ovide, Métamorphoses", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Daphné",
+        "resume": "Apollon se moqua d'Éros et de ses petites flèches. Pour se venger, Éros le frappa d'une flèche d'or qui fit naître l'amour, et la nymphe Daphné d'une flèche de plomb qui le faisait fuir. Le dieu poursuivit la jeune fille, qui implora l'aide de son père, le fleuve Pénée. Au moment où Apollon allait la saisir, elle fut changée en laurier. Le dieu fit de cet arbre son emblème et en ceignit son front.",
+        "personnages": ["apollon", "daphne", "eros", "peneios"],
+        "sources": ["Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Le supplice de Marsyas",
+        "resume": "Le silène Marsyas ramassa la flûte qu'Athéna avait jetée et devint si habile qu'il osa défier Apollon. Il fut convenu que le vainqueur ferait du vaincu ce qu'il voudrait. Apollon l'emporta, notamment en jouant de sa lyre renversée, ce que la flûte ne pouvait imiter. Il fit alors attacher Marsyas à un pin et l'écorcha vif.",
+        "personnages": ["apollon", "marsyas", "athena"],
+        "sources": ["Apollodore, Bibliothèque", "Ovide, Métamorphoses", "Hérodote, Histoires"]
+      },
+      {
+        "titre": "Les enfants de Niobé",
+        "resume": "Niobé, reine de Thèbes, se vanta d'être supérieure à Léto, qui n'avait que deux enfants alors qu'elle-même en avait quatorze. Pour venger l'affront fait à leur mère, Apollon et Artémis abattirent à coups de flèches tous les enfants de la reine, les fils par Apollon et les filles par Artémis. Niobé, accablée, fut changée en un rocher d'où coulent sans cesse ses larmes, sur le mont Sipyle.",
+        "personnages": ["apollon", "artemis", "niobe", "leto", "amphion"],
+        "sources": ["Homère, Iliade", "Ovide, Métamorphoses", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La mort d'Asclépios et le service chez Admète",
+        "resume": "Asclépios, fils d'Apollon, était devenu un guérisseur si habile qu'il ressuscitait les morts. Zeus, craignant pour l'ordre du monde, le foudroya. Apollon, fou de douleur, se vengea en tuant les Cyclopes qui avaient forgé la foudre. Pour ce crime, Zeus le condamna à servir un an comme bouvier chez le roi Admète de Phères. Le dieu, bien traité, fit prospérer ses troupeaux et obtint des Moires qu'Admète puisse échapper à la mort si quelqu'un mourait à sa place.",
+        "personnages": ["apollon", "asclepios", "zeus", "cyclopes", "admete", "alceste"],
+        "sources": ["Euripide, Alceste", "Apollodore, Bibliothèque", "Pindare, Pythiques"]
+      }
+    ]
+  },
+  {
+    "id": "artemis",
+    "nom": "Artémis",
+    "grec": "Ἄρτεμις",
+    "romain": "Diane",
+    "categorie": "olympien",
+    "epithete": "La chasseresse",
+    "domaines": ["Chasse", "Nature sauvage", "Animaux", "Accouchements", "Jeunes filles"],
+    "symboles": ["Arc et flèches", "Biche", "Carquois", "Croissant de lune", "Chien de chasse"],
+    "tags": ["chasse", "forêt", "animaux", "nature", "naissance", "vengeance", "délos", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "leto"], "source": "Hésiode, Théogonie ; Hymne homérique à Apollon", "principale": true }
+    ],
+    "unions": [],
+    "histoires": [
+      {
+        "titre": "Les vœux de la petite fille",
+        "resume": "Encore enfant, Artémis s'assit sur les genoux de Zeus et lui demanda plusieurs faveurs. Elle voulait rester vierge pour toujours, porter des noms aussi nombreux que son frère, posséder un arc et des flèches et régner sur les montagnes. Elle demanda aussi un cortège de nymphes et le pouvoir de secourir les femmes en couches. Zeus, amusé, lui accorda tout cela et bien davantage.",
+        "personnages": ["artemis", "zeus", "oceanides"],
+        "sources": ["Callimaque, Hymne à Artémis"]
+      },
+      {
+        "titre": "Actéon",
+        "resume": "Le chasseur thébain Actéon, petit-fils de Cadmos, surprit par hasard Artémis qui se baignait nue dans une source avec ses nymphes. Offensée, la déesse lui jeta de l'eau au visage et le changea en cerf. Ses propres chiens, ne le reconnaissant pas, le prirent en chasse et le mirent en pièces. Selon d'autres auteurs, Actéon avait offensé la déesse en se vantant de la surpasser à la chasse.",
+        "personnages": ["artemis", "acteon", "cadmos"],
+        "sources": ["Ovide, Métamorphoses", "Euripide, Les Bacchantes", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La faute de Callisto",
+        "resume": "La nymphe Callisto faisait partie des compagnes d'Artémis, vouées à la virginité. Zeus la séduisit en prenant l'apparence de la déesse elle-même. Lorsque Artémis découvrit sa grossesse au cours d'un bain, elle la chassa de sa compagnie. Changée en ourse, par Héra, par Zeus ou par Artémis selon les versions, Callisto fut finalement placée parmi les étoiles avec son fils Arcas.",
+        "personnages": ["artemis", "callisto", "zeus", "hera", "arcas"],
+        "sources": ["Ovide, Métamorphoses", "Apollodore, Bibliothèque", "Hésiode (fragments)"]
+      },
+      {
+        "titre": "La mort d'Orion",
+        "resume": "Le géant chasseur Orion devint le compagnon de chasse d'Artémis. Les récits divergent sur sa fin. Selon certains, il tenta de violer la déesse, qui fit surgir de terre un scorpion pour le tuer. Selon d'autres, il fut abattu par ses flèches, ou parce qu'il l'avait défiée au lancer du disque. Orion et le scorpion furent ensuite changés en constellations.",
+        "personnages": ["artemis", "orion", "apollon", "eos"],
+        "sources": ["Homère, Odyssée", "Apollodore, Bibliothèque", "Ovide, Fastes"]
+      },
+      {
+        "titre": "Le sacrifice d'Iphigénie",
+        "resume": "Agamemnon, rassemblé à Aulis avec la flotte grecque, offensa Artémis en tuant une biche dans son bois sacré et en se vantant de son adresse. La déesse retint les vents et la flotte ne put partir pour Troie. Le devin Calchas annonça qu'elle ne s'apaiserait que par le sacrifice d'Iphigénie, la fille du roi. Au moment du sacrifice, selon la version d'Euripide, Artémis substitua une biche à la jeune fille et l'emmena en Tauride comme prêtresse.",
+        "personnages": ["artemis", "agamemnon", "iphigenie", "clytemnestre"],
+        "sources": ["Euripide, Iphigénie à Aulis", "Eschyle, Agamemnon", "Chants cypriens (résumé de Proclos)"]
+      },
+      {
+        "titre": "La ruse contre les Aloades",
+        "resume": "Les géants Otos et Éphialtès, fils de Poséidon, grandissaient sans cesse et prétendaient escalader le ciel en entassant les montagnes. Ils voulaient aussi prendre pour épouses Héra et Artémis. Sur l'île de Naxos, Artémis se changea en biche et bondit entre eux. Les deux frères lancèrent leurs javelots en même temps et s'entretuèrent.",
+        "personnages": ["artemis", "aloades", "hera"],
+        "sources": ["Apollodore, Bibliothèque", "Homère, Odyssée"]
+      }
+    ]
+  },
+  {
+    "id": "ares",
+    "nom": "Arès",
+    "grec": "Ἄρης",
+    "romain": "Mars",
+    "categorie": "olympien",
+    "epithete": "Dieu de la guerre",
+    "domaines": ["Guerre", "Violence", "Fureur des combats", "Courage"],
+    "symboles": ["Lance", "Casque", "Bouclier", "Vautour", "Chien", "Char de guerre"],
+    "tags": ["guerre", "combat", "discorde", "vengeance", "thèbes", "guerre de troie", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "hera"], "source": "Hésiode, Théogonie ; Homère, Iliade", "principale": true }
+    ],
+    "unions": [
+      { "avec": "aphrodite", "note": "Père de Phobos, Déimos et Harmonie" }
+    ],
+    "histoires": [
+      {
+        "titre": "Pris au filet d'Héphaïstos",
+        "resume": "Arès entretenait une liaison secrète avec Aphrodite, épouse d'Héphaïstos. Hélios, qui voit tout, les surprit et prévint le mari trompé. Héphaïstos forgea un filet invisible et indestructible qu'il disposa autour de son lit. Lorsque les amants s'y couchèrent, ils furent pris au piège, et Héphaïstos convoqua les dieux, qui éclatèrent d'un rire inextinguible. Poséidon obtint leur libération en se portant garant de l'amende due par Arès.",
+        "personnages": ["ares", "aphrodite", "hephaistos", "helios", "poseidon", "hermes", "apollon"],
+        "sources": ["Homère, Odyssée"]
+      },
+      {
+        "titre": "Blessé par Diomède",
+        "resume": "Pendant la guerre de Troie, Arès combattait aux côtés des Troyens. Athéna, prenant place sur le char de Diomède, guida la lance du héros contre le dieu. Blessé au ventre, Arès poussa un cri aussi fort que celui de dix mille guerriers. Il remonta sur l'Olympe se plaindre à Zeus, qui le traita de plus odieux des dieux, mais le fit soigner.",
+        "personnages": ["ares", "diomede", "athena", "zeus"],
+        "sources": ["Homère, Iliade"]
+      },
+      {
+        "titre": "Enfermé dans une jarre",
+        "resume": "Les Aloades, Otos et Éphialtès, géants d'une force prodigieuse, s'emparèrent d'Arès et l'enchaînèrent. Ils l'enfermèrent dans une jarre de bronze où il resta treize mois. Le dieu aurait péri si leur belle-mère n'avait prévenu Hermès. Celui-ci parvint à le délivrer en secret, alors qu'il était à bout de forces.",
+        "personnages": ["ares", "aloades", "hermes"],
+        "sources": ["Homère, Iliade", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le dragon de Thèbes",
+        "resume": "Une source près du site de la future Thèbes était gardée par un dragon, fils d'Arès selon la tradition. Cadmos, venu fonder une cité, le tua pour pouvoir puiser l'eau nécessaire à un sacrifice. Pour expier ce meurtre, il dut servir Arès pendant une longue année. Les dieux lui accordèrent ensuite pour épouse Harmonie, fille d'Arès et d'Aphrodite.",
+        "personnages": ["ares", "cadmos", "harmonie", "aphrodite", "athena"],
+        "sources": ["Apollodore, Bibliothèque", "Ovide, Métamorphoses", "Euripide, Les Phéniciennes"]
+      },
+      {
+        "titre": "Le premier procès de l'Aréopage",
+        "resume": "Halirrhothios, fils de Poséidon, tenta de violer Alcippé, fille d'Arès, près d'une source d'Athènes. Arès le surprit et le tua. Poséidon traduisit alors Arès en justice devant les douze dieux, sur une colline d'Athènes. Arès fut acquitté, et le lieu prit le nom de colline d'Arès, l'Aréopage, où siégea plus tard le tribunal pour les crimes de sang.",
+        "personnages": ["ares", "poseidon"],
+        "sources": ["Apollodore, Bibliothèque", "Pausanias, Description de la Grèce"]
+      },
+      {
+        "titre": "Vaincu par Athéna",
+        "resume": "Lorsque les dieux s'affrontèrent dans la plaine de Troie, Arès s'élança contre Athéna pour venger sa blessure passée. Il frappa son égide de sa lance, sans effet. La déesse saisit une énorme borne de pierre et l'atteignit au cou. Arès s'effondra, couvrant sept arpents de son corps, et Aphrodite dut l'aider à quitter le champ de bataille.",
+        "personnages": ["ares", "athena", "aphrodite"],
+        "sources": ["Homère, Iliade"]
+      }
+    ]
+  },
+  {
+    "id": "aphrodite",
+    "nom": "Aphrodite",
+    "grec": "Ἀφροδίτη",
+    "romain": "Vénus",
+    "categorie": "olympien",
+    "epithete": "Déesse de l'amour, née de l'écume",
+    "domaines": ["Amour", "Désir", "Beauté", "Fécondité"],
+    "symboles": ["Colombe", "Myrte", "Rose", "Coquille", "Ceinture brodée", "Pomme"],
+    "tags": ["amour", "désir", "beauté", "mer", "jalousie", "chypre", "guerre de troie", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["zeus", "dione"], "source": "Homère, Iliade" }
+    ],
+    "unions": [
+      { "avec": "hephaistos", "note": "Époux" },
+      { "avec": "ares", "note": "Amant ; mère de Phobos, Déimos et Harmonie" },
+      { "avec": "adonis", "note": "Jeune mortel aimé de la déesse" },
+      { "avec": "hermes", "note": "Mère d'Hermaphrodite" },
+      { "avec": "dionysos", "note": "Mère de Priape selon certaines traditions" }
+    ],
+    "histoires": [
+      {
+        "titre": "La naissance de l'écume",
+        "resume": "Cronos trancha le sexe de son père Ouranos d'un coup de faucille et le jeta dans la mer. Autour de la chair divine se forma une écume blanche, d'où naquit une jeune déesse. Elle aborda d'abord à Cythère, puis à Chypre, où l'herbe poussait sous ses pas. Éros et Himéros l'accompagnèrent dès sa naissance, et elle reçut pour lot les sourires, les tromperies et les douceurs de l'amour.",
+        "personnages": ["aphrodite", "ouranos", "cronos", "eros"],
+        "sources": ["Hésiode, Théogonie", "Hymne homérique à Aphrodite (VI)"]
+      },
+      {
+        "titre": "Les amours d'Arès",
+        "resume": "Mariée à Héphaïstos, le boiteux, Aphrodite lui préférait Arès. Leurs rendez-vous furent dénoncés par Hélios. Le mari forgea un filet invisible qui emprisonna les amants enlacés, et convoqua les dieux pour se moquer d'eux. Libérée, Aphrodite s'enfuit à Paphos, à Chypre, où les Charites la baignèrent et la parèrent.",
+        "personnages": ["aphrodite", "ares", "hephaistos", "helios"],
+        "sources": ["Homère, Odyssée"]
+      },
+      {
+        "titre": "Anchise et la naissance d'Énée",
+        "resume": "Zeus, lassé de voir Aphrodite rendre les dieux amoureux de mortelles, lui inspira à son tour le désir d'un mortel, le berger troyen Anchise. Elle lui apparut sur le mont Ida sous les traits d'une jeune princesse et s'unit à lui. Elle lui révéla ensuite sa nature et lui annonça la naissance d'un fils, Énée, en lui interdisant de jamais révéler qui était la mère.",
+        "personnages": ["aphrodite", "zeus", "enee"],
+        "sources": ["Hymne homérique à Aphrodite", "Homère, Iliade"]
+      },
+      {
+        "titre": "Adonis",
+        "resume": "Aphrodite s'éprit d'Adonis, jeune homme d'une beauté extraordinaire. Selon Apollodore, elle l'avait confié enfant à Perséphone, qui refusa de le rendre, et Zeus partagea son année entre les deux déesses. Malgré les avertissements d'Aphrodite, Adonis s'adonnait à la chasse et fut tué par un sanglier. De son sang, la déesse fit naître l'anémone, fleur éphémère.",
+        "personnages": ["aphrodite", "adonis", "persephone", "zeus"],
+        "sources": ["Ovide, Métamorphoses", "Apollodore, Bibliothèque", "Bion, Chant funèbre d'Adonis"]
+      },
+      {
+        "titre": "Le jugement de Pâris",
+        "resume": "Appelé à décerner la pomme d'or lancée par Éris à la plus belle des déesses, Pâris vit défiler Héra, Athéna et Aphrodite sur le mont Ida. Chacune lui promit un présent pour gagner son suffrage. Aphrodite lui offrit l'amour de la plus belle des mortelles, Hélène, épouse de Ménélas. Pâris lui donna la pomme, et l'enlèvement d'Hélène qui suivit déclencha la guerre de Troie, où la déesse protégea les Troyens.",
+        "personnages": ["aphrodite", "paris", "hera", "athena", "eris", "helene", "menelas", "hermes"],
+        "sources": ["Chants cypriens (résumé de Proclos)", "Homère, Iliade", "Euripide, Hélène"]
+      },
+      {
+        "titre": "Pygmalion",
+        "resume": "Le sculpteur chypriote Pygmalion, dégoûté des femmes, sculpta dans l'ivoire une statue d'une beauté parfaite dont il tomba amoureux. Lors de la fête d'Aphrodite, il pria timidement la déesse de lui accorder une épouse semblable à sa statue. Aphrodite exauça son vœu : de retour chez lui, il sentit l'ivoire s'attendrir et la statue prendre vie sous ses baisers. La déesse assista à leurs noces.",
+        "personnages": ["aphrodite", "pygmalion"],
+        "sources": ["Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "hephaistos",
+    "nom": "Héphaïstos",
+    "grec": "Ἥφαιστος",
+    "romain": "Vulcain",
+    "categorie": "olympien",
+    "epithete": "Le divin forgeron",
+    "domaines": ["Feu", "Forge", "Métallurgie", "Artisanat", "Volcans"],
+    "symboles": ["Marteau", "Enclume", "Tenailles", "Bonnet de forgeron"],
+    "tags": ["forge", "feu", "volcan", "artisanat", "lemnos", "olympe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "hera"], "source": "Homère, Iliade ; Homère, Odyssée", "principale": true },
+      { "parents": ["hera"], "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "aphrodite", "note": "Épouse infidèle" },
+      { "avec": "aglae", "note": "Épouse selon Hésiode (Charis dans l'Iliade)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Précipité de l'Olympe",
+        "resume": "Deux récits rendent compte de la chute d'Héphaïstos. Dans l'un, Héra, honteuse de son fils né boiteux, le jeta du haut de l'Olympe ; il fut recueilli dans la mer par Thétis et Eurynomé, qui le cachèrent neuf ans dans une grotte où il forgea des bijoux. Dans l'autre, Zeus le saisit par le pied et le lança du ciel parce qu'il avait pris le parti de sa mère. Il tomba toute une journée et s'abattit à Lemnos, où les Sintiens le soignèrent.",
+        "personnages": ["hephaistos", "hera", "zeus", "thetis", "eurynome"],
+        "sources": ["Homère, Iliade", "Hymne homérique à Apollon"]
+      },
+      {
+        "titre": "Le trône piégé d'Héra",
+        "resume": "Pour se venger de sa mère, Héphaïstos lui envoya en cadeau un trône d'or splendide. Dès qu'Héra s'y assit, des liens invisibles l'immobilisèrent, et aucun dieu ne put la libérer. Héphaïstos refusa de revenir sur l'Olympe pour la délivrer. Dionysos finit par l'enivrer et le ramena, juché sur un âne, parmi les dieux, où il libéra sa mère.",
+        "personnages": ["hephaistos", "hera", "dionysos"],
+        "sources": ["Alcée (fragments)", "Pausanias, Description de la Grèce", "Libanios"]
+      },
+      {
+        "titre": "Le filet des amants",
+        "resume": "Informé par Hélios de la liaison de son épouse Aphrodite avec Arès, Héphaïstos se retira dans sa forge. Il y fabriqua des chaînes aussi fines que des fils d'araignée, invisibles même aux dieux, qu'il tendit autour de son lit. Feignant de partir pour Lemnos, il revint prendre les amants au piège. Il exposa leur faute aux dieux assemblés, qui rirent sans fin, et exigea réparation.",
+        "personnages": ["hephaistos", "aphrodite", "ares", "helios", "poseidon"],
+        "sources": ["Homère, Odyssée"]
+      },
+      {
+        "titre": "Les armes d'Achille",
+        "resume": "Après la mort de Patrocle, qui avait perdu les armes d'Achille au profit d'Hector, Thétis vint supplier Héphaïstos de forger un nouvel équipement pour son fils. Le dieu, qui lui devait la vie, se mit aussitôt à l'ouvrage avec ses servantes d'or animées. Il fabriqua un casque, une cuirasse, des jambières et surtout un bouclier merveilleux. Celui-ci représentait la terre, le ciel, la mer, deux cités, l'une en paix et l'autre en guerre, et les travaux des champs.",
+        "personnages": ["hephaistos", "thetis", "achille", "patrocle", "hector"],
+        "sources": ["Homère, Iliade"]
+      },
+      {
+        "titre": "Le façonnage de Pandore",
+        "resume": "Pour punir les hommes du vol du feu par Prométhée, Zeus ordonna à Héphaïstos de façonner une femme. Le dieu mêla la terre et l'eau et lui donna la voix et la force humaines, avec le visage d'une déesse. Athéna lui apprit le tissage, Aphrodite lui donna la grâce et Hermès un esprit trompeur. Héphaïstos lui façonna aussi une couronne d'or ornée d'animaux.",
+        "personnages": ["hephaistos", "pandore", "zeus", "athena", "aphrodite", "hermes", "promethee"],
+        "sources": ["Hésiode, Théogonie", "Hésiode, Les Travaux et les Jours"]
+      },
+      {
+        "titre": "L'enchaînement de Prométhée",
+        "resume": "Sur l'ordre de Zeus, Héphaïstos dut lui-même enchaîner Prométhée à un rocher du Caucase. Il accomplit cette tâche à contrecœur, plein de pitié pour le Titan, sous la surveillance de Kratos et Bia. Il riva les chaînes et transperça la poitrine du captif d'un coin d'acier. Eschyle fait de cette scène l'ouverture de sa tragédie.",
+        "personnages": ["hephaistos", "promethee", "kratos", "bia", "zeus"],
+        "sources": ["Eschyle, Prométhée enchaîné"]
+      }
+    ]
+  },
+  {
+    "id": "hermes",
+    "nom": "Hermès",
+    "grec": "Ἑρμῆς",
+    "romain": "Mercure",
+    "categorie": "olympien",
+    "epithete": "Messager des dieux",
+    "domaines": ["Messages", "Voyageurs", "Commerce", "Voleurs", "Bergers", "Conduite des âmes"],
+    "symboles": ["Caducée", "Pétase ailé", "Sandales ailées", "Lyre", "Bourse"],
+    "tags": ["messager", "voyage", "commerce", "ruse", "bergers", "enfers", "arcadie", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "maia"], "source": "Hésiode, Théogonie ; Hymne homérique à Hermès", "principale": true }
+    ],
+    "unions": [
+      { "avec": "aphrodite", "note": "Père d'Hermaphrodite" },
+      { "avec": "penelope", "note": "Mère de Pan selon certaines traditions (Hérodote)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le vol des vaches d'Apollon",
+        "resume": "Né à l'aube dans une grotte du mont Cyllène, Hermès sortit de son berceau dès midi. Trouvant une tortue, il en fit la première lyre. Le soir même, il vola cinquante vaches du troupeau d'Apollon et les fit marcher à reculons pour brouiller les traces. Apollon, découvrant le vol, le traîna devant Zeus, qui rit de l'audace de l'enfant. Hermès apaisa son frère en lui offrant la lyre, et reçut en échange la garde des troupeaux.",
+        "personnages": ["hermes", "apollon", "maia", "zeus"],
+        "sources": ["Hymne homérique à Hermès", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le meurtre d'Argos",
+        "resume": "Héra avait confié la génisse Io, aimée de Zeus, à la garde d'Argos Panoptès, géant couvert d'yeux. Zeus chargea Hermès de la libérer. Déguisé en berger, Hermès joua de la flûte et raconta des histoires jusqu'à ce que tous les yeux du géant se ferment. Il le tua alors, ce qui lui valut le surnom d'Argeiphontès, le tueur d'Argos.",
+        "personnages": ["hermes", "argos-panoptes", "io", "hera", "zeus"],
+        "sources": ["Ovide, Métamorphoses", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le guide de Priam",
+        "resume": "Après la mort d'Hector, Zeus envoya Hermès escorter le vieux roi Priam jusqu'à la tente d'Achille pour réclamer le corps de son fils. Sous l'apparence d'un jeune homme, le dieu conduisit le char à travers le camp grec en endormant les sentinelles. Il se révéla à Priam avant de repartir. Après l'entrevue, il revint le réveiller dans la nuit et le reconduisit sain et sauf à Troie.",
+        "personnages": ["hermes", "priam", "achille", "hector", "zeus"],
+        "sources": ["Homère, Iliade"]
+      },
+      {
+        "titre": "Le secours à Ulysse",
+        "resume": "Hermès intervint à plusieurs reprises au cours du voyage d'Ulysse. Sur l'île d'Aiaié, il donna au héros l'herbe moly, qui le protégea des sortilèges de Circé. Plus tard, il fut envoyé par Zeus auprès de Calypso pour lui ordonner de laisser partir Ulysse. À la fin de l'Odyssée, il conduit les âmes des prétendants vers les Enfers.",
+        "personnages": ["hermes", "ulysse", "circe", "calypso", "zeus"],
+        "sources": ["Homère, Odyssée"]
+      },
+      {
+        "titre": "Philémon et Baucis",
+        "resume": "Zeus et Hermès, déguisés en voyageurs, parcoururent la Phrygie en demandant l'hospitalité. Toutes les maisons leur furent fermées, sauf la pauvre cabane du vieux couple Philémon et Baucis, qui partagea avec eux tout ce qu'il avait. Les dieux noyèrent la région inhospitalière et changèrent la cabane en temple. Les vieillards en devinrent les gardiens et, à leur mort, furent changés en un chêne et un tilleul enlacés.",
+        "personnages": ["hermes", "zeus", "philemon", "baucis"],
+        "sources": ["Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Le conducteur des âmes",
+        "resume": "Hermès est le seul dieu de l'Olympe qui circule librement entre le monde des vivants et celui des morts. Muni de sa baguette d'or, il conduit les âmes des défunts jusqu'aux portes de l'Hadès. C'est lui qui fut chargé de ramener Perséphone à sa mère. Il guida aussi Héraclès lors de sa descente pour capturer Cerbère.",
+        "personnages": ["hermes", "persephone", "demeter", "hades", "heracles", "cerbere"],
+        "sources": ["Homère, Odyssée", "Hymne homérique à Déméter", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "dionysos",
+    "nom": "Dionysos",
+    "grec": "Διόνυσος",
+    "romain": "Bacchus",
+    "categorie": "olympien",
+    "epithete": "Le dieu deux fois né",
+    "domaines": ["Vigne", "Vin", "Ivresse", "Fête", "Théâtre", "Délire sacré"],
+    "symboles": ["Thyrse", "Grappe de raisin", "Lierre", "Canthare", "Panthère", "Masque"],
+    "tags": ["vin", "vigne", "fête", "folie", "théâtre", "mystères", "thèbes", "métamorphose"],
+    "filiations": [
+      { "parents": ["zeus", "semele"], "source": "Hésiode, Théogonie ; Euripide, Les Bacchantes", "principale": true },
+      { "parents": ["zeus", "persephone"], "source": "Traditions orphiques (Dionysos-Zagreus)" }
+    ],
+    "unions": [
+      { "avec": "ariane", "note": "Épouse, abandonnée par Thésée à Naxos" },
+      { "avec": "aphrodite", "note": "Père de Priape selon certaines traditions" }
+    ],
+    "histoires": [
+      {
+        "titre": "La double naissance",
+        "resume": "Trompée par Héra, Sémélé exigea de voir Zeus dans toute sa gloire et fut foudroyée. Zeus arracha de son sein l'enfant qu'elle portait et le cousit dans sa cuisse jusqu'au terme. Une fois né, Dionysos fut confié par Hermès à Ino et Athamas, puis, pour le soustraire à la colère d'Héra, aux nymphes du mont Nysa. Selon Apollodore, Zeus le changea même en chevreau pour le cacher.",
+        "personnages": ["dionysos", "zeus", "semele", "hera", "hermes", "ino", "athamas"],
+        "sources": ["Euripide, Les Bacchantes", "Apollodore, Bibliothèque", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Les pirates tyrrhéniens",
+        "resume": "Des pirates étrusques aperçurent Dionysos, sous l'apparence d'un jeune homme richement vêtu, sur un promontoire et l'enlevèrent pour le vendre. Les liens tombaient d'eux-mêmes de ses membres. Le dieu fit couler du vin sur le navire, pousser une vigne le long du mât, puis se changea en lion. Les marins, pris de terreur, se jetèrent à la mer et furent changés en dauphins. Seul le pilote, qui avait reconnu un dieu, fut épargné.",
+        "personnages": ["dionysos"],
+        "sources": ["Hymne homérique à Dionysos (VII)", "Ovide, Métamorphoses", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le châtiment de Penthée",
+        "resume": "De retour à Thèbes, la cité de sa mère, Dionysos se heurta au refus de son cousin, le roi Penthée, qui niait sa divinité et persécutait ses fidèles. Le dieu frappa de délire les femmes thébaines, qui partirent célébrer ses rites sur le Cithéron. Il persuada Penthée de les espionner déguisé en femme. Découvert, le roi fut mis en pièces par les Bacchantes, menées par sa propre mère Agavé. Cadmos et sa famille furent exilés.",
+        "personnages": ["dionysos", "cadmos", "tiresias", "harmonie"],
+        "sources": ["Euripide, Les Bacchantes", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Le vœu de Midas",
+        "resume": "Silène, le vieux précepteur de Dionysos, s'égara et fut amené au roi Midas, qui le traita avec honneur avant de le rendre au dieu. Reconnaissant, Dionysos offrit à Midas d'exaucer un vœu. Le roi demanda que tout ce qu'il touchait se change en or. Il comprit vite son erreur lorsque sa nourriture et sa boisson se changèrent en métal. Sur l'ordre du dieu, il se purifia dans le fleuve Pactole, dont les sables devinrent aurifères.",
+        "personnages": ["dionysos", "midas", "silene"],
+        "sources": ["Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Ariane à Naxos",
+        "resume": "Après avoir aidé Thésée à vaincre le Minotaure, Ariane s'enfuit avec lui mais fut abandonnée sur l'île de Naxos. Dionysos la découvrit endormie sur le rivage et l'épousa. Il lui offrit une couronne d'or ouvragée par Héphaïstos. Après sa mort, cette couronne fut placée parmi les étoiles, et Hésiode rapporte que Zeus accorda à Ariane l'immortalité.",
+        "personnages": ["dionysos", "ariane", "thesee", "hephaistos", "zeus"],
+        "sources": ["Hésiode, Théogonie", "Ovide, Métamorphoses", "Catulle, Poèmes"]
+      },
+      {
+        "titre": "La descente aux Enfers pour Sémélé",
+        "resume": "Devenu un dieu reconnu, Dionysos voulut tirer sa mère du royaume des morts. Il descendit dans l'Hadès, selon Pausanias par le lac sans fond d'Alcyonie près de Lerne. Il en ramena Sémélé et la conduisit jusqu'à l'Olympe. Elle y fut admise parmi les immortels sous le nom de Thyoné.",
+        "personnages": ["dionysos", "semele", "hades"],
+        "sources": ["Apollodore, Bibliothèque", "Pausanias, Description de la Grèce", "Pindare, Olympiques"]
+      }
+    ]
+  }
+]

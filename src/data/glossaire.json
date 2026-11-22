@@ -1,0 +1,428 @@
+[
+  {
+    "id": "primordial",
+    "terme": "Primordial",
+    "categorie": "primordial",
+    "definition": "Les primordiaux sont les toutes premières puissances du monde, nées au commencement, avant les Titans et les dieux. Ils incarnent directement les grandes réalités de l'univers : le Vide (Chaos), la Terre (Gaïa), le Ciel (Ouranos), la Nuit (Nyx), les profondeurs (Tartare). Ils ont moins une personnalité qu'une fonction cosmique.",
+    "voir": ["theogonie", "titan", "personnification"],
+    "exemples": ["chaos", "gaia", "ouranos", "nyx", "tartare", "eros"]
+  },
+  {
+    "id": "titan",
+    "terme": "Titan",
+    "categorie": "titan",
+    "definition": "Les Titans sont les douze enfants d'Ouranos et de Gaïa, puis par extension certains de leurs descendants (Atlas, Prométhée, Hélios…). Menés par Cronos, ils renversent leur père et règnent sur le monde avant d'être vaincus par Zeus et ses frères lors de la Titanomachie. La plupart sont alors enfermés dans le Tartare ; d'autres, comme Thémis ou Mnémosyne, restent honorés aux côtés des Olympiens. Au féminin, on parle de Titanide.",
+    "voir": ["titanomachie", "olympien", "primordial"],
+    "exemples": ["cronos", "rhea", "oceanos", "japet", "themis", "mnemosyne", "atlas", "promethee"]
+  },
+  {
+    "id": "olympien",
+    "terme": "Olympien",
+    "categorie": "olympien",
+    "definition": "Les Olympiens sont les grands dieux qui gouvernent le monde après la victoire sur les Titans, et qui siègent sur le mont Olympe autour de Zeus. La liste canonique en compte douze, mais elle varie selon les sources : Hestia cède parfois sa place à Dionysos, et Hadès, qui vit aux Enfers, n'en fait généralement pas partie. Cette appli range les quatorze figures majeures dans cette catégorie.",
+    "voir": ["olympe", "titanomachie", "divinite"],
+    "exemples": ["zeus", "hera", "poseidon", "athena", "apollon", "artemis", "aphrodite", "hermes", "dionysos", "hades"]
+  },
+  {
+    "id": "divinite",
+    "terme": "Divinité",
+    "categorie": "dieu",
+    "definition": "Dans cette appli, « divinité » désigne les dieux immortels qui ne sont ni primordiaux, ni Titans, ni Olympiens : divinités mineures, personnifications, dieux de la mer, des vents ou des fleuves, Muses, Moires, Érinyes… Leur pouvoir est souvent limité à un domaine précis, mais certains, comme Perséphone ou Hécate, occupent une place importante dans le culte.",
+    "voir": ["personnification", "immortel", "dieu-fleuve"],
+    "exemples": ["persephone", "hecate", "pan", "eris", "nemesis", "iris", "eole", "protee"]
+  },
+  {
+    "id": "demi-dieu",
+    "terme": "Demi-dieu",
+    "categorie": "demi-dieu",
+    "definition": "Un demi-dieu est l'enfant d'un dieu et d'un être mortel. Il possède souvent des dons extraordinaires (force, beauté, protection divine) mais reste en principe mortel. Quelques-uns obtiennent l'immortalité après leur mort, comme Héraclès, accueilli sur l'Olympe. Le grec parle plutôt de « héros » ; le terme de demi-dieu (hêmitheos) apparaît déjà chez Hésiode pour désigner la race des héros.",
+    "voir": ["heros", "apotheose", "mortel"],
+    "exemples": ["heracles", "persee", "achille", "helene", "minos", "enee"]
+  },
+  {
+    "id": "heros",
+    "terme": "Héros",
+    "categorie": "heros",
+    "definition": "Dans la mythologie grecque, un héros est un mortel d'exception, souvent d'ascendance divine, dont les exploits ont marqué la mémoire collective : vainqueur de monstres, fondateur de cité, combattant de la guerre de Troie ou membre de l'expédition des Argonautes. Après leur mort, beaucoup recevaient un culte local sur leur tombeau. Cette appli range dans « Héros » ceux qui n'ont pas de parent divin direct.",
+    "voir": ["demi-dieu", "kleos", "argonautes"],
+    "exemples": ["thesee", "jason", "ulysse", "orphee", "bellerophon", "atalante"]
+  },
+  {
+    "id": "nymphe",
+    "terme": "Nymphe",
+    "categorie": "nymphe",
+    "definition": "Les nymphes sont des divinités féminines de la nature, attachées à un lieu ou à un élément : sources, fleuves, mers, arbres, montagnes. Elles vivent très longtemps et sont souvent considérées comme immortelles, mais certaines traditions les disent liées à la vie de leur arbre ou de leur source. Elles accompagnent fréquemment Artémis, Dionysos ou Pan, et sont les mères de nombreux héros.",
+    "voir": ["oceanide", "nereide", "naiade", "dryade", "oreade", "pleiade", "hesperide"],
+    "exemples": ["thetis", "calypso", "echo", "daphne", "maia", "styx"]
+  },
+  {
+    "id": "mortel",
+    "terme": "Mortel",
+    "categorie": "mortel",
+    "definition": "Les mortels sont les humains, soumis à la vieillesse et à la mort, par opposition aux immortels. Dans les mythes, rois, reines, devins et artisans croisent sans cesse la route des dieux, qui les aiment, les protègent ou les punissent. Certains mortels obtiennent malgré tout un destin divin, comme Ganymède ou Psyché.",
+    "voir": ["immortel", "hybris", "demi-dieu"],
+    "exemples": ["agamemnon", "oedipe", "medee", "pandore", "dedale", "penelope"]
+  },
+  {
+    "id": "monstre",
+    "terme": "Monstre",
+    "categorie": "monstre",
+    "definition": "Les monstres sont des êtres redoutables, souvent hybrides ou démesurés, issus pour la plupart de la lignée de Gaïa, de Pontos ou du couple Typhon-Échidna. Ils gardent des trésors, ravagent des contrées ou dévorent les voyageurs, et servent d'adversaires aux héros. Leur défaite marque généralement le triomphe de l'ordre olympien sur les forces du chaos.",
+    "voir": ["creature", "hybride", "geant", "cyclope", "hecatonchire"],
+    "exemples": ["typhon", "echidna", "meduse", "minotaure", "hydre-de-lerne", "sphinx"]
+  },
+  {
+    "id": "creature",
+    "terme": "Créature",
+    "categorie": "creature",
+    "definition": "Cette appli range sous « Créature » les êtres fabuleux qui ne sont pas d'abord des menaces : animaux merveilleux (Pégase, le bélier à la toison d'or), peuples hybrides (Centaures, Satyres) ou bêtes que les héros doivent capturer plutôt que détruire. La frontière avec les monstres est parfois floue.",
+    "voir": ["monstre", "centaure", "satyre"],
+    "exemples": ["pegase", "chiron", "centaures", "satyres", "chrysomallos", "phenix"]
+  },
+  {
+    "id": "theogonie",
+    "terme": "Théogonie",
+    "definition": "Une théogonie est un récit de la naissance et de la généalogie des dieux. La plus célèbre est la Théogonie d'Hésiode (vers 700 av. J.-C.), qui raconte l'apparition du monde depuis Chaos jusqu'au règne de Zeus. C'est la source principale de l'arbre présenté dans cette appli.",
+    "voir": ["primordial", "titanomachie", "cosmogonie"]
+  },
+  {
+    "id": "cosmogonie",
+    "terme": "Cosmogonie",
+    "definition": "Une cosmogonie est un récit de la création ou de la mise en ordre du monde. Chez les Grecs, elle se confond largement avec la théogonie : les éléments de l'univers (Terre, Ciel, Mer, Nuit) naissent comme des êtres divins qui s'unissent et engendrent la suite du monde.",
+    "voir": ["theogonie", "primordial"]
+  },
+  {
+    "id": "titanomachie",
+    "terme": "Titanomachie",
+    "definition": "La Titanomachie est la guerre de dix ans qui oppose les Titans, menés par Cronos, aux jeunes dieux menés par Zeus. Les Olympiens l'emportent grâce à l'aide des Cyclopes, qui forgent la foudre, et des Hécatonchires, libérés du Tartare. Les Titans vaincus y sont enfermés, et le monde est partagé entre Zeus, Poséidon et Hadès.",
+    "voir": ["titan", "olympien", "gigantomachie"],
+    "exemples": ["zeus", "cronos", "atlas", "brontes", "briaree"]
+  },
+  {
+    "id": "gigantomachie",
+    "terme": "Gigantomachie",
+    "definition": "La Gigantomachie est le combat des dieux olympiens contre les Géants, enfants de Gaïa révoltée par le sort des Titans. Un oracle annonce que les dieux ne pourront vaincre sans l'aide d'un mortel : c'est Héraclès qui achève les Géants de ses flèches. Ce thème orne de nombreux temples, comme l'autel de Pergame.",
+    "voir": ["geant", "titanomachie"],
+    "exemples": ["geants", "porphyrion", "alcyonee", "encelade", "heracles", "athena"]
+  },
+  {
+    "id": "olympe",
+    "terme": "Olympe",
+    "definition": "Le mont Olympe, en Thessalie, est la plus haute montagne de Grèce. Dans les mythes, ses sommets enveloppés de nuages abritent les palais des dieux, bâtis par Héphaïstos. Par extension, « l'Olympe » désigne l'assemblée des grands dieux eux-mêmes.",
+    "voir": ["olympien"],
+    "exemples": ["zeus", "hephaistos", "hebe"]
+  },
+  {
+    "id": "tartare",
+    "terme": "Tartare",
+    "definition": "Le Tartare est à la fois une divinité primordiale et l'abîme le plus profond du monde, situé aussi loin sous les Enfers que le ciel est loin de la terre. Les dieux y enferment leurs ennemis les plus dangereux : Titans vaincus, Typhon, et grands coupables comme Tantale, Sisyphe ou Ixion.",
+    "voir": ["enfers", "primordial", "titanomachie"],
+    "exemples": ["tartare", "tantale", "sisyphe", "ixion"]
+  },
+  {
+    "id": "enfers",
+    "terme": "Enfers",
+    "definition": "Les Enfers sont le royaume souterrain des morts, gouverné par Hadès et Perséphone. Les âmes y sont conduites par Hermès et doivent traverser le Styx ou l'Achéron sur la barque du passeur Charon. Cerbère en garde l'entrée pour empêcher les morts d'en sortir. Selon les récits, les justes rejoignent les Champs Élysées et les coupables le Tartare.",
+    "voir": ["tartare", "styx", "psychopompe"],
+    "exemples": ["hades", "persephone", "cerbere", "orphee", "minos", "rhadamanthe", "eaque"]
+  },
+  {
+    "id": "styx",
+    "terme": "Styx",
+    "definition": "Le Styx est le fleuve qui entoure les Enfers, et aussi la nymphe Océanide qui le personnifie. Pour avoir aidé Zeus contre les Titans, elle reçut un honneur unique : les dieux jurent par ses eaux, et un serment prêté sur le Styx ne peut être rompu sans terrible châtiment.",
+    "voir": ["enfers", "oceanide"],
+    "exemples": ["styx", "achille", "thetis"]
+  },
+  {
+    "id": "immortel",
+    "terme": "Immortel",
+    "definition": "Les dieux grecs sont immortels et ne vieillissent pas. Ils se nourrissent d'ambroisie et de nectar, et dans leurs veines coule l'ichor plutôt que le sang. Ils peuvent souffrir et être blessés, mais pas mourir. L'immortalité peut parfois être accordée à un mortel, ce que l'on appelle une apothéose.",
+    "voir": ["ambroisie", "apotheose", "mortel"]
+  },
+  {
+    "id": "ambroisie",
+    "terme": "Ambroisie et nectar",
+    "definition": "L'ambroisie est la nourriture des dieux et le nectar leur boisson ; tous deux entretiennent leur immortalité et leur jeunesse éternelle. Hébé, puis Ganymède, servent le nectar aux dieux de l'Olympe. Tantale fut châtié pour en avoir dérobé et partagé avec les hommes.",
+    "voir": ["immortel"],
+    "exemples": ["hebe", "ganymede", "tantale"]
+  },
+  {
+    "id": "apotheose",
+    "terme": "Apothéose",
+    "definition": "L'apothéose est l'élévation d'un mortel au rang de dieu. Héraclès, après sa mort sur le bûcher du mont Œta, est accueilli sur l'Olympe et épouse Hébé. D'autres, comme Ganymède, Psyché ou Ino, deviennent également immortels.",
+    "voir": ["immortel", "demi-dieu", "catasterisme"],
+    "exemples": ["heracles", "ganymede", "psyche", "ino", "asclepios"]
+  },
+  {
+    "id": "catasterisme",
+    "terme": "Catastérisme",
+    "definition": "Un catastérisme est la transformation d'un personnage ou d'un animal en constellation. Les dieux récompensent ou consolent ainsi certains êtres : Orion, Callisto (la Grande Ourse), les Pléiades, Persée et Andromède brillent depuis dans le ciel. Le mot vient du titre d'un ouvrage attribué à Ératosthène.",
+    "voir": ["metamorphose", "apotheose"],
+    "exemples": ["orion", "callisto", "arcas", "andromede", "persee", "maia"]
+  },
+  {
+    "id": "metamorphose",
+    "terme": "Métamorphose",
+    "definition": "Une métamorphose est une transformation d'apparence, en animal, en plante, en pierre ou en élément. Les dieux se métamorphosent pour séduire ou tromper (Zeus en taureau, en cygne, en pluie d'or), et ils métamorphosent les mortels pour les punir ou les sauver. Ovide a rassemblé ces récits dans ses Métamorphoses.",
+    "voir": ["catasterisme", "hybris"],
+    "exemples": ["daphne", "arachne", "narcisse", "io", "acteon", "callisto"]
+  },
+  {
+    "id": "hybris",
+    "terme": "Hybris",
+    "definition": "L'hybris désigne la démesure, l'orgueil qui pousse un être à franchir les limites imposées aux mortels, en particulier à se croire l'égal des dieux. Elle appelle presque toujours un châtiment, souvent incarné par Némésis. Niobé, Arachné, Tantale ou Icare en sont des exemples célèbres.",
+    "voir": ["nemesis", "mortel"],
+    "exemples": ["niobe", "arachne", "tantale", "icare", "bellerophon", "nemesis"]
+  },
+  {
+    "id": "nemesis",
+    "terme": "Némésis",
+    "definition": "Comme nom commun, la némésis est la juste colère divine qui frappe ceux qui ont fait preuve d'hybris ou ont reçu une fortune excessive. Elle est personnifiée par la déesse Némésis, fille de Nyx, qui rétablit l'équilibre en punissant les orgueilleux.",
+    "voir": ["hybris", "personnification"],
+    "exemples": ["nemesis", "narcisse"]
+  },
+  {
+    "id": "personnification",
+    "terme": "Personnification",
+    "definition": "Une personnification est une idée abstraite ou un phénomène naturel représenté comme un être divin : la Victoire (Niké), la Discorde (Éris), le Sommeil (Hypnos), la Mort (Thanatos), la Justice (Dikè). Beaucoup sont des enfants de Nyx ou de Zeus et ont peu de mythes propres.",
+    "voir": ["divinite", "primordial"],
+    "exemples": ["nike", "eris", "hypnos", "thanatos", "dike", "tyche"]
+  },
+  {
+    "id": "epithete",
+    "terme": "Épithète",
+    "definition": "Une épithète est un surnom qui précise un aspect d'un dieu ou d'un héros : Athéna « aux yeux pers », Zeus « assembleur de nuées », Achille « aux pieds légers ». Dans le culte, une même divinité était honorée sous de nombreuses épithètes selon le lieu et la fonction invoquée. Chaque fiche de cette appli en donne une sous le nom.",
+    "voir": ["olympien"]
+  },
+  {
+    "id": "oracle",
+    "terme": "Oracle",
+    "definition": "Un oracle est à la fois la réponse donnée par un dieu à une question, et le sanctuaire où on la demande. Le plus célèbre est celui d'Apollon à Delphes, où la Pythie prononçait les réponses du dieu. Les oracles, souvent ambigus, déclenchent de nombreux mythes : celui donné à Laïos annonce le destin d'Œdipe, celui donné à Acrisios celui de Persée.",
+    "voir": ["devin", "destin"],
+    "exemples": ["apollon", "python", "laios", "oedipe", "acrisios"]
+  },
+  {
+    "id": "devin",
+    "terme": "Devin",
+    "definition": "Un devin est un mortel qui connaît l'avenir ou la volonté des dieux, par un don divin ou par l'interprétation de signes (vol des oiseaux, entrailles des victimes). Tirésias, Cassandre et Amphiaraos sont les plus célèbres ; leurs avertissements sont souvent ignorés.",
+    "voir": ["oracle", "destin"],
+    "exemples": ["tiresias", "cassandre", "amphiaraos", "protee"]
+  },
+  {
+    "id": "destin",
+    "terme": "Destin",
+    "definition": "Le destin (moira) est la part de vie et de mort attribuée à chacun, que même les dieux hésitent à contrarier. Il est personnifié par les trois Moires, qui filent, mesurent et coupent le fil de chaque existence, et par Ananké, la Nécessité.",
+    "voir": ["moires", "oracle"],
+    "exemples": ["clotho", "lachesis", "atropos", "ananke", "moros"]
+  },
+  {
+    "id": "moires",
+    "terme": "Moires",
+    "definition": "Les Moires sont les trois déesses du destin : Clotho file le fil de la vie, Lachésis le mesure et Atropos le tranche. Hésiode les dit filles de Nyx, mais aussi, dans un autre passage, de Zeus et de Thémis. Les Romains les appellent les Parques.",
+    "voir": ["destin", "triade"],
+    "exemples": ["clotho", "lachesis", "atropos"]
+  },
+  {
+    "id": "muses",
+    "terme": "Muses",
+    "definition": "Les neuf Muses, filles de Zeus et de Mnémosyne (la Mémoire), inspirent les poètes, les musiciens et les savants. Les auteurs antiques les invoquent au début de leurs œuvres. Leur répartition par domaine (Calliope pour l'épopée, Clio pour l'histoire, Uranie pour l'astronomie…) s'est fixée assez tardivement.",
+    "voir": ["aede"],
+    "exemples": ["calliope", "clio", "euterpe", "thalie-muse", "melpomene", "terpsichore", "erato", "polymnie", "uranie"]
+  },
+  {
+    "id": "charites",
+    "terme": "Charites",
+    "definition": "Les Charites, que les Romains appellent les Grâces, sont trois déesses de la beauté, de la joie et de l'abondance : Aglaé, Euphrosyne et Thalie. Filles de Zeus et d'Eurynomé, elles accompagnent souvent Aphrodite et les Muses.",
+    "voir": ["muses", "heures"],
+    "exemples": ["aglae", "euphrosyne", "thalie-charite"]
+  },
+  {
+    "id": "heures",
+    "terme": "Heures",
+    "definition": "Les Heures (Hôrai) sont les déesses des saisons et de l'ordre naturel et social. Chez Hésiode, filles de Zeus et de Thémis, elles s'appellent Eunomie (le bon ordre), Dikè (la justice) et Eiréné (la paix). Elles gardent aussi les portes de l'Olympe.",
+    "voir": ["charites", "personnification"],
+    "exemples": ["eunomie", "dike", "eirene"]
+  },
+  {
+    "id": "erinyes",
+    "terme": "Érinyes",
+    "definition": "Les Érinyes sont les déesses de la vengeance, nées du sang d'Ouranos mutilé tombé sur Gaïa. Elles poursuivent sans relâche les coupables de crimes familiaux, surtout le meurtre d'un parent, comme Oreste après la mort de Clytemnestre. Apaisées, elles deviennent les Euménides, « les Bienveillantes ». Les Romains les appellent Furies.",
+    "voir": ["destin"],
+    "exemples": ["alecto", "megere", "tisiphone", "oreste"]
+  },
+  {
+    "id": "oceanide",
+    "terme": "Océanide",
+    "definition": "Les Océanides sont les filles du Titan Océan et de Téthys, au nombre de trois mille selon Hésiode. Nymphes des sources, des rivières et des nuages, elles comptent parmi elles des figures importantes comme Styx, Métis, Clymène ou Eurynomé.",
+    "voir": ["nymphe", "nereide"],
+    "exemples": ["oceanides", "styx", "metis", "clymene", "eurynome", "doris"]
+  },
+  {
+    "id": "nereide",
+    "terme": "Néréide",
+    "definition": "Les Néréides sont les cinquante filles du dieu marin Nérée et de l'Océanide Doris. Nymphes de la Méditerranée, elles vivent dans le palais sous-marin de leur père et viennent en aide aux marins. Les plus connues sont Thétis, mère d'Achille, et Amphitrite, épouse de Poséidon.",
+    "voir": ["nymphe", "oceanide"],
+    "exemples": ["nereides", "thetis", "amphitrite", "galatee", "psamathe"]
+  },
+  {
+    "id": "naiade",
+    "terme": "Naïade",
+    "definition": "Les Naïades sont les nymphes des eaux douces : sources, fontaines, ruisseaux et lacs. Chacune est liée à son point d'eau, souvent sacré, et les eaux qu'elles protègent passaient pour guérir ou inspirer.",
+    "voir": ["nymphe", "dieu-fleuve"],
+    "exemples": ["naiades", "salmacis", "arethuse"]
+  },
+  {
+    "id": "dryade",
+    "terme": "Dryade",
+    "definition": "Les Dryades sont les nymphes des arbres et des forêts, à l'origine du chêne en particulier. Les Hamadryades sont liées à un arbre précis et meurent avec lui. Eurydice, l'épouse d'Orphée, est souvent présentée comme une dryade.",
+    "voir": ["nymphe", "oreade", "meliade"],
+    "exemples": ["dryades", "eurydice"]
+  },
+  {
+    "id": "oreade",
+    "terme": "Oréade",
+    "definition": "Les Oréades sont les nymphes des montagnes et des grottes. Elles accompagnent volontiers Artémis à la chasse ou Pan dans ses danses. La nymphe Écho en est la plus connue.",
+    "voir": ["nymphe", "dryade"],
+    "exemples": ["oreades", "echo"]
+  },
+  {
+    "id": "meliade",
+    "terme": "Méliade",
+    "definition": "Les Méliades sont les nymphes des frênes, nées comme les Érinyes et les Géants du sang d'Ouranos tombé sur la terre. Selon certaines traditions, la race d'airain des hommes serait issue des frênes.",
+    "voir": ["nymphe", "dryade"],
+    "exemples": ["meliae"]
+  },
+  {
+    "id": "pleiade",
+    "terme": "Pléiade",
+    "definition": "Les Pléiades sont les sept filles du Titan Atlas et de l'Océanide Pléioné. Poursuivies par le chasseur Orion, elles furent changées en colombes puis en étoiles, formant l'amas des Pléiades. Plusieurs d'entre elles s'unirent à des dieux : Maïa est la mère d'Hermès.",
+    "voir": ["nymphe", "catasterisme"],
+    "exemples": ["maia", "alcyone", "celaeno", "electre-pleiade", "merope", "taygete", "sterope"]
+  },
+  {
+    "id": "hesperide",
+    "terme": "Hespéride",
+    "definition": "Les Hespérides sont les nymphes du couchant, gardiennes, avec le dragon Ladon, du jardin aux pommes d'or offert par Gaïa à Héra pour ses noces. Héraclès dut s'emparer de ces pommes lors de l'un de ses travaux. Leurs parents varient : Nyx chez Hésiode, Atlas selon d'autres auteurs.",
+    "voir": ["nymphe"],
+    "exemples": ["aigle", "erytheia", "hesperethousa", "ladon", "heracles"]
+  },
+  {
+    "id": "dieu-fleuve",
+    "terme": "Dieu-fleuve",
+    "definition": "Chaque fleuve grec est un dieu, fils d'Océan et de Téthys selon Hésiode. On le représente souvent sous la forme d'un taureau à tête d'homme ou d'un vieillard barbu. Ces dieux sont les pères de nombreuses nymphes et participent parfois aux combats, comme le Scamandre contre Achille.",
+    "voir": ["naiade", "divinite"],
+    "exemples": ["achelous", "scamandre", "alphee", "asopos", "inachos", "peneios"]
+  },
+  {
+    "id": "psychopompe",
+    "terme": "Psychopompe",
+    "definition": "Un psychopompe est un guide des âmes : il accompagne les morts jusqu'aux Enfers. Hermès remplit ce rôle, et Charon fait traverser le fleuve des morts. Thanatos, la Mort, vient chercher ceux dont l'heure est arrivée.",
+    "voir": ["enfers"],
+    "exemples": ["hermes", "thanatos"]
+  },
+  {
+    "id": "geant",
+    "terme": "Géant",
+    "definition": "Les Géants (Gigantes) sont des êtres colossaux et belliqueux nés de Gaïa, fécondée par le sang d'Ouranos. Souvent représentés avec des jambes de serpent, ils se révoltent contre les Olympiens lors de la Gigantomachie. Ce ne sont pas les Titans, avec lesquels on les confond souvent.",
+    "voir": ["gigantomachie", "titan", "monstre"],
+    "exemples": ["geants", "porphyrion", "alcyonee", "encelade", "antee"]
+  },
+  {
+    "id": "cyclope",
+    "terme": "Cyclope",
+    "definition": "Les Cyclopes sont des géants à un seul œil rond au milieu du front. Hésiode en nomme trois, fils d'Ouranos et de Gaïa, forgerons qui fabriquent la foudre de Zeus. Homère décrit un autre peuple de Cyclopes, des bergers sauvages comme Polyphème, que rencontre Ulysse.",
+    "voir": ["monstre", "hecatonchire", "titanomachie"],
+    "exemples": ["cyclopes", "brontes", "steropes", "arges", "polypheme"]
+  },
+  {
+    "id": "hecatonchire",
+    "terme": "Hécatonchire",
+    "definition": "Les Hécatonchires (« Cent-Bras ») sont trois géants à cent bras et cinquante têtes, fils d'Ouranos et de Gaïa. Enfermés par leur père puis par Cronos, ils sont libérés par Zeus et l'aident à vaincre les Titans, qu'ils gardent ensuite dans le Tartare.",
+    "voir": ["cyclope", "titanomachie"],
+    "exemples": ["hecatonchires", "briaree", "cottos", "gyges"]
+  },
+  {
+    "id": "hybride",
+    "terme": "Hybride",
+    "definition": "Un être hybride combine les corps de plusieurs espèces : homme et cheval (Centaure), homme et taureau (Minotaure), lion, chèvre et serpent (Chimère), femme et oiseau (Sirène, Harpie). Ces mélanges expriment souvent la sauvagerie ou le désordre que les héros doivent affronter.",
+    "voir": ["monstre", "creature", "centaure"],
+    "exemples": ["minotaure", "chimere", "sphinx", "sirenes", "harpies", "echidna"]
+  },
+  {
+    "id": "centaure",
+    "terme": "Centaure",
+    "definition": "Les Centaures ont le buste d'un homme et le corps d'un cheval. Ils vivent en Thessalie et passent pour violents et portés sur le vin, comme le montre leur combat contre les Lapithes. Chiron fait exception : sage et savant, il éduque de nombreux héros, dont Achille, Jason et Asclépios.",
+    "voir": ["hybride", "creature"],
+    "exemples": ["centaures", "chiron", "nessos", "pholos", "ixion"]
+  },
+  {
+    "id": "satyre",
+    "terme": "Satyre",
+    "definition": "Les Satyres sont des génies des bois et des montagnes, au corps d'homme avec des oreilles, une queue et parfois des pattes de bouc ou de cheval. Compagnons de Dionysos, ils aiment le vin, la musique et la danse, et poursuivent les nymphes. Ils ont donné leur nom au « drame satyrique ».",
+    "voir": ["creature", "nymphe"],
+    "exemples": ["satyres", "silene", "marsyas", "dionysos", "pan"]
+  },
+  {
+    "id": "argonautes",
+    "terme": "Argonautes",
+    "definition": "Les Argonautes sont les héros qui embarquent avec Jason sur le navire Argo pour aller chercher la Toison d'or en Colchide. L'équipage réunit notamment Héraclès, Orphée, les Dioscures Castor et Pollux, Pélée et les Boréades. Leur voyage est raconté par Apollonios de Rhodes.",
+    "voir": ["heros"],
+    "exemples": ["jason", "medee", "orphee", "castor", "pollux", "zetes", "calais", "hylas", "chrysomallos"]
+  },
+  {
+    "id": "dioscures",
+    "terme": "Dioscures",
+    "definition": "Les Dioscures (« fils de Zeus ») sont les jumeaux Castor et Pollux, frères d'Hélène. Pollux, fils de Zeus, est immortel, et Castor, fils de Tyndare, est mortel ; à la mort de Castor, Pollux obtint de partager son immortalité avec lui, un jour sur deux. Ils protègent les marins et deviennent la constellation des Gémeaux.",
+    "voir": ["demi-dieu", "catasterisme"],
+    "exemples": ["castor", "pollux", "helene", "leda"]
+  },
+  {
+    "id": "amazone",
+    "terme": "Amazone",
+    "definition": "Les Amazones sont un peuple légendaire de femmes guerrières, filles d'Arès, qui vivaient aux confins du monde grec. Plusieurs héros les affrontent : Héraclès doit rapporter la ceinture de leur reine Hippolyté, et Achille tue Penthésilée devant Troie.",
+    "voir": ["heros"],
+    "exemples": ["hippolyte", "penthesilee", "ares", "heracles", "thesee"]
+  },
+  {
+    "id": "aede",
+    "terme": "Aède",
+    "definition": "L'aède est le poète-chanteur de l'époque archaïque, qui récite les exploits des dieux et des héros en s'accompagnant de la lyre. Inspiré par les Muses, il transmet les mythes de mémoire. Homère est considéré comme le plus grand d'entre eux, et Orphée comme leur modèle légendaire.",
+    "voir": ["muses", "kleos"],
+    "exemples": ["orphee", "calliope", "apollon"]
+  },
+  {
+    "id": "kleos",
+    "terme": "Kléos",
+    "definition": "Le kléos est la gloire impérissable que gagne un héros par ses exploits, et qui survit à sa mort grâce aux chants des poètes. Achille choisit une vie brève mais glorieuse plutôt qu'une longue vie obscure : c'est l'idéal héroïque de l'Iliade.",
+    "voir": ["heros", "aede"],
+    "exemples": ["achille", "hector", "ulysse"]
+  },
+  {
+    "id": "xenia",
+    "terme": "Xénia (hospitalité)",
+    "definition": "La xénia est la loi sacrée de l'hospitalité, placée sous la protection de Zeus Xénios. L'hôte doit accueillir, nourrir et protéger l'étranger, qui lui doit respect en retour. La violer est une faute grave : l'enlèvement d'Hélène par son hôte Pâris déclenche la guerre de Troie, et Polyphème est puni pour avoir dévoré ses visiteurs.",
+    "voir": ["hybris"],
+    "exemples": ["zeus", "paris", "polypheme", "baucis", "philemon", "lycaon"]
+  },
+  {
+    "id": "sacrifice",
+    "terme": "Sacrifice",
+    "definition": "Le sacrifice est l'offrande faite aux dieux, le plus souvent d'un animal dont on brûle une part pour les dieux et dont on partage la viande entre les hommes. Selon Hésiode, ce partage remonte à la ruse de Prométhée à Mécôné. Une hécatombe est, au sens propre, un sacrifice de cent bœufs.",
+    "voir": ["oracle"],
+    "exemples": ["promethee", "iphigenie", "agamemnon"]
+  },
+  {
+    "id": "mysteres",
+    "terme": "Mystères",
+    "definition": "Les mystères sont des cultes secrets auxquels on accède par une initiation, et qui promettent un sort meilleur après la mort. Les plus célèbres, ceux d'Éleusis, célèbrent Déméter et Perséphone ; d'autres sont liés à Dionysos ou à Orphée. Les initiés juraient de ne rien révéler des rites.",
+    "voir": ["enfers"],
+    "exemples": ["demeter", "persephone", "triptoleme", "dionysos", "orphee"]
+  },
+  {
+    "id": "triade",
+    "terme": "Triade",
+    "definition": "De nombreuses divinités grecques vont par trois : Moires, Charites, Heures, Érinyes, Gorgones, Grées. Ce regroupement exprime souvent les étapes d'un processus (filer, mesurer, couper) ou les aspects complémentaires d'une même puissance.",
+    "voir": ["moires", "charites", "heures", "erinyes"],
+    "exemples": ["grees", "meduse", "stheno", "euryale"]
+  }
+]

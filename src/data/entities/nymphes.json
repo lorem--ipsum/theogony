@@ -1,0 +1,1249 @@
+[
+  {
+    "id": "styx",
+    "nom": "Styx",
+    "grec": "Στύξ",
+    "categorie": "nymphe",
+    "epithete": "L'Océanide du serment des dieux",
+    "domaines": ["fleuve infernal", "serment"],
+    "symboles": ["eau glacée", "aiguière d'or"],
+    "tags": ["fleuve", "enfers", "serment", "titanomachie", "immortel", "océan"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" },
+      { "parents": ["erebe", "nyx"], "source": "Hygin, Fables (préface)" }
+    ],
+    "unions": [
+      { "avec": "pallas-titan", "note": "mère de Zélos, Niké, Kratos et Bia" }
+    ],
+    "histoires": [
+      {
+        "titre": "La première alliée de Zeus",
+        "resume": "Lorsque Zeus appela les immortels à combattre les Titans, il promit de préserver les honneurs de ceux qui le rejoindraient. Styx fut la première à se présenter sur l'Olympe, sur le conseil de son père Océan. Elle amena avec elle ses quatre enfants, Zélos, Niké, Kratos et Bia. En récompense, Zeus fit d'elle la garante du grand serment des dieux et garda ses enfants auprès de lui pour toujours.",
+        "personnages": ["zeus", "oceanos", "zelos", "nike", "kratos", "bia"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque I"]
+      },
+      {
+        "titre": "L'eau du serment",
+        "resume": "Styx demeure loin des dieux, dans une haute demeure soutenue de colonnes d'argent, à l'entrée du monde souterrain. Quand une querelle éclate parmi les immortels, Zeus envoie Iris puiser son eau froide dans une aiguière d'or. Le dieu qui prête un faux serment sur cette eau reste un an étendu sans souffle, privé de nectar et d'ambroisie. Il est ensuite tenu à l'écart des assemblées et des festins divins pendant neuf années.",
+        "personnages": ["zeus", "iris"],
+        "sources": ["Hésiode, Théogonie", "Homère, Iliade XV"]
+      },
+      {
+        "titre": "Achille plongé dans le Styx",
+        "resume": "Selon une tradition tardive, Thétis voulut rendre son fils invulnérable en le plongeant dans les eaux du Styx. Elle le tenait par le talon, qui resta seul hors de l'eau. Ce point vulnérable causa plus tard la mort du héros devant Troie. Les auteurs plus anciens racontent plutôt que Thétis tenta d'immortaliser l'enfant par le feu.",
+        "personnages": ["thetis", "achille"],
+        "sources": ["Stace, Achilléide I"]
+      }
+    ]
+  },
+  {
+    "id": "clymene",
+    "nom": "Clymène",
+    "grec": "Κλυμένη",
+    "categorie": "nymphe",
+    "epithete": "Océanide aux belles chevilles",
+    "tags": ["océan", "famille", "immortel", "soleil"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "japet", "note": "selon Hésiode ; Apollodore nomme plutôt l'Océanide Asia" },
+      { "avec": "helios", "note": "mère de Phaéton et des Héliades chez Ovide" }
+    ],
+    "histoires": [
+      {
+        "titre": "Mère des fils de Japet",
+        "resume": "Hésiode raconte que le Titan Japet épousa l'Océanide Clymène. De leur union naquirent Atlas au cœur vaillant, Ménoetios l'orgueilleux, Prométhée le rusé et Épiméthée l'étourdi. Tous ces fils eurent des destins marqués par la colère de Zeus. Clymène est ainsi l'aïeule de nombreuses lignées humaines par Prométhée et son fils Deucalion.",
+        "personnages": ["japet", "atlas", "menoetios", "promethee", "epimethee"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "La mère de Phaéton",
+        "resume": "Chez Ovide, Clymène est l'épouse du roi d'Éthiopie Mérops mais a conçu son fils Phaéton avec le Soleil. Lorsque l'enfant doute de son origine, elle jure par la lumière du jour qu'il est bien fils d'Hélios et l'envoie interroger son père. Phaéton obtient de conduire le char solaire, perd le contrôle et est foudroyé par Zeus. Clymène erre ensuite sur la terre en pleurant son fils.",
+        "personnages": ["helios", "zeus"],
+        "sources": ["Ovide, Métamorphoses I-II"]
+      }
+    ]
+  },
+  {
+    "id": "eurynome",
+    "nom": "Eurynomé",
+    "grec": "Εὐρυνόμη",
+    "categorie": "nymphe",
+    "epithete": "Océanide à l'aimable beauté",
+    "tags": ["océan", "beauté", "immortel", "famille", "mer"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "mère des Charites" }
+    ],
+    "histoires": [
+      {
+        "titre": "Mère des Charites",
+        "resume": "Hésiode rapporte que Zeus s'unit à l'Océanide Eurynomé, à la beauté désirable. Elle lui donna trois filles aux belles joues, les Charites : Aglaé, Euphrosyne et Thalie. De leurs paupières coule le désir, et leur regard sous les sourcils est plein de charme. Les Charites devinrent les compagnes des Muses et d'Aphrodite.",
+        "personnages": ["zeus", "aglae", "euphrosyne", "thalie-charite"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque I"]
+      },
+      {
+        "titre": "Le refuge d'Héphaïstos",
+        "resume": "Quand Héra, honteuse de son fils boiteux, précipita Héphaïstos du haut du ciel, il tomba dans la mer. Eurynomé et Thétis le recueillirent et le cachèrent pendant neuf ans dans une grotte creuse, entourée par le flot d'Océan. Le jeune dieu y forgea pour elles des bijoux, broches, bracelets et colliers. Héphaïstos garda une profonde reconnaissance envers ses deux protectrices.",
+        "personnages": ["hephaistos", "thetis", "hera"],
+        "sources": ["Homère, Iliade XVIII"]
+      }
+    ]
+  },
+  {
+    "id": "doris",
+    "nom": "Doris",
+    "grec": "Δωρίς",
+    "categorie": "nymphe",
+    "epithete": "Océanide, mère des Néréides",
+    "domaines": ["mer", "abondance marine"],
+    "tags": ["mer", "océan", "famille", "immortel", "fertilité"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "neree", "note": "mère des cinquante Néréides" }
+    ],
+    "histoires": [
+      {
+        "titre": "Mère des cinquante Néréides",
+        "resume": "Doris, fille d'Océan à la belle chevelure, épousa Nérée, le vieillard de la mer réputé pour sa sincérité. Ils eurent cinquante filles, les Néréides, qui peuplent les profondeurs marines. Parmi elles figurent Thétis, Amphitrite, Galatée et Psamathé. Doris est ainsi l'ancêtre maternelle d'Achille par Thétis et de Triton par Amphitrite.",
+        "personnages": ["neree", "nereides", "thetis", "amphitrite", "galatee", "psamathe"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque I"]
+      }
+    ]
+  },
+  {
+    "id": "electre-oceanide",
+    "nom": "Électre (Océanide)",
+    "grec": "Ἠλέκτρα",
+    "categorie": "nymphe",
+    "epithete": "Océanide aux reflets d'ambre",
+    "tags": ["océan", "mer", "famille", "immortel", "tempête"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "thaumas", "note": "mère d'Iris et des Harpies" }
+    ],
+    "histoires": [
+      {
+        "titre": "Mère d'Iris et des Harpies",
+        "resume": "L'Océanide Électre s'unit à Thaumas, fils de Pontos et de Gaïa. Elle mit au monde la rapide Iris, messagère des dieux, ainsi que les Harpies à la belle chevelure, Aello et Ocypété. Ces dernières volent aussi vite que les vents et les oiseaux. Cette descendance associe Électre aux phénomènes du ciel marin, l'arc-en-ciel et les rafales.",
+        "personnages": ["thaumas", "iris", "harpies"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque I"]
+      }
+    ]
+  },
+  {
+    "id": "callirhoe",
+    "nom": "Callirrhoé",
+    "grec": "Καλλιρρόη",
+    "categorie": "nymphe",
+    "epithete": "Océanide au beau cours",
+    "tags": ["océan", "source", "famille", "immortel", "travaux d'héraclès"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "chrysaor", "note": "mère de Géryon" }
+    ],
+    "histoires": [
+      {
+        "titre": "Mère de Géryon",
+        "resume": "Callirrhoé, fille de l'illustre Océan, s'unit à Chrysaor, né du cou tranché de Méduse. Elle enfanta Géryon, le géant à trois têtes qui régnait sur l'île d'Érythie, au-delà de l'Océan. Géryon possédait un troupeau de bœufs rouges gardé par le chien Orthros. Héraclès le tua pour s'emparer de ce troupeau lors de son dixième travail. Selon une lecture d'Hésiode, Callirrhoé serait aussi la mère d'Échidna.",
+        "personnages": ["chrysaor", "geryon", "heracles", "orthros", "echidna"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque II"]
+      }
+    ]
+  },
+  {
+    "id": "pleione",
+    "nom": "Pléioné",
+    "grec": "Πληιόνη",
+    "categorie": "nymphe",
+    "epithete": "Mère des Pléiades",
+    "tags": ["océan", "étoiles", "famille", "arcadie", "transformé en constellation"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Ovide, Fastes V ; Apollodore, Bibliothèque III" }
+    ],
+    "unions": [
+      { "avec": "atlas", "note": "mère des sept Pléiades" }
+    ],
+    "histoires": [
+      {
+        "titre": "Poursuivie par Orion",
+        "resume": "Pléioné épousa le Titan Atlas, dont elle eut sept filles, les Pléiades. Un jour qu'elle traversait la Béotie avec ses filles, le chasseur Orion s'éprit d'elles et les poursuivit sans relâche pendant des années. Zeus, prenant pitié, les plaça parmi les étoiles. Depuis, la constellation d'Orion semble encore poursuivre les Pléiades dans le ciel.",
+        "personnages": ["atlas", "orion", "zeus", "maia", "electre-pleiade", "taygete"],
+        "sources": ["Hygin, Astronomie II", "Ovide, Fastes V"]
+      }
+    ]
+  },
+  {
+    "id": "philyra",
+    "nom": "Philyra",
+    "grec": "Φιλύρα",
+    "categorie": "nymphe",
+    "epithete": "Mère de Chiron",
+    "symboles": ["tilleul"],
+    "tags": ["océan", "métamorphose", "transformé en plante", "arbres", "thessalie", "montagne"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Apollodore, Bibliothèque I" }
+    ],
+    "unions": [
+      { "avec": "cronos", "note": "sous la forme d'un cheval ; mère de Chiron" }
+    ],
+    "histoires": [
+      {
+        "titre": "La naissance de Chiron",
+        "resume": "Cronos s'éprit de l'Océanide Philyra. Surpris par Rhéa, il prit la forme d'un étalon et s'enfuit au galop, laissant Philyra quitter les lieux pour les monts de Thessalie. Elle y mit au monde Chiron, mi-homme mi-cheval, sur les pentes du Pélion. Épouvantée par l'aspect de son enfant, elle supplia les dieux de la changer de forme et fut transformée en tilleul, l'arbre qui porte son nom.",
+        "personnages": ["cronos", "rhea", "chiron"],
+        "sources": ["Apollonios de Rhodes, Argonautiques II", "Hygin, Fables"]
+      }
+    ]
+  },
+  {
+    "id": "perseis",
+    "nom": "Perséis",
+    "grec": "Περσηΐς",
+    "categorie": "nymphe",
+    "epithete": "Océanide, épouse du Soleil",
+    "tags": ["océan", "soleil", "magie", "famille", "immortel", "colchide"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "helios", "note": "mère de Circé, Æétès et Pasiphaé" }
+    ],
+    "histoires": [
+      {
+        "titre": "Une lignée de magiciennes",
+        "resume": "L'illustre Océanide Perséis s'unit à Hélios, le Soleil infatigable. Elle lui donna Circé, la magicienne d'Aiaié, et Æétès, roi de Colchide. Apollodore ajoute Pasiphaé, épouse de Minos, et Persès. Par ses enfants et petits-enfants, dont Médée, Perséis est à l'origine de la plus célèbre famille de sorcières de la mythologie.",
+        "personnages": ["helios", "circe", "aeetes", "pasiphae", "medee"],
+        "sources": ["Hésiode, Théogonie", "Homère, Odyssée X", "Apollodore, Bibliothèque I"]
+      }
+    ]
+  },
+  {
+    "id": "idyia",
+    "nom": "Idyie",
+    "grec": "Ἰδυῖα",
+    "categorie": "nymphe",
+    "epithete": "Océanide aux belles joues, mère de Médée",
+    "tags": ["océan", "colchide", "famille", "magie", "argonautes"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "aeetes", "note": "mère de Médée" }
+    ],
+    "histoires": [
+      {
+        "titre": "Reine de Colchide",
+        "resume": "Selon la volonté des dieux, Æétès, fils d'Hélios, épousa Idyie, la plus jeune des filles d'Océan. Elle lui donna Médée aux belles chevilles, qui devint une redoutable magicienne. Apollonios de Rhodes la montre à la cour d'Æétès lors de l'arrivée des Argonautes. Son nom, qui évoque la connaissance, s'accorde au savoir occulte de sa fille.",
+        "personnages": ["aeetes", "medee", "jason"],
+        "sources": ["Hésiode, Théogonie", "Apollonios de Rhodes, Argonautiques III", "Apollodore, Bibliothèque I"]
+      }
+    ]
+  },
+  {
+    "id": "clytie",
+    "nom": "Clytie",
+    "grec": "Κλυτία",
+    "categorie": "nymphe",
+    "epithete": "L'amante délaissée du Soleil",
+    "symboles": ["héliotrope"],
+    "tags": ["soleil", "amour", "jalousie", "métamorphose", "transformé en plante", "fleurs"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "helios", "note": "amour abandonné au profit de Leucothoé" }
+    ],
+    "histoires": [
+      {
+        "titre": "La fleur qui suit le Soleil",
+        "resume": "Clytie aimait Hélios, mais le dieu se détourna d'elle pour la princesse perse Leucothoé. Rongée de jalousie, Clytie révéla l'aventure au père de la jeune fille, qui la fit enterrer vivante. Hélios, désespéré, ne revint jamais vers Clytie. Elle se laissa dépérir, assise sur la terre nue, sans boire ni manger, les yeux fixés sur la course du Soleil. Ses membres prirent racine et elle devint une fleur qui tourne toujours son visage vers l'astre.",
+        "personnages": ["helios"],
+        "sources": ["Ovide, Métamorphoses IV"]
+      }
+    ]
+  },
+  {
+    "id": "amphitrite",
+    "nom": "Amphitrite",
+    "grec": "Ἀμφιτρίτη",
+    "romain": "Salacia",
+    "categorie": "nymphe",
+    "epithete": "Reine de la mer",
+    "domaines": ["mer", "créatures marines"],
+    "symboles": ["dauphin", "trident", "char tiré par des hippocampes"],
+    "tags": ["mer", "mariage", "reine", "immortel", "transformé en constellation", "animaux"],
+    "filiations": [
+      { "parents": ["neree", "doris"], "principale": true, "source": "Hésiode, Théogonie" },
+      { "parents": ["oceanos", "tethys"], "source": "Apollodore, Bibliothèque I" }
+    ],
+    "unions": [
+      { "avec": "poseidon", "note": "épouse ; mère de Triton" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le dauphin messager",
+        "resume": "Poséidon voulut épouser la Néréide Amphitrite, mais elle s'enfuit pour préserver sa virginité et se cacha auprès d'Atlas, aux confins du monde. Le dieu envoya de nombreux émissaires à sa recherche. Un dauphin la découvrit et sut la convaincre d'accepter le mariage. En remerciement, Poséidon plaça l'image du dauphin parmi les constellations.",
+        "personnages": ["poseidon", "atlas"],
+        "sources": ["Ératosthène, Catastérismes", "Hygin, Astronomie II"]
+      },
+      {
+        "titre": "Reine des flots",
+        "resume": "Devenue l'épouse de Poséidon, Amphitrite partage avec lui la souveraineté des mers dans un palais d'or au fond des eaux. Elle donna naissance à Triton, puissant dieu qui habite avec ses parents. Homère la présente comme celle qui nourrit les innombrables bêtes de la mer et soulève les vagues. Elle accueillit avec bienveillance le jeune Thésée descendu au fond des flots, et lui offrit une couronne.",
+        "personnages": ["poseidon", "triton", "thesee"],
+        "sources": ["Hésiode, Théogonie", "Homère, Odyssée XII", "Bacchylide, Dithyrambe XVII"]
+      }
+    ]
+  },
+  {
+    "id": "thetis",
+    "nom": "Thétis",
+    "grec": "Θέτις",
+    "categorie": "nymphe",
+    "epithete": "Néréide aux pieds d'argent",
+    "domaines": ["mer"],
+    "tags": ["mer", "mariage", "prophétie", "guerre de troie", "métamorphose", "famille", "immortel"],
+    "filiations": [
+      { "parents": ["neree", "doris"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "pelee", "note": "mariage imposé par les dieux ; mère d'Achille" },
+      { "avec": "zeus", "note": "courtisée, puis abandonnée à cause d'une prophétie" },
+      { "avec": "poseidon", "note": "courtisée, puis abandonnée à cause d'une prophétie" }
+    ],
+    "histoires": [
+      {
+        "titre": "La prophétie et les noces avec Pélée",
+        "resume": "Zeus et Poséidon se disputaient la main de Thétis jusqu'au jour où Thémis, ou Prométhée selon d'autres, révéla qu'elle enfanterait un fils plus puissant que son père. Les dieux décidèrent alors de la marier à un mortel, Pélée. La Néréide résista en prenant toutes sortes de formes, feu, eau, lion ou serpent, mais Pélée, conseillé par Chiron, la tint fermement jusqu'à ce qu'elle cède. Leurs noces sur le Pélion réunirent tous les dieux, sauf Éris, qui jeta la pomme de discorde à l'origine de la guerre de Troie.",
+        "personnages": ["zeus", "poseidon", "themis", "promethee", "pelee", "chiron", "eris"],
+        "sources": ["Pindare, Isthmiques VIII", "Eschyle, Prométhée enchaîné", "Apollodore, Bibliothèque III", "Ovide, Métamorphoses XI"]
+      },
+      {
+        "titre": "L'enfant passé au feu",
+        "resume": "Désireuse de rendre son fils immortel, Thétis plaçait la nuit le petit Achille dans le feu pour consumer sa part mortelle, et l'oignait d'ambroisie le jour. Pélée la surprit et poussa un cri en voyant son fils au milieu des flammes. Empêchée d'achever son œuvre, Thétis quitta la maison et retourna parmi les Néréides. Pélée confia alors l'enfant au centaure Chiron.",
+        "personnages": ["achille", "pelee", "chiron", "nereides"],
+        "sources": ["Apollodore, Bibliothèque III", "Apollonios de Rhodes, Argonautiques IV"]
+      },
+      {
+        "titre": "Protectrice des dieux",
+        "resume": "Thétis rendit à plusieurs reprises service aux Olympiens. Quand Héra, Poséidon et Athéna voulurent enchaîner Zeus, elle appela à son secours Briarée aux cent bras, dont la seule présence fit renoncer les conjurés. Elle recueillit aussi Héphaïstos précipité de l'Olympe, et accueillit Dionysos enfant fuyant le roi Lycurgue. Ces bienfaits lui permirent plus tard d'obtenir de Zeus des faveurs pour son fils.",
+        "personnages": ["zeus", "hera", "poseidon", "athena", "briaree", "hephaistos", "dionysos"],
+        "sources": ["Homère, Iliade I", "Homère, Iliade VI", "Homère, Iliade XVIII"]
+      },
+      {
+        "titre": "Mère d'Achille devant Troie",
+        "resume": "Lorsqu'Agamemnon priva Achille de sa captive, Thétis monta sur l'Olympe et supplia Zeus de donner l'avantage aux Troyens jusqu'à ce que les Grecs honorent son fils. Après la mort de Patrocle, elle sortit de la mer avec ses sœurs pour consoler Achille, sachant que sa vengeance hâterait sa propre fin. Elle obtint d'Héphaïstos de nouvelles armes, dont un bouclier merveilleux. À la mort du héros, elle vint avec les Néréides pleurer sur son corps.",
+        "personnages": ["achille", "zeus", "agamemnon", "patrocle", "hephaistos", "nereides", "hector"],
+        "sources": ["Homère, Iliade I", "Homère, Iliade XVIII", "Homère, Odyssée XXIV"]
+      }
+    ]
+  },
+  {
+    "id": "galatee",
+    "nom": "Galatée",
+    "grec": "Γαλάτεια",
+    "categorie": "nymphe",
+    "epithete": "Néréide à la blancheur de lait",
+    "tags": ["mer", "amour", "jalousie", "métamorphose", "beauté", "fleuve"],
+    "filiations": [
+      { "parents": ["neree", "doris"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "polypheme", "note": "amour non partagé du Cyclope" }
+    ],
+    "histoires": [
+      {
+        "titre": "Galatée, Acis et Polyphème",
+        "resume": "La Néréide Galatée aimait le jeune berger sicilien Acis, fils de Faunus. Le Cyclope Polyphème, épris d'elle, chantait son amour sur les rochers et lui promettait toutes ses richesses, sans jamais la toucher. Surprenant un jour les deux amants, il arracha un bloc de la montagne et écrasa Acis. Galatée fit alors couler le sang de son bien-aimé sous la forme d'un fleuve, et Acis devint un dieu de l'eau.",
+        "personnages": ["polypheme"],
+        "sources": ["Ovide, Métamorphoses XIII", "Théocrite, Idylles XI"]
+      }
+    ]
+  },
+  {
+    "id": "psamathe",
+    "nom": "Psamathé",
+    "grec": "Ψαμάθη",
+    "categorie": "nymphe",
+    "epithete": "Néréide des sables",
+    "tags": ["mer", "métamorphose", "vengeance", "animaux", "famille"],
+    "filiations": [
+      { "parents": ["neree", "doris"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "eaque", "note": "mère de Phocos" },
+      { "avec": "protee", "note": "épouse selon Euripide, Hélène" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le loup de Psamathé",
+        "resume": "Pour échapper à Éaque, Psamathé se changea en phoque, mais le roi d'Égine s'unit à elle et elle donna naissance à Phocos. Le jeune homme, excellent athlète, fut tué par ses demi-frères Pélée et Télamon, jaloux de lui. Pour venger son fils, Psamathé envoya un loup monstrueux ravager les troupeaux de Pélée exilé. À la prière de Thétis, elle consentit à apaiser sa colère et le loup fut changé en pierre.",
+        "personnages": ["eaque", "pelee", "telamon", "thetis"],
+        "sources": ["Apollodore, Bibliothèque III", "Ovide, Métamorphoses XI"]
+      }
+    ]
+  },
+  {
+    "id": "arethuse",
+    "nom": "Aréthuse",
+    "grec": "Ἀρέθουσα",
+    "categorie": "nymphe",
+    "epithete": "Nymphe de la source d'Ortygie",
+    "domaines": ["source"],
+    "tags": ["source", "métamorphose", "chasse", "fleuve", "mystères d'éleusis"],
+    "filiations": [
+      { "parents": ["neree", "doris"], "principale": true, "source": "Hygin, Fables (préface)" },
+      { "parents": ["oceanos", "tethys"], "source": "Virgile, Géorgiques IV" }
+    ],
+    "unions": [
+      { "avec": "alphee", "note": "poursuivie par le dieu-fleuve" }
+    ],
+    "histoires": [
+      {
+        "titre": "La fuite devant Alphée",
+        "resume": "Aréthuse, compagne d'Artémis, se baignait dans les eaux de l'Alphée après une chasse en Élide. Le dieu-fleuve s'éprit d'elle et la poursuivit à travers les plaines et les montagnes. À bout de forces, elle implora Artémis, qui l'enveloppa d'une nuée puis la changea en source. La déesse lui ouvrit un chemin sous la terre et sous la mer jusqu'à l'île d'Ortygie, près de Syracuse. On disait que l'Alphée traversait lui aussi la mer pour mêler ses eaux aux siennes.",
+        "personnages": ["alphee", "artemis"],
+        "sources": ["Ovide, Métamorphoses V", "Pausanias, Description de la Grèce V"]
+      },
+      {
+        "titre": "Le témoignage d'Aréthuse",
+        "resume": "Alors que Déméter cherchait partout sa fille disparue, Aréthuse leva la tête hors de ses eaux siciliennes pour lui parler. Lors de son passage sous la terre, elle avait aperçu Perséphone dans le royaume des morts, triste mais devenue reine aux côtés d'Hadès. Ce témoignage révéla à Déméter le sort de sa fille. La déesse se rendit alors auprès de Zeus pour réclamer son retour.",
+        "personnages": ["demeter", "persephone", "hades", "zeus"],
+        "sources": ["Ovide, Métamorphoses V"]
+      }
+    ]
+  },
+  {
+    "id": "echo",
+    "nom": "Écho",
+    "grec": "Ἠχώ",
+    "categorie": "nymphe",
+    "epithete": "La nymphe à la voix répétée",
+    "domaines": ["écho", "montagnes"],
+    "tags": ["montagne", "amour", "châtiment", "jalousie", "métamorphose", "nature", "victime des dieux"],
+    "filiations": [],
+    "unions": [
+      { "avec": "pan", "note": "poursuivie par le dieu" }
+    ],
+    "histoires": [
+      {
+        "titre": "La punition d'Héra",
+        "resume": "Écho était une Oréade bavarde. Quand Zeus folâtrait avec les nymphes des montagnes, elle retenait Héra par de longs discours pour laisser à ses compagnes le temps de fuir. Ayant découvert la ruse, Héra la condamna à ne plus jamais parler la première. Écho ne put désormais que répéter les derniers mots de ce qu'elle entendait.",
+        "personnages": ["hera", "zeus"],
+        "sources": ["Ovide, Métamorphoses III"]
+      },
+      {
+        "titre": "Écho et Narcisse",
+        "resume": "Écho s'éprit du beau Narcisse en le voyant chasser dans les bois. Incapable de lui parler la première, elle répéta ses paroles et sortit des bois pour l'enlacer, mais il la repoussa avec dédain. Honteuse, elle se cacha dans les grottes et se consuma de chagrin. Son corps se dessécha, ses os se changèrent en pierre, et il ne resta d'elle qu'une voix. Narcisse fut puni à son tour par Némésis pour avoir méprisé tant d'amours.",
+        "personnages": ["narcisse", "nemesis"],
+        "sources": ["Ovide, Métamorphoses III"]
+      },
+      {
+        "titre": "Écho et Pan",
+        "resume": "Dans une autre version, Écho était une nymphe musicienne élevée par les Muses, qui refusait l'amour des hommes comme des dieux. Pan, jaloux de sa musique et irrité de ses refus, frappa de folie les bergers. Ceux-ci la mirent en pièces et dispersèrent ses membres chantants sur toute la terre. Gaïa recueillit ces fragments, qui continuent de répéter les sons.",
+        "personnages": ["pan", "gaia"],
+        "sources": ["Longus, Daphnis et Chloé III"]
+      }
+    ]
+  },
+  {
+    "id": "daphne",
+    "nom": "Daphné",
+    "grec": "Δάφνη",
+    "categorie": "nymphe",
+    "epithete": "La nymphe changée en laurier",
+    "symboles": ["laurier"],
+    "tags": ["arbres", "transformé en plante", "métamorphose", "amour", "chasse", "thessalie", "aimé des dieux"],
+    "filiations": [
+      { "parents": ["peneios"], "principale": true, "source": "Ovide, Métamorphoses I" },
+      { "parents": [], "source": "Pausanias VIII ; Parthénios : fille du fleuve arcadien Ladon" }
+    ],
+    "unions": [
+      { "avec": "apollon", "note": "poursuivie par le dieu" }
+    ],
+    "histoires": [
+      {
+        "titre": "Apollon et le laurier",
+        "resume": "Apollon, fier d'avoir tué le serpent Python, se moqua d'Éros et de son arc. Pour se venger, Éros le frappa d'une flèche d'or qui fait naître l'amour, et Daphné d'une flèche de plomb qui le repousse. La nymphe, vouée à la chasse et à la virginité comme Artémis, s'enfuit devant le dieu. Sur le point d'être rattrapée, elle supplia son père Pénée de lui ôter sa beauté, et fut changée en laurier. Apollon fit de cet arbre son emblème et en couronna sa lyre et son front.",
+        "personnages": ["apollon", "eros", "peneios", "python", "artemis"],
+        "sources": ["Ovide, Métamorphoses I"]
+      },
+      {
+        "titre": "Leucippos déguisé",
+        "resume": "Selon une tradition arcadienne, le jeune Leucippos, épris de Daphné, se déguisa en jeune fille pour l'accompagner à la chasse. Apollon, jaloux, inspira aux compagnes de Daphné l'envie de se baigner dans le Ladon. Leucippos refusa de se dévêtir, mais les nymphes le forcèrent et découvrirent la supercherie. Elles le tuèrent de leurs javelots.",
+        "personnages": ["apollon"],
+        "sources": ["Pausanias, Description de la Grèce VIII", "Parthénios, Passions d'amour"]
+      }
+    ]
+  },
+  {
+    "id": "syrinx",
+    "nom": "Syrinx",
+    "grec": "Σῦριγξ",
+    "categorie": "nymphe",
+    "epithete": "Naïade d'Arcadie changée en roseaux",
+    "symboles": ["roseaux", "flûte de Pan"],
+    "tags": ["musique", "arcadie", "transformé en plante", "métamorphose", "chasse"],
+    "filiations": [],
+    "unions": [
+      { "avec": "pan", "note": "poursuivie par le dieu" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'origine de la flûte de Pan",
+        "resume": "Syrinx était une nymphe des monts d'Arcadie, dévouée à Artémis et à la chasse. Pan la vit revenir du Lycée et la poursuivit. Arrivée au bord du fleuve Ladon, elle supplia ses sœurs les nymphes de la sauver. Au moment où Pan croyait la saisir, il n'étreignit que des roseaux. Le souffle du vent dans les tiges produisit un son plaintif, et Pan en fit une flûte de roseaux de longueurs inégales qui porte depuis le nom de la nymphe.",
+        "personnages": ["pan", "artemis"],
+        "sources": ["Ovide, Métamorphoses I"]
+      }
+    ]
+  },
+  {
+    "id": "calypso",
+    "nom": "Calypso",
+    "grec": "Καλυψώ",
+    "categorie": "nymphe",
+    "epithete": "La nymphe d'Ogygie",
+    "domaines": ["île d'Ogygie"],
+    "tags": ["odyssée", "amour", "hospitalité", "immortel", "mer", "voyage"],
+    "filiations": [
+      { "parents": ["atlas"], "principale": true, "source": "Homère, Odyssée I" },
+      { "parents": ["oceanos", "tethys"], "source": "Hésiode, Théogonie" },
+      { "parents": ["neree", "doris"], "source": "Apollodore, Bibliothèque I" }
+    ],
+    "unions": [
+      { "avec": "ulysse", "note": "le retint sept ans à Ogygie" }
+    ],
+    "histoires": [
+      {
+        "titre": "Sept ans à Ogygie",
+        "resume": "Seul survivant de son équipage après le naufrage, Ulysse dériva neuf jours avant d'échouer sur l'île d'Ogygie. La nymphe Calypso l'accueillit dans sa grotte entourée de vignes, de sources et de bois parfumés. Éprise de lui, elle le garda sept ans et lui offrit l'immortalité et la jeunesse éternelle s'il restait. Mais Ulysse passait ses journées sur le rivage, les yeux pleins de larmes, à regretter Ithaque et Pénélope.",
+        "personnages": ["ulysse", "penelope"],
+        "sources": ["Homère, Odyssée V", "Homère, Odyssée VII"]
+      },
+      {
+        "titre": "Le message d'Hermès",
+        "resume": "À la demande d'Athéna, Zeus envoya Hermès ordonner à Calypso de libérer Ulysse. La nymphe protesta contre la jalousie des dieux, qui refusent aux déesses de s'unir aux mortels, rappelant le sort d'Orion. Elle obéit pourtant et fournit au héros des outils pour construire un radeau, des provisions et un vent favorable. Elle ne lui révéla pas que l'ordre venait des dieux, préférant paraître agir par bonté.",
+        "personnages": ["hermes", "zeus", "athena", "ulysse", "orion"],
+        "sources": ["Homère, Odyssée V"]
+      }
+    ]
+  },
+  {
+    "id": "circe",
+    "nom": "Circé",
+    "grec": "Κίρκη",
+    "categorie": "nymphe",
+    "epithete": "La magicienne d'Aiaié",
+    "domaines": ["magie", "herbes", "métamorphoses"],
+    "symboles": ["baguette", "coupe", "porcs", "lions et loups apprivoisés"],
+    "tags": ["magie", "sorcellerie", "métamorphose", "odyssée", "argonautes", "transformé en animal", "soleil"],
+    "filiations": [
+      { "parents": ["helios", "perseis"], "principale": true, "source": "Hésiode, Théogonie ; Homère, Odyssée X" }
+    ],
+    "unions": [
+      { "avec": "ulysse", "note": "un an sur l'île d'Aiaié" },
+      { "avec": "glaucos", "note": "amour non partagé" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les compagnons changés en porcs",
+        "resume": "En abordant l'île d'Aiaié, Ulysse envoya une partie de ses hommes explorer les lieux. Ils trouvèrent la demeure de Circé, entourée de loups et de lions charmés par ses drogues. La magicienne leur servit un breuvage mêlé de filtres, puis les toucha de sa baguette et les changea en porcs. Hermès donna à Ulysse l'herbe moly, qui le protégea des sortilèges. Circé, vaincue, rendit leur forme humaine aux marins et accueillit Ulysse pendant une année.",
+        "personnages": ["ulysse", "hermes"],
+        "sources": ["Homère, Odyssée X"]
+      },
+      {
+        "titre": "Les conseils de Circé",
+        "resume": "Quand Ulysse voulut repartir, Circé lui révéla qu'il devait d'abord se rendre chez Hadès pour consulter l'ombre du devin Tirésias. À son retour, elle lui décrivit les dangers de la route : les Sirènes, les Roches errantes, Scylla et Charybde, et les troupeaux sacrés d'Hélios. Grâce à ses instructions, Ulysse put se faire attacher au mât pour écouter les Sirènes sans périr.",
+        "personnages": ["ulysse", "tiresias", "hades", "sirenes", "scylla", "charybde", "helios"],
+        "sources": ["Homère, Odyssée X", "Homère, Odyssée XII"]
+      },
+      {
+        "titre": "La métamorphose de Scylla",
+        "resume": "Le dieu marin Glaucos vint demander à Circé un philtre pour se faire aimer de la nymphe Scylla. Circé, éprise de lui, lui offrit plutôt son propre amour, qu'il refusa. Furieuse, elle empoisonna avec des herbes malfaisantes la crique où Scylla se baignait. La jeune fille vit ses jambes se changer en chiens aboyants et devint un monstre redouté des marins.",
+        "personnages": ["glaucos", "scylla"],
+        "sources": ["Ovide, Métamorphoses XIV"]
+      },
+      {
+        "titre": "La purification de Jason et Médée",
+        "resume": "Après le meurtre d'Apsyrtos, frère de Médée, Zeus exigea que les Argonautes soient purifiés. Jason et Médée se rendirent en suppliants chez Circé, tante de la jeune femme. Sans les connaître d'abord, Circé accomplit le rite en sacrifiant un jeune porc et en invoquant Zeus purificateur. Reconnaissant ensuite sa nièce et comprenant son crime, elle la chassa de sa demeure.",
+        "personnages": ["jason", "medee", "zeus"],
+        "sources": ["Apollonios de Rhodes, Argonautiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "maia",
+    "nom": "Maïa",
+    "grec": "Μαῖα",
+    "romain": "Maia",
+    "categorie": "nymphe",
+    "epithete": "L'aînée des Pléiades, mère d'Hermès",
+    "tags": ["arcadie", "montagne", "étoiles", "transformé en constellation", "famille", "aimé des dieux"],
+    "filiations": [
+      { "parents": ["atlas", "pleione"], "principale": true, "source": "Hésiode, Théogonie ; Apollodore, Bibliothèque III" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "mère d'Hermès" }
+    ],
+    "histoires": [
+      {
+        "titre": "La naissance d'Hermès",
+        "resume": "Maïa vivait à l'écart des dieux dans une grotte profonde du mont Cyllène, en Arcadie. Zeus venait l'y rejoindre en pleine nuit, pendant que Héra dormait. Au dixième mois, elle mit au monde Hermès. Le jour même de sa naissance, l'enfant fabriqua la première lyre avec une carapace de tortue et partit voler les vaches d'Apollon.",
+        "personnages": ["zeus", "hermes", "hera", "apollon"],
+        "sources": ["Hymne homérique à Hermès", "Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Maïa face à Apollon",
+        "resume": "De retour à la grotte après son larcin, le petit Hermès se glissa dans son berceau. Maïa, qui avait tout deviné, le gronda et lui prédit les ennuis qu'il s'attirerait. Hermès lui répondit qu'il refusait de vivre dans une grotte obscure et voulait les honneurs des dieux. Apollon arriva bientôt, fouilla la demeure de Maïa et emmena l'enfant devant Zeus pour être jugé.",
+        "personnages": ["hermes", "apollon", "zeus"],
+        "sources": ["Hymne homérique à Hermès"]
+      },
+      {
+        "titre": "Nourrice d'Arcas",
+        "resume": "Après la métamorphose de Callisto et sa mort, Zeus confia le petit Arcas à Maïa. La Pléiade l'éleva en Arcadie. Arcas devint ensuite roi de la contrée, qui prit son nom. Maïa figure, avec ses six sœurs, dans la constellation des Pléiades.",
+        "personnages": ["arcas", "callisto", "zeus"],
+        "sources": ["Apollodore, Bibliothèque III"]
+      }
+    ]
+  },
+  {
+    "id": "alcyone",
+    "nom": "Alcyone",
+    "grec": "Ἀλκυόνη",
+    "categorie": "nymphe",
+    "epithete": "Pléiade aimée de Poséidon",
+    "tags": ["étoiles", "transformé en constellation", "groupe", "aimé des dieux", "mer"],
+    "filiations": [
+      { "parents": ["atlas", "pleione"], "principale": true, "source": "Apollodore, Bibliothèque III" }
+    ],
+    "unions": [
+      { "avec": "poseidon", "note": "mère d'Hyrieus, Hypérénor et Æthousa" }
+    ],
+    "histoires": [
+      {
+        "titre": "Une Pléiade aimée de Poséidon",
+        "resume": "Alcyone, l'une des sept filles d'Atlas et de Pléioné, s'unit à Poséidon. Elle lui donna Æthousa, Hypérénor et Hyrieus, ce dernier étant le fondateur d'Hyria en Béotie. Comme ses sœurs, elle fut placée par Zeus parmi les étoiles. Son nom désigne encore aujourd'hui l'étoile la plus brillante de l'amas des Pléiades.",
+        "personnages": ["poseidon", "atlas", "pleione", "zeus"],
+        "sources": ["Apollodore, Bibliothèque III", "Pausanias, Description de la Grèce II"]
+      }
+    ]
+  },
+  {
+    "id": "celaeno",
+    "nom": "Céléno",
+    "grec": "Κελαινώ",
+    "categorie": "nymphe",
+    "epithete": "La sombre Pléiade",
+    "tags": ["étoiles", "transformé en constellation", "groupe", "aimé des dieux"],
+    "filiations": [
+      { "parents": ["atlas", "pleione"], "principale": true, "source": "Apollodore, Bibliothèque III" }
+    ],
+    "unions": [
+      { "avec": "poseidon", "note": "mère de Lycos" }
+    ],
+    "histoires": [
+      {
+        "titre": "Mère de Lycos",
+        "resume": "Céléno, Pléiade dont le nom évoque l'obscurité, s'unit à Poséidon. Elle lui donna Lycos, que son père établit dans les îles des Bienheureux. D'autres traditions lui attribuent d'autres enfants, comme Eurypylos ou Triton. Elle brille avec ses sœurs dans la constellation des Pléiades.",
+        "personnages": ["poseidon"],
+        "sources": ["Apollodore, Bibliothèque III"]
+      }
+    ]
+  },
+  {
+    "id": "electre-pleiade",
+    "nom": "Électre (Pléiade)",
+    "grec": "Ἠλέκτρα",
+    "categorie": "nymphe",
+    "epithete": "La Pléiade ancêtre des Troyens",
+    "tags": ["étoiles", "troie", "transformé en constellation", "aimé des dieux", "famille", "fondateur"],
+    "filiations": [
+      { "parents": ["atlas", "pleione"], "principale": true, "source": "Apollodore, Bibliothèque III" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "mère de Dardanos et d'Iasion" }
+    ],
+    "histoires": [
+      {
+        "titre": "Ancêtre de la maison de Troie",
+        "resume": "Électre s'unit à Zeus et lui donna Dardanos et Iasion. Dardanos passa en Asie et fonda la lignée royale troyenne dont descendent Priam, Hector et Énée. Selon une tradition, Électre, poursuivie par Zeus, se réfugia auprès du Palladion, la statue sacrée d'Athéna. Zeus jeta la statue sur la terre de Troie, où elle devint la garantie du salut de la ville.",
+        "personnages": ["zeus", "dardanos", "athena", "priam", "enee"],
+        "sources": ["Apollodore, Bibliothèque III", "Hellanicos (fragments)"]
+      },
+      {
+        "titre": "La Pléiade perdue",
+        "resume": "On ne distingue à l'œil nu que six des sept Pléiades. Une explication voulait qu'Électre, accablée par la chute de Troie fondée par ses descendants, ait quitté ses sœurs. Elle aurait voilé son visage de ses mains, ou se serait éloignée sous la forme d'une comète échevelée. D'autres disaient au contraire que la Pléiade cachée était Mérope.",
+        "personnages": ["merope"],
+        "sources": ["Ovide, Fastes IV", "Hygin, Astronomie II"]
+      }
+    ]
+  },
+  {
+    "id": "merope",
+    "nom": "Mérope",
+    "grec": "Μερόπη",
+    "categorie": "nymphe",
+    "epithete": "La Pléiade qui épousa un mortel",
+    "tags": ["étoiles", "transformé en constellation", "mariage", "corinthe", "groupe"],
+    "filiations": [
+      { "parents": ["atlas", "pleione"], "principale": true, "source": "Apollodore, Bibliothèque III" }
+    ],
+    "unions": [
+      { "avec": "sisyphe", "note": "mère de Glaucos, père de Bellérophon" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'étoile honteuse",
+        "resume": "Alors que ses sœurs s'unirent à des dieux, Mérope épousa un mortel, Sisyphe, roi d'Éphyre, future Corinthe. Elle lui donna Glaucos, père de Bellérophon. Selon Ovide, c'est par honte de cette union qu'elle cache son visage et brille plus faiblement que les autres Pléiades. Ce serait donc elle, et non Électre, l'étoile invisible de la constellation.",
+        "personnages": ["sisyphe", "bellerophon"],
+        "sources": ["Apollodore, Bibliothèque I et III", "Ovide, Fastes IV"]
+      }
+    ]
+  },
+  {
+    "id": "taygete",
+    "nom": "Taygète",
+    "grec": "Ταϋγέτη",
+    "categorie": "nymphe",
+    "epithete": "La Pléiade du mont Taygète",
+    "tags": ["sparte", "montagne", "étoiles", "transformé en animal", "aimé des dieux", "chasse"],
+    "filiations": [
+      { "parents": ["atlas", "pleione"], "principale": true, "source": "Apollodore, Bibliothèque III" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "mère de Lacédémon" }
+    ],
+    "histoires": [
+      {
+        "titre": "La biche de Taygète",
+        "resume": "Pour échapper aux avances de Zeus, Taygète fut changée en biche par Artémis, dont elle était la compagne. Reconnaissante, elle consacra plus tard à la déesse une biche aux cornes d'or, la biche de Cérynie, qu'Héraclès dut capturer. Zeus finit cependant par s'unir à elle. Elle donna naissance à Lacédémon, fondateur de Sparte, et la montagne qui domine la Laconie porte son nom.",
+        "personnages": ["zeus", "artemis", "cerf-de-cerynie", "heracles"],
+        "sources": ["Pindare, Olympiques III (scholies)", "Apollodore, Bibliothèque III", "Pausanias, Description de la Grèce III"]
+      }
+    ]
+  },
+  {
+    "id": "sterope",
+    "nom": "Stérope",
+    "grec": "Στερόπη",
+    "categorie": "nymphe",
+    "epithete": "La Pléiade étincelante",
+    "tags": ["étoiles", "transformé en constellation", "groupe", "aimé des dieux"],
+    "filiations": [
+      { "parents": ["atlas", "pleione"], "principale": true, "source": "Apollodore, Bibliothèque III" }
+    ],
+    "unions": [
+      { "avec": "ares", "note": "mère d'Œnomaos, roi de Pise" }
+    ],
+    "histoires": [
+      {
+        "titre": "Mère d'Œnomaos",
+        "resume": "Stérope, appelée aussi Astéropé, s'unit à Arès selon Apollodore. Elle lui donna Œnomaos, roi de Pise en Élide, qui défiait à la course de chars les prétendants de sa fille Hippodamie. Pélops triompha de lui par la ruse et épousa Hippodamie. D'autres auteurs font de Stérope l'épouse et non la mère d'Œnomaos.",
+        "personnages": ["ares", "pelops"],
+        "sources": ["Apollodore, Bibliothèque III", "Pausanias, Description de la Grèce V", "Hygin, Fables"]
+      }
+    ]
+  },
+  {
+    "id": "hyades",
+    "nom": "Hyades",
+    "grec": "Ὑάδες",
+    "categorie": "nymphe",
+    "epithete": "Les pluvieuses",
+    "domaines": ["pluie", "étoiles"],
+    "tags": ["étoiles", "transformé en constellation", "groupe", "famille", "mort"],
+    "filiations": [
+      { "parents": ["atlas"], "principale": true, "source": "Hygin, Astronomie II (mère : l'Océanide Æthra)" },
+      { "parents": ["atlas", "pleione"], "source": "Hygin, Fables" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les larmes pour Hyas",
+        "resume": "Les Hyades étaient les sœurs d'Hyas, un jeune chasseur tué en Libye par un lion ou un sanglier. Elles le pleurèrent si longtemps et si amèrement qu'elles moururent de chagrin. Les dieux, émus, les transformèrent en étoiles et les placèrent sur le front du Taureau. Leur lever annonçait la saison des pluies, d'où leur nom.",
+        "personnages": ["atlas"],
+        "sources": ["Hygin, Fables", "Ovide, Fastes V"]
+      },
+      {
+        "titre": "Nourrices de Dionysos",
+        "resume": "Selon une autre tradition, les Hyades furent les nymphes de Nysa à qui Zeus confia Dionysos enfant pour le soustraire à la colère d'Héra. Elles élevèrent le jeune dieu en secret. Pour les récompenser, Zeus les plaça parmi les astres.",
+        "personnages": ["dionysos", "zeus", "hera"],
+        "sources": ["Hygin, Astronomie II", "Apollodore, Bibliothèque III"]
+      }
+    ]
+  },
+  {
+    "id": "aigle",
+    "nom": "Églé (Hespéride)",
+    "grec": "Αἴγλη",
+    "categorie": "nymphe",
+    "epithete": "L'Hespéride éclatante",
+    "symboles": ["pommes d'or", "saule"],
+    "tags": ["arbres", "travaux d'héraclès", "argonautes", "nuit", "groupe", "transformé en plante"],
+    "filiations": [
+      { "parents": ["nyx"], "principale": true, "source": "Hésiode, Théogonie" },
+      { "parents": ["atlas"], "source": "Diodore de Sicile IV (mère : Hespéris)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le jardin des pommes d'or",
+        "resume": "Les Hespérides gardaient, au couchant, au-delà de l'Océan, le jardin où poussaient les pommes d'or offertes par Gaïa à Héra pour ses noces. Elles étaient aidées par le dragon Ladon, enroulé autour de l'arbre. Pour son onzième travail, Héraclès dut rapporter ces fruits à Eurysthée. Selon Apollodore, il obtint l'aide d'Atlas, qui alla cueillir les pommes pendant que le héros soutenait le ciel à sa place.",
+        "personnages": ["heracles", "ladon", "atlas", "hera", "gaia"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque II"]
+      },
+      {
+        "titre": "Les Hespérides et les Argonautes",
+        "resume": "Errant dans le désert de Libye, les Argonautes assoiffés arrivèrent au jardin le lendemain du passage d'Héraclès. Ils trouvèrent le dragon Ladon mort et les Hespérides en pleurs. À leur approche, les nymphes se changèrent en arbres, Églé devenant un saule. Orphée les supplia, et Églé reprit forme pour leur indiquer la source qu'Héraclès avait fait jaillir d'un coup de pied dans le roc.",
+        "personnages": ["orphee", "heracles", "ladon", "jason", "erytheia", "hesperethousa"],
+        "sources": ["Apollonios de Rhodes, Argonautiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "erytheia",
+    "nom": "Érythie",
+    "grec": "Ἐρύθεια",
+    "categorie": "nymphe",
+    "epithete": "L'Hespéride rougeoyante",
+    "symboles": ["pommes d'or", "orme"],
+    "tags": ["arbres", "travaux d'héraclès", "argonautes", "nuit", "groupe", "transformé en plante"],
+    "filiations": [
+      { "parents": ["nyx"], "principale": true, "source": "Hésiode, Théogonie" },
+      { "parents": ["atlas"], "source": "Diodore de Sicile IV (mère : Hespéris)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Gardienne du jardin du couchant",
+        "resume": "Érythie était l'une des Hespérides qui veillaient sur les pommes d'or d'Héra, au bord de l'Océan occidental. Son nom évoque la lueur rouge du soleil couchant. Lorsque les Argonautes arrivèrent au jardin après le vol commis par Héraclès, elle se changea en orme avec ses sœurs. Elle partage le destin et le culte des autres filles du soir.",
+        "personnages": ["heracles", "ladon", "hera", "aigle", "hesperethousa"],
+        "sources": ["Apollodore, Bibliothèque II", "Apollonios de Rhodes, Argonautiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "hesperethousa",
+    "nom": "Hespéréthuse",
+    "grec": "Ἑσπερέθουσα",
+    "categorie": "nymphe",
+    "epithete": "L'Hespéride du soir",
+    "symboles": ["pommes d'or", "peuplier"],
+    "tags": ["arbres", "travaux d'héraclès", "argonautes", "nuit", "groupe", "transformé en plante"],
+    "filiations": [
+      { "parents": ["nyx"], "principale": true, "source": "Hésiode, Théogonie" },
+      { "parents": ["atlas"], "source": "Diodore de Sicile IV (mère : Hespéris)" }
+    ],
+    "histoires": [
+      {
+        "titre": "La fille du soir",
+        "resume": "Hespéréthuse, dont le nom évoque l'éclat du soir, est l'une des Hespérides citées par Apollodore. Avec ses sœurs, elle chantait d'une voix claire dans le jardin des pommes d'or, aux extrémités occidentales du monde. Apollonios de Rhodes l'appelle Hespéré et raconte qu'elle se changea en peuplier à l'arrivée des Argonautes. Elle pleurait alors avec ses sœurs la mort du dragon Ladon, tué par Héraclès.",
+        "personnages": ["heracles", "ladon", "aigle", "erytheia"],
+        "sources": ["Apollodore, Bibliothèque II", "Apollonios de Rhodes, Argonautiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "eurydice",
+    "nom": "Eurydice",
+    "grec": "Εὐρυδίκη",
+    "categorie": "nymphe",
+    "epithete": "L'épouse d'Orphée",
+    "tags": ["amour", "mort", "enfers", "musique", "tragédie", "fidélité", "forêt"],
+    "filiations": [],
+    "unions": [
+      { "avec": "orphee", "note": "épouse" }
+    ],
+    "histoires": [
+      {
+        "titre": "La morsure du serpent",
+        "resume": "Peu après ses noces avec le poète Orphée, la dryade Eurydice se promenait dans une prairie. Selon Virgile, elle fuyait les avances du berger Aristée lorsqu'elle ne vit pas un serpent caché dans les hautes herbes. La morsure fut mortelle et Eurydice descendit chez les morts. Les dryades, ses compagnes, firent retentir les montagnes de leurs lamentations.",
+        "personnages": ["orphee", "aristee", "dryades"],
+        "sources": ["Virgile, Géorgiques IV", "Ovide, Métamorphoses X"]
+      },
+      {
+        "titre": "La descente d'Orphée aux Enfers",
+        "resume": "Inconsolable, Orphée descendit aux Enfers par le Ténare. Son chant émut les ombres, suspendit les supplices des damnés et attendrit Hadès et Perséphone. Les souverains infernaux lui rendirent Eurydice, à condition qu'il ne se retourne pas avant d'avoir quitté leur royaume. Presque arrivé à la lumière, Orphée, inquiet, se retourna pour la voir. Eurydice disparut alors pour toujours, ne lui adressant qu'un dernier adieu.",
+        "personnages": ["orphee", "hades", "persephone", "cerbere"],
+        "sources": ["Virgile, Géorgiques IV", "Ovide, Métamorphoses X"]
+      },
+      {
+        "titre": "Le châtiment d'Aristée",
+        "resume": "Pour venger la mort d'Eurydice, les nymphes firent périr toutes les abeilles d'Aristée. Celui-ci se plaignit à sa mère Cyrène, qui l'envoya interroger Protée. Le dieu marin, capturé de force, lui révéla la cause de son malheur. Aristée apaisa les mânes d'Eurydice et d'Orphée par des sacrifices, et de nouveaux essaims naquirent des carcasses des bœufs immolés.",
+        "personnages": ["aristee", "cyrene", "protee", "orphee"],
+        "sources": ["Virgile, Géorgiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "oenone",
+    "nom": "Œnone",
+    "grec": "Οἰνώνη",
+    "categorie": "nymphe",
+    "epithete": "Nymphe de l'Ida, première épouse de Pâris",
+    "domaines": ["médecine", "prophétie"],
+    "tags": ["montagne", "amour", "guérison", "guerre de troie", "tragédie", "jalousie", "troie"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Apollodore, Bibliothèque III : fille du fleuve Cébren" }
+    ],
+    "unions": [
+      { "avec": "paris", "note": "première épouse, abandonnée pour Hélène" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'épouse abandonnée",
+        "resume": "Quand Pâris vivait en berger sur le mont Ida, il épousa la nymphe Œnone, qui avait reçu de Rhéa le don de prophétie et connaissait les plantes qui guérissent. Lorsqu'il partit pour Sparte enlever Hélène, elle tenta de le retenir en lui prédisant les malheurs à venir. Elle lui dit de revenir vers elle s'il était blessé, car elle seule pourrait le soigner. Pâris l'abandonna pourtant.",
+        "personnages": ["paris", "helene", "rhea"],
+        "sources": ["Apollodore, Bibliothèque III", "Ovide, Héroïdes V"]
+      },
+      {
+        "titre": "La mort de Pâris et d'Œnone",
+        "resume": "À la fin de la guerre, Pâris fut blessé par les flèches d'Héraclès que maniait Philoctète. Il se fit porter sur l'Ida et supplia Œnone de le guérir. Pleine de rancune, elle refusa, et il mourut en redescendant vers Troie. Saisie de remords, Œnone courut avec ses remèdes, mais arriva trop tard. Elle se donna la mort, en se pendant ou en se jetant sur le bûcher de Pâris.",
+        "personnages": ["paris", "philoctete", "heracles"],
+        "sources": ["Apollodore, Épitomé V", "Quintus de Smyrne, Suite d'Homère X"]
+      }
+    ]
+  },
+  {
+    "id": "aegina",
+    "nom": "Égine",
+    "grec": "Αἴγινα",
+    "categorie": "nymphe",
+    "epithete": "Fille d'Asopos, éponyme de l'île d'Égine",
+    "tags": ["enlèvement", "aimé des dieux", "fleuve", "fondateur", "famille"],
+    "filiations": [
+      { "parents": ["asopos"], "principale": true, "source": "Apollodore, Bibliothèque III ; Pindare" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "mère d'Éaque" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'enlèvement par Zeus",
+        "resume": "Zeus enleva Égine, fille du fleuve Asopos, et l'emporta dans l'île d'Œnone, qui prit ensuite le nom de la nymphe. Le roi de Corinthe Sisyphe révéla à Asopos le nom du ravisseur, en échange d'une source pour sa citadelle. Asopos poursuivit Zeus, mais celui-ci le repoussa à coups de foudre dans son lit. Sur l'île, Égine donna naissance à Éaque, futur juge des Enfers, et Sisyphe paya plus tard sa délation.",
+        "personnages": ["zeus", "asopos", "sisyphe", "eaque"],
+        "sources": ["Apollodore, Bibliothèque I et III", "Pausanias, Description de la Grèce II", "Pindare, Isthmiques VIII"]
+      },
+      {
+        "titre": "La haine d'Héra et les Myrmidons",
+        "resume": "Héra, jalouse de la nymphe qui avait donné son nom à l'île, envoya sur Égine une peste qui en extermina les habitants. Éaque, fils d'Égine, pria Zeus de lui rendre un peuple. Il vit en songe des fourmis sortir d'un chêne sacré et se changer en hommes. À son réveil, l'île était repeuplée par les Myrmidons, nommés d'après les fourmis.",
+        "personnages": ["hera", "eaque", "zeus"],
+        "sources": ["Ovide, Métamorphoses VII", "Apollodore, Bibliothèque III"]
+      }
+    ]
+  },
+  {
+    "id": "salmacis",
+    "nom": "Salmacis",
+    "grec": "Σαλμακίς",
+    "categorie": "nymphe",
+    "epithete": "Naïade de la source d'Halicarnasse",
+    "domaines": ["source"],
+    "tags": ["source", "désir", "métamorphose", "amour", "beauté"],
+    "filiations": [],
+    "histoires": [
+      {
+        "titre": "Salmacis et Hermaphrodite",
+        "resume": "Salmacis était une naïade de Carie qui préférait se parer et se baigner plutôt que chasser avec Artémis. Elle vit un jour le jeune fils d'Hermès et d'Aphrodite et s'éprit de lui, mais il la repoussa. Quand il plongea dans son bassin, elle l'enlaça et supplia les dieux de ne jamais les séparer. Leurs deux corps se fondirent en un seul être à la fois homme et femme. Hermaphrodite obtint alors que quiconque se baignerait dans cette source en ressortirait amolli.",
+        "personnages": ["hermes", "aphrodite", "artemis"],
+        "sources": ["Ovide, Métamorphoses IV"]
+      }
+    ]
+  },
+  {
+    "id": "cyrene",
+    "nom": "Cyrène",
+    "grec": "Κυρήνη",
+    "categorie": "nymphe",
+    "epithete": "La chasseresse aimée d'Apollon",
+    "tags": ["chasse", "fondateur", "aimé des dieux", "thessalie", "enlèvement", "animaux"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Pindare, Pythiques IX : fille d'Hypsée, roi des Lapithes, fils de Pénée" }
+    ],
+    "unions": [
+      { "avec": "apollon", "note": "mère d'Aristée" }
+    ],
+    "histoires": [
+      {
+        "titre": "La lutteuse de lions",
+        "resume": "Cyrène, jeune fille de Thessalie, dédaignait les travaux domestiques et gardait les troupeaux de son père en chassant les fauves. Apollon la vit un jour lutter à mains nues contre un lion. Émerveillé, il demanda conseil au centaure Chiron, qui lui prédit qu'il l'emmènerait outre-mer. Le dieu l'enleva sur son char d'or jusqu'en Libye, où elle donna son nom à la ville de Cyrène. Elle y mit au monde Aristée, que Gaïa et les Heures rendirent immortel.",
+        "personnages": ["apollon", "chiron", "aristee", "gaia"],
+        "sources": ["Pindare, Pythiques IX", "Apollonios de Rhodes, Argonautiques II"]
+      },
+      {
+        "titre": "Les plaintes d'Aristée",
+        "resume": "Virgile fait de Cyrène une nymphe habitant un palais sous les eaux du fleuve Pénée. Son fils Aristée vint se lamenter au bord du fleuve après la perte de ses abeilles. Cyrène le fit descendre dans sa demeure et lui conseilla d'aller surprendre le devin Protée. Elle lui apprit à le maintenir enchaîné malgré ses métamorphoses pour connaître la cause de son malheur.",
+        "personnages": ["aristee", "protee", "peneios", "eurydice"],
+        "sources": ["Virgile, Géorgiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "chariclo",
+    "nom": "Chariclo",
+    "grec": "Χαρικλώ",
+    "categorie": "nymphe",
+    "epithete": "Mère du devin Tirésias",
+    "tags": ["prophétie", "châtiment", "cycle thébain", "thèbes", "famille"],
+    "filiations": [],
+    "unions": [
+      { "avec": "chiron", "note": "selon Ovide, une Chariclo est l'épouse du centaure" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le bain de Pallas",
+        "resume": "La nymphe Chariclo était la compagne préférée d'Athéna, qui l'emmenait partout avec elle. Un jour de grande chaleur, toutes deux se baignaient dans une source de l'Hélicon. Le jeune Tirésias, fils de Chariclo, vint y boire et aperçut la déesse nue ; il perdit aussitôt la vue. Chariclo reprocha amèrement à son amie la cécité de son fils. Athéna, ne pouvant revenir sur la loi divine, lui accorda en compensation le don de prophétie et une longue vie.",
+        "personnages": ["athena", "tiresias"],
+        "sources": ["Callimaque, Hymne V (Le Bain de Pallas)", "Apollodore, Bibliothèque III"]
+      }
+    ]
+  },
+  {
+    "id": "menthe",
+    "nom": "Menthé",
+    "grec": "Μίνθη",
+    "categorie": "nymphe",
+    "epithete": "Naïade du Cocyte changée en menthe",
+    "symboles": ["menthe"],
+    "tags": ["enfers", "jalousie", "transformé en plante", "métamorphose", "amour"],
+    "filiations": [],
+    "unions": [
+      { "avec": "hades", "note": "maîtresse" }
+    ],
+    "histoires": [
+      {
+        "titre": "La plante parfumée",
+        "resume": "Menthé, nymphe liée au fleuve infernal Cocyte, fut aimée d'Hadès. Elle se vanta d'être plus belle que Perséphone et prétendit que le dieu reviendrait vers elle. La reine des Enfers, ou Déméter selon d'autres, la piétina avec colère et la changea en une humble plante. Hadès lui accorda du moins un parfum agréable. Sur le mont Triphylien, près de Pylos, se trouvait un sanctuaire qui conservait son souvenir.",
+        "personnages": ["hades", "persephone", "demeter"],
+        "sources": ["Strabon, Géographie VIII", "Oppien, Halieutiques III", "Ovide, Métamorphoses X"]
+      }
+    ]
+  },
+  {
+    "id": "amalthee",
+    "nom": "Amalthée",
+    "grec": "Ἀμάλθεια",
+    "categorie": "nymphe",
+    "epithete": "Nourrice de Zeus",
+    "symboles": ["chèvre", "corne d'abondance"],
+    "tags": ["crète", "naissance", "richesse", "animaux", "transformé en constellation", "fertilité"],
+    "filiations": [
+      { "parents": ["helios"], "source": "Hygin, Astronomie II, d'après Musée (la chèvre)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Nourrice de Zeus en Crète",
+        "resume": "Pour sauver le petit Zeus de Cronos qui dévorait ses enfants, Rhéa le cacha dans une grotte de Crète. Selon les uns, la nymphe Amalthée nourrit l'enfant du lait d'une chèvre ; selon d'autres, Amalthée était la chèvre elle-même. Pendant ce temps, les Courètes entrechoquaient leurs boucliers pour couvrir ses pleurs. Devenu maître du monde, Zeus plaça la chèvre parmi les étoiles.",
+        "personnages": ["zeus", "rhea", "cronos"],
+        "sources": ["Apollodore, Bibliothèque I", "Callimaque, Hymne à Zeus", "Hygin, Astronomie II"]
+      },
+      {
+        "titre": "La corne d'abondance",
+        "resume": "La chèvre d'Amalthée se brisa une corne contre un arbre. La nymphe l'enveloppa d'herbes fraîches, la remplit de fruits et l'offrit à Zeus. Cette corne devint le symbole de l'abondance inépuisable. Selon une autre tradition, Zeus fit de la peau de la chèvre son égide protectrice.",
+        "personnages": ["zeus"],
+        "sources": ["Ovide, Fastes V", "Hygin, Astronomie II"]
+      }
+    ]
+  },
+  {
+    "id": "callisto",
+    "nom": "Callisto",
+    "grec": "Καλλιστώ",
+    "categorie": "nymphe",
+    "epithete": "La compagne d'Artémis changée en ourse",
+    "symboles": ["ourse", "Grande Ourse"],
+    "tags": ["arcadie", "chasse", "transformé en animal", "transformé en constellation", "jalousie", "aimé des dieux", "victime des dieux", "étoiles"],
+    "filiations": [
+      { "parents": ["lycaon"], "principale": true, "source": "Hésiode (fragments) ; Apollodore, Bibliothèque III" },
+      { "parents": [], "source": "Asios et Phérécyde, cités par Apollodore : fille de Nyctée ou nymphe" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "mère d'Arcas" }
+    ],
+    "histoires": [
+      {
+        "titre": "La séduction de Zeus",
+        "resume": "Callisto était une compagne d'Artémis, vouée comme elle à la chasse et à la virginité. Zeus la remarqua dans les bois d'Arcadie et, pour l'approcher, prit l'apparence d'Artémis elle-même. Il s'unit à elle malgré sa résistance. Quelques mois plus tard, lors d'un bain, ses compagnes découvrirent sa grossesse et Artémis la chassa de sa troupe.",
+        "personnages": ["zeus", "artemis"],
+        "sources": ["Ovide, Métamorphoses II", "Apollodore, Bibliothèque III"]
+      },
+      {
+        "titre": "Changée en ourse",
+        "resume": "Après la naissance d'Arcas, Héra, furieuse, changea Callisto en ourse. D'autres disent que ce fut Zeus, pour la cacher à son épouse, ou Artémis, pour la punir. Privée de la parole, Callisto erra dans les forêts, craignant les chasseurs et les bêtes sauvages. Selon certaines versions, Artémis l'abattit d'une flèche à l'instigation d'Héra.",
+        "personnages": ["hera", "zeus", "artemis", "arcas"],
+        "sources": ["Ovide, Métamorphoses II", "Apollodore, Bibliothèque III", "Pausanias, Description de la Grèce VIII"]
+      },
+      {
+        "titre": "La Grande Ourse",
+        "resume": "Des années plus tard, Arcas, devenu un jeune chasseur, rencontra l'ourse dans la forêt. Ne reconnaissant pas sa mère, il s'apprêtait à la transpercer de sa lance. Zeus empêcha le crime en les enlevant tous deux dans le ciel, où ils devinrent la Grande Ourse et le Bouvier. Indignée, Héra obtint d'Océan et de Téthys que l'Ourse ne se baigne jamais dans leurs eaux, et elle ne se couche donc jamais sous l'horizon.",
+        "personnages": ["arcas", "zeus", "hera", "oceanos", "tethys"],
+        "sources": ["Ovide, Métamorphoses II", "Hygin, Astronomie II"]
+      }
+    ]
+  },
+  {
+    "id": "meliae",
+    "nom": "Méliades",
+    "grec": "Μελίαι",
+    "categorie": "nymphe",
+    "epithete": "Les nymphes des frênes",
+    "domaines": ["frênes"],
+    "symboles": ["frêne"],
+    "tags": ["arbres", "naissance", "groupe", "crète", "forêt", "guerre"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "principale": true, "source": "Hésiode, Théogonie : nées du sang d'Ouranos tombé sur Gaïa" }
+    ],
+    "histoires": [
+      {
+        "titre": "Nées du sang d'Ouranos",
+        "resume": "Lorsque Cronos mutila son père Ouranos avec la faucille, les gouttes de sang tombèrent sur Gaïa. La Terre en conçut les Érinyes, les Géants en armes et les nymphes appelées Méliades, qui vivent dans les frênes. Le bois de frêne servait à fabriquer les lances, ce qui rattache ces nymphes à la violence de leur origine. Hésiode fait sortir des frênes la race d'airain, des hommes terribles et guerriers.",
+        "personnages": ["ouranos", "gaia", "cronos", "geants"],
+        "sources": ["Hésiode, Théogonie", "Hésiode, Les Travaux et les Jours"]
+      },
+      {
+        "titre": "Nourrices de Zeus",
+        "resume": "Selon Callimaque, les Méliades du mont Dicté prirent soin de Zeus enfant, caché en Crète par Rhéa. Elles le portaient dans leurs bras tandis que la chèvre Amalthée lui donnait son lait. Les Courètes dansaient autour de lui en frappant leurs boucliers pour que Cronos n'entende pas ses cris.",
+        "personnages": ["zeus", "rhea", "amalthee", "cronos"],
+        "sources": ["Callimaque, Hymne à Zeus"]
+      }
+    ]
+  },
+  {
+    "id": "nereides",
+    "nom": "Néréides",
+    "grec": "Νηρηΐδες",
+    "categorie": "nymphe",
+    "epithete": "Les cinquante filles de Nérée",
+    "domaines": ["mer", "navigation"],
+    "symboles": ["dauphins", "coquillages"],
+    "tags": ["mer", "groupe", "navigation", "guerre de troie", "persée", "argonautes", "immortel"],
+    "filiations": [
+      { "parents": ["neree", "doris"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le chœur des Néréides",
+        "resume": "Nérée et Doris eurent cinquante filles, qui vivent dans le palais de leur père au fond de la mer Égée. Hésiode et Homère en donnent de longues listes de noms évoquant les vagues, les grèves, les îles et le calme des flots. Quand Achille pleura la mort de Patrocle, elles sortirent de la mer avec Thétis et se frappèrent la poitrine en se lamentant. Elles vinrent de nouveau pleurer Achille lui-même lors de ses funérailles.",
+        "personnages": ["neree", "doris", "thetis", "achille", "patrocle"],
+        "sources": ["Hésiode, Théogonie", "Homère, Iliade XVIII", "Homère, Odyssée XXIV"]
+      },
+      {
+        "titre": "L'outrage de Cassiopée",
+        "resume": "La reine d'Éthiopie Cassiopée se vanta d'être plus belle que les Néréides. Offensées, elles s'en plaignirent à Poséidon, qui envoya une inondation et un monstre marin ravager le pays. Un oracle ordonna de livrer au monstre Andromède, la fille de la reine. Persée tua la bête et délivra la princesse.",
+        "personnages": ["cassiopee", "poseidon", "ketos", "andromede", "persee", "cephee"],
+        "sources": ["Apollodore, Bibliothèque II", "Ovide, Métamorphoses IV"]
+      },
+      {
+        "titre": "Le passage des Roches errantes",
+        "resume": "À la demande d'Héra, Thétis et ses sœurs vinrent en aide aux Argonautes lors de leur passage près des Roches errantes. Les Néréides entourèrent le navire Argo et se le lancèrent de main en main au-dessus des vagues, comme des jeunes filles jouant à la balle sur une plage. Elles le firent ainsi passer sain et sauf entre les écueils.",
+        "personnages": ["thetis", "hera", "jason"],
+        "sources": ["Apollonios de Rhodes, Argonautiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "oceanides",
+    "nom": "Océanides",
+    "grec": "Ὠκεανίδες",
+    "categorie": "nymphe",
+    "epithete": "Les trois mille filles d'Océan",
+    "domaines": ["sources", "fleuves", "eaux douces"],
+    "tags": ["océan", "source", "fleuve", "groupe", "jeunesse", "immortel"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hésiode, Théogonie" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les trois mille filles d'Océan",
+        "resume": "Hésiode rapporte que Téthys donna à Océan trois mille filles aux fines chevilles, dispersées sur toute la terre et dans les profondeurs des eaux. Il n'en nomme qu'une quarantaine, dont Styx, Doris, Électre, Clymène, Métis et Calypso. Avec Apollon et les fleuves, leurs frères, elles ont reçu de Zeus la charge d'élever les jeunes gens jusqu'à l'âge adulte.",
+        "personnages": ["oceanos", "tethys", "styx", "doris", "electre-oceanide", "clymene", "metis", "apollon"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Le chœur auprès de Prométhée",
+        "resume": "Dans la tragédie d'Eschyle, les Océanides arrivent sur un char ailé au rocher du Caucase où Prométhée est enchaîné. Émues par ses plaintes, elles l'écoutent raconter ses bienfaits envers les hommes et les malheurs d'Io. Elles le pressent de céder à Zeus, mais finissent par partager son sort lorsque la foudre l'engloutit.",
+        "personnages": ["promethee", "zeus", "io", "oceanos"],
+        "sources": ["Eschyle, Prométhée enchaîné"]
+      },
+      {
+        "titre": "Compagnes de Perséphone",
+        "resume": "Au moment de son enlèvement, Perséphone cueillait des fleurs dans une prairie avec les filles d'Océan, en compagnie d'Athéna et d'Artémis. La jeune déesse s'éloigna pour saisir un narcisse merveilleux que Gaïa avait fait pousser. La terre s'ouvrit alors et Hadès surgit sur son char pour l'emporter.",
+        "personnages": ["persephone", "hades", "athena", "artemis", "gaia"],
+        "sources": ["Hymne homérique à Déméter"]
+      }
+    ]
+  },
+  {
+    "id": "dryades",
+    "nom": "Dryades",
+    "grec": "Δρυάδες",
+    "categorie": "nymphe",
+    "epithete": "Les nymphes des arbres",
+    "domaines": ["arbres", "forêts"],
+    "symboles": ["chêne"],
+    "tags": ["arbres", "forêt", "nature", "groupe", "châtiment"],
+    "filiations": [],
+    "histoires": [
+      {
+        "titre": "Le chêne d'Érysichthon",
+        "resume": "Le Thessalien Érysichthon méprisait les dieux et fit abattre un chêne immense consacré à Déméter, où dansaient les dryades. Sous la hache, l'arbre gémit et saigna, et la nymphe qui l'habitait maudit le sacrilège en mourant. Ses sœurs implorèrent Déméter, qui envoya la Faim s'emparer du coupable. Érysichthon, dévoré d'un appétit insatiable, finit par se dévorer lui-même.",
+        "personnages": ["demeter"],
+        "sources": ["Ovide, Métamorphoses VIII", "Callimaque, Hymne VI"]
+      },
+      {
+        "titre": "Des vies liées aux arbres",
+        "resume": "L'Hymne homérique à Aphrodite décrit des nymphes des montagnes qui ne sont ni mortelles ni immortelles. À leur naissance, des pins et des chênes poussent sur la terre, et lorsque l'arbre meurt, la nymphe quitte avec lui la lumière du jour. Aphrodite leur confia l'éducation de son fils Énée jusqu'à ce qu'il soit en âge d'être présenté à son père Anchise.",
+        "personnages": ["aphrodite", "enee"],
+        "sources": ["Hymne homérique à Aphrodite"]
+      }
+    ]
+  },
+  {
+    "id": "naiades",
+    "nom": "Naïades",
+    "grec": "Ναϊάδες",
+    "categorie": "nymphe",
+    "epithete": "Les nymphes des sources et des rivières",
+    "domaines": ["sources", "rivières", "lacs"],
+    "tags": ["source", "fleuve", "groupe", "enlèvement", "argonautes", "nature"],
+    "filiations": [],
+    "histoires": [
+      {
+        "titre": "L'enlèvement d'Hylas",
+        "resume": "Lors de l'expédition des Argonautes, le jeune Hylas, compagnon d'Héraclès, alla puiser de l'eau à une source de Mysie. La naïade de la source, éblouie par sa beauté sous la lune, passa son bras autour de son cou et l'entraîna au fond de l'eau. Héraclès le chercha en vain en criant son nom dans les bois. Les Argonautes repartirent sans eux.",
+        "personnages": ["hylas", "heracles"],
+        "sources": ["Apollonios de Rhodes, Argonautiques I", "Théocrite, Idylles XIII"]
+      },
+      {
+        "titre": "Les îles Échinades",
+        "resume": "Selon le récit que le dieu-fleuve Achéloos fit à Thésée, cinq naïades offrirent un sacrifice de dix taureaux en oubliant de l'inviter. Fou de colère, il gonfla ses eaux et les emporta jusqu'à la mer avec leurs bois et leurs champs. Les fragments de terre arrachés devinrent les îles Échinades, à l'embouchure du fleuve.",
+        "personnages": ["achelous", "thesee"],
+        "sources": ["Ovide, Métamorphoses VIII"]
+      }
+    ]
+  },
+  {
+    "id": "oreades",
+    "nom": "Oréades",
+    "grec": "Ὀρειάδες",
+    "categorie": "nymphe",
+    "epithete": "Les nymphes des montagnes",
+    "domaines": ["montagnes", "grottes"],
+    "tags": ["montagne", "chasse", "danse", "groupe", "nature"],
+    "filiations": [],
+    "histoires": [
+      {
+        "titre": "Les compagnes d'Artémis",
+        "resume": "Les nymphes des montagnes accompagnent Artémis dans ses chasses sur le Taygète et l'Érymanthe. L'Odyssée les montre jouant autour de la déesse, qui les dépasse toutes de la tête, pour la plus grande joie de Léto. Elles dansent aussi avec Pan dans les prairies et les grottes, au son de sa flûte. Écho, la plus célèbre d'entre elles, fut condamnée par Héra à ne plus que répéter les paroles d'autrui.",
+        "personnages": ["artemis", "leto", "pan", "echo", "hera"],
+        "sources": ["Homère, Odyssée VI", "Hymne homérique à Pan", "Ovide, Métamorphoses III"]
+      }
+    ]
+  }
+]

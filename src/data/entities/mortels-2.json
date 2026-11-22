@@ -1,0 +1,740 @@
+[
+  {
+    "id": "laios",
+    "nom": "Laïos",
+    "grec": "Λάϊος",
+    "categorie": "mortel",
+    "epithete": "Roi de Thèbes, fils de Labdacos",
+    "domaines": ["royauté de Thèbes"],
+    "tags": ["roi", "thèbes", "cycle thébain", "malédiction", "oracle", "tragédie"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Labdacos, petit-fils de Polydoros (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "jocaste", "note": "Son épouse, mère d'Œdipe" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le rapt de Chrysippos",
+        "resume": "Exilé de Thèbes dans sa jeunesse, Laïos trouve refuge à la cour de Pélops, qui lui confie l'éducation de son fils Chrysippos. Épris du jeune garçon, Laïos l'enlève. Selon la tradition, Pélops lance alors contre lui une malédiction, et l'on y voit souvent l'origine des malheurs qui frapperont toute la lignée des Labdacides.",
+        "personnages": ["laios", "pelops"],
+        "sources": ["Apollodore, Bibliothèque III, 5", "Euripide, Chrysippos (fragments)"]
+      },
+      {
+        "titre": "L'oracle et la mort au carrefour",
+        "resume": "L'oracle de Delphes avertit Laïos que, s'il engendre un fils, celui-ci le tuera. Lorsque Jocaste met au monde un garçon, Laïos fait percer les chevilles du nourrisson et ordonne qu'on l'abandonne sur le Cithéron. Des années plus tard, alors qu'il se rend à Delphes, il croise sur une route étroite, à l'embranchement de Daulis, un jeune voyageur avec lequel une querelle éclate. Le jeune homme le tue sans savoir qui il est : c'est Œdipe, son propre fils, et la prophétie s'accomplit.",
+        "personnages": ["laios", "jocaste", "oedipe"],
+        "sources": ["Sophocle, Œdipe roi", "Eschyle, Les Sept contre Thèbes", "Apollodore, Bibliothèque III, 5"]
+      }
+    ]
+  },
+  {
+    "id": "jocaste",
+    "nom": "Jocaste",
+    "grec": "Ἰοκάστη",
+    "categorie": "mortel",
+    "epithete": "Reine de Thèbes, épouse et mère d'Œdipe",
+    "tags": ["reine", "thèbes", "cycle thébain", "tragédie", "malédiction", "famille"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fille de Ménécée, sœur de Créon (Sophocle, Apollodore) ; Homère la nomme Épicaste" }
+    ],
+    "unions": [
+      { "avec": "laios", "note": "Premier époux" },
+      { "avec": "oedipe", "note": "Second époux, son propre fils, épousé sans le savoir" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le mariage incestueux et la mort de Jocaste",
+        "resume": "Veuve de Laïos, Jocaste est promise par Créon à celui qui délivrera Thèbes du Sphinx. Œdipe résout l'énigme et devient ainsi son époux, sans que l'un ou l'autre sache qu'il est son fils. Ils ont quatre enfants. Quand la vérité éclate, Jocaste comprend avant Œdipe et tente de l'arrêter dans son enquête. Dans la tragédie de Sophocle, elle se retire dans le palais et se pend.",
+        "personnages": ["jocaste", "oedipe", "creon", "sphinx"],
+        "sources": ["Sophocle, Œdipe roi", "Homère, Odyssée XI"]
+      },
+      {
+        "titre": "Entre ses deux fils",
+        "resume": "Dans Les Phéniciennes d'Euripide, Jocaste survit à la révélation et demeure au palais de Thèbes. Elle tente en vain de réconcilier ses fils Étéocle et Polynice, qui se disputent le trône. Lorsqu'ils s'entretuent en combat singulier devant les murs de la cité, elle se donne la mort avec une épée sur leurs corps.",
+        "personnages": ["jocaste", "antigone", "creon"],
+        "sources": ["Euripide, Les Phéniciennes"]
+      }
+    ]
+  },
+  {
+    "id": "oedipe",
+    "nom": "Œdipe",
+    "grec": "Οἰδίπους",
+    "categorie": "mortel",
+    "epithete": "Le vainqueur du Sphinx, roi parricide de Thèbes",
+    "symboles": ["chevilles percées", "bâton d'aveugle"],
+    "tags": ["roi", "thèbes", "cycle thébain", "tragédie", "malédiction", "destin", "oracle", "victime des dieux"],
+    "filiations": [
+      { "parents": ["laios", "jocaste"], "principale": true }
+    ],
+    "unions": [
+      { "avec": "jocaste", "note": "Sa mère, épousée sans le savoir" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'enfant exposé",
+        "resume": "À cause d'un oracle annonçant qu'il tuerait son père, Œdipe est abandonné à sa naissance sur le mont Cithéron, les chevilles transpercées, d'où son nom qui signifie « pied enflé ». Un berger le recueille et le confie au roi de Corinthe Polybe et à son épouse, qui l'élèvent comme leur fils. Devenu adulte, troublé par une rumeur sur sa naissance, il consulte Delphes. L'oracle lui révèle qu'il tuera son père et épousera sa mère ; pour y échapper, il décide de ne jamais revenir à Corinthe.",
+        "personnages": ["oedipe", "laios", "jocaste"],
+        "sources": ["Sophocle, Œdipe roi", "Apollodore, Bibliothèque III, 5"]
+      },
+      {
+        "titre": "Le meurtre de Laïos et l'énigme du Sphinx",
+        "resume": "Sur la route, à un carrefour, Œdipe se querelle avec un vieillard escorté de serviteurs et le tue : c'est Laïos, son vrai père. Arrivé à Thèbes, il trouve la cité terrorisée par le Sphinx, qui dévore ceux qui ne résolvent pas son énigme. À la question de l'être qui marche à quatre, puis à deux, puis à trois pattes, Œdipe répond : l'homme. Le monstre se jette dans le vide, et Œdipe reçoit pour récompense le trône et la main de la reine Jocaste.",
+        "personnages": ["oedipe", "laios", "sphinx", "jocaste", "creon"],
+        "sources": ["Sophocle, Œdipe roi", "Apollodore, Bibliothèque III, 5"]
+      },
+      {
+        "titre": "La révélation",
+        "resume": "Des années plus tard, une peste ravage Thèbes, et l'oracle exige que soit chassé le meurtrier de Laïos. Œdipe mène lui-même l'enquête avec acharnement. Le devin Tirésias le désigne comme coupable, et Œdipe l'accuse d'un complot avec Créon. Les témoignages d'un messager de Corinthe et du vieux berger révèlent enfin toute la vérité. Jocaste se pend, et Œdipe se crève les yeux avec les agrafes de sa robe avant de quitter le pouvoir.",
+        "personnages": ["oedipe", "jocaste", "tiresias", "creon"],
+        "sources": ["Sophocle, Œdipe roi"]
+      },
+      {
+        "titre": "La mort à Colone",
+        "resume": "Aveugle et banni, Œdipe erre sur les routes guidé par sa fille Antigone. Il parvient à Colone, près d'Athènes, où se trouve le bois sacré des Euménides, lieu que les oracles lui avaient désigné pour mourir. Thésée l'accueille et le protège contre Créon, qui veut le ramener de force. Œdipe maudit son fils Polynice venu chercher son appui, puis disparaît mystérieusement, et son tombeau, connu du seul Thésée, devient une protection pour Athènes.",
+        "personnages": ["oedipe", "antigone", "thesee", "creon"],
+        "sources": ["Sophocle, Œdipe à Colone"]
+      }
+    ]
+  },
+  {
+    "id": "antigone",
+    "nom": "Antigone",
+    "grec": "Ἀντιγόνη",
+    "categorie": "mortel",
+    "epithete": "Celle qui ensevelit son frère",
+    "tags": ["thèbes", "cycle thébain", "tragédie", "famille", "loi", "fidélité", "mort"],
+    "filiations": [
+      { "parents": ["oedipe", "jocaste"], "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Le guide de son père",
+        "resume": "Lorsqu'Œdipe, aveugle, est chassé de Thèbes, Antigone l'accompagne dans son errance et lui sert de guide. Elle partage sa misère jusqu'à Colone, en Attique, où il trouve la mort. Elle y affronte avec lui les pressions de Créon et assiste aux supplications de son frère Polynice, qu'elle tente d'apaiser.",
+        "personnages": ["antigone", "oedipe", "creon", "thesee"],
+        "sources": ["Sophocle, Œdipe à Colone"]
+      },
+      {
+        "titre": "L'ensevelissement de Polynice",
+        "resume": "Après la guerre des Sept contre Thèbes, où ses frères Étéocle et Polynice se sont tués l'un l'autre, Créon interdit sous peine de mort d'enterrer Polynice, considéré comme traître. Antigone refuse d'obéir à ce décret, qu'elle juge contraire aux lois non écrites des dieux. Malgré les réticences de sa sœur Ismène, elle répand de la poussière sur le corps de son frère et accomplit les rites funèbres. Surprise par les gardes, elle assume son acte devant Créon.",
+        "personnages": ["antigone", "creon"],
+        "sources": ["Sophocle, Antigone", "Eschyle, Les Sept contre Thèbes (finale)"]
+      },
+      {
+        "titre": "La mort d'Antigone",
+        "resume": "Créon condamne Antigone à être enfermée vivante dans un tombeau creusé dans le roc. Son fiancé Hémon, fils de Créon, plaide en vain sa cause. Averti par Tirésias de la colère des dieux, Créon se ravise trop tard : Antigone s'est pendue dans sa prison. Hémon se tue sur son corps, et la reine Eurydice, apprenant la mort de son fils, se donne la mort à son tour.",
+        "personnages": ["antigone", "creon", "tiresias"],
+        "sources": ["Sophocle, Antigone"]
+      }
+    ]
+  },
+  {
+    "id": "creon",
+    "nom": "Créon",
+    "grec": "Κρέων",
+    "categorie": "mortel",
+    "epithete": "Régent et roi de Thèbes",
+    "domaines": ["royauté de Thèbes"],
+    "tags": ["roi", "thèbes", "cycle thébain", "loi", "tragédie", "châtiment"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Ménécée, frère de Jocaste (Sophocle, Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le régent de Thèbes",
+        "resume": "Après la mort de Laïos, Créon, frère de Jocaste, gouverne Thèbes alors que le Sphinx décime la population. Il promet le trône et la main de la reine à quiconque délivrera la cité. Œdipe ayant vaincu le monstre, Créon lui cède le pouvoir. Auparavant, il avait purifié Amphitryon, exilé de Mycènes, et lui avait demandé de délivrer le pays du renard de Teumesse.",
+        "personnages": ["creon", "jocaste", "oedipe", "sphinx", "amphitryon"],
+        "sources": ["Apollodore, Bibliothèque II, 4 et III, 5", "Sophocle, Œdipe roi"]
+      },
+      {
+        "titre": "Le sacrifice de Ménécée",
+        "resume": "Pendant le siège de Thèbes par les Sept, Tirésias annonce que la cité ne sera sauvée que si le jeune Ménécée, fils de Créon, est sacrifié. Créon refuse et presse son fils de s'enfuir. Mais Ménécée, feignant d'obéir, monte sur les remparts et se tue pour sauver sa patrie.",
+        "personnages": ["creon", "tiresias"],
+        "sources": ["Euripide, Les Phéniciennes", "Apollodore, Bibliothèque III, 6"]
+      },
+      {
+        "titre": "Le décret contre Polynice",
+        "resume": "Devenu roi après la mort d'Étéocle et de Polynice, Créon ordonne que le corps de Polynice reste sans sépulture. Il condamne Antigone, qui a transgressé l'interdit, à être emmurée vivante. Sourd aux arguments de son fils Hémon, il ne cède qu'après les sombres prophéties de Tirésias. Trop tard : Antigone, Hémon et son épouse Eurydice meurent, et Créon reste seul face à sa faute.",
+        "personnages": ["creon", "antigone", "tiresias"],
+        "sources": ["Sophocle, Antigone"]
+      }
+    ]
+  },
+  {
+    "id": "tiresias",
+    "nom": "Tirésias",
+    "grec": "Τειρεσίας",
+    "categorie": "mortel",
+    "epithete": "Le devin aveugle de Thèbes",
+    "domaines": ["divination"],
+    "symboles": ["bâton", "oiseaux"],
+    "tags": ["devin", "prophétie", "thèbes", "cycle thébain", "métamorphose", "odyssée", "enfers"],
+    "filiations": [
+      { "parents": ["chariclo"], "principale": true, "source": "Fils du Spartoi Évérès et de la nymphe Chariclo (Apollodore, Callimaque)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Homme puis femme",
+        "resume": "Sur le mont Cyllène, Tirésias frappe deux serpents en train de s'accoupler et se trouve aussitôt changé en femme. Sept ans plus tard, il revoit des serpents semblables, les frappe de nouveau et redevient homme. Zeus et Héra, se disputant pour savoir qui de l'homme ou de la femme tire le plus de plaisir de l'amour, le prennent pour arbitre. Il répond que la femme en éprouve bien davantage ; furieuse, Héra le rend aveugle, et Zeus le dédommage en lui accordant le don de prophétie et une très longue vie.",
+        "personnages": ["tiresias", "zeus", "hera"],
+        "sources": ["Ovide, Métamorphoses III", "Apollodore, Bibliothèque III, 6", "Hésiode, Mélampodie (fragments)"]
+      },
+      {
+        "titre": "Le bain d'Athéna",
+        "resume": "Selon une autre tradition, le jeune Tirésias surprend par hasard Athéna nue au bain, en compagnie de sa mère, la nymphe Chariclo. La déesse le prive aussitôt de la vue. Aux supplications de Chariclo, Athéna ne peut lui rendre les yeux, mais elle purifie ses oreilles pour qu'il comprenne le langage des oiseaux et lui offre un bâton pour guider ses pas.",
+        "personnages": ["tiresias", "athena", "chariclo"],
+        "sources": ["Callimaque, Hymne V, Pour le bain de Pallas", "Apollodore, Bibliothèque III, 6"]
+      },
+      {
+        "titre": "Le devin des rois de Thèbes",
+        "resume": "Tirésias accompagne de ses prophéties plusieurs générations de Thébains. Il révèle à Œdipe qu'il est le meurtrier de Laïos, avertit Créon de la colère des dieux après la condamnation d'Antigone et annonce que Thèbes ne sera sauvée qu'au prix du sacrifice de Ménécée. Il met aussi en garde Penthée contre son refus d'honorer Dionysos. Il meurt après la prise de Thèbes par les Épigones, en buvant l'eau de la source Tilphousa.",
+        "personnages": ["tiresias", "oedipe", "creon", "antigone", "dionysos"],
+        "sources": ["Sophocle, Œdipe roi", "Sophocle, Antigone", "Euripide, Les Bacchantes", "Apollodore, Bibliothèque III, 7"]
+      },
+      {
+        "titre": "La consultation aux Enfers",
+        "resume": "Même chez les morts, Tirésias conserve son intelligence par une faveur de Perséphone. Sur le conseil de Circé, Ulysse se rend au bord des Enfers et lui offre le sang d'un sacrifice. Le devin lui prédit les épreuves de son retour, le met en garde contre les vaches d'Hélios, lui annonce le massacre des prétendants et une mort douce, loin de la mer, dans sa vieillesse.",
+        "personnages": ["tiresias", "ulysse", "circe", "persephone", "helios"],
+        "sources": ["Homère, Odyssée X et XI"]
+      }
+    ]
+  },
+  {
+    "id": "sisyphe",
+    "nom": "Sisyphe",
+    "grec": "Σίσυφος",
+    "categorie": "mortel",
+    "epithete": "Le plus rusé des mortels, roi de Corinthe",
+    "symboles": ["rocher"],
+    "tags": ["ruse", "châtiment", "roi", "corinthe", "fondateur", "mort", "tartare", "enfers"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils d'Éole (fils d'Hellen) et d'Énarété (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "merope", "note": "La Pléiade Mérope, son épouse" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le fondateur d'Éphyra",
+        "resume": "Sisyphe fonde la cité d'Éphyra, qui deviendra Corinthe, et en est le premier roi. On lui attribue l'institution des Jeux isthmiques en l'honneur de Mélicerte. Célèbre pour son astuce, il démasque Autolycos, voleur de troupeaux, en marquant secrètement le sabot de ses bêtes. Une tradition tardive fait de lui le véritable père d'Ulysse, par une union avec Anticlée.",
+        "personnages": ["sisyphe", "autolycos", "palemon", "ulysse"],
+        "sources": ["Homère, Iliade VI", "Pausanias II", "Hygin, Fables 201"]
+      },
+      {
+        "titre": "La dénonciation de Zeus",
+        "resume": "Zeus enlève la nymphe Égine, fille du fleuve Asopos. Sisyphe, témoin du rapt, révèle au père éploré l'identité du ravisseur, en échange d'une source pour l'acropole de Corinthe. Pour le punir de cette indiscrétion, Zeus lui envoie la Mort.",
+        "personnages": ["sisyphe", "zeus", "aegina", "asopos", "thanatos"],
+        "sources": ["Apollodore, Bibliothèque I, 9 et III, 12", "Pausanias II, 5"]
+      },
+      {
+        "titre": "La Mort enchaînée",
+        "resume": "Quand Thanatos vient le chercher, Sisyphe parvient à l'enchaîner, si bien que plus personne ne meurt sur terre. Arès finit par délivrer la Mort et lui livre le roi. Avant de partir, Sisyphe ordonne à son épouse de ne pas lui rendre les honneurs funèbres. Aux Enfers, il se plaint de cette négligence et obtient d'Hadès la permission de remonter pour châtier sa femme ; une fois revenu à la lumière, il refuse de redescendre et vit jusqu'à un âge avancé.",
+        "personnages": ["sisyphe", "thanatos", "ares", "hades", "merope"],
+        "sources": ["Phérécyde (fragments)", "Théognis", "Scholies à l'Iliade VI"]
+      },
+      {
+        "titre": "Le rocher",
+        "resume": "Pour ses fourberies, Sisyphe est condamné dans l'Hadès à un supplice sans fin. Il doit pousser un énorme rocher jusqu'au sommet d'une pente, mais chaque fois qu'il approche du but, la pierre lui échappe et dévale jusqu'en bas. Ulysse l'aperçoit lors de sa visite au royaume des morts, ruisselant de sueur, recommençant toujours son effort.",
+        "personnages": ["sisyphe", "ulysse"],
+        "sources": ["Homère, Odyssée XI", "Ovide, Métamorphoses IV et X"]
+      }
+    ]
+  },
+  {
+    "id": "ixion",
+    "nom": "Ixion",
+    "grec": "Ἰξίων",
+    "categorie": "mortel",
+    "epithete": "Roi des Lapithes, attaché à la roue",
+    "symboles": ["roue enflammée"],
+    "tags": ["roi", "thessalie", "châtiment", "orgueil", "hospitalité", "serment", "tartare"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Phlégyas (Pindare, Eschyle) ; parfois fils d'Arès (Hygin)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le premier meurtre d'un parent",
+        "resume": "Pour épouser Dia, Ixion promet de riches présents à son beau-père Déionée, puis refuse de payer. Il l'attire dans une fosse remplie de braises dissimulée sous des planches, où Déionée périt. C'est le premier meurtre d'un parent par alliance, et aucun mortel n'accepte de purifier Ixion. Zeus, pris de pitié, le purifie lui-même et l'accueille à la table des dieux.",
+        "personnages": ["ixion", "zeus"],
+        "sources": ["Pindare, Pythiques II", "Diodore de Sicile IV, 69"]
+      },
+      {
+        "titre": "La nuée et la roue",
+        "resume": "Hôte de l'Olympe, Ixion ose convoiter Héra. Zeus façonne alors une nuée à l'image de la déesse ; Ixion s'unit à ce fantôme et en naît Centauros, ancêtre des Centaures. Pour cette ingratitude envers son bienfaiteur, Zeus fait attacher Ixion à une roue enflammée qui tourne sans fin dans les airs ou, selon d'autres, dans le Tartare.",
+        "personnages": ["ixion", "zeus", "hera", "centaures"],
+        "sources": ["Pindare, Pythiques II", "Apollodore, Épitomé I, 20", "Ovide, Métamorphoses IV"]
+      }
+    ]
+  },
+  {
+    "id": "medee",
+    "nom": "Médée",
+    "grec": "Μήδεια",
+    "categorie": "mortel",
+    "epithete": "La magicienne de Colchide",
+    "domaines": ["magie", "philtres"],
+    "symboles": ["char tiré par des dragons", "chaudron", "herbes magiques"],
+    "tags": ["magie", "sorcellerie", "vengeance", "argonautes", "colchide", "corinthe", "tragédie", "prêtresse"],
+    "filiations": [
+      { "parents": ["aeetes", "idyia"], "principale": true },
+      { "parents": ["aeetes", "hecate"], "source": "Diodore de Sicile, qui fait d'Hécate sa mère" }
+    ],
+    "unions": [
+      { "avec": "jason", "note": "Son époux, qu'elle aide à conquérir la Toison d'or" },
+      { "avec": "egee", "note": "Roi d'Athènes, qui l'accueille après Corinthe" },
+      { "avec": "achille", "note": "Époux dans les Champs Élysées selon une tradition tardive" }
+    ],
+    "histoires": [
+      {
+        "titre": "La conquête de la Toison d'or",
+        "resume": "Lorsque Jason arrive en Colchide, Héra et Aphrodite font naître en Médée, prêtresse d'Hécate, un amour violent pour le héros. Æétès exige de Jason qu'il attelle des taureaux soufflant le feu et sème les dents d'un dragon. Médée lui donne un onguent qui le rend invulnérable et lui enseigne comment vaincre les guerriers nés de la terre. Elle endort ensuite par ses charmes le dragon qui garde la Toison, permettant à Jason de s'en emparer, puis s'enfuit avec lui.",
+        "personnages": ["medee", "jason", "aeetes", "hecate", "dragon-de-colchide", "hera", "aphrodite"],
+        "sources": ["Apollonios de Rhodes, Argonautiques III et IV", "Pindare, Pythiques IV"]
+      },
+      {
+        "titre": "Le meurtre d'Absyrtos et la mort de Pélias",
+        "resume": "Pour retarder la poursuite de son père, Médée fait périr son jeune frère Absyrtos. Chez Apollodore, elle découpe son corps et en disperse les morceaux, obligeant Æétès à s'arrêter pour les recueillir. À Iolcos, elle se venge de Pélias, l'ennemi de Jason : elle rajeunit sous les yeux de ses filles un vieux bélier bouilli dans un chaudron d'herbes magiques. Convaincues, les filles de Pélias découpent leur père, mais Médée retient le charme et le roi ne ressuscite pas.",
+        "personnages": ["medee", "aeetes", "pelias", "jason", "alceste"],
+        "sources": ["Apollodore, Bibliothèque I, 9", "Apollonios de Rhodes, Argonautiques IV", "Ovide, Métamorphoses VII"]
+      },
+      {
+        "titre": "La vengeance de Corinthe",
+        "resume": "Réfugiés à Corinthe, Médée et Jason y vivent avec leurs enfants jusqu'au jour où Jason décide d'épouser la fille du roi Créon de Corinthe. Abandonnée et menacée d'exil, Médée feint la résignation et envoie à la jeune épouse une robe et un diadème empoisonnés, qui la consument ainsi que son père. Puis, pour atteindre Jason au plus profond, elle tue ses propres fils. Elle s'enfuit sur le char ailé de son aïeul Hélios.",
+        "personnages": ["medee", "jason", "helios"],
+        "sources": ["Euripide, Médée", "Apollodore, Bibliothèque I, 9", "Sénèque, Médée"]
+      },
+      {
+        "titre": "Médée à Athènes",
+        "resume": "Médée trouve asile auprès du roi Égée, à qui elle avait promis de remédier à sa stérilité, et elle lui donne un fils, Médos. Lorsque Thésée arrive à Athènes sans s'être fait reconnaître, elle devine son identité et persuade Égée de lui tendre une coupe empoisonnée. Au dernier moment, Égée reconnaît l'épée qu'il avait laissée pour son fils et renverse la coupe. Démasquée, Médée doit quitter Athènes et retourne, dit-on, en Colchide.",
+        "personnages": ["medee", "egee", "thesee"],
+        "sources": ["Euripide, Médée", "Plutarque, Vie de Thésée", "Ovide, Métamorphoses VII", "Apollodore, Épitomé I, 5-6"]
+      }
+    ]
+  },
+  {
+    "id": "aeetes",
+    "nom": "Æétès",
+    "grec": "Αἰήτης",
+    "categorie": "mortel",
+    "epithete": "Roi de Colchide, gardien de la Toison d'or",
+    "symboles": ["Toison d'or", "taureaux d'airain"],
+    "tags": ["roi", "colchide", "argonautes", "magie", "hospitalité", "ruse"],
+    "filiations": [
+      { "parents": ["helios", "perseis"], "principale": true },
+      { "parents": ["helios", "idyia"], "source": "Variante isolée ; la tradition majoritaire fait d'Idyie son épouse" }
+    ],
+    "unions": [
+      { "avec": "idyia", "note": "Son épouse, mère de Médée" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'accueil de Phrixos",
+        "resume": "Fils du Soleil, frère de Circé et de Pasiphaé, Æétès règne sur la Colchide, aux confins orientaux du monde. Il accueille Phrixos, arrivé sur le bélier à la toison d'or, et lui donne sa fille Chalciopé en mariage. Phrixos lui offre la toison de l'animal sacrifié, qu'Æétès suspend à un chêne dans le bois sacré d'Arès, sous la garde d'un dragon qui ne dort jamais.",
+        "personnages": ["aeetes", "phrixos", "chrysomallos", "dragon-de-colchide", "ares"],
+        "sources": ["Apollodore, Bibliothèque I, 9", "Apollonios de Rhodes, Argonautiques II"]
+      },
+      {
+        "titre": "Les épreuves imposées à Jason",
+        "resume": "Quand Jason réclame la Toison, Æétès feint d'accepter, mais lui impose des épreuves qu'il croit impossibles : atteler deux taureaux aux sabots d'airain soufflant le feu, labourer un champ et y semer des dents de dragon d'où surgissent des guerriers armés. Grâce à la magie de Médée, Jason triomphe. Le roi, qui projetait d'incendier la nef Argo, voit les Argonautes s'enfuir avec sa fille et la Toison, et perd son fils Absyrtos lancé à leur poursuite.",
+        "personnages": ["aeetes", "jason", "medee"],
+        "sources": ["Apollonios de Rhodes, Argonautiques III et IV", "Pindare, Pythiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "pygmalion",
+    "nom": "Pygmalion",
+    "grec": "Πυγμαλίων",
+    "categorie": "mortel",
+    "epithete": "Le sculpteur amoureux de sa statue",
+    "symboles": ["statue d'ivoire"],
+    "tags": ["amour", "artisanat", "beauté", "métamorphose", "chypre", "roi", "aimé des dieux"],
+    "filiations": [
+      { "parents": [], "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La statue d'ivoire",
+        "resume": "Dégoûté par la conduite des Propétides, femmes de Chypre qui avaient renié Vénus, Pygmalion vit seul, sans épouse. Il sculpte dans l'ivoire une femme d'une beauté parfaite et s'éprend de son œuvre, qu'il pare de vêtements et de bijoux. Lors de la fête d'Aphrodite, il prie timidement la déesse de lui accorder une épouse semblable à sa statue. De retour chez lui, il embrasse la statue et sent l'ivoire s'attendrir sous ses lèvres : elle prend vie. De leur union naît Paphos, qui donnera son nom à la cité.",
+        "personnages": ["pygmalion", "aphrodite"],
+        "sources": ["Ovide, Métamorphoses X"]
+      }
+    ]
+  },
+  {
+    "id": "baucis",
+    "nom": "Baucis",
+    "grec": "Βαυκίς",
+    "categorie": "mortel",
+    "epithete": "L'hôtesse pieuse de Phrygie",
+    "symboles": ["tilleul"],
+    "tags": ["hospitalité", "fidélité", "mariage", "vieillesse", "transformé en plante", "aimé des dieux"],
+    "filiations": [
+      { "parents": [], "principale": true }
+    ],
+    "unions": [
+      { "avec": "philemon", "note": "Son époux de toute une vie" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'hospitalité de Baucis et Philémon",
+        "resume": "Zeus et Hermès, déguisés en voyageurs, parcourent la Phrygie et se voient refuser l'hospitalité dans mille maisons. Seuls deux vieux époux pauvres, Baucis et Philémon, les accueillent dans leur humble chaumière et leur servent un repas modeste. Ils s'aperçoivent que le cratère de vin se remplit de lui-même et reconnaissent des dieux. Les dieux engloutissent la contrée impie sous les eaux et changent la cabane en temple. Ayant demandé à servir ce sanctuaire et à mourir ensemble, les deux vieillards sont, au terme de leur vie, transformés en arbres voisins, un chêne et un tilleul.",
+        "personnages": ["baucis", "philemon", "zeus", "hermes"],
+        "sources": ["Ovide, Métamorphoses VIII"]
+      }
+    ]
+  },
+  {
+    "id": "philemon",
+    "nom": "Philémon",
+    "grec": "Φιλήμων",
+    "categorie": "mortel",
+    "epithete": "L'hôte pieux de Phrygie",
+    "symboles": ["chêne"],
+    "tags": ["hospitalité", "fidélité", "mariage", "vieillesse", "transformé en plante", "aimé des dieux"],
+    "filiations": [
+      { "parents": [], "principale": true }
+    ],
+    "unions": [
+      { "avec": "baucis", "note": "Son épouse de toute une vie" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le vœu de Philémon",
+        "resume": "Après avoir reçu sous leur toit Zeus et Hermès déguisés, Philémon et Baucis assistent à la punition de leurs voisins, dont les demeures sont englouties dans un marais. Invité par Zeus à formuler un souhait, Philémon demande, au nom du couple, de devenir prêtres du temple qui a remplacé leur cabane et de mourir à la même heure, afin qu'aucun des deux ne voie le bûcher de l'autre. Le vœu est exaucé : devenus très vieux, ils se changent ensemble en arbres, Philémon en chêne, Baucis en tilleul.",
+        "personnages": ["philemon", "baucis", "zeus", "hermes"],
+        "sources": ["Ovide, Métamorphoses VIII"]
+      }
+    ]
+  },
+  {
+    "id": "acteon",
+    "nom": "Actéon",
+    "grec": "Ἀκταίων",
+    "categorie": "mortel",
+    "epithete": "Le chasseur changé en cerf",
+    "symboles": ["cerf", "chiens de chasse"],
+    "tags": ["chasse", "transformé en animal", "victime des dieux", "châtiment", "thèbes", "animaux"],
+    "filiations": [
+      { "parents": ["aristee"], "principale": true, "source": "Fils d'Aristée et d'Autonoé, fille de Cadmos (Apollodore, Ovide)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Actéon et Artémis",
+        "resume": "Élevé par le centaure Chiron, Actéon devient un chasseur accompli. Un jour, errant dans les forêts du Cithéron, il surprend Artémis se baignant nue avec ses nymphes dans une source. Offensée, la déesse lui jette de l'eau au visage et le transforme en cerf. Privé de la parole, il est poursuivi par ses propres chiens, qui ne le reconnaissent pas et le mettent en pièces.",
+        "personnages": ["acteon", "artemis", "chiron"],
+        "sources": ["Ovide, Métamorphoses III", "Apollodore, Bibliothèque III, 4", "Callimaque, Hymne V"]
+      },
+      {
+        "titre": "Les autres causes de sa perte",
+        "resume": "Les auteurs anciens donnent d'autres raisons à son châtiment. Selon Euripide, Actéon se serait vanté d'être meilleur chasseur qu'Artémis. D'après une version plus ancienne rapportée par Apollodore, il aurait voulu séduire Sémélé, aimée de Zeus. Dans toutes les versions, il finit dévoré par sa meute.",
+        "personnages": ["acteon", "artemis", "semele", "zeus"],
+        "sources": ["Euripide, Les Bacchantes", "Apollodore, Bibliothèque III, 4", "Stésichore (fragments)"]
+      }
+    ]
+  },
+  {
+    "id": "triptoleme",
+    "nom": "Triptolème",
+    "grec": "Τριπτόλεμος",
+    "categorie": "mortel",
+    "epithete": "Le messager de l'agriculture",
+    "domaines": ["agriculture", "culture du blé"],
+    "symboles": ["épis de blé", "char ailé tiré par des serpents"],
+    "tags": ["agriculture", "moisson", "mystères d'éleusis", "mystères", "voyage", "aimé des dieux"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Céléos, roi d'Éleusis, et de Métanire (Apollodore)" },
+      { "parents": ["oceanos", "gaia"], "source": "Phérécyde, cité par Apollodore" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le don du blé",
+        "resume": "Alors qu'elle cherche sa fille Perséphone, Déméter est accueillie à Éleusis par le roi Céléos. En remerciement, elle fait don à Triptolème d'un char tiré par des serpents ailés et de grains de blé. Il parcourt alors la terre entière en semant le grain et en enseignant aux hommes la culture des céréales. Il est étroitement associé aux Mystères d'Éleusis.",
+        "personnages": ["triptoleme", "demeter", "persephone"],
+        "sources": ["Apollodore, Bibliothèque I, 5", "Hymne homérique à Déméter", "Ovide, Métamorphoses V"]
+      },
+      {
+        "titre": "La trahison de Lyncos",
+        "resume": "Au cours de ses voyages, Triptolème parvient chez Lyncos, roi des Scythes. Jaloux de la gloire du jeune homme, le roi tente de le tuer dans son sommeil afin de s'attribuer le don de Déméter. La déesse intervient et change Lyncos en lynx, puis Triptolème reprend sa route à travers les airs.",
+        "personnages": ["triptoleme", "demeter"],
+        "sources": ["Ovide, Métamorphoses V"]
+      }
+    ]
+  },
+  {
+    "id": "ino",
+    "nom": "Ino",
+    "grec": "Ἰνώ",
+    "categorie": "mortel",
+    "epithete": "Fille de Cadmos, devenue Leucothée",
+    "symboles": ["voile"],
+    "tags": ["thèbes", "folie", "jalousie", "divinisé", "mer", "métamorphose", "cycle thébain"],
+    "filiations": [
+      { "parents": ["cadmos", "harmonie"], "principale": true }
+    ],
+    "unions": [
+      { "avec": "athamas", "note": "Son époux, roi d'Orchomène" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le complot contre Phrixos et Hellé",
+        "resume": "Seconde épouse d'Athamas, Ino veut perdre les enfants nés de sa première femme Néphélé. Elle persuade les femmes du pays de griller les semences, si bien que les champs restent stériles. Lorsqu'Athamas envoie consulter l'oracle, elle soudoie les messagers pour qu'ils rapportent que seul le sacrifice de Phrixos mettra fin à la famine. Au moment du sacrifice, un bélier à la toison d'or emporte les enfants.",
+        "personnages": ["ino", "athamas", "phrixos", "helle", "chrysomallos"],
+        "sources": ["Apollodore, Bibliothèque I, 9", "Hygin, Fables 2"]
+      },
+      {
+        "titre": "La nourrice de Dionysos et la déesse Leucothée",
+        "resume": "Après la mort de sa sœur Sémélé, Ino et Athamas acceptent d'élever en secret le petit Dionysos. Pour les punir, Héra les frappe de folie : Athamas tue leur fils Léarchos, et Ino plonge l'autre, Mélicerte, dans un chaudron bouillant ou se jette avec lui dans la mer. Les dieux marins les accueillent : Ino devient la déesse Leucothée, secourable aux marins, et Mélicerte devient Palémon. Dans l'Odyssée, c'est elle qui donne à Ulysse naufragé le voile qui le sauve.",
+        "personnages": ["ino", "athamas", "dionysos", "semele", "hera", "palemon", "ulysse"],
+        "sources": ["Apollodore, Bibliothèque III, 4", "Ovide, Métamorphoses IV", "Homère, Odyssée V"]
+      }
+    ]
+  },
+  {
+    "id": "athamas",
+    "nom": "Athamas",
+    "grec": "Ἀθάμας",
+    "categorie": "mortel",
+    "epithete": "Roi d'Orchomène en Béotie",
+    "tags": ["roi", "folie", "sacrifice", "famille", "argonautes", "victime des dieux"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils d'Éole (fils d'Hellen) et d'Énarété (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "ino", "note": "Sa seconde épouse ; la première est Néphélé" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le sacrifice manqué de Phrixos",
+        "resume": "Trompé par les intrigues d'Ino, Athamas croit que l'oracle réclame le sacrifice de son fils Phrixos pour faire cesser la stérilité des champs. Il conduit l'enfant à l'autel, mais Néphélé, leur mère, envoie un bélier ailé à la toison d'or, cadeau d'Hermès, qui emporte Phrixos et sa sœur Hellé à travers les airs.",
+        "personnages": ["athamas", "ino", "phrixos", "helle", "chrysomallos", "hermes"],
+        "sources": ["Apollodore, Bibliothèque I, 9"]
+      },
+      {
+        "titre": "La folie d'Athamas",
+        "resume": "Parce qu'il a recueilli Dionysos enfant, Athamas est frappé de démence par Héra. Croyant voir un cerf, il tue d'une flèche son fils Léarchos, tandis qu'Ino s'enfuit avec Mélicerte. Banni de Béotie, il reçoit d'un oracle l'ordre de s'établir là où des bêtes sauvages lui offriront l'hospitalité ; il fonde une cité en Thessalie à l'endroit où des loups lui abandonnent leur proie.",
+        "personnages": ["athamas", "ino", "hera", "dionysos", "palemon"],
+        "sources": ["Apollodore, Bibliothèque I, 9 et III, 4", "Ovide, Métamorphoses IV"]
+      }
+    ]
+  },
+  {
+    "id": "phrixos",
+    "nom": "Phrixos",
+    "grec": "Φρίξος",
+    "categorie": "mortel",
+    "epithete": "Celui qui chevaucha le bélier d'or",
+    "symboles": ["bélier à la toison d'or"],
+    "tags": ["argonautes", "colchide", "voyage", "sacrifice", "animaux"],
+    "filiations": [
+      { "parents": ["athamas"], "principale": true, "source": "Fils d'Athamas et de Néphélé (Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "La fuite sur le bélier d'or",
+        "resume": "Menacé d'être sacrifié à cause des machinations de sa belle-mère Ino, Phrixos est sauvé par un bélier ailé à la toison d'or que lui envoie sa mère Néphélé. Il s'envole avec sa sœur Hellé, qui tombe dans la mer en chemin. Parvenu en Colchide, il sacrifie le bélier à Zeus et offre sa toison au roi Æétès, qui lui donne sa fille Chalciopé pour épouse. Leurs fils joueront un rôle dans l'expédition des Argonautes.",
+        "personnages": ["phrixos", "helle", "chrysomallos", "ino", "aeetes", "zeus"],
+        "sources": ["Apollodore, Bibliothèque I, 9", "Apollonios de Rhodes, Argonautiques II", "Ovide, Fastes III"]
+      }
+    ]
+  },
+  {
+    "id": "helle",
+    "nom": "Hellé",
+    "grec": "Ἕλλη",
+    "categorie": "mortel",
+    "epithete": "Celle qui donna son nom à l'Hellespont",
+    "tags": ["mer", "mort", "voyage", "argonautes"],
+    "filiations": [
+      { "parents": ["athamas"], "principale": true, "source": "Fille d'Athamas et de Néphélé (Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "La chute dans l'Hellespont",
+        "resume": "Avec son frère Phrixos, Hellé échappe au sacrifice voulu par sa belle-mère Ino en montant sur le dos du bélier à la toison d'or. Pendant le vol au-dessus des flots, elle perd l'équilibre et tombe dans la mer, où elle se noie. Le détroit qui sépare l'Europe de l'Asie prend d'elle son nom : l'Hellespont, la « mer d'Hellé ».",
+        "personnages": ["helle", "phrixos", "chrysomallos", "ino"],
+        "sources": ["Apollodore, Bibliothèque I, 9", "Ovide, Fastes III", "Hygin, Fables 3"]
+      }
+    ]
+  },
+  {
+    "id": "pelias",
+    "nom": "Pélias",
+    "grec": "Πελίας",
+    "categorie": "mortel",
+    "epithete": "L'usurpateur d'Iolcos",
+    "tags": ["roi", "thessalie", "argonautes", "oracle", "ruse", "châtiment"],
+    "filiations": [
+      { "parents": ["poseidon"], "principale": true, "source": "Fils de Poséidon et de Tyro (Homère, Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'homme à une seule sandale",
+        "resume": "Pélias s'est emparé du trône d'Iolcos au détriment de son demi-frère Éson. Un oracle l'avertit de se méfier d'un homme chaussé d'une seule sandale. Lorsque Jason se présente, ayant perdu une sandale en traversant une rivière, Pélias reconnaît la menace. Il lui demande ce qu'il ferait d'un homme destiné à le tuer, et Jason répond qu'il l'enverrait chercher la Toison d'or. Pélias lui confie aussitôt cette mission, espérant qu'il n'en reviendra pas.",
+        "personnages": ["pelias", "jason", "hera"],
+        "sources": ["Pindare, Pythiques IV", "Apollodore, Bibliothèque I, 9", "Apollonios de Rhodes, Argonautiques I"]
+      },
+      {
+        "titre": "La mort dans le chaudron",
+        "resume": "Pendant l'absence de Jason, Pélias pousse au suicide Éson et fait périr son jeune fils. Au retour des Argonautes, Médée se charge de la vengeance. Elle persuade les filles de Pélias qu'elle peut rajeunir leur père et en fait la démonstration sur un vieux bélier. Les jeunes femmes égorgent et découpent Pélias, mais Médée ne prononce pas les charmes, et il ne revient pas à la vie. Son fils Acaste chasse ensuite Jason et Médée d'Iolcos.",
+        "personnages": ["pelias", "medee", "jason", "alceste"],
+        "sources": ["Apollodore, Bibliothèque I, 9", "Ovide, Métamorphoses VII", "Pausanias VIII, 11"]
+      }
+    ]
+  },
+  {
+    "id": "alceste",
+    "nom": "Alceste",
+    "grec": "Ἄλκηστις",
+    "categorie": "mortel",
+    "epithete": "L'épouse qui mourut pour son mari",
+    "tags": ["fidélité", "mariage", "sacrifice", "mort", "reine", "thessalie", "enfers"],
+    "filiations": [
+      { "parents": ["pelias"], "principale": true, "source": "Fille de Pélias et d'Anaxibie (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "admete", "note": "Son époux, roi de Phères" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mort à la place d'Admète",
+        "resume": "Apollon a obtenu des Moires qu'Admète échappe à la mort si quelqu'un accepte de mourir à sa place. Les vieux parents du roi refusent, mais Alceste, son épouse, se dévoue. Au jour fixé, elle fait ses adieux à ses enfants et à son mari, à qui elle fait promettre de ne pas se remarier, et rend l'âme. Héraclès, de passage et reçu par Admète malgré son deuil, apprend la vérité ; il guette Thanatos près du tombeau, lutte avec lui et ramène Alceste voilée à son époux.",
+        "personnages": ["alceste", "admete", "apollon", "heracles", "thanatos", "clotho", "lachesis", "atropos"],
+        "sources": ["Euripide, Alceste", "Apollodore, Bibliothèque I, 9"]
+      },
+      {
+        "titre": "Le retour accordé par Perséphone",
+        "resume": "Selon une autre tradition, rapportée par Apollodore et évoquée par Platon, ce n'est pas Héraclès qui ramène Alceste. Touchée par le dévouement de la jeune femme, Perséphone la renvoie elle-même parmi les vivants.",
+        "personnages": ["alceste", "persephone", "admete"],
+        "sources": ["Apollodore, Bibliothèque I, 9", "Platon, Le Banquet"]
+      }
+    ]
+  },
+  {
+    "id": "admete",
+    "nom": "Admète",
+    "grec": "Ἄδμητος",
+    "categorie": "mortel",
+    "epithete": "Roi de Phères, l'hôte d'Apollon",
+    "tags": ["roi", "thessalie", "hospitalité", "aimé des dieux", "mort", "argonautes", "chasse de calydon"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Phérès, fondateur de Phères, et de Périclymène (Apollodore)" }
+    ],
+    "unions": [
+      { "avec": "alceste", "note": "Son épouse dévouée" }
+    ],
+    "histoires": [
+      {
+        "titre": "Apollon berger d'Admète",
+        "resume": "Pour avoir tué les Cyclopes, forgerons de la foudre qui avait frappé son fils Asclépios, Apollon est condamné par Zeus à servir un mortel pendant un an. Il garde les troupeaux d'Admète, qui le traite avec bonté, et fait prospérer ses bêtes. Quand Admète demande la main d'Alceste, Pélias exige qu'il attelle à un char un lion et un sanglier ; Apollon l'y aide. Il obtient aussi des Moires, en les enivrant, qu'Admète puisse échapper à la mort si un autre consent à mourir pour lui.",
+        "personnages": ["admete", "apollon", "zeus", "asclepios", "cyclopes", "pelias", "alceste", "clotho", "lachesis", "atropos"],
+        "sources": ["Euripide, Alceste", "Apollodore, Bibliothèque I, 9 et III, 10", "Eschyle, Les Euménides"]
+      },
+      {
+        "titre": "Le sacrifice d'Alceste",
+        "resume": "Le jour venu, ni le père ni la mère d'Admète n'acceptent de mourir à sa place ; seule Alceste se dévoue. Malgré son deuil, Admète offre l'hospitalité à Héraclès sans lui révéler qui il pleure. Récompensant cette générosité, le héros arrache Alceste à Thanatos et la rend à son mari. Admète figure aussi parmi les Argonautes et les chasseurs du sanglier de Calydon.",
+        "personnages": ["admete", "alceste", "heracles", "thanatos"],
+        "sources": ["Euripide, Alceste", "Apollonios de Rhodes, Argonautiques I", "Apollodore, Bibliothèque I, 8"]
+      }
+    ]
+  },
+  {
+    "id": "lycaon",
+    "nom": "Lycaon",
+    "grec": "Λυκάων",
+    "categorie": "mortel",
+    "epithete": "Roi d'Arcadie changé en loup",
+    "symboles": ["loup"],
+    "tags": ["roi", "arcadie", "hospitalité", "châtiment", "orgueil", "transformé en animal", "sacrifice"],
+    "filiations": [
+      { "parents": [], "principale": true, "source": "Fils de Pélasgos et de Mélibée ou de Cyllène (Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le festin impie",
+        "resume": "Zeus visite l'Arcadie sous l'apparence d'un mortel pour éprouver la piété des hommes. Lycaon, roi du pays, veut vérifier si son hôte est vraiment un dieu et lui fait servir de la chair humaine, celle d'un otage ou, selon d'autres, d'un enfant de sa propre famille. Indigné, Zeus renverse la table et foudroie la demeure ; Lycaon, en fuite, est changé en loup, gardant sa sauvagerie. Chez Apollodore, ce sont ses cinquante fils impies que Zeus foudroie.",
+        "personnages": ["lycaon", "zeus", "arcas"],
+        "sources": ["Ovide, Métamorphoses I", "Apollodore, Bibliothèque III, 8", "Pausanias VIII, 2"]
+      },
+      {
+        "titre": "Le crime à l'origine du déluge",
+        "resume": "Selon Ovide et Apollodore, l'impiété de Lycaon et de sa race convainc Zeus que l'humanité est corrompue. Le roi des dieux décide de la noyer sous un déluge, auquel ne survivent que Deucalion et Pyrrha.",
+        "personnages": ["lycaon", "zeus", "deucalion", "pyrrha"],
+        "sources": ["Ovide, Métamorphoses I", "Apollodore, Bibliothèque III, 8"]
+      }
+    ]
+  },
+  {
+    "id": "erichthonios",
+    "nom": "Érichthonios",
+    "grec": "Ἐριχθόνιος",
+    "categorie": "mortel",
+    "epithete": "Roi d'Athènes né de la terre",
+    "symboles": ["serpent", "char"],
+    "tags": ["athènes", "roi", "naissance", "serpent", "fondateur", "transformé en constellation", "fête"],
+    "filiations": [
+      { "parents": ["hephaistos", "gaia"], "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La naissance d'Érichthonios",
+        "resume": "Héphaïstos, épris d'Athéna, tente de s'unir à elle, mais la déesse le repousse et sa semence tombe sur sa cuisse. Athéna l'essuie avec un flocon de laine qu'elle jette à terre, et de la Terre fécondée naît Érichthonios. Athéna recueille l'enfant, l'enferme dans un coffre et le confie aux filles de Cécrops en leur interdisant de l'ouvrir. Poussées par la curiosité, certaines soulèvent le couvercle et découvrent l'enfant enlacé par un serpent ; saisies de folie, elles se jettent du haut de l'Acropole.",
+        "personnages": ["erichthonios", "hephaistos", "athena", "gaia", "cecrops"],
+        "sources": ["Apollodore, Bibliothèque III, 14", "Euripide, Ion", "Ovide, Métamorphoses II"]
+      },
+      {
+        "titre": "Le roi d'Athènes",
+        "resume": "Élevé par Athéna dans son sanctuaire, Érichthonios chasse Amphictyon et devient roi d'Athènes. Il fait dresser sur l'Acropole la statue de bois d'Athéna et institue les Panathénées. On lui attribue l'invention du char à quatre chevaux, et la tradition le place parmi les étoiles sous la forme de la constellation du Cocher.",
+        "personnages": ["erichthonios", "athena"],
+        "sources": ["Apollodore, Bibliothèque III, 14", "Pseudo-Ératosthène, Catastérismes", "Hygin, L'Astronomie II"]
+      }
+    ]
+  },
+  {
+    "id": "cecrops",
+    "nom": "Cécrops",
+    "grec": "Κέκροψ",
+    "categorie": "mortel",
+    "epithete": "Premier roi d'Athènes, mi-homme mi-serpent",
+    "symboles": ["corps à queue de serpent", "olivier"],
+    "tags": ["athènes", "roi", "fondateur", "hybride", "serpent", "mariage", "loi"],
+    "filiations": [
+      { "parents": ["gaia"], "principale": true, "source": "Autochtone, né du sol de l'Attique (Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "La dispute d'Athéna et de Poséidon",
+        "resume": "Sous le règne de Cécrops, Athéna et Poséidon se disputent la possession de l'Attique. Poséidon frappe l'Acropole de son trident et en fait jaillir une source d'eau salée ; Athéna y fait pousser le premier olivier. Les dieux, ou selon d'autres Cécrops lui-même, attribuent la victoire à Athéna, qui devient protectrice de la cité. Irrité, Poséidon inonde la plaine de Thria.",
+        "personnages": ["cecrops", "athena", "poseidon", "zeus"],
+        "sources": ["Apollodore, Bibliothèque III, 14", "Hérodote VIII, 55", "Ovide, Métamorphoses VI"]
+      },
+      {
+        "titre": "Le roi civilisateur",
+        "resume": "Né de la terre avec un corps mi-humain, mi-serpent, Cécrops est le premier roi de l'Attique, qu'il appelle Cécropie. La tradition lui attribue l'institution du mariage monogame, l'ensevelissement des morts et le remplacement des sacrifices sanglants par des offrandes de gâteaux. Ses filles Aglaure, Hersé et Pandrose reçoivent en garde le coffre contenant le petit Érichthonios.",
+        "personnages": ["cecrops", "erichthonios", "athena", "zeus"],
+        "sources": ["Apollodore, Bibliothèque III, 14", "Pausanias I et VIII, 2"]
+      }
+    ]
+  },
+  {
+    "id": "hellen",
+    "nom": "Hellen",
+    "grec": "Ἕλλην",
+    "categorie": "mortel",
+    "epithete": "Ancêtre éponyme des Hellènes",
+    "tags": ["fondateur", "roi", "thessalie", "famille"],
+    "filiations": [
+      { "parents": ["deucalion", "pyrrha"], "principale": true },
+      { "parents": ["zeus", "pyrrha"], "source": "Selon certains, cités par Apollodore" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'ancêtre des Grecs",
+        "resume": "Fils aîné de Deucalion et de Pyrrha, survivants du déluge, Hellen règne en Thessalie, dans la région de Phthie. Il donne son nom aux Hellènes, appellation commune de tous les Grecs. De la nymphe Orséis, il a trois fils : Doros, Xouthos et Éole. Doros et Éole deviennent les ancêtres des Doriens et des Éoliens, et Xouthos, par ses fils Ion et Achaïos, celui des Ioniens et des Achéens.",
+        "personnages": ["hellen", "deucalion", "pyrrha"],
+        "sources": ["Apollodore, Bibliothèque I, 7", "Hésiode, Catalogue des femmes (fragments)", "Thucydide I, 3"]
+      }
+    ]
+  }
+]

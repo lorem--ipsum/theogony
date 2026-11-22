@@ -1,0 +1,1377 @@
+[
+  {
+    "id": "persephone",
+    "nom": "Perséphone",
+    "grec": "Περσεφόνη",
+    "romain": "Proserpine",
+    "categorie": "dieu",
+    "epithete": "Corè, la Jeune Fille, reine des Enfers",
+    "domaines": ["enfers", "printemps", "renouveau de la végétation"],
+    "symboles": ["grenade", "torche", "épis de blé", "narcisse"],
+    "tags": ["enfers", "moisson", "fertilité", "enlèvement", "mystères d'éleusis", "mystères", "reine", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "demeter"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "hades", "note": "époux, son ravisseur" },
+      { "avec": "zeus", "note": "père de Zagreus dans la tradition orphique" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'enlèvement de Corè",
+        "resume": "Alors qu'elle cueillait des fleurs dans une prairie avec les Océanides, la jeune Corè tend la main vers un narcisse merveilleux que Gaïa avait fait pousser à l'intention d'Hadès. La terre s'ouvre aussitôt et le maître des morts surgit sur son char pour l'emporter dans son royaume souterrain, avec l'accord de Zeus. Seules Hécate et Hélios entendent ses cris. Déméter, désespérée, parcourt le monde pendant neuf jours, torches en main, à la recherche de sa fille.",
+        "personnages": ["persephone", "hades", "zeus", "demeter", "hecate", "helios", "oceanides", "gaia"],
+        "sources": ["Hymne homérique à Déméter", "Ovide, Métamorphoses V", "Apollodore, Bibliothèque I"]
+      },
+      {
+        "titre": "Les grains de grenade",
+        "resume": "Pour punir les dieux, Déméter refuse de laisser germer les semences, et la famine menace l'humanité entière. Zeus envoie Hermès chercher Perséphone chez Hadès. Avant son départ, le roi des Enfers lui fait manger quelques grains de grenade, ce qui la lie à jamais au monde souterrain. Un compromis est trouvé : elle passera une partie de l'année auprès de son époux et le reste auprès de sa mère, et son retour chaque printemps ramène la croissance des plantes.",
+        "personnages": ["persephone", "hades", "demeter", "zeus", "hermes", "rhea"],
+        "sources": ["Hymne homérique à Déméter", "Ovide, Métamorphoses V", "Apollodore, Bibliothèque I"]
+      },
+      {
+        "titre": "La querelle pour Adonis",
+        "resume": "Aphrodite confie le petit Adonis, enfermé dans un coffre, à la garde de Perséphone. Séduite par la beauté de l'enfant, la reine des Enfers refuse de le rendre. Zeus tranche le différend en partageant l'année : Adonis passera un tiers du temps avec Perséphone, un tiers avec Aphrodite et le dernier tiers où il le souhaite. Le jeune homme choisit de donner sa part à Aphrodite.",
+        "personnages": ["persephone", "aphrodite", "adonis", "zeus"],
+        "sources": ["Apollodore, Bibliothèque III", "Panyassis (cité par Apollodore)"]
+      },
+      {
+        "titre": "Orphée devant le trône des morts",
+        "resume": "Descendu vivant aux Enfers pour reprendre son épouse Eurydice, Orphée chante devant Hadès et Perséphone. Sa musique émeut tant les souverains des ombres qu'ils consentent à laisser partir la jeune femme. Ils posent une seule condition : Orphée ne devra pas se retourner avant d'avoir regagné la lumière. Il échoue au dernier moment et perd Eurydice pour toujours.",
+        "personnages": ["persephone", "hades", "orphee", "eurydice"],
+        "sources": ["Virgile, Géorgiques IV", "Ovide, Métamorphoses X"]
+      }
+    ]
+  },
+  {
+    "id": "hecate",
+    "nom": "Hécate",
+    "grec": "Ἑκάτη",
+    "romain": "Trivia",
+    "categorie": "dieu",
+    "epithete": "la déesse des carrefours, porteuse de torches",
+    "domaines": ["magie", "carrefours", "nuit", "seuils", "fantômes"],
+    "symboles": ["torches", "chiens", "clés", "triple forme"],
+    "tags": ["magie", "sorcellerie", "nuit", "lune", "enfers", "mystères", "triade", "immortel"],
+    "filiations": [
+      { "parents": ["perses", "asteria"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["nyx"], "source": "Bacchylide, fragment" },
+      { "parents": ["zeus", "demeter"], "source": "Scholie à Apollonios de Rhodes (tradition locale)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les honneurs accordés par Zeus",
+        "resume": "Hésiode consacre un long passage à Hécate, qu'il présente comme une déesse honorée par Zeus au-dessus de toutes les autres. Bien que fille de Titans, elle conserve après la victoire des Olympiens toutes les prérogatives qu'elle possédait sur la terre, la mer et le ciel. Elle accorde à son gré la victoire au combat, le succès dans les assemblées, l'abondance des troupeaux et la prise des pêcheurs. Elle est aussi nourricière des jeunes enfants.",
+        "personnages": ["hecate", "zeus", "perses", "asteria"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Compagne de Déméter et de Perséphone",
+        "resume": "Depuis sa grotte, Hécate entend les cris de Corè enlevée, sans voir le ravisseur. Elle rejoint Déméter, torche à la main, et l'accompagne auprès d'Hélios, qui leur révèle le rôle d'Hadès. Lorsque Perséphone revient enfin auprès de sa mère, Hécate l'accueille avec tendresse et devient dès lors sa suivante et sa compagne.",
+        "personnages": ["hecate", "demeter", "persephone", "helios", "hades"],
+        "sources": ["Hymne homérique à Déméter"]
+      },
+      {
+        "titre": "La patronne de Médée",
+        "resume": "Médée, la princesse de Colchide, est prêtresse d'Hécate et tient d'elle sa science des herbes et des charmes. Pour aider Jason à affronter les épreuves imposées par Æétès, elle lui enseigne un rituel nocturne : un sacrifice offert à Hécate au bord d'un fleuve, sans se retourner au départ. La déesse apparaît, entourée de serpents et de chiens aboyants, et accepte l'offrande.",
+        "personnages": ["hecate", "medee", "jason", "aeetes"],
+        "sources": ["Apollonios de Rhodes, Argonautiques III", "Ovide, Métamorphoses VII"]
+      },
+      {
+        "titre": "Hécate dans la gigantomachie",
+        "resume": "Lors de la guerre des dieux contre les Géants, Hécate prend part au combat aux côtés des Olympiens. Armée de ses torches, elle abat le Géant Clytios. Cet épisode illustre la fidélité de la déesse à l'ordre de Zeus malgré son ascendance titanique.",
+        "personnages": ["hecate", "geants", "zeus"],
+        "sources": ["Apollodore, Bibliothèque I"]
+      }
+    ]
+  },
+  {
+    "id": "hebe",
+    "nom": "Hébé",
+    "grec": "Ἥβη",
+    "romain": "Juventas",
+    "categorie": "dieu",
+    "epithete": "déesse de la jeunesse, échanson des dieux",
+    "domaines": ["jeunesse"],
+    "symboles": ["coupe", "aiguière", "ambroisie"],
+    "tags": ["jeunesse", "mariage", "olympe", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "hera"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "heracles", "note": "épouse du héros divinisé" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'épouse d'Héraclès divinisé",
+        "resume": "Après sa mort sur le bûcher de l'Œta, Héraclès est accueilli parmi les immortels. Héra se réconcilie avec lui et lui donne sa fille Hébé pour épouse. Le héros, qui a enduré tant d'épreuves, goûte désormais une jeunesse éternelle sur l'Olympe à ses côtés.",
+        "personnages": ["hebe", "heracles", "hera", "zeus"],
+        "sources": ["Homère, Odyssée XI", "Hésiode, Théogonie", "Apollodore, Bibliothèque II"]
+      },
+      {
+        "titre": "Le rajeunissement d'Iolaos",
+        "resume": "Devenu vieux, Iolaos, compagnon d'Héraclès, veut défendre les enfants du héros contre Eurysthée. Il supplie Hébé de lui rendre pour un jour la vigueur de sa jeunesse. La déesse exauce sa prière, et Iolaos, redevenu jeune homme, remporte la victoire.",
+        "personnages": ["hebe", "iolaos", "heracles"],
+        "sources": ["Euripide, Les Héraclides", "Ovide, Métamorphoses IX"]
+      }
+    ]
+  },
+  {
+    "id": "eileithyia",
+    "nom": "Ilithyie",
+    "grec": "Εἰλείθυια",
+    "romain": "Lucina",
+    "categorie": "dieu",
+    "epithete": "déesse des accouchements",
+    "domaines": ["accouchement", "naissance"],
+    "symboles": ["torche"],
+    "tags": ["naissance", "famille", "personnification", "délos", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "hera"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La naissance d'Apollon retardée",
+        "resume": "Jalouse de Léto, Héra retient Ilithyie sur l'Olympe pour l'empêcher d'assister la Titanide. Léto souffre pendant neuf jours et neuf nuits à Délos. Les autres déesses envoient Iris promettre à Ilithyie un grand collier d'or. Dès qu'Ilithyie pose le pied sur l'île, Léto donne naissance à Apollon au pied d'un palmier.",
+        "personnages": ["eileithyia", "hera", "leto", "apollon", "iris"],
+        "sources": ["Hymne homérique à Apollon"]
+      },
+      {
+        "titre": "La naissance d'Héraclès",
+        "resume": "Héra, voulant priver Héraclès de la royauté promise par Zeus, ordonne aux Ilithyies de retarder son accouchement. La déesse s'assied devant la porte d'Alcmène, jambes et doigts croisés, et le travail se prolonge. Selon Ovide, une servante rusée annonce faussement la naissance ; surprise, la déesse se lève et Héraclès vient au monde.",
+        "personnages": ["eileithyia", "hera", "alcmene", "heracles", "zeus"],
+        "sources": ["Homère, Iliade XIX", "Ovide, Métamorphoses IX"]
+      }
+    ]
+  },
+  {
+    "id": "enyo",
+    "nom": "Ényo",
+    "grec": "Ἐνυώ",
+    "romain": "Bellone",
+    "categorie": "dieu",
+    "epithete": "dévastatrice des cités",
+    "domaines": ["guerre", "massacre"],
+    "tags": ["guerre", "combat", "personnification", "guerre de troie", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "hera"], "source": "Tradition tardive (Cornutus)", "principale": true }
+    ],
+    "unions": [
+      { "avec": "ares", "note": "compagne de combat, parfois dite sa mère ou sa sœur" }
+    ],
+    "histoires": [
+      {
+        "titre": "Aux côtés d'Arès devant Troie",
+        "resume": "Dans l'Iliade, Ényo mène les Troyens au combat avec Arès, apportant le tumulte sanglant de la mêlée. Diomède, en blessant Aphrodite, lui rappelle qu'elle n'est ni Athéna ni Ényo, déesses qui règnent sur la guerre. Ényo incarne la fureur aveugle du carnage plutôt que la stratégie.",
+        "personnages": ["enyo", "ares", "diomede", "aphrodite", "athena"],
+        "sources": ["Homère, Iliade V"]
+      }
+    ]
+  },
+  {
+    "id": "eris",
+    "nom": "Éris",
+    "grec": "Ἔρις",
+    "romain": "Discordia",
+    "categorie": "dieu",
+    "epithete": "la Discorde",
+    "domaines": ["discorde", "rivalité", "querelle"],
+    "symboles": ["pomme d'or"],
+    "tags": ["discorde", "guerre", "jalousie", "guerre de troie", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["zeus", "hera"], "source": "Homère, Iliade IV (sœur d'Arès)" }
+    ],
+    "histoires": [
+      {
+        "titre": "La pomme de discorde",
+        "resume": "Seule divinité non conviée aux noces de Pélée et de Thétis, Éris se venge en jetant parmi les invités une pomme d'or portant l'inscription « à la plus belle ». Héra, Athéna et Aphrodite se disputent aussitôt le fruit. Zeus confie le jugement au berger troyen Pâris, qui choisit Aphrodite en échange de la plus belle des femmes. Ce choix entraîne l'enlèvement d'Hélène et la guerre de Troie.",
+        "personnages": ["eris", "pelee", "thetis", "hera", "athena", "aphrodite", "paris", "helene", "zeus", "hermes"],
+        "sources": ["Chants cypriens (résumé de Proclos)", "Apollodore, Épitomé", "Hygin, Fables"]
+      },
+      {
+        "titre": "Les deux Éris",
+        "resume": "Hésiode distingue deux Éris. La première, cruelle, fait naître les guerres et les querelles funestes. La seconde, aînée et bienfaisante, pousse les hommes à rivaliser au travail : le potier envie le potier, et le laboureur peine pour égaler son voisin. Le poète exhorte son frère Persès à suivre la bonne Éris.",
+        "personnages": ["eris", "nyx"],
+        "sources": ["Hésiode, Les Travaux et les Jours"]
+      },
+      {
+        "titre": "Éris sur le champ de bataille",
+        "resume": "Dans l'Iliade, Éris est d'abord minuscule puis grandit jusqu'à toucher le ciel de la tête tout en marchant sur la terre. Zeus l'envoie un jour vers les nefs achéennes, brandissant un signe de guerre. Elle pousse un cri terrible qui ranime chez les Grecs l'ardeur au combat. Elle se réjouit seule parmi les dieux du carnage.",
+        "personnages": ["eris", "zeus", "ares"],
+        "sources": ["Homère, Iliade IV", "Homère, Iliade XI"]
+      }
+    ]
+  },
+  {
+    "id": "nike",
+    "nom": "Niké",
+    "grec": "Νίκη",
+    "romain": "Victoria",
+    "categorie": "dieu",
+    "epithete": "la Victoire ailée",
+    "domaines": ["victoire"],
+    "symboles": ["ailes", "couronne de laurier", "palme"],
+    "tags": ["victoire", "titanomachie", "ailé", "personnification", "olympe", "immortel"],
+    "filiations": [
+      { "parents": ["pallas-titan", "styx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "L'alliance de Styx avec Zeus",
+        "resume": "Au début de la guerre contre les Titans, Zeus promet de conserver leurs honneurs à tous les dieux qui combattront à ses côtés. Styx, sur le conseil de son père Océan, accourt la première avec ses quatre enfants : Niké, Kratos, Bia et Zélos. Zeus récompense cette fidélité en faisant de ces enfants ses compagnons permanents, qui ne le quittent jamais.",
+        "personnages": ["nike", "styx", "kratos", "bia", "zelos", "zeus", "oceanos"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque I"]
+      },
+      {
+        "titre": "Niké et Athéna",
+        "resume": "À Athènes, la Victoire est étroitement associée à Athéna, au point que la déesse porte le titre d'Athéna Niké. La grande statue chryséléphantine du Parthénon tenait Niké dans sa main. Un petit temple lui était dédié à l'entrée de l'Acropole.",
+        "personnages": ["nike", "athena"],
+        "sources": ["Pausanias, Description de la Grèce I"]
+      }
+    ]
+  },
+  {
+    "id": "kratos",
+    "nom": "Kratos",
+    "grec": "Κράτος",
+    "categorie": "dieu",
+    "epithete": "la Force, la Puissance",
+    "domaines": ["puissance", "pouvoir souverain"],
+    "tags": ["personnification", "royauté", "châtiment", "titanomachie", "immortel"],
+    "filiations": [
+      { "parents": ["pallas-titan", "styx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "L'enchaînement de Prométhée",
+        "resume": "Sur l'ordre de Zeus, Kratos et Bia conduisent Prométhée jusqu'aux rochers du Caucase. Kratos presse Héphaïstos, réticent, de river le Titan à la montagne. Il se montre impitoyable et raille le bienfaiteur des hommes, incarnant la brutalité du nouveau pouvoir de Zeus.",
+        "personnages": ["kratos", "bia", "promethee", "hephaistos", "zeus"],
+        "sources": ["Eschyle, Prométhée enchaîné"]
+      }
+    ]
+  },
+  {
+    "id": "bia",
+    "nom": "Bia",
+    "grec": "Βία",
+    "categorie": "dieu",
+    "epithete": "la Violence, la Contrainte",
+    "domaines": ["force physique", "contrainte"],
+    "tags": ["personnification", "châtiment", "titanomachie", "immortel"],
+    "filiations": [
+      { "parents": ["pallas-titan", "styx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La gardienne muette de Prométhée",
+        "resume": "Bia accompagne son frère Kratos lorsqu'ils mènent Prométhée au supplice. Dans la tragédie d'Eschyle, elle reste silencieuse tout au long de la scène. Sa présence suffit à signifier la contrainte qui s'abat sur le Titan rebelle.",
+        "personnages": ["bia", "kratos", "promethee", "hephaistos"],
+        "sources": ["Eschyle, Prométhée enchaîné"]
+      }
+    ]
+  },
+  {
+    "id": "zelos",
+    "nom": "Zélos",
+    "grec": "Ζῆλος",
+    "categorie": "dieu",
+    "epithete": "l'Ardeur, l'Émulation",
+    "domaines": ["zèle", "émulation", "rivalité"],
+    "tags": ["personnification", "jalousie", "titanomachie", "immortel"],
+    "filiations": [
+      { "parents": ["pallas-titan", "styx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Compagnon perpétuel de Zeus",
+        "resume": "Avec Niké, Kratos et Bia, Zélos est conduit par sa mère Styx dans le camp de Zeus au début de la titanomachie. En récompense, Zeus décide que ces quatre enfants habiteront toujours auprès de lui. Ils n'ont aucune demeure ni aucun chemin qui ne soit celui du roi des dieux.",
+        "personnages": ["zelos", "styx", "nike", "kratos", "bia", "zeus"],
+        "sources": ["Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "iris",
+    "nom": "Iris",
+    "grec": "Ἶρις",
+    "romain": "Iris",
+    "categorie": "dieu",
+    "epithete": "messagère aux pieds rapides, l'arc-en-ciel",
+    "domaines": ["arc-en-ciel", "messages divins"],
+    "symboles": ["arc-en-ciel", "caducée", "ailes", "aiguière"],
+    "tags": ["messager", "ciel", "ailé", "olympe", "serment", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["thaumas", "electre-oceanide"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "zephyr", "note": "mère d'Éros selon Alcée" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'eau du Styx",
+        "resume": "Lorsqu'une querelle ou un mensonge survient parmi les immortels, Zeus envoie Iris puiser au loin, dans une aiguière d'or, l'eau glacée du Styx. Le dieu qui se parjure en versant cette eau tombe dans une torpeur sans souffle pendant une année entière. Il est ensuite exclu durant neuf ans des conseils et des banquets des dieux.",
+        "personnages": ["iris", "zeus", "styx"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Iris et les Harpies",
+        "resume": "Les fils de Borée, Zétès et Calaïs, poursuivent les Harpies qui tourmentaient le devin Phinée. Au moment où ils vont les tuer, Iris intervient. Elle leur fait comprendre qu'il n'est pas permis de frapper les chiennes de Zeus et jure par le Styx que les Harpies ne reviendront plus importuner Phinée. Les Boréades renoncent alors à leur poursuite.",
+        "personnages": ["iris", "harpies", "zetes", "calais", "zeus"],
+        "sources": ["Apollonios de Rhodes, Argonautiques II"]
+      }
+    ]
+  },
+  {
+    "id": "harmonie",
+    "nom": "Harmonie",
+    "grec": "Ἁρμονία",
+    "romain": "Concordia",
+    "categorie": "dieu",
+    "epithete": "reine de Thèbes",
+    "domaines": ["harmonie", "concorde"],
+    "symboles": ["collier", "péplos"],
+    "tags": ["mariage", "thèbes", "cycle thébain", "reine", "malédiction", "transformé en animal", "serpent"],
+    "filiations": [
+      { "parents": ["ares", "aphrodite"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "cadmos", "note": "époux, fondateur de Thèbes" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les noces de Cadmos et d'Harmonie",
+        "resume": "Après la fondation de Thèbes, Zeus donne Harmonie pour épouse à Cadmos. Tous les dieux descendent de l'Olympe pour assister aux noces et apportent des présents. Cadmos offre à son épouse un péplos et un collier forgé par Héphaïstos. Ce collier maudit passera de génération en génération et portera malheur à tous ceux qui le posséderont.",
+        "personnages": ["harmonie", "cadmos", "zeus", "hephaistos", "aphrodite"],
+        "sources": ["Apollodore, Bibliothèque III", "Pindare, Pythiques III", "Diodore de Sicile, Bibliothèque historique V"]
+      },
+      {
+        "titre": "La métamorphose en serpents",
+        "resume": "Accablés par les malheurs de leurs descendants, Cadmos et Harmonie quittent Thèbes et s'exilent en Illyrie. Cadmos se demande si le serpent qu'il avait tué jadis n'était pas sacré et souhaite devenir serpent à son tour. Il est aussitôt transformé, et Harmonie, l'enlaçant, demande à partager son sort. Les deux époux, devenus serpents, gagnent ensuite les Champs Élysées selon certaines traditions.",
+        "personnages": ["harmonie", "cadmos", "ares"],
+        "sources": ["Ovide, Métamorphoses IV", "Apollodore, Bibliothèque III"]
+      }
+    ]
+  },
+  {
+    "id": "phobos",
+    "nom": "Phobos",
+    "grec": "Φόβος",
+    "romain": "Timor",
+    "categorie": "dieu",
+    "epithete": "la Peur, la Déroute",
+    "domaines": ["peur", "fuite au combat"],
+    "tags": ["guerre", "combat", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["ares", "aphrodite"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Les cochers d'Arès",
+        "resume": "Phobos et son frère Déimos accompagnent leur père Arès dans la mêlée et mettent en déroute les rangs des guerriers. Lorsque Arès apprend la mort de son fils Ascalaphos, il ordonne à Phobos et Déimos d'atteler ses chevaux pour courir le venger. Sur le bouclier d'Héraclès décrit par Hésiode, Phobos figure au centre, le regard flamboyant.",
+        "personnages": ["phobos", "deimos", "ares"],
+        "sources": ["Homère, Iliade XV", "Hésiode, Théogonie", "Pseudo-Hésiode, Le Bouclier d'Héraclès"]
+      }
+    ]
+  },
+  {
+    "id": "deimos",
+    "nom": "Déimos",
+    "grec": "Δεῖμος",
+    "romain": "Pavor",
+    "categorie": "dieu",
+    "epithete": "la Terreur",
+    "domaines": ["terreur", "effroi"],
+    "tags": ["guerre", "combat", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["ares", "aphrodite"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La terreur des batailles",
+        "resume": "Hésiode décrit Déimos et Phobos comme des dieux terribles qui, avec Arès destructeur de cités, bousculent les épaisses phalanges dans la guerre glacée. Dans l'Iliade, ils accompagnent Athéna et Arès qui excitent les deux armées. Déimos incarne l'effroi qui paralyse le guerrier avant la fuite.",
+        "personnages": ["deimos", "phobos", "ares", "athena"],
+        "sources": ["Hésiode, Théogonie", "Homère, Iliade IV"]
+      }
+    ]
+  },
+  {
+    "id": "pan",
+    "nom": "Pan",
+    "grec": "Πάν",
+    "romain": "Faunus",
+    "categorie": "dieu",
+    "epithete": "dieu des bergers, aux pieds de bouc",
+    "domaines": ["bergers", "troupeaux", "nature sauvage", "musique pastorale", "panique"],
+    "symboles": ["flûte de Pan (syrinx)", "cornes et pattes de bouc", "houlette"],
+    "tags": ["bergers", "nature", "montagne", "musique", "arcadie", "hybride", "désir", "immortel"],
+    "filiations": [
+      { "parents": ["hermes"], "source": "Hymne homérique à Pan (mère : une nymphe, fille de Dryops)", "principale": true },
+      { "parents": ["hermes", "penelope"], "source": "Hérodote, Histoires II" },
+      { "parents": ["zeus", "callisto"], "source": "Épiménide (cité par les scholiastes)" }
+    ],
+    "unions": [
+      { "avec": "syrinx", "note": "nymphe poursuivie, changée en roseaux" },
+      { "avec": "echo", "note": "aimée en vain dans certaines versions" }
+    ],
+    "histoires": [
+      {
+        "titre": "Une naissance qui fit rire les dieux",
+        "resume": "La nymphe aimée d'Hermès met au monde un enfant aux pieds de bouc, cornu et barbu, qui rit dès sa naissance. Effrayée par son apparence, la nourrice s'enfuit. Hermès, ravi, enveloppe l'enfant dans une peau de lièvre et le porte sur l'Olympe. Tous les dieux, Dionysos le premier, se réjouissent à sa vue, et on le nomme Pan parce qu'il a charmé tous les cœurs.",
+        "personnages": ["pan", "hermes", "dionysos"],
+        "sources": ["Hymne homérique à Pan"]
+      },
+      {
+        "titre": "Syrinx et la flûte",
+        "resume": "Pan s'éprend de la nymphe arcadienne Syrinx, chasseresse vouée à la chasteté comme Artémis. Elle s'enfuit et, arrêtée par le fleuve Ladon, supplie ses sœurs de la transformer. Au moment où Pan croit la saisir, il n'étreint que des roseaux. Le souffle du vent dans les tiges produit un son plaintif ; Pan assemble des roseaux de longueurs inégales et invente ainsi la flûte qui porte le nom de la nymphe.",
+        "personnages": ["pan", "syrinx", "artemis", "naiades"],
+        "sources": ["Ovide, Métamorphoses I"]
+      },
+      {
+        "titre": "Le concours avec Apollon",
+        "resume": "Fier de sa musique rustique, Pan ose se mesurer à Apollon devant le dieu de la montagne Tmolos. Après la flûte de Pan, Apollon joue de la lyre et Tmolos lui accorde la victoire. Seul Midas conteste ce verdict. Pour le punir, Apollon lui donne des oreilles d'âne.",
+        "personnages": ["pan", "apollon", "midas"],
+        "sources": ["Ovide, Métamorphoses XI"]
+      },
+      {
+        "titre": "Pan à Marathon",
+        "resume": "Avant la bataille de Marathon, le coureur athénien Philippidès, envoyé à Sparte, rencontre Pan sur le mont Parthénion. Le dieu lui demande pourquoi les Athéniens ne l'honorent pas, alors qu'il leur a souvent été favorable. Après la victoire, les Athéniens lui consacrent un sanctuaire sous l'Acropole. On lui attribuait la terreur soudaine qui avait saisi les Perses, la panique.",
+        "personnages": ["pan"],
+        "sources": ["Hérodote, Histoires VI", "Pausanias, Description de la Grèce I"]
+      }
+    ]
+  },
+  {
+    "id": "priape",
+    "nom": "Priape",
+    "grec": "Πρίαπος",
+    "romain": "Priapus",
+    "categorie": "dieu",
+    "epithete": "gardien des jardins",
+    "domaines": ["fertilité", "jardins", "vergers", "troupeaux"],
+    "symboles": ["phallus", "serpe", "âne"],
+    "tags": ["fertilité", "désir", "agriculture", "nature", "immortel"],
+    "filiations": [
+      { "parents": ["dionysos", "aphrodite"], "source": "Pausanias, Description de la Grèce IX ; Diodore de Sicile", "principale": true },
+      { "parents": ["hermes"], "source": "Hygin (variante)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Priape et Hestia",
+        "resume": "Lors d'une fête champêtre donnée par Cybèle, Hestia s'endort à l'écart. Priape, la croyant seule, s'approche d'elle en silence. Mais l'âne de Silène se met à braire, et la déesse réveillée appelle à l'aide. Priape s'enfuit, couvert de ridicule, et c'est depuis lors qu'on lui sacrifie un âne.",
+        "personnages": ["priape", "hestia", "silene"],
+        "sources": ["Ovide, Fastes VI"]
+      }
+    ]
+  },
+  {
+    "id": "asclepios",
+    "nom": "Asclépios",
+    "grec": "Ἀσκληπιός",
+    "romain": "Esculape",
+    "categorie": "dieu",
+    "epithete": "le dieu guérisseur",
+    "domaines": ["médecine", "guérison"],
+    "symboles": ["bâton entouré d'un serpent", "coq", "chien"],
+    "tags": ["médecine", "guérison", "serpent", "divinisé", "châtiment", "foudre", "transformé en constellation"],
+    "filiations": [
+      { "parents": ["apollon"], "source": "Pindare, Pythiques III (mère : Coronis)", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Arraché au bûcher de sa mère",
+        "resume": "La princesse thessalienne Coronis, enceinte d'Apollon, s'unit à un mortel. Averti, selon Ovide, par un corbeau, le dieu fait périr l'infidèle sous les flèches d'Artémis ou les siennes. Pris de remords au moment où le corps brûle sur le bûcher, Apollon arrache l'enfant du sein de sa mère. Il le confie ensuite au centaure Chiron.",
+        "personnages": ["asclepios", "apollon", "artemis", "chiron"],
+        "sources": ["Pindare, Pythiques III", "Ovide, Métamorphoses II", "Apollodore, Bibliothèque III"]
+      },
+      {
+        "titre": "L'élève de Chiron",
+        "resume": "Dans la grotte du mont Pélion, Chiron enseigne à Asclépios l'art de soigner les plaies, d'apaiser les fièvres et de préparer les remèdes. L'élève dépasse bientôt son maître. Athéna lui aurait donné le sang de la Gorgone : celui des veines gauches était un poison mortel, celui des veines droites rendait la vie.",
+        "personnages": ["asclepios", "chiron", "athena", "meduse"],
+        "sources": ["Pindare, Pythiques III", "Apollodore, Bibliothèque III"]
+      },
+      {
+        "titre": "Foudroyé pour avoir ressuscité les morts",
+        "resume": "Asclépios ne se contente plus de guérir : il ramène des morts à la vie, parmi lesquels Hippolyte, fils de Thésée. Craignant que les hommes n'échappent au trépas, ou à la demande d'Hadès qui voit son royaume se dépeupler, Zeus le foudroie. Asclépios est ensuite placé parmi les astres sous la forme du Serpentaire.",
+        "personnages": ["asclepios", "zeus", "hippolytos", "hades"],
+        "sources": ["Apollodore, Bibliothèque III", "Pindare, Pythiques III", "Ératosthène, Catastérismes"]
+      },
+      {
+        "titre": "La vengeance d'Apollon",
+        "resume": "Furieux de la mort de son fils, Apollon tue les Cyclopes qui forgeaient la foudre de Zeus. Pour ce crime, Zeus le condamne à servir un mortel pendant un an. Apollon devient le berger d'Admète, roi de Phères en Thessalie, qu'il comble de bienfaits.",
+        "personnages": ["apollon", "asclepios", "cyclopes", "zeus", "admete"],
+        "sources": ["Euripide, Alceste", "Apollodore, Bibliothèque III"]
+      }
+    ]
+  },
+  {
+    "id": "hygie",
+    "nom": "Hygie",
+    "grec": "Ὑγίεια",
+    "romain": "Salus",
+    "categorie": "dieu",
+    "epithete": "la Santé",
+    "domaines": ["santé", "hygiène", "prévention des maladies"],
+    "symboles": ["serpent", "coupe"],
+    "tags": ["médecine", "guérison", "serpent", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["asclepios"], "source": "Pausanias, Description de la Grèce", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La compagne du dieu guérisseur",
+        "resume": "Hygie est honorée dans les sanctuaires d'Asclépios, à Épidaure, Athènes ou Titanè, où sa statue se dresse souvent près de celle de son père. Elle est représentée nourrissant un serpent dans une coupe. Elle est invoquée avec Asclépios et sa sœur Panacée dans le serment attribué à Hippocrate.",
+        "personnages": ["hygie", "asclepios", "apollon"],
+        "sources": ["Pausanias, Description de la Grèce II", "Serment d'Hippocrate"]
+      }
+    ]
+  },
+  {
+    "id": "morphee",
+    "nom": "Morphée",
+    "grec": "Μορφεύς",
+    "categorie": "dieu",
+    "epithete": "celui qui façonne les formes des rêves",
+    "domaines": ["rêves", "apparitions humaines en songe"],
+    "symboles": ["ailes", "pavot"],
+    "tags": ["rêves", "sommeil", "nuit", "messager", "ailé", "immortel"],
+    "filiations": [
+      { "parents": ["hypnos"], "source": "Ovide, Métamorphoses XI", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Le songe d'Alcyone",
+        "resume": "Le roi Céyx a péri en mer, et son épouse Alcyone prie sans relâche pour son retour. Junon envoie Iris dans la grotte obscure du Sommeil pour qu'un songe révèle la vérité à la reine. Hypnos choisit parmi ses mille fils Morphée, le plus habile à imiter la démarche, le visage et la voix des hommes. Morphée apparaît à Alcyone sous les traits de Céyx noyé, ruisselant d'eau, et lui annonce sa mort.",
+        "personnages": ["morphee", "hypnos", "iris", "hera"],
+        "sources": ["Ovide, Métamorphoses XI"]
+      }
+    ]
+  },
+  {
+    "id": "hypnos",
+    "nom": "Hypnos",
+    "grec": "Ὕπνος",
+    "romain": "Somnus",
+    "categorie": "dieu",
+    "epithete": "le Sommeil, frère de la Mort",
+    "domaines": ["sommeil"],
+    "symboles": ["pavot", "corne", "ailes", "branche trempée dans le Léthé"],
+    "tags": ["sommeil", "nuit", "rêves", "ruse", "personnification", "ailé", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["nyx", "erebe"], "source": "Hygin, Fables (préface)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Zeus endormi sur l'Ida",
+        "resume": "Pour aider les Grecs devant Troie, Héra décide de détourner l'attention de Zeus. Elle demande à Hypnos d'endormir son époux, mais celui-ci hésite, car une première tentative lui avait presque coûté la vie. Héra lui promet alors la main de Pasithée, l'une des Charites. Hypnos accepte, se cache dans un pin sous la forme d'un oiseau et plonge Zeus dans le sommeil après son étreinte avec Héra.",
+        "personnages": ["hypnos", "hera", "zeus", "poseidon"],
+        "sources": ["Homère, Iliade XIV"]
+      },
+      {
+        "titre": "Réfugié auprès de sa mère Nyx",
+        "resume": "Autrefois, à la demande d'Héra, Hypnos avait endormi Zeus pendant qu'Héraclès quittait Troie, permettant à la déesse de déchaîner une tempête contre le héros. À son réveil, Zeus, furieux, cherche Hypnos pour le précipiter dans la mer. Le Sommeil ne doit son salut qu'à Nyx, chez qui il se réfugie : Zeus n'ose pas offenser la Nuit.",
+        "personnages": ["hypnos", "zeus", "hera", "heracles", "nyx"],
+        "sources": ["Homère, Iliade XIV"]
+      },
+      {
+        "titre": "Le corps de Sarpédon",
+        "resume": "Lorsque Sarpédon, fils de Zeus, tombe sous les coups de Patrocle, Zeus ordonne à Apollon de laver son corps. Il le confie ensuite aux jumeaux Hypnos et Thanatos. Les deux frères le transportent jusqu'en Lycie, sa patrie, pour que les siens lui rendent les honneurs funèbres.",
+        "personnages": ["hypnos", "thanatos", "sarpedon", "zeus", "apollon", "patrocle"],
+        "sources": ["Homère, Iliade XVI"]
+      }
+    ]
+  },
+  {
+    "id": "thanatos",
+    "nom": "Thanatos",
+    "grec": "Θάνατος",
+    "romain": "Mors",
+    "categorie": "dieu",
+    "epithete": "la Mort",
+    "domaines": ["mort paisible"],
+    "symboles": ["torche renversée", "ailes", "épée"],
+    "tags": ["mort", "enfers", "nuit", "personnification", "ailé", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Thanatos enchaîné par Sisyphe",
+        "resume": "Lorsque Zeus envoie Thanatos chercher Sisyphe, le rusé roi de Corinthe parvient à enchaîner la Mort. Plus personne ne meurt sur la terre. Arès, mécontent de voir les guerres sans victimes, finit par délivrer Thanatos et lui livre Sisyphe.",
+        "personnages": ["thanatos", "sisyphe", "ares", "zeus"],
+        "sources": ["Phérécyde (cité par les scholiastes d'Homère)"]
+      },
+      {
+        "titre": "La lutte pour Alceste",
+        "resume": "Alceste a accepté de mourir à la place de son époux Admète. Héraclès, accueilli au palais malgré le deuil, apprend la vérité. Il se poste près du tombeau, guette Thanatos venu boire le sang des offrandes et l'étreint de ses bras puissants. Vaincu, Thanatos rend Alceste à la vie.",
+        "personnages": ["thanatos", "heracles", "alceste", "admete", "apollon"],
+        "sources": ["Euripide, Alceste"]
+      }
+    ]
+  },
+  {
+    "id": "moros",
+    "nom": "Moros",
+    "grec": "Μόρος",
+    "categorie": "dieu",
+    "epithete": "le Destin funeste",
+    "domaines": ["sort fatal", "destin inéluctable"],
+    "tags": ["destin", "mort", "nuit", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Le premier-né de la Nuit",
+        "resume": "Dans la Théogonie, Moros ouvre la liste des enfants que Nyx enfante seule, sans s'unir à personne. Il précède la noire Kère et Thanatos. Il incarne la part de malheur assignée à chaque être, à laquelle nul, mortel ou immortel, ne peut se soustraire.",
+        "personnages": ["moros", "nyx", "keres", "thanatos"],
+        "sources": ["Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "keres",
+    "nom": "Kères",
+    "grec": "Κῆρες",
+    "categorie": "dieu",
+    "epithete": "les démons de la mort violente",
+    "domaines": ["mort violente", "destin des guerriers"],
+    "tags": ["mort", "destin", "guerre", "nuit", "ailé", "groupe", "personnification"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Les Kères sur les boucliers",
+        "resume": "Le bouclier d'Achille montre une Kère funeste au milieu de la bataille, saisissant tantôt un blessé, tantôt un homme indemne, et traînant les morts par les pieds. Sur le bouclier d'Héraclès, les Kères aux dents blanches se disputent les guerriers tombés. Elles plantent leurs griffes dans les corps et boivent le sang noir.",
+        "personnages": ["keres", "achille", "heracles", "hephaistos"],
+        "sources": ["Homère, Iliade XVIII", "Pseudo-Hésiode, Le Bouclier d'Héraclès"]
+      },
+      {
+        "titre": "La pesée des destins",
+        "resume": "Au moment du duel final entre Achille et Hector, Zeus prend sa balance d'or. Il place dans les plateaux les deux Kères du trépas, celle d'Achille et celle d'Hector. Le plateau d'Hector s'abaisse vers l'Hadès, et Apollon abandonne aussitôt le héros troyen.",
+        "personnages": ["keres", "zeus", "achille", "hector", "apollon"],
+        "sources": ["Homère, Iliade XXII"]
+      }
+    ]
+  },
+  {
+    "id": "nemesis",
+    "nom": "Némésis",
+    "grec": "Νέμεσις",
+    "romain": "Invidia",
+    "categorie": "dieu",
+    "epithete": "la Juste Colère, déesse de Rhamnonte",
+    "domaines": ["juste rétribution", "châtiment de la démesure"],
+    "symboles": ["roue", "balance", "épée", "griffon"],
+    "tags": ["vengeance", "justice", "châtiment", "orgueil", "métamorphose", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["oceanos"], "source": "Pausanias, Description de la Grèce I" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "s'unit à elle sous la forme d'un cygne" }
+    ],
+    "histoires": [
+      {
+        "titre": "Poursuivie par Zeus",
+        "resume": "Pour échapper à Zeus, Némésis prend toutes sortes de formes, terrestres et marines. Elle se change finalement en oie, et Zeus, devenu cygne, s'unit à elle. Elle pond un œuf qu'un berger trouve et apporte à Léda, ou qu'Hermès dépose sur ses genoux. De cet œuf naît Hélène, que Léda élève comme sa propre fille.",
+        "personnages": ["nemesis", "zeus", "leda", "helene", "hermes"],
+        "sources": ["Chants cypriens (fragment)", "Apollodore, Bibliothèque III", "Ératosthène, Catastérismes"]
+      },
+      {
+        "titre": "Le châtiment de Narcisse",
+        "resume": "Le beau Narcisse repousse avec dédain toutes celles et ceux qui l'aiment, dont la nymphe Écho. L'un des amoureux éconduits prie le ciel pour qu'il aime à son tour sans pouvoir posséder l'objet de son amour. La déesse de Rhamnonte exauce cette prière. À une source limpide, Narcisse s'éprend de son propre reflet et se consume jusqu'à la mort.",
+        "personnages": ["nemesis", "narcisse", "echo"],
+        "sources": ["Ovide, Métamorphoses III"]
+      },
+      {
+        "titre": "Le marbre de Marathon",
+        "resume": "Les Perses débarqués à Marathon, sûrs de leur victoire, avaient apporté un bloc de marbre de Paros pour en faire un trophée. Après leur défaite, ce marbre fut sculpté par Phidias, ou son élève Agoracrite, en une statue de Némésis. Elle fut érigée dans son sanctuaire de Rhamnonte, en Attique, comme symbole du châtiment qui frappe l'arrogance.",
+        "personnages": ["nemesis"],
+        "sources": ["Pausanias, Description de la Grèce I"]
+      }
+    ]
+  },
+  {
+    "id": "apate",
+    "nom": "Apaté",
+    "grec": "Ἀπάτη",
+    "romain": "Fraus",
+    "categorie": "dieu",
+    "epithete": "la Tromperie",
+    "domaines": ["tromperie", "fraude"],
+    "tags": ["ruse", "nuit", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Fille de la Nuit",
+        "resume": "Hésiode range Apaté parmi les enfants que Nyx engendre seule, aux côtés de Philotès, de Géras et d'Éris. Ces puissances forment le cortège des maux qui accompagnent la vie humaine. La présence de la Tromperie à côté de la Tendresse souligne l'ambivalence des liens amoureux.",
+        "personnages": ["apate", "nyx", "philotes", "geras", "eris"],
+        "sources": ["Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "philotes",
+    "nom": "Philotès",
+    "grec": "Φιλότης",
+    "categorie": "dieu",
+    "epithete": "la Tendresse, l'Union amoureuse",
+    "domaines": ["affection", "union charnelle", "amitié"],
+    "tags": ["amour", "désir", "nuit", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Une fille surprenante de la Nuit",
+        "resume": "Parmi les sombres enfants de Nyx, comme la Mort, la Vieillesse ou la Discorde, Hésiode place Philotès, l'union amoureuse. Elle est nommée juste après Apaté, la Tromperie. Pour le poète, l'attrait amoureux appartient lui aussi aux forces obscures qui pèsent sur la condition des hommes.",
+        "personnages": ["philotes", "nyx", "apate"],
+        "sources": ["Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "geras",
+    "nom": "Géras",
+    "grec": "Γῆρας",
+    "romain": "Senectus",
+    "categorie": "dieu",
+    "epithete": "la Vieillesse funeste",
+    "domaines": ["vieillesse"],
+    "tags": ["vieillesse", "nuit", "mort", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La vieillesse que craignent les dieux",
+        "resume": "Hésiode qualifie Géras de funeste parmi les enfants de Nyx. Dans l'Hymne homérique à Aphrodite, la déesse rappelle qu'Éos a obtenu de Zeus l'immortalité pour son amant Tithon, mais a oublié de demander pour lui une jeunesse éternelle. Tithon se dessèche peu à peu sous l'effet de l'impitoyable vieillesse, que les dieux eux-mêmes ont en horreur.",
+        "personnages": ["geras", "nyx", "eos", "zeus", "aphrodite"],
+        "sources": ["Hésiode, Théogonie", "Hymne homérique à Aphrodite"]
+      }
+    ]
+  },
+  {
+    "id": "oizys",
+    "nom": "Oizys",
+    "grec": "Ὀϊζύς",
+    "romain": "Miseria",
+    "categorie": "dieu",
+    "epithete": "la Misère douloureuse",
+    "domaines": ["détresse", "souffrance", "misère"],
+    "tags": ["nuit", "personnification", "malédiction", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La Misère engendrée par Nyx",
+        "resume": "Oizys est nommée par Hésiode aux côtés de Momos, le Blâme, parmi les enfants que Nyx met au monde sans époux. Elle personnifie l'angoisse et la peine qui accablent les mortels. Elle n'a guère d'autre rôle mythologique que cette place dans la généalogie des puissances obscures.",
+        "personnages": ["oizys", "nyx", "momos"],
+        "sources": ["Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "momos",
+    "nom": "Momos",
+    "grec": "Μῶμος",
+    "categorie": "dieu",
+    "epithete": "le Blâme, la Raillerie",
+    "domaines": ["critique", "sarcasme", "moquerie"],
+    "symboles": ["masque", "marotte"],
+    "tags": ["nuit", "discorde", "guerre de troie", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Le conseiller de la guerre de Troie",
+        "resume": "La Terre, accablée par le poids d'une humanité trop nombreuse, se plaint à Zeus. Celui-ci envisage d'abord de détruire les hommes par la foudre ou le déluge. Momos lui suggère plutôt de marier Thétis à un mortel et d'engendrer une fille d'une beauté fatale. De ces deux projets naissent Achille et Hélène, et la guerre de Troie qui allège le fardeau de Gaïa.",
+        "personnages": ["momos", "zeus", "gaia", "thetis", "helene", "achille"],
+        "sources": ["Chants cypriens (scholie à l'Iliade I)"]
+      },
+      {
+        "titre": "Le juge des œuvres divines",
+        "resume": "Prié de juger les créations d'Athéna, de Poséidon et d'Héphaïstos, Momos trouve à redire à chacune. Il reproche au taureau de Poséidon de ne pas avoir les yeux sous les cornes pour mieux viser, et à la maison d'Athéna de ne pas être montée sur roues pour fuir les mauvais voisins. Quant à l'homme d'Héphaïstos, il aurait fallu lui ouvrir une fenêtre dans la poitrine pour qu'on voie ses pensées. Ses critiques incessantes finissent par le faire chasser de l'Olympe.",
+        "personnages": ["momos", "athena", "poseidon", "hephaistos", "zeus"],
+        "sources": ["Ésope, Fables", "Lucien, Hermotimos"]
+      }
+    ]
+  },
+  {
+    "id": "oneiroi",
+    "nom": "Oneiroi (les Songes)",
+    "grec": "Ὄνειροι",
+    "romain": "Somnia",
+    "categorie": "dieu",
+    "epithete": "la tribu des Songes",
+    "domaines": ["rêves", "présages nocturnes"],
+    "symboles": ["portes de corne et d'ivoire", "ailes"],
+    "tags": ["rêves", "sommeil", "nuit", "prophétie", "groupe", "ailé", "personnification"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["hypnos"], "source": "Ovide, Métamorphoses XI" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le Songe trompeur d'Agamemnon",
+        "resume": "Pour tenir la promesse faite à Thétis d'honorer Achille, Zeus envoie un Songe funeste à Agamemnon. Le Songe prend l'apparence du vieux Nestor et assure au roi qu'il prendra Troie le jour même s'il lance l'assaut. Trompé, Agamemnon rassemble l'armée, alors que Zeus prépare en réalité la défaite des Achéens.",
+        "personnages": ["oneiroi", "zeus", "agamemnon", "thetis", "achille"],
+        "sources": ["Homère, Iliade II"]
+      },
+      {
+        "titre": "Les portes de corne et d'ivoire",
+        "resume": "Pénélope, qui ne sait pas encore qu'elle parle à Ulysse déguisé, explique qu'il existe deux portes pour les songes. Ceux qui sortent par la porte d'ivoire trompent les hommes par des promesses vaines. Ceux qui passent par la porte de corne annoncent des événements véritables. Elle se demande par laquelle est venu son rêve des oies tuées par un aigle.",
+        "personnages": ["oneiroi", "penelope", "ulysse"],
+        "sources": ["Homère, Odyssée XIX", "Virgile, Énéide VI"]
+      }
+    ]
+  },
+  {
+    "id": "ate",
+    "nom": "Até",
+    "grec": "Ἄτη",
+    "categorie": "dieu",
+    "epithete": "l'Égarement",
+    "domaines": ["aveuglement", "faute", "ruine"],
+    "tags": ["folie", "discorde", "châtiment", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["eris"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["zeus"], "source": "Homère, Iliade XIX" }
+    ],
+    "histoires": [
+      {
+        "titre": "Chassée de l'Olympe",
+        "resume": "Le jour où Alcmène devait accoucher d'Héraclès, Zeus annonce qu'un de ses descendants né ce jour régnera sur ses voisins. Égaré par Até, il laisse Héra lui arracher un serment. Héra retarde alors la naissance d'Héraclès et hâte celle d'Eurysthée. Furieux d'avoir été abusé, Zeus saisit Até par les cheveux et la précipite de l'Olympe. Depuis lors, elle erre parmi les hommes.",
+        "personnages": ["ate", "zeus", "hera", "alcmene", "heracles", "eileithyia"],
+        "sources": ["Homère, Iliade XIX"]
+      },
+      {
+        "titre": "Até et les Prières",
+        "resume": "Phénix explique à Achille qu'Até, vigoureuse et rapide, devance les Prières sur toute la terre et fait trébucher les hommes. Les Litai, filles boiteuses de Zeus, la suivent péniblement pour réparer ses dommages. Celui qui les repousse attire sur lui Até une seconde fois.",
+        "personnages": ["ate", "achille", "zeus"],
+        "sources": ["Homère, Iliade IX"]
+      }
+    ]
+  },
+  {
+    "id": "clotho",
+    "nom": "Clotho",
+    "grec": "Κλωθώ",
+    "romain": "Nona",
+    "categorie": "dieu",
+    "epithete": "la Fileuse",
+    "domaines": ["fil de la vie", "naissance"],
+    "symboles": ["quenouille", "fuseau"],
+    "tags": ["destin", "naissance", "triade", "groupe", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie (v. 217)", "principale": true },
+      { "parents": ["zeus", "themis"], "source": "Hésiode, Théogonie (v. 904)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le tison de Méléagre",
+        "resume": "Sept jours après la naissance de Méléagre, les Moires apparaissent à sa mère Althée. Elles annoncent que l'enfant vivra tant que le tison qui brûle dans le foyer ne sera pas consumé. Althée retire aussitôt le bois des flammes et le cache dans un coffre. Des années plus tard, après que Méléagre a tué ses oncles lors de la chasse de Calydon, elle jette le tison au feu, et son fils meurt.",
+        "personnages": ["clotho", "lachesis", "atropos", "meleagre"],
+        "sources": ["Apollodore, Bibliothèque I", "Ovide, Métamorphoses VIII"]
+      },
+      {
+        "titre": "Clotho et Pélops",
+        "resume": "Tantale avait servi aux dieux la chair de son fils Pélops. Les dieux reconstituent le corps de l'enfant, et c'est Clotho qui le retire du chaudron, rendu à la vie. Seule l'épaule, mangée par Déméter, doit être remplacée par une pièce d'ivoire.",
+        "personnages": ["clotho", "pelops", "tantale", "demeter"],
+        "sources": ["Pindare, Olympiques I"]
+      }
+    ]
+  },
+  {
+    "id": "lachesis",
+    "nom": "Lachésis",
+    "grec": "Λάχεσις",
+    "romain": "Decima",
+    "categorie": "dieu",
+    "epithete": "celle qui attribue les lots",
+    "domaines": ["sort", "durée de la vie"],
+    "symboles": ["baguette de mesure", "globe"],
+    "tags": ["destin", "triade", "groupe", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie (v. 217)", "principale": true },
+      { "parents": ["zeus", "themis"], "source": "Hésiode, Théogonie (v. 904)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le mythe d'Er",
+        "resume": "Dans la République de Platon, le soldat Er revenu de la mort raconte ce qu'il a vu. Les âmes qui vont renaître se présentent devant Lachésis, fille de Nécessité. Un héraut jette les lots devant elles, et chaque âme choisit un modèle de vie. Lachésis chante le passé, Clotho le présent et Atropos l'avenir, et chacune confirme à son tour le destin choisi.",
+        "personnages": ["lachesis", "clotho", "atropos", "ananke"],
+        "sources": ["Platon, République X"]
+      },
+      {
+        "titre": "Les Moires enivrées",
+        "resume": "Apollon veut sauver son ami Admète, roi de Phères, à qui la mort est promise. Il enivre les Moires et obtient d'elles un accord : Admète échappera au trépas si quelqu'un accepte de mourir à sa place. Seule son épouse Alceste consent au sacrifice.",
+        "personnages": ["lachesis", "clotho", "atropos", "apollon", "admete", "alceste"],
+        "sources": ["Eschyle, Les Euménides", "Euripide, Alceste", "Apollodore, Bibliothèque I"]
+      }
+    ]
+  },
+  {
+    "id": "atropos",
+    "nom": "Atropos",
+    "grec": "Ἄτροπος",
+    "romain": "Morta",
+    "categorie": "dieu",
+    "epithete": "l'Inflexible",
+    "domaines": ["mort", "fin de la vie"],
+    "symboles": ["ciseaux", "balance"],
+    "tags": ["destin", "mort", "triade", "groupe", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Hésiode, Théogonie (v. 217)", "principale": true },
+      { "parents": ["zeus", "themis"], "source": "Hésiode, Théogonie (v. 904)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les Moires dans la gigantomachie",
+        "resume": "Lors de la guerre contre les Géants, les Moires combattent aux côtés des Olympiens. Armées de massues de bronze, elles abattent les Géants Agrios et Thoas. Même Zeus, selon une tradition largement répandue, ne peut s'opposer à leurs décisions.",
+        "personnages": ["atropos", "clotho", "lachesis", "geants", "zeus"],
+        "sources": ["Apollodore, Bibliothèque I"]
+      },
+      {
+        "titre": "Celle qui tranche le fil",
+        "resume": "La plus âgée et la plus redoutée des trois sœurs, Atropos coupe le fil de la vie que Clotho a filé et que Lachésis a mesuré. Son nom signifie qu'on ne peut la détourner. Aucune prière ni aucun présent ne la fait revenir sur l'heure qu'elle a fixée.",
+        "personnages": ["atropos", "clotho", "lachesis"],
+        "sources": ["Hésiode, Théogonie", "Platon, République X"]
+      }
+    ]
+  },
+  {
+    "id": "alecto",
+    "nom": "Alecto",
+    "grec": "Ἀληκτώ",
+    "romain": "Allecto",
+    "categorie": "dieu",
+    "epithete": "l'Implacable",
+    "domaines": ["colère", "vengeance"],
+    "symboles": ["serpents", "torche", "fouet"],
+    "tags": ["vengeance", "châtiment", "enfers", "folie", "triade", "serpent", "groupe"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie (nées du sang d'Ouranos tombé sur Gaïa)", "principale": true },
+      { "parents": ["nyx"], "source": "Eschyle, Les Euménides" }
+    ],
+    "histoires": [
+      {
+        "titre": "La Furie envoyée par Junon",
+        "resume": "Furieuse de voir Énée s'établir en Italie, Junon tire Allecto des ténèbres infernales. La Furie jette un de ses serpents dans le sein de la reine Amata, qui s'oppose alors avec rage au mariage de sa fille avec le Troyen. Elle apparaît ensuite en songe à Turnus et allume en lui la fureur guerrière. Enfin, elle provoque l'incident de chasse qui déclenche la guerre entre Troyens et Latins.",
+        "personnages": ["alecto", "hera", "enee"],
+        "sources": ["Virgile, Énéide VII"]
+      }
+    ]
+  },
+  {
+    "id": "megere",
+    "nom": "Mégère",
+    "grec": "Μέγαιρα",
+    "romain": "Megaera",
+    "categorie": "dieu",
+    "epithete": "la Jalouse",
+    "domaines": ["jalousie", "rancune", "châtiment de l'infidélité"],
+    "symboles": ["serpents", "torche"],
+    "tags": ["vengeance", "jalousie", "châtiment", "enfers", "triade", "groupe"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie (nées du sang d'Ouranos tombé sur Gaïa)", "principale": true },
+      { "parents": ["nyx"], "source": "Eschyle, Les Euménides" }
+    ],
+    "histoires": [
+      {
+        "titre": "Oreste poursuivi par les Érinyes",
+        "resume": "Après avoir tué sa mère Clytemnestre pour venger Agamemnon, Oreste est pourchassé par les Érinyes, qui réclament le sang du matricide. Il se réfugie à Delphes, puis à Athènes, où Athéna institue le tribunal de l'Aréopage pour le juger. Les voix sont égales et la déesse acquitte le jeune homme. Apaisées par la promesse d'un culte, les Érinyes deviennent les Euménides, les Bienveillantes.",
+        "personnages": ["megere", "alecto", "tisiphone", "oreste", "clytemnestre", "athena", "apollon"],
+        "sources": ["Eschyle, Les Euménides"]
+      }
+    ]
+  },
+  {
+    "id": "tisiphone",
+    "nom": "Tisiphone",
+    "grec": "Τισιφόνη",
+    "romain": "Tisiphone",
+    "categorie": "dieu",
+    "epithete": "la Vengeresse du meurtre",
+    "domaines": ["vengeance des meurtres"],
+    "symboles": ["serpents", "fouet", "torche"],
+    "tags": ["vengeance", "châtiment", "folie", "enfers", "tartare", "triade", "groupe"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie (nées du sang d'Ouranos tombé sur Gaïa)", "principale": true },
+      { "parents": ["nyx"], "source": "Eschyle, Les Euménides" }
+    ],
+    "histoires": [
+      {
+        "titre": "La folie d'Athamas et d'Ino",
+        "resume": "Junon, jalouse de la famille de Cadmos, descend aux Enfers et obtient de Tisiphone qu'elle frappe Athamas et Ino. La Furie arrive à Thèbes, ceinte de serpents, et jette sur eux des poisons de rage. Pris de folie, Athamas tue son fils Léarque, tandis qu'Ino se jette dans la mer avec son autre enfant, Mélicerte.",
+        "personnages": ["tisiphone", "hera", "athamas", "ino", "palemon"],
+        "sources": ["Ovide, Métamorphoses IV"]
+      },
+      {
+        "titre": "La gardienne du Tartare",
+        "resume": "Lorsque Énée traverse les Enfers, la Sibylle lui montre de loin la forteresse du Tartare, entourée d'un fleuve de flammes. Tisiphone, vêtue d'une robe sanglante, veille jour et nuit sur son seuil. Elle fouette les coupables et appelle ses sœurs pour les tourmenter.",
+        "personnages": ["tisiphone", "enee", "tartare"],
+        "sources": ["Virgile, Énéide VI"]
+      }
+    ]
+  },
+  {
+    "id": "eunomie",
+    "nom": "Eunomie",
+    "grec": "Εὐνομία",
+    "categorie": "dieu",
+    "epithete": "l'Ordre légitime",
+    "domaines": ["bonnes lois", "ordre civique"],
+    "tags": ["loi", "cité", "justice", "personnification", "triade", "groupe"],
+    "filiations": [
+      { "parents": ["zeus", "themis"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Gardienne des cités",
+        "resume": "Fille de Zeus et de Thémis, Eunomie forme avec Dikè et Eiréné le trio des Heures, qui veillent sur les travaux des hommes. Pindare la célèbre à Corinthe, où elle habite avec ses sœurs, fondement solide des cités. Solon oppose ses bienfaits aux maux de la Dysnomie, le désordre, dans une de ses élégies.",
+        "personnages": ["eunomie", "dike", "eirene", "zeus", "themis"],
+        "sources": ["Hésiode, Théogonie", "Pindare, Olympiques XIII", "Solon, Élégies"]
+      }
+    ]
+  },
+  {
+    "id": "dike",
+    "nom": "Dikè",
+    "grec": "Δίκη",
+    "romain": "Justitia",
+    "categorie": "dieu",
+    "epithete": "la Justice",
+    "domaines": ["justice humaine", "droit"],
+    "symboles": ["balance", "épi"],
+    "tags": ["justice", "loi", "personnification", "transformé en constellation", "triade", "groupe"],
+    "filiations": [
+      { "parents": ["zeus", "themis"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Assise auprès de Zeus",
+        "resume": "Hésiode décrit Dikè comme une vierge vénérée des dieux de l'Olympe. Lorsqu'un homme l'outrage par des jugements tortueux, elle s'assied aussitôt auprès de son père Zeus. Elle lui dénonce l'injustice des mortels, afin que le peuple paie pour les fautes de ses rois.",
+        "personnages": ["dike", "zeus", "themis"],
+        "sources": ["Hésiode, Les Travaux et les Jours"]
+      },
+      {
+        "titre": "La Vierge qui quitta la terre",
+        "resume": "Durant l'âge d'or, Dikè vivait parmi les hommes et rendait la justice sur les places publiques. À l'âge d'argent, elle se retira dans les montagnes, d'où elle ne descendait plus que pour blâmer. Quand vint la race de bronze, qui forgea le premier glaive, elle s'envola vers le ciel. Elle y brille désormais sous la forme de la constellation de la Vierge.",
+        "personnages": ["dike"],
+        "sources": ["Aratos, Phénomènes", "Ovide, Métamorphoses I"]
+      }
+    ]
+  },
+  {
+    "id": "eirene",
+    "nom": "Eiréné",
+    "grec": "Εἰρήνη",
+    "romain": "Pax",
+    "categorie": "dieu",
+    "epithete": "la Paix florissante",
+    "domaines": ["paix", "prospérité"],
+    "symboles": ["corne d'abondance", "rameau d'olivier", "enfant Ploutos"],
+    "tags": ["paix", "richesse", "athènes", "personnification", "triade", "groupe"],
+    "filiations": [
+      { "parents": ["zeus", "themis"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La Paix nourricière de la Richesse",
+        "resume": "Après une victoire navale sur Sparte, les Athéniens instaurent un culte public à Eiréné. Le sculpteur Céphisodote réalise pour l'agora une statue de la déesse portant dans ses bras l'enfant Ploutos. L'image exprime l'idée que la paix fait naître la prospérité.",
+        "personnages": ["eirene", "ploutos"],
+        "sources": ["Pausanias, Description de la Grèce I et IX"]
+      },
+      {
+        "titre": "La Paix délivrée",
+        "resume": "Dans une comédie d'Aristophane, le vigneron Trygée monte au ciel sur un énorme bousier pour demander la paix à Zeus. Il découvre que le dieu Polémos, la Guerre, a enfoui Eiréné au fond d'un trou. Avec l'aide des paysans grecs et d'Hermès, Trygée hisse la déesse hors de sa prison.",
+        "personnages": ["eirene", "hermes", "zeus"],
+        "sources": ["Aristophane, La Paix"]
+      }
+    ]
+  },
+  {
+    "id": "aglae",
+    "nom": "Aglaé",
+    "grec": "Ἀγλαΐα",
+    "categorie": "dieu",
+    "epithete": "la Splendeur",
+    "domaines": ["éclat", "beauté", "gloire"],
+    "tags": ["beauté", "fête", "mariage", "triade", "groupe", "personnification"],
+    "filiations": [
+      { "parents": ["zeus", "eurynome"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "hephaistos", "note": "la plus jeune des Charites, épouse du dieu forgeron" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'épouse d'Héphaïstos",
+        "resume": "Hésiode raconte que le dieu boiteux Héphaïstos prit pour épouse Aglaé, la plus jeune des Charites. Dans l'Iliade, c'est une Charis anonyme qui partage la demeure du forgeron. Elle accueille Thétis venue demander de nouvelles armes pour son fils Achille.",
+        "personnages": ["aglae", "hephaistos", "thetis", "achille"],
+        "sources": ["Hésiode, Théogonie", "Homère, Iliade XVIII"]
+      }
+    ]
+  },
+  {
+    "id": "euphrosyne",
+    "nom": "Euphrosyne",
+    "grec": "Εὐφροσύνη",
+    "categorie": "dieu",
+    "epithete": "la Joie",
+    "domaines": ["allégresse", "gaieté", "festins"],
+    "tags": ["fête", "danse", "beauté", "triade", "groupe", "personnification"],
+    "filiations": [
+      { "parents": ["zeus", "eurynome"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Les Charites d'Orchomène",
+        "resume": "Pindare dédie une ode aux Charites, souveraines d'Orchomène en Béotie, où elles recevaient un culte très ancien. Il invoque Aglaé, Euphrosyne et Thalie. Sans elles, dit-il, les dieux eux-mêmes n'organisent ni chœurs ni festins. Elles siègent sur l'Olympe aux côtés d'Apollon.",
+        "personnages": ["euphrosyne", "aglae", "thalie-charite", "apollon", "zeus"],
+        "sources": ["Pindare, Olympiques XIV", "Pausanias, Description de la Grèce IX"]
+      }
+    ]
+  },
+  {
+    "id": "thalie-charite",
+    "nom": "Thalie (Charite)",
+    "grec": "Θάλεια",
+    "categorie": "dieu",
+    "epithete": "l'Abondance florissante",
+    "domaines": ["abondance", "festivités", "floraison"],
+    "tags": ["fête", "beauté", "fleurs", "triade", "groupe", "personnification"],
+    "filiations": [
+      { "parents": ["zeus", "eurynome"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Les servantes d'Aphrodite",
+        "resume": "Après avoir été surprise avec Arès dans les filets d'Héphaïstos, Aphrodite se retire à Paphos, à Chypre. Les Charites la baignent, l'oignent d'une huile divine et la parent de vêtements somptueux. Elles accompagnent souvent la déesse et tressent pour elle des parures de fleurs.",
+        "personnages": ["thalie-charite", "aglae", "euphrosyne", "aphrodite", "ares", "hephaistos"],
+        "sources": ["Homère, Odyssée VIII", "Hymne homérique à Aphrodite"]
+      }
+    ]
+  },
+  {
+    "id": "calliope",
+    "nom": "Calliope",
+    "grec": "Καλλιόπη",
+    "categorie": "dieu",
+    "epithete": "la Muse à la belle voix, la première des Muses",
+    "domaines": ["poésie épique", "éloquence"],
+    "symboles": ["tablette et stylet", "rouleau", "couronne d'or"],
+    "tags": ["poésie", "musique", "arts", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "apollon", "note": "père d'Orphée selon certaines traditions (sinon Œagre)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les Muses sur l'Hélicon",
+        "resume": "Hésiode raconte que les Muses lui sont apparues alors qu'il faisait paître ses agneaux au pied de l'Hélicon. Elles lui remettent un rameau de laurier et lui insufflent une voix divine pour chanter les dieux. Le poète énumère leurs neuf noms et désigne Calliope comme la plus éminente, celle qui accompagne les rois vénérables.",
+        "personnages": ["calliope", "clio", "euterpe", "thalie-muse", "melpomene", "terpsichore", "erato", "polymnie", "uranie"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Le défi des Piérides",
+        "resume": "Les neuf filles du roi Piéros osent défier les Muses dans un concours de chant. L'une d'elles célèbre les Géants et ridiculise les dieux. Calliope répond en chantant l'enlèvement de Proserpine et la quête de Cérès. Les nymphes juges donnent la victoire aux Muses, et les Piérides, qui les insultent encore, sont changées en pies.",
+        "personnages": ["calliope", "persephone", "demeter", "hades", "athena"],
+        "sources": ["Ovide, Métamorphoses V"]
+      },
+      {
+        "titre": "L'arbitrage pour Adonis",
+        "resume": "Selon une version rapportée par Hygin, Aphrodite et Perséphone se disputent Adonis. Zeus refuse de trancher lui-même et confie l'arbitrage à Calliope. La Muse partage l'année en deux parts égales entre les deux déesses. Aphrodite, mécontente, se venge en faisant périr Orphée, fils de Calliope.",
+        "personnages": ["calliope", "aphrodite", "persephone", "adonis", "zeus", "orphee"],
+        "sources": ["Hygin, L'Astronomie II"]
+      }
+    ]
+  },
+  {
+    "id": "clio",
+    "nom": "Clio",
+    "grec": "Κλειώ",
+    "categorie": "dieu",
+    "epithete": "celle qui célèbre",
+    "domaines": ["histoire", "renommée"],
+    "symboles": ["rouleau", "trompette", "couronne de laurier"],
+    "tags": ["poésie", "écriture", "science", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La colère d'Aphrodite",
+        "resume": "Clio raille Aphrodite pour son amour envers le mortel Adonis. Pour se venger, la déesse inspire à Clio une passion pour Piéros, roi de Macédoine. De leur union naît Hyacinthe, dont Apollon tombera amoureux.",
+        "personnages": ["clio", "aphrodite", "adonis", "hyacinthe", "apollon"],
+        "sources": ["Apollodore, Bibliothèque I"]
+      }
+    ]
+  },
+  {
+    "id": "euterpe",
+    "nom": "Euterpe",
+    "grec": "Εὐτέρπη",
+    "categorie": "dieu",
+    "epithete": "celle qui réjouit",
+    "domaines": ["musique", "poésie lyrique", "flûte"],
+    "symboles": ["aulos (double flûte)"],
+    "tags": ["musique", "poésie", "arts", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère de Rhésos",
+        "resume": "De son union avec le fleuve thrace Strymon, Euterpe donne naissance à Rhésos, roi de Thrace. Venu au secours de Troie avec ses magnifiques chevaux blancs, Rhésos est tué dans son sommeil par Diomède et Ulysse lors d'une expédition nocturne. Dans une tragédie, sa mère la Muse apparaît pour pleurer son fils.",
+        "personnages": ["euterpe", "diomede", "ulysse"],
+        "sources": ["Apollodore, Bibliothèque I", "Homère, Iliade X", "Pseudo-Euripide, Rhésos"]
+      }
+    ]
+  },
+  {
+    "id": "thalie-muse",
+    "nom": "Thalie (Muse)",
+    "grec": "Θάλεια",
+    "categorie": "dieu",
+    "epithete": "la Florissante",
+    "domaines": ["comédie", "poésie pastorale"],
+    "symboles": ["masque comique", "houlette", "couronne de lierre"],
+    "tags": ["théâtre", "poésie", "fête", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "apollon", "note": "mère des Corybantes selon Apollodore" }
+    ],
+    "histoires": [
+      {
+        "titre": "La Muse de la comédie",
+        "resume": "Thalie préside à la comédie et à la poésie champêtre. On la représente tenant un masque rieur et une houlette de berger, la tête couronnée de lierre. Apollodore rapporte que, de son union avec Apollon, naquirent les Corybantes, danseurs en armes du culte de la Mère des dieux.",
+        "personnages": ["thalie-muse", "apollon"],
+        "sources": ["Apollodore, Bibliothèque I", "Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "melpomene",
+    "nom": "Melpomène",
+    "grec": "Μελπομένη",
+    "categorie": "dieu",
+    "epithete": "la Chanteuse",
+    "domaines": ["tragédie", "chant"],
+    "symboles": ["masque tragique", "massue", "cothurnes"],
+    "tags": ["théâtre", "tragédie", "musique", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "achelous", "note": "mère des Sirènes selon Apollodore" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère des Sirènes",
+        "resume": "Selon Apollodore, Melpomène s'unit au fleuve Achéloos et donne naissance aux Sirènes. Ces chanteuses ailées héritent de leur mère une voix enchanteresse. Pausanias raconte que, plus tard, les Sirènes osèrent défier les Muses au chant. Vaincues, elles se virent arracher leurs plumes, dont les Muses se firent des couronnes.",
+        "personnages": ["melpomene", "achelous", "sirenes"],
+        "sources": ["Apollodore, Bibliothèque I", "Pausanias, Description de la Grèce IX"]
+      }
+    ]
+  },
+  {
+    "id": "terpsichore",
+    "nom": "Terpsichore",
+    "grec": "Τερψιχόρη",
+    "categorie": "dieu",
+    "epithete": "celle qui aime la danse",
+    "domaines": ["danse", "chœurs"],
+    "symboles": ["lyre", "plectre"],
+    "tags": ["danse", "musique", "poésie", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "achelous", "note": "mère des Sirènes selon Apollonios de Rhodes" }
+    ],
+    "histoires": [
+      {
+        "titre": "Une autre mère pour les Sirènes",
+        "resume": "Apollonios de Rhodes fait de Terpsichore la mère des Sirènes, nées de son union avec Achéloos. Lorsque les Argonautes passent près de leur île, les Sirènes entonnent leur chant mortel. Orphée couvre leurs voix en jouant de sa lyre, et seul Boutès se jette à l'eau, sauvé par Aphrodite.",
+        "personnages": ["terpsichore", "achelous", "sirenes", "orphee", "aphrodite"],
+        "sources": ["Apollonios de Rhodes, Argonautiques IV"]
+      }
+    ]
+  },
+  {
+    "id": "erato",
+    "nom": "Érato",
+    "grec": "Ἐρατώ",
+    "categorie": "dieu",
+    "epithete": "l'Aimable",
+    "domaines": ["poésie amoureuse", "poésie lyrique"],
+    "symboles": ["cithare", "couronne de roses"],
+    "tags": ["poésie", "amour", "musique", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "L'invocation des Argonautiques",
+        "resume": "Au moment de raconter comment Médée s'éprit de Jason, Apollonios de Rhodes invoque Érato. Il lui demande de l'inspirer, car elle partage avec Aphrodite le pouvoir sur les cœurs des jeunes filles. Le chant qui suit décrit l'intervention d'Éros, dont la flèche enflamme Médée.",
+        "personnages": ["erato", "medee", "jason", "eros", "aphrodite"],
+        "sources": ["Apollonios de Rhodes, Argonautiques III"]
+      }
+    ]
+  },
+  {
+    "id": "polymnie",
+    "nom": "Polymnie",
+    "grec": "Πολύμνια",
+    "categorie": "dieu",
+    "epithete": "celle aux nombreux hymnes",
+    "domaines": ["hymnes sacrés", "pantomime", "rhétorique"],
+    "symboles": ["voile", "doigt sur les lèvres"],
+    "tags": ["poésie", "musique", "danse", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Le châtiment de Thamyris",
+        "resume": "Le chanteur thrace Thamyris se vante de pouvoir vaincre les Muses elles-mêmes. Les filles de Zeus acceptent le défi et triomphent. Pour punir son orgueil, elles le privent de la vue et lui ôtent son art du chant et de la cithare.",
+        "personnages": ["polymnie", "calliope", "clio", "euterpe", "erato", "zeus"],
+        "sources": ["Homère, Iliade II", "Apollodore, Bibliothèque I"]
+      }
+    ]
+  },
+  {
+    "id": "uranie",
+    "nom": "Uranie",
+    "grec": "Οὐρανία",
+    "categorie": "dieu",
+    "epithete": "la Céleste",
+    "domaines": ["astronomie", "astrologie"],
+    "symboles": ["globe céleste", "compas", "manteau étoilé"],
+    "tags": ["étoiles", "ciel", "science", "groupe", "immortel"],
+    "filiations": [
+      { "parents": ["zeus", "mnemosyne"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère de Linos",
+        "resume": "Selon Pausanias, Uranie est la mère de Linos, musicien d'une renommée telle qu'Apollon lui-même en conçut de la jalousie. Le dieu l'aurait tué pour avoir osé rivaliser avec lui au chant. On le pleurait chaque année par une complainte appelée le linos. D'autres traditions font aussi d'Uranie la mère d'Hyménée.",
+        "personnages": ["uranie", "apollon", "hymenee"],
+        "sources": ["Pausanias, Description de la Grèce IX", "Catulle, Poèmes 61"]
+      }
+    ]
+  }
+]

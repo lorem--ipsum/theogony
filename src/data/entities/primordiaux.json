@@ -1,0 +1,397 @@
+[
+  {
+    "id": "chaos",
+    "nom": "Chaos",
+    "grec": "Χάος",
+    "romain": "Chaos",
+    "categorie": "primordial",
+    "epithete": "Le Vide originel",
+    "domaines": ["vide primordial", "origine du monde"],
+    "tags": ["chaos", "création", "personnification", "immortel"],
+    "filiations": [],
+    "histoires": [
+      {
+        "titre": "Le premier à naître",
+        "resume": "Selon Hésiode, avant toute chose apparut Chaos, la Béance, un vide sans forme ni limite. Il ne fut engendré par personne et ne s'unit à personne pour donner naissance. De lui seul sortirent les Ténèbres d'en bas, Érèbe, et la Nuit noire, Nyx. Gaïa, le Tartare et Éros apparurent juste après lui, sans en être issus. Le poète en fait ainsi le point de départ de toute la généalogie divine.",
+        "personnages": ["chaos", "erebe", "nyx", "gaia", "tartare", "eros"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "La masse confuse d'Ovide",
+        "resume": "Chez Ovide, le Chaos n'est plus un vide mais une masse grossière et informe où tous les éléments sont mêlés. Le chaud y combat le froid, l'humide le sec, le mou le dur, et rien ne garde sa forme propre. Un dieu ordonnateur, que le poète ne nomme pas, sépare alors la terre du ciel et l'eau de l'air. Chaque élément reçoit sa place et le monde organisé peut naître. Cette lecture, inspirée des philosophes, a durablement fixé le sens moderne du mot chaos comme désordre.",
+        "personnages": ["chaos"],
+        "sources": ["Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "gaia",
+    "nom": "Gaïa",
+    "grec": "Γαῖα",
+    "romain": "Tellus",
+    "categorie": "primordial",
+    "epithete": "La Terre mère de tous",
+    "domaines": ["terre", "fertilité", "prophétie"],
+    "symboles": ["fruits de la terre", "corne d'abondance"],
+    "tags": ["terre", "création", "fertilité", "naissance", "prophétie", "personnification", "immortel", "delphes"],
+    "filiations": [],
+    "unions": [
+      { "avec": "ouranos", "note": "Mère des Titans, des Cyclopes et des Hécatonchires" },
+      { "avec": "pontos", "note": "Mère de Nérée, Thaumas, Phorcys, Céto et Eurybie" },
+      { "avec": "tartare", "note": "Mère de Typhon selon Hésiode" }
+    ],
+    "histoires": [
+      {
+        "titre": "La Terre au large sein",
+        "resume": "Apparue juste après Chaos, Gaïa est le siège solide et durable de tous les êtres. Sans union, elle engendre seule Ouranos, le Ciel étoilé, pour qu'il la recouvre entièrement, puis les hautes Montagnes et Pontos, la mer stérile. Elle s'unit ensuite à Ouranos et donne naissance aux douze Titans, aux trois Cyclopes et aux trois Hécatonchires aux cent bras. Hésiode fait d'elle l'aïeule de presque toute la race divine.",
+        "personnages": ["gaia", "ouranos", "ourea", "pontos", "cyclopes", "hecatonchires", "cronos"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "La faucille et la révolte contre Ouranos",
+        "resume": "Ouranos, haïssant ses enfants, les empêchait de sortir à la lumière et les retenait enfouis dans le corps de Gaïa. Accablée de douleur, la déesse forgea une grande faucille d'acier et demanda à ses fils de la venger. Seul Cronos, le plus jeune des Titans, accepta. Gaïa le cacha en embuscade, et lorsque Ouranos vint s'étendre sur elle, Cronos le mutila. Du sang tombé sur la terre, Gaïa conçut encore les Érinyes, les Géants et les nymphes Méliades.",
+        "personnages": ["gaia", "ouranos", "cronos", "geants", "meliae", "alecto", "megere", "tisiphone"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le salut de Zeus",
+        "resume": "Gaïa et Ouranos avaient prédit à Cronos qu'il serait renversé par l'un de ses enfants, si bien qu'il les avalait à leur naissance. Rhéa, désespérée, demanda conseil à ses parents. Gaïa l'envoya en Crète accoucher de Zeus en secret et l'aida à cacher le nouveau-né. Elle fit ensuite remplacer l'enfant par une pierre emmaillotée que Cronos engloutit. Plus tard, c'est encore sur son conseil que Zeus libéra les Cyclopes et les Hécatonchires, gages de sa victoire sur les Titans.",
+        "personnages": ["gaia", "rhea", "cronos", "zeus", "cyclopes", "hecatonchires"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Les Géants et Typhon",
+        "resume": "Irritée de voir ses fils Titans jetés dans le Tartare, Gaïa suscita de nouveaux adversaires contre les Olympiens. Selon Apollodore, elle lança d'abord les Géants à l'assaut du ciel, et chercha même une herbe capable de les rendre invincibles, mais Zeus la fit cueillir avant elle. Après leur défaite, elle s'unit au Tartare et enfanta Typhon, le plus terrible de tous les monstres. Zeus dut affronter ce dernier dans un combat qui ébranla le monde entier avant de l'écraser sous la foudre.",
+        "personnages": ["gaia", "geants", "tartare", "typhon", "zeus", "heracles"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La première maîtresse de Delphes",
+        "resume": "Plusieurs traditions font de Gaïa la première détentrice de l'oracle de Delphes. Eschyle, au début des Euménides, énumère la succession des prophétesses : Gaïa d'abord, puis Thémis, puis Phoébé, qui offrit le sanctuaire à Apollon. D'autres récits disent que le serpent Python gardait l'oracle pour le compte de la Terre. Apollon dut tuer le monstre pour s'emparer du lieu, ce qui expliquait les rites d'expiation pratiqués à Delphes.",
+        "personnages": ["gaia", "themis", "phoebe", "apollon", "python"],
+        "sources": ["Eschyle, Euménides", "Hymne homérique à Apollon", "Pausanias, Description de la Grèce"]
+      }
+    ]
+  },
+  {
+    "id": "tartare",
+    "nom": "Tartare",
+    "grec": "Τάρταρος",
+    "romain": "Tartarus",
+    "categorie": "primordial",
+    "epithete": "L'Abîme ténébreux",
+    "domaines": ["abîme", "prison des dieux vaincus"],
+    "tags": ["enfers", "châtiment", "tartare", "personnification", "titanomachie", "immortel"],
+    "filiations": [],
+    "unions": [
+      { "avec": "gaia", "note": "Père de Typhon selon Hésiode, et d'Échidna selon Apollodore" }
+    ],
+    "histoires": [
+      {
+        "titre": "L'abîme au fond du monde",
+        "resume": "Hésiode décrit le Tartare comme un gouffre brumeux situé aussi loin sous la terre que le ciel est au-dessus d'elle. Une enclume de bronze tombant du ciel mettrait neuf jours et neuf nuits pour toucher la terre, et autant encore pour atteindre le Tartare. Un mur de bronze l'entoure et la Nuit répand autour de lui trois couches d'ombre. C'est là que Zeus enferma les Titans vaincus, sous la garde des Hécatonchires. Homère en fait aussi la prison redoutée dont Zeus menace les dieux désobéissants.",
+        "personnages": ["tartare", "zeus", "hecatonchires", "nyx"],
+        "sources": ["Hésiode, Théogonie", "Homère, Iliade"]
+      },
+      {
+        "titre": "Le père de Typhon",
+        "resume": "Après la défaite des Titans, Gaïa s'unit au Tartare grâce à Aphrodite, dit Hésiode. De cette union naquit Typhon, monstre aux cent têtes de serpent qui crachaient le feu et poussaient toutes sortes de cris. Typhon voulut s'emparer du pouvoir sur les dieux et les hommes. Zeus le vainquit et le précipita à son tour dans le Tartare, d'où proviennent depuis les vents mauvais.",
+        "personnages": ["tartare", "gaia", "typhon", "zeus"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "eros",
+    "nom": "Éros",
+    "grec": "Ἔρως",
+    "romain": "Amor",
+    "categorie": "primordial",
+    "epithete": "La force primordiale du désir",
+    "domaines": ["désir", "union", "génération"],
+    "tags": ["amour", "désir", "création", "naissance", "personnification", "immortel", "ailé"],
+    "filiations": [
+      { "parents": ["nyx"], "source": "Aristophane, Oiseaux (né d'un œuf pondu par la Nuit)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le plus beau des immortels",
+        "resume": "Chez Hésiode, Éros apparaît dès l'origine, juste après Chaos, Gaïa et le Tartare, sans avoir de parents. Il est le plus beau des dieux immortels, celui qui rompt les membres et dompte la raison des dieux comme des hommes. Sa présence est nécessaire pour que les puissances primordiales s'unissent et engendrent. Plus tard, il accompagne Aphrodite dès sa naissance avec Himéros. Les poètes postérieurs le distingueront de l'enfant ailé, fils d'Aphrodite.",
+        "personnages": ["eros", "chaos", "gaia", "aphrodite"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "L'œuf de la Nuit",
+        "resume": "Dans une parodie de cosmogonie, le chœur des Oiseaux d'Aristophane raconte qu'au commencement la Nuit aux ailes noires pondit un œuf dans le sein immense de l'Érèbe. De cet œuf, avec le temps, sortit Éros aux ailes d'or, semblable aux tourbillons du vent. En s'unissant au Chaos, il engendra la race des oiseaux, plus ancienne que celle des dieux. Ce récit fait écho aux théogonies orphiques, où un être primordial nommé Phanès ou Éros naît d'un œuf cosmique.",
+        "personnages": ["eros", "nyx", "erebe", "chaos"],
+        "sources": ["Aristophane, Oiseaux", "Fragments orphiques"]
+      }
+    ]
+  },
+  {
+    "id": "erebe",
+    "nom": "Érèbe",
+    "grec": "Ἔρεβος",
+    "romain": "Erebus",
+    "categorie": "primordial",
+    "epithete": "Les Ténèbres d'en bas",
+    "domaines": ["ténèbres", "monde souterrain"],
+    "tags": ["nuit", "enfers", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["chaos"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "nyx", "note": "Père d'Éther et d'Héméra" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les ténèbres et la lumière",
+        "resume": "Né de Chaos en même temps que sa sœur Nyx, Érèbe personnifie l'obscurité profonde des régions souterraines. Hésiode raconte que Nyx, s'unissant à lui par amour, mit au monde deux enfants lumineux : Éther, l'air brillant des hauteurs, et Héméra, le Jour. Le paradoxe est voulu : de l'obscurité naît la clarté. Chez Homère, le mot Érèbe désigne aussi le séjour ténébreux des morts, que traversent les âmes en descendant chez Hadès.",
+        "personnages": ["erebe", "nyx", "ether", "hemera", "chaos"],
+        "sources": ["Hésiode, Théogonie", "Homère, Odyssée"]
+      }
+    ]
+  },
+  {
+    "id": "nyx",
+    "nom": "Nyx",
+    "grec": "Νύξ",
+    "romain": "Nox",
+    "categorie": "primordial",
+    "epithete": "La Nuit noire",
+    "domaines": ["nuit", "obscurité"],
+    "symboles": ["voile sombre", "char attelé de chevaux noirs", "étoiles"],
+    "tags": ["nuit", "mort", "sommeil", "rêves", "destin", "personnification", "immortel", "tartare"],
+    "filiations": [
+      { "parents": ["chaos"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "erebe", "note": "Mère d'Éther et d'Héméra" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère des puissances sombres",
+        "resume": "Après avoir donné Éther et Héméra à Érèbe, Nyx enfanta seule une foule de puissances redoutables. Hésiode cite Moros, le Destin funeste, les Kères, Thanatos la Mort, Hypnos le Sommeil et la tribu des Songes. Viennent ensuite Momos le Blâme, Oizys la Détresse, les Moires, Némésis, Apaté la Tromperie, Philotès la Tendresse, Géras la Vieillesse et Éris la Discorde. Les Hespérides comptent aussi parmi ses filles. La Nuit est ainsi l'origine de presque tout ce qui afflige ou limite les mortels.",
+        "personnages": ["nyx", "moros", "keres", "thanatos", "hypnos", "oneiroi", "momos", "oizys", "nemesis", "apate", "philotes", "geras", "eris", "clotho", "lachesis", "atropos"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Celle que Zeus lui-même redoute",
+        "resume": "Dans l'Iliade, Hypnos rappelle à Héra un ancien épisode. Il avait endormi Zeus pour l'aider à persécuter Héraclès, et le roi des dieux, à son réveil, voulut le précipiter du ciel dans la mer. Hypnos ne dut son salut qu'à sa fuite auprès de Nyx, qui dompte les dieux comme les hommes. Zeus, malgré sa colère, renonça à le poursuivre, car il craignait de déplaire à la Nuit rapide. L'épisode montre le respect qu'inspire cette puissance primordiale même au maître de l'Olympe.",
+        "personnages": ["nyx", "hypnos", "zeus", "hera", "heracles"],
+        "sources": ["Homère, Iliade"]
+      },
+      {
+        "titre": "La demeure de la Nuit",
+        "resume": "Hésiode situe la sombre demeure de Nyx aux confins du monde, près du Tartare, là où Atlas soutient le ciel. Nyx et Héméra ne s'y trouvent jamais ensemble : quand l'une franchit le seuil de bronze pour parcourir la terre, l'autre rentre et attend son heure. Le Jour apporte la lumière aux mortels, tandis que la Nuit porte dans ses bras Hypnos, frère de Thanatos. Cette alternance règle le rythme du monde.",
+        "personnages": ["nyx", "hemera", "atlas", "hypnos", "thanatos"],
+        "sources": ["Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "ether",
+    "nom": "Éther",
+    "grec": "Αἰθήρ",
+    "romain": "Aether",
+    "categorie": "primordial",
+    "epithete": "L'Air lumineux des hauteurs",
+    "domaines": ["air pur", "lumière céleste"],
+    "tags": ["ciel", "jour", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["erebe", "nyx"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["chaos"], "source": "Hygin, Fables (préface, avec Caligo, l'Obscurité)" }
+    ],
+    "unions": [
+      { "avec": "hemera", "note": "Selon Hygin, parents de la Terre, du Ciel et de la Mer" }
+    ],
+    "histoires": [
+      {
+        "titre": "La clarté née de l'ombre",
+        "resume": "Éther est l'air brillant et pur des régions supérieures, celui que respirent les dieux, par opposition à l'air brumeux d'en bas. Hésiode le fait naître d'Érèbe et de Nyx, en même temps que sa sœur Héméra. Chez Hygin, il s'unit au Jour et engendre à son tour la Terre, le Ciel et la Mer, ce qui inverse la généalogie hésiodique. Les poèmes orphiques lui donnent aussi une place importante dans la naissance de l'œuf cosmique.",
+        "personnages": ["ether", "erebe", "nyx", "hemera", "gaia", "ouranos", "thalassa"],
+        "sources": ["Hésiode, Théogonie", "Hygin, Fables", "Fragments orphiques"]
+      }
+    ]
+  },
+  {
+    "id": "hemera",
+    "nom": "Héméra",
+    "grec": "Ἡμέρα",
+    "romain": "Dies",
+    "categorie": "primordial",
+    "epithete": "Le Jour",
+    "domaines": ["jour", "lumière"],
+    "tags": ["jour", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["erebe", "nyx"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "ether", "note": "Selon Hygin" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le seuil de bronze",
+        "resume": "Fille de la Nuit et des Ténèbres, Héméra personnifie la lumière du jour. Hésiode raconte qu'elle partage avec sa mère une demeure aux confins du monde, mais qu'elles ne s'y rencontrent jamais. Lorsque l'une sort franchir le grand seuil de bronze, l'autre rentre et attend son tour. Héméra apporte la clarté aux habitants de la terre. Elle est souvent confondue plus tard avec Éos, l'Aurore.",
+        "personnages": ["hemera", "nyx", "erebe", "eos"],
+        "sources": ["Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "ouranos",
+    "nom": "Ouranos",
+    "grec": "Οὐρανός",
+    "romain": "Caelus",
+    "categorie": "primordial",
+    "epithete": "Le Ciel étoilé",
+    "domaines": ["ciel"],
+    "symboles": ["voûte étoilée"],
+    "tags": ["ciel", "étoiles", "royauté", "création", "vengeance", "personnification", "immortel", "roi"],
+    "filiations": [
+      { "parents": ["gaia"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["ether", "hemera"], "source": "Hygin, Fables (préface)" }
+    ],
+    "unions": [
+      { "avec": "gaia", "note": "Père des Titans, des Cyclopes et des Hécatonchires" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le père qui cachait ses enfants",
+        "resume": "Engendré par Gaïa pour la couvrir de toutes parts, Ouranos devint son époux et le premier souverain du monde. De leur union naquirent les douze Titans, les Cyclopes et les Hécatonchires. Mais Ouranos détestait ces enfants dès leur naissance et les repoussait dans les profondeurs de la Terre, sans les laisser voir la lumière. Selon Apollodore, il jeta les Cyclopes et les Hécatonchires dans le Tartare. Gaïa, gémissant sous ce poids, résolut de mettre fin à sa tyrannie.",
+        "personnages": ["ouranos", "gaia", "cyclopes", "hecatonchires", "cronos"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La mutilation d'Ouranos",
+        "resume": "Une nuit, Ouranos vint s'étendre sur Gaïa, ignorant que Cronos était caché en embuscade. Le Titan saisit la faucille que sa mère avait forgée et trancha les parties de son père, qu'il jeta derrière lui. Les gouttes de sang fécondèrent la Terre, qui enfanta les Érinyes, les Géants et les nymphes Méliades. Les parties tombées dans la mer furent longtemps ballottées par les flots, et de l'écume qui les entourait naquit Aphrodite. Ouranos perdit alors sa souveraineté, et la succession divine commença.",
+        "personnages": ["ouranos", "cronos", "gaia", "aphrodite", "geants", "meliae", "alecto", "megere", "tisiphone"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "La malédiction des Titans",
+        "resume": "Après sa mutilation, Ouranos donna à ses fils le nom de Titans, que Hésiode rattache au verbe signifiant tendre ou s'efforcer. Il leur reprocha d'avoir commis un crime et leur annonça qu'ils en paieraient le prix plus tard. Avec Gaïa, il prédit aussi à Cronos qu'il serait à son tour renversé par son propre fils. La prophétie se réalisa lorsque Zeus vainquit les Titans. Ouranos et Gaïa conseillèrent ensuite Zeus, notamment au sujet de Métis.",
+        "personnages": ["ouranos", "cronos", "zeus", "gaia", "metis"],
+        "sources": ["Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "pontos",
+    "nom": "Pontos",
+    "grec": "Πόντος",
+    "categorie": "primordial",
+    "epithete": "Le Flot marin",
+    "domaines": ["haute mer"],
+    "tags": ["mer", "personnification", "immortel", "création"],
+    "filiations": [
+      { "parents": ["gaia"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["ether", "gaia"], "source": "Hygin, Fables (préface)" }
+    ],
+    "unions": [
+      { "avec": "gaia", "note": "Père de Nérée, Thaumas, Phorcys, Céto et Eurybie" },
+      { "avec": "thalassa", "note": "Selon Hygin, parents des poissons" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mer stérile et ses enfants",
+        "resume": "Hésiode raconte que Gaïa enfanta seule, sans union d'amour, Pontos, la mer inféconde aux flots gonflés. Uni plus tard à sa mère, Pontos engendra les grandes divinités marines anciennes. Son aîné est Nérée, le Vieillard de la mer, véridique et bienveillant. Viennent ensuite Thaumas, père d'Iris et des Harpies, Phorcys et Céto, parents de nombreux monstres, et Eurybie au cœur d'acier. Pontos est ainsi l'ancêtre de toute la population merveilleuse des eaux.",
+        "personnages": ["pontos", "gaia", "neree", "thaumas", "phorcys", "ceto", "eurybie"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "ourea",
+    "nom": "Ouréa (les Montagnes)",
+    "grec": "Οὔρεα",
+    "categorie": "primordial",
+    "epithete": "Les hautes Montagnes",
+    "domaines": ["montagnes"],
+    "tags": ["montagne", "terre", "groupe", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "histoires": [
+      {
+        "titre": "Les demeures des nymphes",
+        "resume": "Parmi les premiers enfants qu'elle conçut seule, Gaïa mit au monde les grandes Montagnes, dit Hésiode. Ces sommets sont présentés comme des séjours charmants, fréquentés par les nymphes qui habitent les vallons boisés. Les Ouréa ne forment pas des personnages agissants mais des puissances naturelles primordiales. Certaines montagnes reçurent plus tard une personnalité propre, comme le Cithéron ou l'Hélicon, rivaux dans un concours de chant selon une légende rapportée par Corinne.",
+        "personnages": ["ourea", "gaia", "oreades"],
+        "sources": ["Hésiode, Théogonie", "Corinne, fragments"]
+      }
+    ]
+  },
+  {
+    "id": "ananke",
+    "nom": "Ananké",
+    "grec": "Ἀνάγκη",
+    "romain": "Necessitas",
+    "categorie": "primordial",
+    "epithete": "La Nécessité",
+    "domaines": ["nécessité", "contrainte inéluctable"],
+    "symboles": ["fuseau"],
+    "tags": ["destin", "temps", "création", "personnification", "immortel"],
+    "filiations": [],
+    "unions": [
+      { "avec": "chronos", "note": "Dans les théogonies orphiques, le couple primordial enlacé autour du monde" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le fuseau de la Nécessité",
+        "resume": "Dans le mythe d'Er qui clôt la République de Platon, un soldat revenu de la mort décrit l'ordre de l'univers. Il voit un immense fuseau qui tourne sur les genoux d'Ananké et autour duquel s'emboîtent les sphères célestes. Les trois Moires, filles de la Nécessité, sont assises autour d'elle. Lachésis chante le passé, Clotho le présent et Atropos l'avenir, tout en faisant tourner les cercles. Les âmes y choisissent leur prochaine vie avant de boire l'eau de l'oubli.",
+        "personnages": ["ananke", "clotho", "lachesis", "atropos"],
+        "sources": ["Platon, République"]
+      },
+      {
+        "titre": "Le couple orphique",
+        "resume": "Les théogonies orphiques transmises par des auteurs tardifs font d'Ananké une puissance des origines. Elle s'unit à Chronos, le Temps, sous la forme de serpents entrelacés qui enserrent l'univers. De leur action naissent l'Éther, le Chaos et l'œuf cosmique d'où surgit le premier dieu lumineux. Ces récits, qui s'écartent nettement d'Hésiode, montrent la Nécessité comme une contrainte à laquelle même les dieux ne peuvent échapper.",
+        "personnages": ["ananke", "chronos", "ether", "chaos"],
+        "sources": ["Fragments orphiques", "Damascius, Des premiers principes"]
+      }
+    ]
+  },
+  {
+    "id": "chronos",
+    "nom": "Chronos",
+    "grec": "Χρόνος",
+    "categorie": "primordial",
+    "epithete": "Le Temps",
+    "domaines": ["temps"],
+    "tags": ["temps", "création", "serpent", "personnification", "immortel"],
+    "filiations": [],
+    "unions": [
+      { "avec": "ananke", "note": "Selon les théogonies orphiques" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le Temps sans vieillesse",
+        "resume": "Absent chez Hésiode, Chronos apparaît comme un principe premier dans les cosmogonies orphiques et chez Phérécyde de Syros. On le décrit comme un serpent à trois têtes, de taureau, de lion et de dieu, que l'on appelle Temps sans vieillesse. Uni à Ananké, il produit l'Éther et le Chaos, puis façonne l'œuf cosmique d'où naîtra Phanès. Il ne faut pas le confondre avec le Titan Cronos, même si les Anciens ont souvent rapproché leurs noms.",
+        "personnages": ["chronos", "ananke", "ether", "chaos", "cronos"],
+        "sources": ["Fragments orphiques", "Phérécyde de Syros, fragments", "Damascius, Des premiers principes"]
+      }
+    ]
+  },
+  {
+    "id": "thalassa",
+    "nom": "Thalassa",
+    "grec": "Θάλασσα",
+    "categorie": "primordial",
+    "epithete": "La Mer",
+    "domaines": ["mer"],
+    "tags": ["mer", "animaux", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["ether", "hemera"], "source": "Hygin, Fables (préface)", "principale": true }
+    ],
+    "unions": [
+      { "avec": "pontos", "note": "Selon Hygin, parents de la race des poissons" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère des poissons",
+        "resume": "Thalassa est la mer elle-même, personnifiée sous un nom féminin. Le mythographe latin Hygin la fait naître d'Éther et d'Héméra, en même temps que la Terre et le Ciel. Unie à Pontos, elle aurait donné naissance à toutes les espèces de poissons. Elle apparaît aussi dans une fable ésopique où elle se défend d'être perfide, accusant les vents de soulever ses flots. Les mosaïques d'époque romaine la représentent souvent couronnée de pinces de crabe.",
+        "personnages": ["thalassa", "ether", "hemera", "pontos"],
+        "sources": ["Hygin, Fables", "Ésope, Fables"]
+      }
+    ]
+  }
+]

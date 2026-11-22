@@ -1,0 +1,1493 @@
+[
+  {
+    "id": "neree",
+    "nom": "Nérée",
+    "grec": "Νηρεύς",
+    "categorie": "dieu",
+    "epithete": "Le Vieillard de la mer",
+    "domaines": [
+      "mer",
+      "vérité",
+      "prophétie"
+    ],
+    "symboles": [
+      "trident",
+      "poissons",
+      "dauphin"
+    ],
+    "tags": [
+      "mer",
+      "prophétie",
+      "métamorphose",
+      "sagesse",
+      "immortel",
+      "travaux d'héraclès"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "pontos",
+          "gaia"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "doris",
+        "note": "Mère des cinquante Néréides"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Le vieillard juste et véridique",
+        "resume": "Hésiode présente Nérée comme l'aîné des enfants de Pontos, un dieu marin bienveillant qui n'oublie jamais la justice et ne profère jamais de mensonge. On le surnomme le Vieillard parce qu'il est doux et sincère. Uni à l'Océanide Doris, il engendre les Néréides, qui habitent avec lui au fond de la mer Égée. Sa sagesse en fait un conseiller recherché par les dieux comme par les héros.",
+        "personnages": [
+          "pontos",
+          "gaia",
+          "doris",
+          "nereides"
+        ],
+        "sources": [
+          "Hésiode, Théogonie"
+        ]
+      },
+      {
+        "titre": "Héraclès et le chemin des Hespérides",
+        "resume": "Pour accomplir son onzième travail, Héraclès ignore où se trouve le jardin des Hespérides. Sur le conseil des nymphes du fleuve Éridan, il surprend Nérée endormi et le saisit à bras-le-corps. Le dieu change successivement de forme pour lui échapper, devenant eau, feu et bêtes diverses. Le héros ne relâche pas son étreinte, et Nérée, vaincu, finit par lui indiquer la route.",
+        "personnages": [
+          "heracles",
+          "aigle",
+          "erytheia",
+          "hesperethousa",
+          "ladon"
+        ],
+        "sources": [
+          "Apollodore, Bibliothèque",
+          "Phérécyde (fragments)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "protee",
+    "nom": "Protée",
+    "grec": "Πρωτεύς",
+    "categorie": "dieu",
+    "epithete": "Le Vieillard de l'Égypte",
+    "domaines": [
+      "mer",
+      "phoques",
+      "prophétie"
+    ],
+    "symboles": [
+      "phoques",
+      "grotte marine"
+    ],
+    "tags": [
+      "mer",
+      "prophétie",
+      "métamorphose",
+      "immortel",
+      "égypte",
+      "odyssée",
+      "devin"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "poseidon"
+        ],
+        "principale": true
+      }
+    ],
+    "unions": [
+      {
+        "avec": "psamathe",
+        "note": "Épouse de Protée roi d'Égypte chez Euripide"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Ménélas surprend Protée à Pharos",
+        "resume": "Au retour de Troie, Ménélas est retenu par des vents contraires sur l'île de Pharos, près de l'Égypte. Eidothée, fille de Protée, lui révèle que seul son père peut lui dire comment rentrer. Cachés sous des peaux de phoques, Ménélas et ses compagnons attendent que le vieillard vienne compter son troupeau puis s'endorme. Ils le saisissent alors, et Protée devient lion, serpent, panthère, sanglier, eau et arbre sans parvenir à se libérer. Vaincu, il révèle à Ménélas les sacrifices dus aux dieux et le sort de ses compagnons, dont Agamemnon et Ulysse.",
+        "personnages": [
+          "menelas",
+          "agamemnon",
+          "ulysse"
+        ],
+        "sources": [
+          "Homère, Odyssée IV"
+        ]
+      },
+      {
+        "titre": "Aristée et la mort des abeilles",
+        "resume": "Ayant perdu toutes ses abeilles, le berger Aristée consulte sa mère Cyrène, qui l'envoie interroger Protée. Il l'enchaîne pendant son sommeil et résiste à toutes ses métamorphoses. Le devin lui révèle alors que la maladie est le châtiment de la mort d'Eurydice, mordue par un serpent en fuyant Aristée. Il lui raconte aussi la descente d'Orphée aux Enfers et sa fin tragique.",
+        "personnages": [
+          "aristee",
+          "cyrene",
+          "orphee",
+          "eurydice"
+        ],
+        "sources": [
+          "Virgile, Géorgiques IV"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "triton",
+    "nom": "Triton",
+    "grec": "Τρίτων",
+    "categorie": "dieu",
+    "epithete": "Le Héraut des mers",
+    "domaines": [
+      "mer",
+      "vagues"
+    ],
+    "symboles": [
+      "conque",
+      "trident",
+      "queue de poisson"
+    ],
+    "tags": [
+      "mer",
+      "messager",
+      "hybride",
+      "immortel",
+      "argonautes",
+      "gigantomachie"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "poseidon",
+          "amphitrite"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Triton guide les Argonautes",
+        "resume": "Rejetés par une tempête dans les sables de Libye, les Argonautes portent la nef Argo jusqu'au lac Tritonis mais ne trouvent pas d'issue vers la mer. Triton leur apparaît, d'abord sous l'apparence d'un jeune homme, et offre une motte de terre à Euphémos en gage d'hospitalité. Il leur indique ensuite le passage et pousse lui-même le navire vers le large. Les héros le voient alors sous sa vraie forme, homme jusqu'à la taille et poisson en dessous.",
+        "personnages": [
+          "jason",
+          "medee"
+        ],
+        "sources": [
+          "Apollonios de Rhodes, Argonautiques IV",
+          "Pindare, Pythiques IV"
+        ]
+      },
+      {
+        "titre": "La conque de Triton",
+        "resume": "Triton souffle dans une conque dont le son peut soulever ou apaiser les flots. Après le déluge, Poséidon lui ordonne d'y sonner la retraite des eaux, qui regagnent alors leurs lits. Une tradition rapporte aussi que, pendant la guerre contre les Géants, le vacarme de sa conque mit les ennemis des dieux en fuite.",
+        "personnages": [
+          "poseidon",
+          "zeus",
+          "deucalion",
+          "pyrrha",
+          "geants"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses I",
+          "Hygin, Astronomie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thaumas",
+    "nom": "Thaumas",
+    "grec": "Θαύμας",
+    "categorie": "dieu",
+    "epithete": "Le Prodige de la mer",
+    "domaines": [
+      "mer",
+      "merveilles"
+    ],
+    "tags": [
+      "mer",
+      "immortel",
+      "famille"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "pontos",
+          "gaia"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "electre-oceanide",
+        "note": "Mère d'Iris et des Harpies"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Le père d'Iris et des Harpies",
+        "resume": "Fils de Pontos et de Gaïa, Thaumas incarne les merveilles de la mer, son nom évoquant l'étonnement. Il épouse l'Océanide Électre, fille du profond Océan. De cette union naissent la rapide Iris, messagère des dieux qui relie le ciel et la terre par l'arc-en-ciel, et les Harpies aux belles chevelures, qui volent aussi vite que les vents et les oiseaux.",
+        "personnages": [
+          "electre-oceanide",
+          "iris",
+          "harpies"
+        ],
+        "sources": [
+          "Hésiode, Théogonie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "phorcys",
+    "nom": "Phorcys",
+    "grec": "Φόρκυς",
+    "categorie": "dieu",
+    "epithete": "Le Vieillard des profondeurs",
+    "domaines": [
+      "mer",
+      "dangers des profondeurs"
+    ],
+    "tags": [
+      "mer",
+      "immortel",
+      "famille",
+      "persée"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "pontos",
+          "gaia"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "ceto",
+        "note": "Sa sœur, mère de nombreux monstres"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Le père des monstres marins",
+        "resume": "Phorcys s'unit à sa sœur Céto et engendre une descendance redoutable. Hésiode leur attribue les Grées, vieilles dès leur naissance, les Gorgones, qui vivent au-delà de l'Océan, et le serpent qui garde les pommes d'or. D'autres auteurs lui donnent aussi pour fille Scylla. Homère, de son côté, donne son nom à un port d'Ithaque où Ulysse est déposé à son retour.",
+        "personnages": [
+          "ceto",
+          "grees",
+          "meduse",
+          "stheno",
+          "euryale",
+          "ladon",
+          "scylla",
+          "ulysse"
+        ],
+        "sources": [
+          "Hésiode, Théogonie",
+          "Homère, Odyssée XIII",
+          "Apollonios de Rhodes, Argonautiques IV"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ceto",
+    "nom": "Céto",
+    "grec": "Κητώ",
+    "categorie": "dieu",
+    "epithete": "Aux belles joues",
+    "domaines": [
+      "mer",
+      "monstres marins"
+    ],
+    "tags": [
+      "mer",
+      "immortel",
+      "monstre gardien",
+      "famille",
+      "persée"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "pontos",
+          "gaia"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "phorcys",
+        "note": "Son frère"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère des Grées et des Gorgones",
+        "resume": "Céto, fille de Pontos et de Gaïa, personnifie les dangers et les grands animaux des profondeurs ; son nom rappelle celui des monstres marins. De son union avec Phorcys naissent les Grées et les Gorgones, dont la mortelle Méduse. Elle enfante aussi, dans les replis de la terre, le serpent terrible qui veille sur les pommes d'or.",
+        "personnages": [
+          "phorcys",
+          "grees",
+          "meduse",
+          "stheno",
+          "euryale",
+          "ladon"
+        ],
+        "sources": [
+          "Hésiode, Théogonie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eurybie",
+    "nom": "Eurybie",
+    "grec": "Εὐρυβίη",
+    "categorie": "dieu",
+    "epithete": "Au cœur d'acier",
+    "domaines": [
+      "mer",
+      "puissance des flots"
+    ],
+    "tags": [
+      "mer",
+      "immortel",
+      "famille"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "pontos",
+          "gaia"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "crios",
+        "note": "Mère d'Astréos, Pallas et Persès"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "L'épouse de Crios",
+        "resume": "Eurybie, dont le nom évoque une vaste force, est la plus jeune fille de Pontos et de Gaïa. Hésiode lui prête un cœur d'acier dans la poitrine. Unie au Titan Crios, elle donne naissance à Astréos, père des vents et des astres, à Pallas et à Persès, qui surpasse tous les autres par sa sagesse.",
+        "personnages": [
+          "crios",
+          "astraios",
+          "pallas-titan",
+          "perses"
+        ],
+        "sources": [
+          "Hésiode, Théogonie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glaucos",
+    "nom": "Glaucos (dieu marin)",
+    "grec": "Γλαῦκος",
+    "categorie": "dieu",
+    "epithete": "Le pêcheur d'Anthédon",
+    "domaines": [
+      "mer",
+      "pêcheurs",
+      "prophétie"
+    ],
+    "symboles": [
+      "herbe magique",
+      "queue de poisson"
+    ],
+    "tags": [
+      "mer",
+      "métamorphose",
+      "prophétie",
+      "divinisé",
+      "amour",
+      "argonautes"
+    ],
+    "filiations": [
+      {
+        "parents": [],
+        "principale": true,
+        "source": "Ovide, Métamorphoses (pêcheur mortel d'Anthédon)"
+      },
+      {
+        "parents": [
+          "poseidon"
+        ],
+        "source": "Traditions rapportées par Athénée"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "scylla",
+        "note": "Amour non partagé"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "L'herbe d'immortalité",
+        "resume": "Glaucos est un pêcheur de la ville béotienne d'Anthédon. Un jour, il voit les poissons qu'il a posés sur une prairie reprendre vie au contact d'une herbe et regagner la mer. Il goûte à son tour cette plante et se sent irrésistiblement attiré par les flots, où il plonge. Les divinités marines le purifient et le transforment en dieu à la barbe verte et au corps terminé en poisson.",
+        "sources": [
+          "Ovide, Métamorphoses XIII",
+          "Pausanias, Description de la Grèce IX"
+        ]
+      },
+      {
+        "titre": "Glaucos, Scylla et Circé",
+        "resume": "Devenu dieu, Glaucos s'éprend de la nymphe Scylla, qui le repousse. Il demande à la magicienne Circé un philtre pour la séduire, mais Circé tombe elle-même amoureuse de lui. Éconduite, elle se venge sur sa rivale en empoisonnant l'eau où elle se baigne. Scylla voit alors le bas de son corps se changer en chiens monstrueux et devient le fléau du détroit.",
+        "personnages": [
+          "scylla",
+          "circe"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses XIII-XIV"
+        ]
+      },
+      {
+        "titre": "La prophétie aux Argonautes",
+        "resume": "Après qu'Héraclès et Polyphémos ont été laissés en Mysie, les Argonautes se querellent sur leur navire. Glaucos surgit alors des flots et saisit la poupe d'Argo. Il leur annonce que l'abandon d'Héraclès est voulu par Zeus, car le héros doit achever ses travaux, et que Hylas a été enlevé par une nymphe. Apaisés, les héros reprennent leur route.",
+        "personnages": [
+          "heracles",
+          "hylas",
+          "jason",
+          "zeus"
+        ],
+        "sources": [
+          "Apollonios de Rhodes, Argonautiques I"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "palemon",
+    "nom": "Palémon",
+    "grec": "Παλαίμων",
+    "romain": "Portunus",
+    "categorie": "dieu",
+    "epithete": "Mélicerte, protecteur des marins",
+    "domaines": [
+      "mer",
+      "ports",
+      "marins"
+    ],
+    "symboles": [
+      "dauphin"
+    ],
+    "tags": [
+      "mer",
+      "divinisé",
+      "navigation",
+      "corinthe",
+      "folie",
+      "jalousie"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "ino",
+          "athamas"
+        ],
+        "principale": true,
+        "source": "Apollodore, Bibliothèque"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Le saut d'Ino et Mélicerte",
+        "resume": "Héra, irritée qu'Ino ait recueilli le petit Dionysos, frappe de folie Athamas et son épouse. Pour échapper à la démence meurtrière qui s'abat sur sa maison, Ino se jette dans la mer avec son jeune fils Mélicerte. Les dieux marins les accueillent : Ino devient la déesse Leucothée et l'enfant le dieu Palémon. Tous deux secourent désormais les marins dans la tempête.",
+        "personnages": [
+          "ino",
+          "athamas",
+          "hera",
+          "dionysos"
+        ],
+        "sources": [
+          "Apollodore, Bibliothèque",
+          "Ovide, Métamorphoses IV",
+          "Pausanias, Description de la Grèce I"
+        ]
+      },
+      {
+        "titre": "La fondation des Jeux isthmiques",
+        "resume": "Selon la tradition corinthienne, un dauphin rapporta le corps de Mélicerte sur le rivage de l'isthme. Son oncle Sisyphe, roi de Corinthe, lui rendit les honneurs funèbres. Il institua en sa mémoire les Jeux isthmiques, célébrés près du sanctuaire de Poséidon, où Palémon reçut un culte.",
+        "personnages": [
+          "sisyphe",
+          "poseidon"
+        ],
+        "sources": [
+          "Pausanias, Description de la Grèce II",
+          "Apollodore, Bibliothèque"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boree",
+    "nom": "Borée",
+    "grec": "Βορέας",
+    "romain": "Aquilon",
+    "categorie": "dieu",
+    "epithete": "Le Vent du nord",
+    "domaines": [
+      "vent du nord",
+      "hiver"
+    ],
+    "symboles": [
+      "ailes",
+      "manteau",
+      "conque"
+    ],
+    "tags": [
+      "vent",
+      "tempête",
+      "enlèvement",
+      "ailé",
+      "athènes",
+      "personnification",
+      "immortel"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "astraios",
+          "eos"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "L'enlèvement d'Orithye",
+        "resume": "Borée s'éprend d'Orithye, fille du roi athénien Érechthée, mais ses demandes restent sans réponse. Renonçant à la persuasion, il recourt à la violence qui lui est naturelle. Il enveloppe la jeune fille de ses ailes alors qu'elle joue au bord de l'Ilissos et l'emporte en Thrace. Elle lui donne deux fils ailés, Zétès et Calaïs, qui prendront part à l'expédition des Argonautes.",
+        "personnages": [
+          "zetes",
+          "calais"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses VI",
+          "Apollodore, Bibliothèque",
+          "Platon, Phèdre"
+        ]
+      },
+      {
+        "titre": "Le gendre des Athéniens",
+        "resume": "Lors de l'invasion de Xerxès, un oracle conseille aux Athéniens d'invoquer leur gendre. Ils comprennent qu'il s'agit de Borée, époux d'une princesse athénienne, et lui adressent des sacrifices. Une violente tempête venue du nord brise alors une partie de la flotte perse près du cap Artémision. Reconnaissants, les Athéniens lui élèvent un sanctuaire au bord de l'Ilissos.",
+        "sources": [
+          "Hérodote, Histoires VII"
+        ]
+      },
+      {
+        "titre": "Les cavales d'Érichthonios",
+        "resume": "Homère raconte que Borée, ayant pris la forme d'un étalon à la crinière sombre, s'unit aux juments du riche roi troyen Érichthonios. Il en naquit douze pouliches si légères qu'elles couraient sur les épis sans les briser et sur la crête des vagues sans s'enfoncer.",
+        "sources": [
+          "Homère, Iliade XX"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zephyr",
+    "nom": "Zéphyr",
+    "grec": "Ζέφυρος",
+    "romain": "Favonius",
+    "categorie": "dieu",
+    "epithete": "Le Vent d'ouest",
+    "domaines": [
+      "vent d'ouest",
+      "printemps",
+      "brise"
+    ],
+    "symboles": [
+      "ailes",
+      "fleurs"
+    ],
+    "tags": [
+      "vent",
+      "fleurs",
+      "jalousie",
+      "ailé",
+      "chevaux",
+      "personnification",
+      "immortel"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "astraios",
+          "eos"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "harpies",
+        "note": "La Harpie Podargé, mère des chevaux d'Achille"
+      },
+      {
+        "avec": "iris",
+        "note": "Mère d'Éros selon le poète Alcée"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "La mort d'Hyacinthe",
+        "resume": "Selon plusieurs auteurs, Zéphyr aimait le jeune Spartiate Hyacinthe, qui lui préférait Apollon. Un jour où le dieu et le jeune homme s'exerçaient au lancer du disque, le vent jaloux dévia l'engin. Le disque frappa Hyacinthe à la tête et le tua. De son sang, Apollon fit naître la fleur qui porte son nom.",
+        "personnages": [
+          "hyacinthe",
+          "apollon"
+        ],
+        "sources": [
+          "Lucien, Dialogues des dieux",
+          "Philostrate, Images",
+          "Pausanias, Description de la Grèce III"
+        ]
+      },
+      {
+        "titre": "Les chevaux immortels d'Achille",
+        "resume": "Zéphyr s'unit à la Harpie Podargé alors qu'elle paissait dans une prairie au bord de l'Océan. Elle mit au monde Xanthos et Balios, chevaux immortels aussi rapides que le vent. Offerts à Pélée lors de ses noces avec Thétis, ils passèrent ensuite à Achille et tirèrent son char devant Troie, pleurant même la mort de Patrocle.",
+        "personnages": [
+          "harpies",
+          "pelee",
+          "thetis",
+          "achille",
+          "patrocle"
+        ],
+        "sources": [
+          "Homère, Iliade XVI et XIX"
+        ]
+      },
+      {
+        "titre": "Zéphyr porte Psyché",
+        "resume": "Exposée au sommet d'un rocher sur l'ordre d'un oracle, Psyché attend un époux monstrueux. Le doux Zéphyr la soulève alors et la dépose délicatement dans une vallée fleurie, au pied du palais merveilleux de son mystérieux époux, Éros. Il la transporte plus tard à la demande de celui-ci, y compris pour amener ses sœurs.",
+        "personnages": [
+          "psyche",
+          "eros"
+        ],
+        "sources": [
+          "Apulée, Métamorphoses"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "notos",
+    "nom": "Notos",
+    "grec": "Νότος",
+    "romain": "Auster",
+    "categorie": "dieu",
+    "epithete": "Le Vent du sud",
+    "domaines": [
+      "vent du sud",
+      "pluie",
+      "orages de fin d'été"
+    ],
+    "tags": [
+      "vent",
+      "tempête",
+      "personnification",
+      "immortel",
+      "odyssée"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "astraios",
+          "eos"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Le vent du déluge",
+        "resume": "Lorsque Zeus décide d'anéantir la race humaine, il enferme les vents secs et ne libère que Notos. Celui-ci s'envole sur ses ailes ruisselantes, le visage couvert de ténèbres, la barbe lourde de pluie. En pressant les nuées de ses mains, il déchaîne des trombes d'eau qui submergent la terre. Seuls Deucalion et Pyrrha survivent au déluge.",
+        "personnages": [
+          "zeus",
+          "deucalion",
+          "pyrrha"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses I"
+        ]
+      },
+      {
+        "titre": "Un mois sur Thrinacie",
+        "resume": "Après avoir échappé à Charybde et Scylla, Ulysse aborde l'île du Soleil. Notos et Euros soufflent alors sans relâche pendant un mois entier, empêchant tout départ. Affamés, les compagnons d'Ulysse finissent par abattre les bœufs sacrés d'Hélios, ce qui leur vaudra la mort.",
+        "personnages": [
+          "ulysse",
+          "helios",
+          "euros"
+        ],
+        "sources": [
+          "Homère, Odyssée XII"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "euros",
+    "nom": "Euros",
+    "grec": "Εὖρος",
+    "romain": "Vulturnus",
+    "categorie": "dieu",
+    "epithete": "Le Vent d'est",
+    "domaines": [
+      "vent d'est",
+      "vent du sud-est"
+    ],
+    "tags": [
+      "vent",
+      "tempête",
+      "personnification",
+      "immortel",
+      "odyssée"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "astraios",
+          "eos"
+        ],
+        "principale": true
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "La tempête contre le radeau d'Ulysse",
+        "resume": "Quittant l'île de Calypso, Ulysse navigue sur un radeau depuis dix-sept jours lorsque Poséidon l'aperçoit. Furieux, le dieu rassemble les nuées et lâche à la fois Euros, Notos, Zéphyr et Borée. Les vents se disputent l'embarcation comme un jouet et la brisent. Ulysse ne survit que grâce au voile de la déesse Leucothée.",
+        "personnages": [
+          "ulysse",
+          "poseidon",
+          "notos",
+          "zephyr",
+          "boree",
+          "calypso",
+          "ino"
+        ],
+        "sources": [
+          "Homère, Odyssée V"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eole",
+    "nom": "Éole",
+    "grec": "Αἴολος",
+    "romain": "Éole",
+    "categorie": "dieu",
+    "epithete": "Le Maître des vents",
+    "domaines": [
+      "vents"
+    ],
+    "symboles": [
+      "outre",
+      "île flottante"
+    ],
+    "tags": [
+      "vent",
+      "tempête",
+      "hospitalité",
+      "roi",
+      "odyssée",
+      "navigation"
+    ],
+    "filiations": [
+      {
+        "parents": [],
+        "principale": true,
+        "source": "Homère, Odyssée (fils d'Hippotès)"
+      },
+      {
+        "parents": [
+          "poseidon"
+        ],
+        "source": "Diodore de Sicile, Bibliothèque historique"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "L'outre des vents",
+        "resume": "Éole règne sur l'île flottante d'Éolie, entourée d'un rempart de bronze, avec ses six fils et ses six filles. Il accueille Ulysse pendant un mois et, au départ, lui remet une outre en cuir où il a enfermé tous les vents contraires, ne laissant souffler que Zéphyr. En vue d'Ithaque, Ulysse s'endort et ses compagnons, croyant l'outre pleine d'or, l'ouvrent. Les vents déchaînés ramènent le navire en Éolie, où le roi chasse le héros comme un homme haï des dieux.",
+        "personnages": [
+          "ulysse"
+        ],
+        "sources": [
+          "Homère, Odyssée X"
+        ]
+      },
+      {
+        "titre": "La tempête de Junon",
+        "resume": "Voyant la flotte d'Énée cingler vers l'Italie, Junon se rend auprès d'Éole, qui tient les vents enfermés dans une caverne. Elle lui promet une nymphe pour épouse s'il disperse les navires troyens. Éole frappe la montagne de sa lance et les vents s'échappent, soulevant une tempête qui jette les Troyens sur les côtes d'Afrique. Neptune, irrité qu'on agisse dans son domaine, apaise les flots.",
+        "personnages": [
+          "hera",
+          "enee",
+          "poseidon"
+        ],
+        "sources": [
+          "Virgile, Énéide I"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "achelous",
+    "nom": "Achéloos",
+    "grec": "Ἀχελῷος",
+    "categorie": "dieu",
+    "epithete": "Le Roi des fleuves",
+    "domaines": [
+      "fleuves",
+      "eau douce"
+    ],
+    "symboles": [
+      "corne",
+      "taureau",
+      "corne d'abondance"
+    ],
+    "tags": [
+      "fleuve",
+      "métamorphose",
+      "combat",
+      "fertilité",
+      "immortel",
+      "travaux d'héraclès"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "oceanos",
+          "tethys"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "melpomene",
+        "note": "Mère des Sirènes selon Apollodore"
+      },
+      {
+        "avec": "terpsichore",
+        "note": "Mère des Sirènes selon d'autres auteurs"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "La lutte pour Déjanire",
+        "resume": "Achéloos et Héraclès se disputent la main de Déjanire, fille du roi de Calydon. Le dieu-fleuve affronte le héros en changeant de forme : il devient serpent, puis taureau. Héraclès le terrasse et lui arrache une corne. Vaincu, Achéloos renonce à Déjanire ; selon Ovide, les Naïades remplissent la corne de fruits et de fleurs, et elle devient la corne d'abondance.",
+        "personnages": [
+          "heracles",
+          "naiades"
+        ],
+        "sources": [
+          "Sophocle, Les Trachiniennes",
+          "Ovide, Métamorphoses IX",
+          "Apollodore, Bibliothèque"
+        ]
+      },
+      {
+        "titre": "Les îles Échinades",
+        "resume": "Achéloos accueille Thésée et ses compagnons, retenus par une crue au retour de la chasse de Calydon. Il leur raconte que des nymphes l'avaient oublié dans un sacrifice. En colère, il les emporta jusqu'à la mer, où elles devinrent les îles Échinades. Il évoque aussi la nymphe Périmèle, qu'il aimait et que Poséidon changea en île.",
+        "personnages": [
+          "thesee",
+          "poseidon"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses VIII"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "asopos",
+    "nom": "Asopos",
+    "grec": "Ἀσωπός",
+    "categorie": "dieu",
+    "epithete": "Le fleuve de Béotie et de Phlionte",
+    "domaines": [
+      "fleuve"
+    ],
+    "tags": [
+      "fleuve",
+      "enlèvement",
+      "vengeance",
+      "foudre",
+      "famille"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "oceanos",
+          "tethys"
+        ],
+        "principale": true,
+        "source": "Apollodore, Bibliothèque"
+      },
+      {
+        "parents": [
+          "poseidon"
+        ],
+        "source": "Apollodore, Bibliothèque (avec Péro)"
+      },
+      {
+        "parents": [
+          "zeus",
+          "eurynome"
+        ],
+        "source": "Apollodore, Bibliothèque"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "La recherche d'Égine",
+        "resume": "Zeus enlève Égine, l'une des nombreuses filles d'Asopos, et l'emmène sur une île. Le fleuve parcourt la Grèce à sa recherche. À Corinthe, Sisyphe lui révèle le nom du ravisseur en échange d'une source pour sa citadelle. Asopos poursuit Zeus, mais celui-ci le repousse à coups de foudre dans son lit ; on disait que des charbons brûlés se trouvaient encore dans ses eaux. Sisyphe sera puni pour cette délation.",
+        "personnages": [
+          "aegina",
+          "zeus",
+          "sisyphe",
+          "eaque"
+        ],
+        "sources": [
+          "Apollodore, Bibliothèque",
+          "Pausanias, Description de la Grèce II"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alphee",
+    "nom": "Alphée",
+    "grec": "Ἀλφειός",
+    "categorie": "dieu",
+    "epithete": "Le fleuve d'Olympie",
+    "domaines": [
+      "fleuve"
+    ],
+    "tags": [
+      "fleuve",
+      "amour",
+      "métamorphose",
+      "arcadie",
+      "travaux d'héraclès",
+      "source"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "oceanos",
+          "tethys"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "unions": [
+      {
+        "avec": "arethuse",
+        "note": "Poursuivie par Alphée, elle s'unit finalement à ses eaux"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "La poursuite d'Aréthuse",
+        "resume": "La nymphe chasseresse Aréthuse se baigne dans les eaux claires de l'Alphée lorsque le dieu du fleuve, épris d'elle, l'interpelle. Elle s'enfuit à travers l'Élide et l'Arcadie, poursuivie sans relâche. À bout de forces, elle implore Artémis, qui la change en source. La déesse ouvre la terre et Aréthuse resurgit en Sicile, sur l'île d'Ortygie, mais l'Alphée traverse la mer sous les flots pour mêler ses eaux aux siennes.",
+        "personnages": [
+          "arethuse",
+          "artemis"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses V",
+          "Pausanias, Description de la Grèce V"
+        ]
+      },
+      {
+        "titre": "Les écuries d'Augias",
+        "resume": "Pour nettoyer en un seul jour les écuries immenses du roi Augias, Héraclès ouvre une brèche dans leurs fondations. Il détourne le cours de l'Alphée et du Pénée, dont les eaux emportent tout le fumier accumulé. Il fait ensuite ressortir les eaux par une autre ouverture.",
+        "personnages": [
+          "heracles",
+          "peneios"
+        ],
+        "sources": [
+          "Apollodore, Bibliothèque"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scamandre",
+    "nom": "Scamandre",
+    "grec": "Σκάμανδρος",
+    "categorie": "dieu",
+    "epithete": "Xanthos, le fleuve de Troie",
+    "domaines": [
+      "fleuve"
+    ],
+    "tags": [
+      "fleuve",
+      "guerre de troie",
+      "troie",
+      "combat",
+      "feu",
+      "immortel"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "oceanos",
+          "tethys"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      },
+      {
+        "parents": [
+          "zeus"
+        ],
+        "source": "Homère, Iliade"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Le combat contre Achille",
+        "resume": "Après la mort de Patrocle, Achille massacre tant de Troyens que les eaux du Scamandre, que les dieux nomment Xanthos, sont encombrées de cadavres. Le fleuve lui demande de cesser, puis, devant son refus, se soulève contre lui. Ses flots poursuivent le héros sur la plaine et manquent de l'engloutir. Héra envoie alors Héphaïstos, dont les flammes embrasent la rive et font bouillir les eaux, jusqu'à ce que le fleuve, vaincu, promette de ne plus secourir les Troyens.",
+        "personnages": [
+          "achille",
+          "hephaistos",
+          "hera",
+          "patrocle"
+        ],
+        "sources": [
+          "Homère, Iliade XXI"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "inachos",
+    "nom": "Inachos",
+    "grec": "Ἴναχος",
+    "categorie": "dieu",
+    "epithete": "Premier roi d'Argos",
+    "domaines": [
+      "fleuve",
+      "Argolide"
+    ],
+    "tags": [
+      "fleuve",
+      "argos",
+      "roi",
+      "justice",
+      "fondateur"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "oceanos",
+          "tethys"
+        ],
+        "principale": true,
+        "source": "Apollodore, Bibliothèque"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "L'arbitrage entre Héra et Poséidon",
+        "resume": "Héra et Poséidon se disputent la possession de l'Argolide. Inachos, avec les fleuves Céphise et Astérion, est choisi pour juge et attribue le pays à Héra. Furieux, Poséidon fait disparaître leurs eaux, si bien que ces fleuves ne coulent plus qu'après la pluie et restent à sec en été.",
+        "personnages": [
+          "hera",
+          "poseidon"
+        ],
+        "sources": [
+          "Pausanias, Description de la Grèce II",
+          "Apollodore, Bibliothèque"
+        ]
+      },
+      {
+        "titre": "Le père d'Io",
+        "resume": "Changée en génisse après avoir été aimée de Zeus, Io erre près des rives de son père sans pouvoir parler. Inachos ne la reconnaît pas jusqu'à ce qu'elle trace son nom sur le sol avec son sabot. Il se lamente sur son sort, mais Argos, le gardien aux cent yeux placé par Héra, les sépare et l'emmène paître au loin.",
+        "personnages": [
+          "io",
+          "zeus",
+          "hera",
+          "argos-panoptes"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses I",
+          "Eschyle, Prométhée enchaîné"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peneios",
+    "nom": "Pénée",
+    "grec": "Πηνειός",
+    "categorie": "dieu",
+    "epithete": "Le fleuve de Thessalie",
+    "domaines": [
+      "fleuve",
+      "vallée de Tempé"
+    ],
+    "tags": [
+      "fleuve",
+      "thessalie",
+      "métamorphose",
+      "transformé en plante",
+      "famille"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "oceanos",
+          "tethys"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "La métamorphose de Daphné",
+        "resume": "Daphné, fille du Pénée, veut rester vierge et vouée à la chasse, comme Artémis. Frappé d'une flèche d'Éros, Apollon s'éprend d'elle et la poursuit à travers la campagne. Épuisée, arrivée près des eaux paternelles, elle supplie son père de lui ôter sa beauté. Ses membres s'engourdissent et elle devient laurier, arbre que le dieu fait sien.",
+        "personnages": [
+          "daphne",
+          "apollon",
+          "eros",
+          "artemis"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses I"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tyche",
+    "nom": "Tyché",
+    "grec": "Τύχη",
+    "romain": "Fortuna",
+    "categorie": "dieu",
+    "epithete": "La Fortune",
+    "domaines": [
+      "fortune",
+      "hasard",
+      "prospérité des cités"
+    ],
+    "symboles": [
+      "corne d'abondance",
+      "gouvernail",
+      "roue",
+      "couronne murale"
+    ],
+    "tags": [
+      "destin",
+      "richesse",
+      "cité",
+      "personnification",
+      "immortel"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "oceanos",
+          "tethys"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      },
+      {
+        "parents": [
+          "zeus"
+        ],
+        "source": "Pindare, Olympiques XII"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Celle qui gouverne le sort des hommes",
+        "resume": "Hésiode la nomme parmi les Océanides, mais c'est Pindare qui en fait une grande puissance, fille de Zeus libérateur. Elle guide les navires sur la mer, les guerres et les assemblées des hommes. Les espoirs des mortels, dit le poète, montent et descendent au gré de ses caprices. On la représente tenant un gouvernail pour diriger le destin et une corne d'abondance pour dispenser la prospérité.",
+        "personnages": [
+          "zeus"
+        ],
+        "sources": [
+          "Pindare, Olympiques XII",
+          "Hésiode, Théogonie"
+        ]
+      },
+      {
+        "titre": "La protectrice des cités",
+        "resume": "À l'époque hellénistique, chaque grande cité honore sa propre Tyché, garante de sa chance et de sa prospérité. Couronnée de remparts, elle incarne la fortune collective de la ville. La statue de la Tyché d'Antioche, assise sur un rocher au-dessus du fleuve, devint le modèle de nombreuses représentations. Pausanias mentionne aussi une statue de Tyché portant l'enfant Ploutos.",
+        "personnages": [
+          "ploutos"
+        ],
+        "sources": [
+          "Pausanias, Description de la Grèce IX"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ploutos",
+    "nom": "Ploutos",
+    "grec": "Πλοῦτος",
+    "romain": "Plutus",
+    "categorie": "dieu",
+    "epithete": "La Richesse",
+    "domaines": [
+      "richesse",
+      "abondance des récoltes"
+    ],
+    "symboles": [
+      "corne d'abondance",
+      "gerbe de blé"
+    ],
+    "tags": [
+      "richesse",
+      "agriculture",
+      "moisson",
+      "mystères d'éleusis",
+      "personnification",
+      "immortel"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "demeter"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie (avec le mortel Iasion)"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Né d'un champ trois fois labouré",
+        "resume": "Déméter s'unit au héros Iasion dans un champ labouré trois fois, en Crète. De cet amour naît Ploutos, dieu bienveillant qui parcourt la terre et la mer et enrichit tous ceux qu'il rencontre. Homère ajoute que Zeus, apprenant cette union, foudroya Iasion. Ploutos est associé aux mystères d'Éleusis comme dispensateur de l'abondance des récoltes.",
+        "personnages": [
+          "demeter",
+          "zeus"
+        ],
+        "sources": [
+          "Hésiode, Théogonie",
+          "Homère, Odyssée V",
+          "Hymne homérique à Déméter"
+        ]
+      },
+      {
+        "titre": "La richesse aveugle",
+        "resume": "Dans la comédie d'Aristophane, Ploutos a été rendu aveugle par Zeus, si bien qu'il distribue ses dons au hasard, plus souvent aux méchants qu'aux justes. Un paysan honnête, Chrémyle, le recueille et le conduit au sanctuaire d'Asclépios. Guéri par le dieu, Ploutos recouvre la vue et ne visite plus que les hommes de bien, ce qui bouleverse l'ordre du monde.",
+        "personnages": [
+          "zeus",
+          "asclepios",
+          "hermes"
+        ],
+        "sources": [
+          "Aristophane, Ploutos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hymenee",
+    "nom": "Hyménée",
+    "grec": "Ὑμέναιος",
+    "romain": "Hymen",
+    "categorie": "dieu",
+    "epithete": "Le dieu des noces",
+    "domaines": [
+      "mariage",
+      "chant nuptial"
+    ],
+    "symboles": [
+      "torche",
+      "couronne de fleurs",
+      "voile safran"
+    ],
+    "tags": [
+      "mariage",
+      "musique",
+      "fête",
+      "jeunesse",
+      "immortel"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "apollon",
+          "calliope"
+        ],
+        "principale": true
+      },
+      {
+        "parents": [
+          "uranie"
+        ],
+        "source": "Catulle, Poèmes LXI"
+      },
+      {
+        "parents": [
+          "dionysos",
+          "aphrodite"
+        ],
+        "source": "Servius, Commentaire à l'Énéide"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Le chant des noces",
+        "resume": "Hyménée personnifie le chant que l'on entonne lors du cortège nuptial, lorsque la mariée est conduite à la maison de son époux. On l'invoque par un refrain répété, et on le représente comme un beau jeune homme portant une torche. Catulle l'appelle à venir couronné de marjolaine, vêtu du voile couleur de safran. Sa présence est un gage de bonheur pour les époux.",
+        "sources": [
+          "Catulle, Poèmes LXI",
+          "Homère, Iliade XVIII"
+        ]
+      },
+      {
+        "titre": "Un présage funeste aux noces d'Orphée",
+        "resume": "Appelé par Orphée, Hyménée se rend en Thrace pour les noces du poète avec Eurydice. Mais il n'apporte ni paroles heureuses ni visage joyeux : sa torche ne fait que crépiter et fumer, refusant de s'enflammer. Le présage se réalise aussitôt, car la jeune épouse meurt peu après, mordue par un serpent.",
+        "personnages": [
+          "orphee",
+          "eurydice"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses X"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eosphoros",
+    "nom": "Éosphoros",
+    "grec": "Ἑωσφόρος",
+    "romain": "Lucifer",
+    "categorie": "dieu",
+    "epithete": "L'Étoile du matin",
+    "domaines": [
+      "étoile du matin",
+      "aube"
+    ],
+    "symboles": [
+      "torche",
+      "étoile"
+    ],
+    "tags": [
+      "étoiles",
+      "aurore",
+      "jour",
+      "personnification",
+      "immortel"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "astraios",
+          "eos"
+        ],
+        "principale": true,
+        "source": "Hésiode, Théogonie"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "Le porteur d'aurore",
+        "resume": "Fils d'Éos et d'Astréos, Éosphoros est l'astre brillant qui annonce le lever du jour. Homère le décrit apparaissant au-dessus de la terre avant que l'Aurore ne déploie son voile safran sur la mer. On le représente comme un jeune homme portant une torche, précédant le char de sa mère. Les Grecs finirent par comprendre qu'il était le même astre que l'étoile du soir, Hespéros.",
+        "personnages": [
+          "eos",
+          "astraios",
+          "hesperos"
+        ],
+        "sources": [
+          "Hésiode, Théogonie",
+          "Homère, Iliade XXIII"
+        ]
+      },
+      {
+        "titre": "Le père de Céyx",
+        "resume": "Céyx, roi de Trachis, est le fils de l'Étoile du matin. Parti consulter un oracle par mer, il périt dans un naufrage tandis que son épouse prie pour son retour. Junon envoie Iris auprès du Sommeil, qui charge Morphée d'apparaître à la veuve sous les traits du noyé. Les dieux, émus par leur amour, changent finalement les deux époux en oiseaux de mer, les alcyons.",
+        "personnages": [
+          "hera",
+          "iris",
+          "hypnos",
+          "morphee"
+        ],
+        "sources": [
+          "Ovide, Métamorphoses XI",
+          "Apollodore, Bibliothèque"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hesperos",
+    "nom": "Hespéros",
+    "grec": "Ἕσπερος",
+    "romain": "Vesper",
+    "categorie": "dieu",
+    "epithete": "L'Étoile du soir",
+    "domaines": [
+      "étoile du soir",
+      "crépuscule"
+    ],
+    "symboles": [
+      "étoile",
+      "torche"
+    ],
+    "tags": [
+      "étoiles",
+      "nuit",
+      "mariage",
+      "personnification",
+      "immortel"
+    ],
+    "filiations": [
+      {
+        "parents": [
+          "astraios",
+          "eos"
+        ],
+        "principale": true
+      },
+      {
+        "parents": [
+          "eos"
+        ],
+        "source": "Hygin, Astronomie (avec Céphale)"
+      }
+    ],
+    "histoires": [
+      {
+        "titre": "L'astre qui ramène tout au bercail",
+        "resume": "Homère dit d'Hespéros qu'il est le plus bel astre du ciel. Sappho le célèbre comme celui qui, le soir venu, ramène la brebis, la chèvre et l'enfant que l'aube avait dispersés. Son lever marquait aussi le moment où la jeune mariée était conduite chez son époux, d'où sa place dans les chants nuptiaux. On attribuait à Pythagore ou à Parménide la découverte qu'il ne faisait qu'un avec l'étoile du matin.",
+        "personnages": [
+          "eosphoros",
+          "hymenee"
+        ],
+        "sources": [
+          "Homère, Iliade XXII",
+          "Sappho (fragments)",
+          "Catulle, Poèmes LXII"
+        ]
+      }
+    ]
+  }
+]

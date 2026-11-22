@@ -1,0 +1,18 @@
+{
+  "thèmes": [
+    "ciel", "terre", "mer", "fleuve", "source", "nuit", "jour", "soleil", "lune", "étoiles", "aurore", "vent", "tempête", "foudre", "feu", "forge", "volcan",
+    "temps", "destin", "mort", "enfers", "sommeil", "rêves", "vieillesse", "jeunesse", "naissance", "fertilité", "agriculture", "moisson", "vigne", "vin", "forêt", "montagne", "nature", "animaux", "chasse", "chevaux", "bétail", "bergers", "abeilles", "fleurs", "arbres",
+    "amour", "désir", "beauté", "mariage", "famille", "fidélité", "jalousie", "vengeance", "discorde", "justice", "loi", "serment", "hospitalité", "châtiment", "orgueil", "ruse", "sagesse", "prophétie", "oracle", "magie", "sorcellerie", "guérison", "médecine",
+    "guerre", "combat", "victoire", "paix", "richesse", "commerce", "voyage", "navigation", "messager", "artisanat", "arts", "musique", "poésie", "danse", "théâtre", "science", "écriture",
+    "foyer", "cité", "royauté", "chaos", "création", "métamorphose", "enlèvement", "sacrifice", "tragédie", "malédiction", "folie", "fête", "mystères"
+  ],
+  "cycles": [
+    "titanomachie", "gigantomachie", "guerre de troie", "odyssée", "argonautes", "travaux d'héraclès", "cycle thébain", "maison d'atrée", "chasse de calydon", "persée", "thésée", "crète", "mystères d'éleusis"
+  ],
+  "lieux": [
+    "olympe", "tartare", "athènes", "thèbes", "argos", "mycènes", "sparte", "troie", "delphes", "délos", "arcadie", "thessalie", "corinthe", "colchide", "ithaque", "lemnos", "chypre", "océan", "lydie", "éthiopie", "égypte"
+  ],
+  "traits": [
+    "immortel", "mortel", "divinisé", "géant", "hybride", "serpent", "ailé", "monstre gardien", "tueur de monstres", "fondateur", "roi", "reine", "prêtresse", "devin", "amazone", "personnification", "groupe", "triade", "aimé des dieux", "victime des dieux", "transformé en constellation", "transformé en plante", "transformé en animal"
+  ]
+}

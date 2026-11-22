@@ -1,0 +1,63 @@
+:root {
+  --bg: #ffffff;
+  --surface: #f4f8fc;
+  --surface-2: #eaf1f8;
+  --text: #0b2545;
+  --text-2: #3e5c76;
+  --text-3: #6b8299;
+  --accent: #1d5fa8;
+  --accent-soft: #e8f1fb;
+  --on-accent: #ffffff;
+  --line: #8da9c4;
+  --border: #dce6f0;
+  --border-strong: #c3d3e3;
+  --radius: 10px;
+  --radius-lg: 14px;
+  --shadow: 0 1px 2px rgb(11 37 69 / 6%), 0 4px 16px rgb(11 37 69 / 6%);
+  --font: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  /* catégories : fond / texte */
+  --c-primordial-bg: #eceefb; --c-primordial-fg: #2e3a87;
+  --c-titan-bg: #fbf1e1;      --c-titan-fg: #7a4b0b;
+  --c-olympien-bg: #e2eefb;   --c-olympien-fg: #134074;
+  --c-dieu-bg: #e0f3ef;       --c-dieu-fg: #0f5e54;
+  --c-demi-dieu-bg: #efebfb;  --c-demi-dieu-fg: #4b3b8f;
+  --c-heros-bg: #fbece6;      --c-heros-fg: #8a3a1e;
+  --c-nymphe-bg: #e7f4e8;     --c-nymphe-fg: #2e6b34;
+  --c-mortel-bg: #eff1f4;     --c-mortel-fg: #3f4752;
+  --c-monstre-bg: #fbe8eb;    --c-monstre-fg: #8c2232;
+  --c-creature-bg: #f6efe0;   --c-creature-fg: #6b5420;
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1a2b;
+    --surface: #13233a;
+    --surface-2: #1a2e49;
+    --text: #e6eef8;
+    --text-2: #a9bdd3;
+    --text-3: #7f95ad;
+    --accent: #5b9be0;
+    --accent-soft: #1b3557;
+    --on-accent: #06182c;
+    --line: #4d6a89;
+    --border: #22385a;
+    --border-strong: #2e4a72;
+    --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 6px 20px rgb(0 0 0 / 25%);
+
+    --c-primordial-bg: #232a5c; --c-primordial-fg: #cdd3fa;
+    --c-titan-bg: #4a3310;      --c-titan-fg: #f6d9a8;
+    --c-olympien-bg: #133459;   --c-olympien-fg: #c4dcf7;
+    --c-dieu-bg: #0f3f39;       --c-dieu-fg: #b4e7dc;
+    --c-demi-dieu-bg: #2f2660;  --c-demi-dieu-fg: #d6cdf7;
+    --c-heros-bg: #55261a;      --c-heros-fg: #f6cbbb;
+    --c-nymphe-bg: #1d4422;     --c-nymphe-fg: #bfe3c3;
+    --c-mortel-bg: #2a313b;     --c-mortel-fg: #d3d8df;
+    --c-monstre-bg: #561a25;    --c-monstre-fg: #f5c2cb;
+    --c-creature-bg: #45391a;   --c-creature-fg: #ecdcb0;
+
+    color-scheme: dark;
+  }
+}

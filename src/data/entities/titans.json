@@ -1,0 +1,822 @@
+[
+  {
+    "id": "oceanos",
+    "nom": "Océan",
+    "grec": "Ὠκεανός",
+    "romain": "Oceanus",
+    "categorie": "titan",
+    "epithete": "Le fleuve qui entoure le monde",
+    "domaines": ["fleuve cosmique", "eaux douces", "sources"],
+    "symboles": ["cornes de taureau", "serpent de mer"],
+    "tags": ["fleuve", "source", "mer", "océan", "titanomachie", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "tethys", "note": "Parents des Fleuves et des trois mille Océanides" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le fleuve aux eaux profondes",
+        "resume": "Aîné des Titans selon Hésiode, Océan est un fleuve immense qui coule en cercle autour de la terre plate et revient sans cesse sur lui-même. Tous les fleuves, toutes les sources et la mer elle-même proviennent de ses eaux. Le Soleil, la Lune et les astres se lèvent et se couchent dans ses flots. Uni à sa sœur Téthys, il engendra les grands Fleuves et une multitude de filles, les Océanides. Dans un passage de l'Iliade, Homère va jusqu'à faire d'Océan l'origine de tous les dieux.",
+        "personnages": ["oceanos", "tethys", "oceanides", "achelous", "styx"],
+        "sources": ["Hésiode, Théogonie", "Homère, Iliade"]
+      },
+      {
+        "titre": "Le Titan qui resta neutre",
+        "resume": "Selon la tradition, Océan ne prit pas part à la révolte de Cronos contre Ouranos ni à la guerre contre Zeus. Hésiode raconte que sa fille Styx fut la première à rejoindre Zeus avec ses enfants, sur le conseil de son père. Pour cette raison, Océan conserva son domaine après la victoire des Olympiens. Dans le Prométhée enchaîné d'Eschyle, il vient en personne visiter Prométhée sur son rocher et lui propose d'intercéder auprès de Zeus, mais le captif l'en dissuade.",
+        "personnages": ["oceanos", "styx", "zeus", "promethee", "cronos"],
+        "sources": ["Hésiode, Théogonie", "Eschyle, Prométhée enchaîné"]
+      },
+      {
+        "titre": "L'hôte d'Héra",
+        "resume": "Dans l'Iliade, Héra raconte qu'Océan et Téthys l'ont élevée dans leur demeure pendant que Zeus combattait Cronos. Elle prétend vouloir aller réconcilier le vieux couple, qui ne partage plus la même couche depuis longtemps à la suite d'une querelle. Ce prétexte lui sert en réalité à obtenir d'Aphrodite la ceinture qui inspire le désir, afin de séduire Zeus et de l'endormir. L'épisode témoigne de l'affection d'Héra pour ses parents nourriciers.",
+        "personnages": ["oceanos", "tethys", "hera", "aphrodite", "zeus"],
+        "sources": ["Homère, Iliade"]
+      }
+    ]
+  },
+  {
+    "id": "tethys",
+    "nom": "Téthys",
+    "grec": "Τηθύς",
+    "romain": "Tethys",
+    "categorie": "titan",
+    "epithete": "La nourrice des eaux",
+    "domaines": ["eaux douces", "fécondité des eaux"],
+    "tags": ["fleuve", "source", "mer", "fertilité", "famille", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "oceanos", "note": "Mère des Fleuves et des Océanides" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère des Fleuves et des Océanides",
+        "resume": "Titanide, fille d'Ouranos et de Gaïa, Téthys épousa son frère Océan. Hésiode lui attribue une descendance innombrable : les grands Fleuves, comme le Nil, l'Alphée ou l'Achéloos, et trois mille Océanides dispersées sur toute la terre. Ces nymphes veillent sur la jeunesse des hommes avec Apollon et les Fleuves. Téthys est ainsi la mère nourricière de toutes les eaux qui fertilisent le monde.",
+        "personnages": ["tethys", "oceanos", "oceanides", "achelous", "alphee", "scamandre", "styx"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "La Grande Ourse interdite de bain",
+        "resume": "Ovide rapporte que la nymphe Callisto, séduite par Zeus puis changée en ourse, fut placée parmi les étoiles avec son fils Arcas. Héra, furieuse de voir sa rivale honorée, alla trouver Téthys et Océan, qui l'avaient élevée. Elle leur demanda d'interdire leurs eaux à la nouvelle constellation. Téthys accepta, et c'est pourquoi la Grande Ourse tourne sans jamais se coucher sous l'horizon de l'Océan.",
+        "personnages": ["tethys", "oceanos", "hera", "callisto", "arcas", "zeus"],
+        "sources": ["Ovide, Métamorphoses", "Hygin, L'Astronomie"]
+      }
+    ]
+  },
+  {
+    "id": "hyperion",
+    "nom": "Hypérion",
+    "grec": "Ὑπερίων",
+    "romain": "Hyperion",
+    "categorie": "titan",
+    "epithete": "Celui qui va au-dessus",
+    "domaines": ["lumière", "observation céleste"],
+    "tags": ["soleil", "ciel", "jour", "titanomachie", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "theia", "note": "Père d'Hélios, Séléné et Éos" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le père des lumières célestes",
+        "resume": "Hypérion est l'un des douze Titans nés d'Ouranos et de Gaïa. Uni à sa sœur Théia, il engendra les trois grands luminaires : Hélios le Soleil, Séléné la Lune et Éos l'Aurore. Son nom évoque celui qui se meut en hauteur, et Homère l'emploie souvent comme épithète d'Hélios lui-même. Diodore de Sicile en fait un savant qui, le premier, observa le mouvement des astres et les cycles des saisons. Il figure parmi les Titans qui aidèrent Cronos contre Ouranos selon Apollodore.",
+        "personnages": ["hyperion", "theia", "helios", "selene", "eos", "cronos", "ouranos"],
+        "sources": ["Hésiode, Théogonie", "Homère, Odyssée", "Diodore de Sicile, Bibliothèque historique", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "theia",
+    "nom": "Théia",
+    "grec": "Θεία",
+    "categorie": "titan",
+    "epithete": "La Divine aux yeux brillants",
+    "domaines": ["éclat", "lumière", "pierres précieuses"],
+    "tags": ["soleil", "lune", "aurore", "beauté", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "hyperion", "note": "Mère d'Hélios, Séléné et Éos" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère du Soleil",
+        "resume": "Fille d'Ouranos et de Gaïa, Théia s'unit à son frère Hypérion et mit au monde Hélios, Séléné et Éos. L'Hymne homérique à Hélios l'appelle Euryphaessa, celle qui brille au loin. Pindare, dans une ode, l'invoque comme la mère du Soleil aux mille noms, grâce à qui les hommes estiment l'or plus que tout autre bien. Elle est donc associée à l'éclat des métaux précieux et à la lumière qui révèle la beauté des choses.",
+        "personnages": ["theia", "hyperion", "helios", "selene", "eos"],
+        "sources": ["Hésiode, Théogonie", "Hymne homérique à Hélios", "Pindare, Isthmiques"]
+      }
+    ]
+  },
+  {
+    "id": "coeos",
+    "nom": "Coéos",
+    "grec": "Κοῖος",
+    "categorie": "titan",
+    "epithete": "Le Titan de l'axe céleste",
+    "domaines": ["intelligence", "voûte céleste"],
+    "tags": ["ciel", "titanomachie", "tartare", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "phoebe", "note": "Père de Léto et d'Astéria" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le grand-père d'Apollon et d'Artémis",
+        "resume": "Coéos est l'un des fils d'Ouranos et de Gaïa. Hésiode dit qu'il s'approcha avec désir de la couche de sa sœur Phoébé, qui lui donna deux filles : Léto au voile sombre, toujours douce, et Astéria au nom heureux. Par Léto, il est le grand-père d'Apollon et d'Artémis, et par Astéria celui d'Hécate. Les poètes latins le rangent parmi les Titans enchaînés après la défaite, et Valérius Flaccus l'imagine tentant de se libérer de ses liens.",
+        "personnages": ["coeos", "phoebe", "leto", "asteria", "apollon", "artemis", "hecate"],
+        "sources": ["Hésiode, Théogonie", "Valérius Flaccus, Argonautiques"]
+      }
+    ]
+  },
+  {
+    "id": "phoebe",
+    "nom": "Phoébé",
+    "grec": "Φοίβη",
+    "categorie": "titan",
+    "epithete": "La Brillante",
+    "domaines": ["lumière", "prophétie"],
+    "tags": ["prophétie", "oracle", "delphes", "lune", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "coeos", "note": "Mère de Léto et d'Astéria" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le don de Delphes",
+        "resume": "Fille d'Ouranos et de Gaïa, Phoébé fut l'épouse de son frère Coéos et la mère de Léto et d'Astéria. Dans le prologue des Euménides d'Eschyle, la Pythie retrace l'histoire de l'oracle de Delphes. Gaïa en fut la première maîtresse, puis Thémis, puis Phoébé, qui l'obtint sans violence. Celle-ci en fit cadeau, pour sa naissance, à son petit-fils Apollon, qui reçut d'elle son surnom de Phoibos. Plus tard, son nom fut aussi donné à la Lune et à Artémis.",
+        "personnages": ["phoebe", "coeos", "leto", "asteria", "apollon", "gaia", "themis"],
+        "sources": ["Hésiode, Théogonie", "Eschyle, Euménides"]
+      }
+    ]
+  },
+  {
+    "id": "cronos",
+    "nom": "Cronos",
+    "grec": "Κρόνος",
+    "romain": "Saturne",
+    "categorie": "titan",
+    "epithete": "Roi des Titans",
+    "domaines": ["royauté primitive", "moissons", "âge d'or"],
+    "symboles": ["faucille", "harpé"],
+    "tags": ["royauté", "titanomachie", "moisson", "agriculture", "ruse", "famille", "roi", "tartare"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "rhea", "note": "Père d'Hestia, Déméter, Héra, Hadès, Poséidon et Zeus" },
+      { "avec": "philyra", "note": "Père du centaure Chiron, s'étant changé en cheval" }
+    ],
+    "histoires": [
+      {
+        "titre": "La faucille de Gaïa",
+        "resume": "Cronos, le plus jeune et le plus redoutable des Titans, haïssait son père Ouranos. Lorsque Gaïa demanda à ses enfants de la délivrer de son époux, il fut le seul à oser répondre à son appel. Armé de la faucille dentelée que sa mère avait forgée, il attendit en embuscade. Quand Ouranos s'étendit sur la Terre, Cronos le mutila et jeta ses parties derrière lui. Il prit alors le pouvoir et libéra ses frères Titans, mais laissa les Cyclopes et les Hécatonchires enfermés.",
+        "personnages": ["cronos", "ouranos", "gaia", "cyclopes", "hecatonchires"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le dévoreur de ses enfants",
+        "resume": "Ouranos et Gaïa avaient prédit à Cronos qu'il serait détrôné par l'un de ses fils. Pour conjurer ce destin, il avalait chacun des enfants que Rhéa mettait au monde : Hestia, Déméter, Héra, Hadès et Poséidon. Lorsque vint le tour de Zeus, Rhéa lui présenta une pierre enveloppée de langes, qu'il engloutit sans méfiance. Plus tard, une drogue préparée par Métis, ou une ruse de Gaïa selon Hésiode, le força à vomir la pierre puis ses enfants. La pierre fut placée à Delphes en souvenir de l'événement.",
+        "personnages": ["cronos", "rhea", "zeus", "hestia", "demeter", "hera", "hades", "poseidon", "metis", "gaia"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque", "Pausanias, Description de la Grèce"]
+      },
+      {
+        "titre": "La Titanomachie",
+        "resume": "Une fois adulte, Zeus entra en guerre contre Cronos et les Titans, qui combattaient depuis le mont Othrys tandis que les Olympiens tenaient l'Olympe. La lutte dura dix ans sans qu'aucun camp ne l'emporte. Sur le conseil de Gaïa, Zeus libéra les Cyclopes, qui lui forgèrent la foudre, et les Hécatonchires, qui écrasèrent les Titans sous une pluie de rochers. Vaincus, Cronos et ses alliés furent enchaînés dans le Tartare. Zeus partagea ensuite le monde avec ses frères.",
+        "personnages": ["cronos", "zeus", "cyclopes", "hecatonchires", "gaia", "poseidon", "hades", "atlas"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le roi de l'âge d'or",
+        "resume": "Dans Les Travaux et les Jours, Hésiode raconte que sous le règne de Cronos vivait la race d'or. Les hommes y passaient leur existence comme des dieux, sans souci, sans fatigue et sans vieillesse, et la terre produisait d'elle-même des fruits en abondance. Ce même poème, ainsi que Pindare, place Cronos après sa défaite comme souverain des Îles des Bienheureux, libéré par Zeus. Les Romains l'identifièrent à Saturne, roi de l'âge d'or réfugié dans le Latium et honoré lors des Saturnales.",
+        "personnages": ["cronos", "zeus"],
+        "sources": ["Hésiode, Les Travaux et les Jours", "Pindare, Olympiques", "Virgile, Énéide"]
+      },
+      {
+        "titre": "Cronos et Philyra",
+        "resume": "Selon Apollodore et Apollonios de Rhodes, Cronos s'éprit de l'Océanide Philyra. Surpris par Rhéa alors qu'il la rejoignait, il prit la forme d'un cheval pour échapper aux soupçons. De cette union naquit Chiron, mi-homme mi-cheval, le plus sage des Centaures. Honteuse d'avoir enfanté un être si étrange, Philyra demanda à être changée en arbre, et devint un tilleul selon Hygin.",
+        "personnages": ["cronos", "philyra", "chiron", "rhea"],
+        "sources": ["Apollodore, Bibliothèque", "Apollonios de Rhodes, Argonautiques", "Hygin, Fables"]
+      }
+    ]
+  },
+  {
+    "id": "rhea",
+    "nom": "Rhéa",
+    "grec": "Ῥέα",
+    "romain": "Ops",
+    "categorie": "titan",
+    "epithete": "Mère des dieux",
+    "domaines": ["maternité", "fertilité", "montagnes"],
+    "symboles": ["lions", "tambourin", "couronne tourelée"],
+    "tags": ["naissance", "famille", "fertilité", "ruse", "montagne", "crète", "reine", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "cronos", "note": "Mère des six premiers Olympiens" }
+    ],
+    "histoires": [
+      {
+        "titre": "La pierre emmaillotée",
+        "resume": "Épouse de Cronos, Rhéa voyait avec un chagrin immense son mari avaler chacun de leurs enfants. Enceinte de Zeus, elle supplia Ouranos et Gaïa de l'aider à sauver ce dernier-né. Sur leur conseil, elle se rendit en Crète pour accoucher en secret. Puis elle remit à Cronos une grosse pierre enveloppée de langes, qu'il avala en croyant dévorer son fils. Grâce à cette ruse, Zeus put grandir et renverser son père.",
+        "personnages": ["rhea", "cronos", "zeus", "gaia", "ouranos"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "L'enfance crétoise de Zeus",
+        "resume": "Apollodore raconte que Rhéa confia le nouveau-né aux nymphes du mont Dicté en Crète. L'enfant fut nourri du lait de la chèvre Amalthée, ou par une nymphe de ce nom selon d'autres. Les Courètes, jeunes guerriers en armes, dansaient autour de la grotte en frappant leurs boucliers de leurs lances. Ce vacarme couvrait les pleurs du bébé, afin que Cronos ne l'entende pas. Les Crétois montraient encore à l'époque historique la grotte de la naissance divine.",
+        "personnages": ["rhea", "zeus", "amalthee", "cronos"],
+        "sources": ["Apollodore, Bibliothèque", "Callimaque, Hymne à Zeus"]
+      },
+      {
+        "titre": "La Mère des dieux et Dionysos",
+        "resume": "Dès l'époque archaïque, Rhéa fut identifiée à la grande déesse phrygienne Cybèle, Mère des dieux, honorée par des cortèges extatiques au son des tambourins. Apollodore rapporte que Dionysos, frappé de folie par Héra, erra longtemps avant d'arriver en Phrygie. Là, Rhéa le purifia et lui enseigna ses rites initiatiques. Le dieu reçut d'elle son costume et partit ensuite répandre son culte en Thrace et en Inde.",
+        "personnages": ["rhea", "dionysos", "hera"],
+        "sources": ["Apollodore, Bibliothèque", "Euripide, Bacchantes"]
+      }
+    ]
+  },
+  {
+    "id": "mnemosyne",
+    "nom": "Mnémosyne",
+    "grec": "Μνημοσύνη",
+    "romain": "Moneta",
+    "categorie": "titan",
+    "epithete": "La Mémoire",
+    "domaines": ["mémoire", "inspiration poétique"],
+    "tags": ["poésie", "musique", "arts", "sagesse", "enfers", "personnification", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Mère des neuf Muses" }
+    ],
+    "histoires": [
+      {
+        "titre": "Neuf nuits en Piérie",
+        "resume": "Titanide fille d'Ouranos et de Gaïa, Mnémosyne personnifie la Mémoire. Hésiode raconte que Zeus s'unit à elle pendant neuf nuits en Piérie, à l'écart des autres immortels. Un an plus tard, elle mit au monde neuf filles, les Muses, qui apportent l'oubli des maux et le repos des soucis. Clio, Euterpe, Thalie, Melpomène, Terpsichore, Érato, Polymnie, Uranie et Calliope héritent de leur mère le pouvoir de garder vivant le souvenir des actions passées. Pour les Grecs, sans mémoire il ne peut y avoir de poésie.",
+        "personnages": ["mnemosyne", "zeus", "calliope", "clio", "euterpe", "thalie-muse", "melpomene", "terpsichore", "erato", "polymnie", "uranie"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "La source de Mémoire",
+        "resume": "Des tablettes d'or retrouvées dans des tombes de Grande-Grèce et de Crète guident l'âme des initiés dans l'Hadès. Elles l'avertissent de ne pas boire à la première source, près d'un cyprès blanc, qui procure l'oubli. L'âme doit au contraire chercher l'eau fraîche qui coule du lac de Mémoire, gardé par des sentinelles. Elle doit leur déclarer être enfant de la Terre et du Ciel étoilé, mais de race céleste. Ainsi conserve-t-elle le souvenir de ses vies et échappe au cycle des renaissances.",
+        "personnages": ["mnemosyne", "gaia", "ouranos"],
+        "sources": ["Tablettes d'or orphiques", "Pausanias, Description de la Grèce"]
+      }
+    ]
+  },
+  {
+    "id": "themis",
+    "nom": "Thémis",
+    "grec": "Θέμις",
+    "romain": "Justitia",
+    "categorie": "titan",
+    "epithete": "L'Ordre divin",
+    "domaines": ["justice", "ordre établi", "prophétie"],
+    "symboles": ["balance", "glaive"],
+    "tags": ["justice", "loi", "prophétie", "oracle", "delphes", "sagesse", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Mère des Heures et des Moires selon Hésiode" }
+    ],
+    "histoires": [
+      {
+        "titre": "La seconde épouse de Zeus",
+        "resume": "Après Métis, Zeus prit pour épouse Thémis, la loi divine et l'ordre légitime. Hésiode lui attribue deux groupes de filles : les Heures, Eunomie la Bonne Loi, Dikè la Justice et Eiréné la Paix, qui veillent sur les travaux des hommes, et les Moires, Clotho, Lachésis et Atropos, qui fixent leur sort. Le même poème rattache aussi les Moires à la Nuit, signe d'une hésitation ancienne. Dans l'Iliade, Thémis préside aux assemblées des dieux et accueille Héra sur l'Olympe.",
+        "personnages": ["themis", "zeus", "eunomie", "dike", "eirene", "clotho", "lachesis", "atropos", "hera"],
+        "sources": ["Hésiode, Théogonie", "Homère, Iliade"]
+      },
+      {
+        "titre": "L'oracle avant Apollon",
+        "resume": "Plusieurs auteurs font de Thémis la détentrice de l'oracle de Delphes après Gaïa et avant Apollon. Chez Ovide, Deucalion et Pyrrha, seuls survivants du déluge, viennent au sanctuaire couvert de mousse de la déesse pour lui demander comment repeupler la terre. Thémis leur ordonne énigmatiquement de jeter derrière eux les os de leur grand-mère. Deucalion comprend qu'il s'agit des pierres de la Terre, qui se transforment en hommes et en femmes.",
+        "personnages": ["themis", "deucalion", "pyrrha", "gaia", "apollon"],
+        "sources": ["Eschyle, Euménides", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Le secret de Thétis",
+        "resume": "Zeus et Poséidon se disputaient la main de la Néréide Thétis. Selon Pindare, Thémis révéla devant l'assemblée des dieux que le fils de Thétis serait destiné à devenir plus puissant que son père. Pour écarter ce danger, elle conseilla de marier la Néréide à un mortel pieux, Pélée. Les dieux suivirent son avis, et de cette union naquit Achille. Chez Eschyle, c'est Prométhée qui détient ce secret, transmis par sa mère Thémis, qu'il identifie à Gaïa.",
+        "personnages": ["themis", "zeus", "poseidon", "thetis", "pelee", "achille", "promethee"],
+        "sources": ["Pindare, Isthmiques", "Eschyle, Prométhée enchaîné"]
+      }
+    ]
+  },
+  {
+    "id": "crios",
+    "nom": "Crios",
+    "grec": "Κρεῖος",
+    "categorie": "titan",
+    "epithete": "Le Bélier céleste",
+    "domaines": ["constellations", "saisons"],
+    "tags": ["étoiles", "ciel", "titanomachie", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "eurybie", "note": "Père d'Astréos, Pallas et Persès" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le père d'Astréos, Pallas et Persès",
+        "resume": "Crios est l'un des fils d'Ouranos et de Gaïa, l'un des moins présents dans les récits. Hésiode rapporte qu'il s'unit à Eurybie, fille de Pontos, et engendra trois fils : Astréos, père des vents et des étoiles, Pallas et Persès, qui excellait en savoir. Son nom, proche du mot bélier, a parfois été rapproché de la constellation qui marque le début du printemps. Il partagea le sort des Titans vaincus par Zeus.",
+        "personnages": ["crios", "eurybie", "astraios", "pallas-titan", "perses"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "japet",
+    "nom": "Japet",
+    "grec": "Ἰαπετός",
+    "romain": "Iapetus",
+    "categorie": "titan",
+    "epithete": "Père de Prométhée",
+    "domaines": ["mortalité", "artisanat"],
+    "tags": ["titanomachie", "tartare", "famille", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "clymene", "note": "Mère d'Atlas, Ménoetios, Prométhée et Épiméthée selon Hésiode (Asia selon Apollodore)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le père d'une lignée châtiée",
+        "resume": "Japet, fils d'Ouranos et de Gaïa, épousa l'Océanide Clymène selon Hésiode, ou Asia selon Apollodore. Ils eurent quatre fils au destin tourmenté : Atlas condamné à porter le ciel, Ménoetios foudroyé pour sa démesure, Prométhée l'avisé et Épiméthée l'étourdi. Par Prométhée et Deucalion, les Grecs faisaient remonter jusqu'à lui l'origine du genre humain. Dans l'Iliade, Zeus cite Japet et Cronos comme exemples de dieux relégués au fond du Tartare, loin des rayons du soleil.",
+        "personnages": ["japet", "clymene", "atlas", "menoetios", "promethee", "epimethee", "zeus", "cronos"],
+        "sources": ["Hésiode, Théogonie", "Homère, Iliade", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "helios",
+    "nom": "Hélios",
+    "grec": "Ἥλιος",
+    "romain": "Sol",
+    "categorie": "titan",
+    "epithete": "Le Soleil qui voit tout",
+    "domaines": ["soleil", "lumière", "vue"],
+    "symboles": ["char solaire", "couronne de rayons", "chevaux ailés"],
+    "tags": ["soleil", "jour", "chevaux", "bétail", "justice", "serment", "immortel"],
+    "filiations": [
+      { "parents": ["hyperion", "theia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "perseis", "note": "Mère de Circé, Æétès et Pasiphaé" },
+      { "avec": "clymene", "note": "Mère de Phaéton et des Héliades selon Ovide" },
+      { "avec": "clytie", "note": "Amante délaissée" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le char du Soleil",
+        "resume": "Chaque matin, Hélios s'élance de l'orient sur un char d'or tiré par des chevaux qui soufflent le feu. Il traverse la voûte du ciel et éclaire les dieux comme les hommes. Le soir, il plonge dans l'Océan à l'occident. Selon Mimnerme et Stésichore, il revient ensuite vers l'est durant la nuit, endormi dans une coupe d'or qui flotte sur le fleuve Océan. Parce qu'il voit tout depuis les hauteurs, on l'invoque comme témoin des serments.",
+        "personnages": ["helios", "oceanos"],
+        "sources": ["Hymne homérique à Hélios", "Mimnerme, fragments", "Stésichore, fragments"]
+      },
+      {
+        "titre": "La chute de Phaéton",
+        "resume": "Ovide raconte que Phaéton, fils d'Hélios et de Clymène, voulut prouver sa naissance divine. Son père jura par le Styx de lui accorder ce qu'il voudrait, et le jeune homme demanda à conduire le char du Soleil pendant un jour. Incapable de maîtriser les chevaux, il les laissa s'écarter de leur route, embrasant la terre et desséchant les fleuves. Zeus dut le foudroyer pour sauver le monde, et Phaéton tomba dans le fleuve Éridan. Ses sœurs, les Héliades, furent changées en peupliers à force de le pleurer.",
+        "personnages": ["helios", "clymene", "zeus", "styx"],
+        "sources": ["Ovide, Métamorphoses", "Euripide, Phaéton (fragments)"]
+      },
+      {
+        "titre": "Le délateur d'Aphrodite",
+        "resume": "Dans l'Odyssée, l'aède Démodocos chante les amours secrètes d'Arès et d'Aphrodite dans la maison d'Héphaïstos. Hélios, qui voit tout, les surprit et alla prévenir le mari trompé. Héphaïstos forgea un filet invisible et y captura les amants, qu'il exposa aux rires des dieux. Ovide ajoute qu'Aphrodite se vengea en inspirant à Hélios des passions malheureuses, comme celle pour Leucothoé, qui causa le désespoir de Clytie.",
+        "personnages": ["helios", "ares", "aphrodite", "hephaistos", "clytie"],
+        "sources": ["Homère, Odyssée", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "Les bœufs de Thrinacie",
+        "resume": "Hélios possédait sur l'île de Thrinacie des troupeaux de vaches et de moutons immortels, gardés par ses filles nymphes. Tirésias et Circé avaient averti Ulysse de ne pas y toucher. Pourtant, bloqués par des vents contraires et affamés, ses compagnons en abattirent plusieurs pendant son sommeil. Hélios exigea réparation de Zeus en menaçant d'aller briller chez les morts. Zeus foudroya le navire et tous périrent, sauf Ulysse.",
+        "personnages": ["helios", "ulysse", "zeus", "tiresias", "circe"],
+        "sources": ["Homère, Odyssée"]
+      },
+      {
+        "titre": "L'île de Rhodes",
+        "resume": "Pindare raconte que lorsque les dieux se partagèrent la terre, Hélios était absent et fut oublié. Zeus voulut refaire le tirage, mais Hélios déclara qu'il voyait une île émerger du fond de la mer et la demanda pour lui. Cette île, Rhodes, devint son domaine et le centre de son culte. Il s'y unit à la nymphe Rhodos, dont il eut sept fils. Le célèbre Colosse de Rhodes le représentait.",
+        "personnages": ["helios", "zeus"],
+        "sources": ["Pindare, Olympiques"]
+      }
+    ]
+  },
+  {
+    "id": "selene",
+    "nom": "Séléné",
+    "grec": "Σελήνη",
+    "romain": "Luna",
+    "categorie": "titan",
+    "epithete": "La Lune",
+    "domaines": ["lune", "nuit", "mois"],
+    "symboles": ["croissant", "char attelé de deux chevaux ou de taureaux", "torche"],
+    "tags": ["lune", "nuit", "amour", "sommeil", "immortel", "personnification"],
+    "filiations": [
+      { "parents": ["hyperion", "theia"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["hyperion"], "source": "Hymne homérique à Hermès (fille de Pallas, fils de Mégamédès)" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Mère de Pandia selon l'Hymne homérique à Séléné" },
+      { "avec": "pan", "note": "Séduite par Pan selon Virgile" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le sommeil d'Endymion",
+        "resume": "Séléné s'éprit du bel Endymion, un berger ou un roi selon les versions. Chaque nuit, elle descendait le contempler dans une grotte du mont Latmos, en Carie. Selon Apollodore, Zeus accorda au jeune homme de choisir son sort, et il préféra dormir éternellement en restant jeune et immortel. D'autres disent que Séléné elle-même obtint ce sommeil pour garder son amant. Pausanias rapporte qu'elle lui donna cinquante filles.",
+        "personnages": ["selene", "zeus"],
+        "sources": ["Apollodore, Bibliothèque", "Pausanias, Description de la Grèce", "Apollonios de Rhodes, Argonautiques"]
+      },
+      {
+        "titre": "La déesse au char d'argent",
+        "resume": "L'Hymne homérique qui lui est consacré décrit Séléné baignant son corps dans l'Océan au crépuscule. Elle revêt ensuite des vêtements lumineux et attelle ses chevaux à la crinière brillante. Sa lumière, qui émane de sa tête immortelle, éclaire la nuit et sert de repère pour compter les mois. Le même hymne précise qu'elle s'unit à Zeus et lui donna une fille d'une grande beauté, Pandia.",
+        "personnages": ["selene", "zeus", "oceanos"],
+        "sources": ["Hymne homérique à Séléné"]
+      },
+      {
+        "titre": "La toison de Pan",
+        "resume": "Virgile évoque dans les Géorgiques une légende arcadienne selon laquelle Pan séduisit Séléné. Le dieu l'attira au fond des bois en lui offrant une toison d'une blancheur éclatante. La Lune répondit à son appel sans se méfier. Le poète latin attribue ce récit à une tradition ancienne, que les commentateurs rattachent à Nicandre.",
+        "personnages": ["selene", "pan"],
+        "sources": ["Virgile, Géorgiques"]
+      }
+    ]
+  },
+  {
+    "id": "eos",
+    "nom": "Éos",
+    "grec": "Ἠώς",
+    "romain": "Aurore",
+    "categorie": "titan",
+    "epithete": "L'Aurore aux doigts de rose",
+    "domaines": ["aurore", "lever du jour"],
+    "symboles": ["doigts de rose", "voile safran", "char"],
+    "tags": ["aurore", "jour", "amour", "désir", "enlèvement", "malédiction", "ailé", "immortel"],
+    "filiations": [
+      { "parents": ["hyperion", "theia"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "astraios", "note": "Mère des Vents Borée, Zéphyr et Notos, et de l'étoile du matin" },
+      { "avec": "orion", "note": "Enlevé par Éos selon l'Odyssée" }
+    ],
+    "histoires": [
+      {
+        "titre": "La mère des Vents et des astres",
+        "resume": "Chaque matin, Éos se lève de la couche de son époux et ouvre les portes du ciel pour annoncer le jour à son frère Hélios. Homère la dit au trône d'or et aux doigts de rose. Hésiode raconte qu'unie au Titan Astréos, elle mit au monde les Vents rapides, Zéphyr, Borée et Notos. Elle enfanta aussi l'Étoile du matin et les astres brillants qui couronnent le ciel.",
+        "personnages": ["eos", "astraios", "boree", "zephyr", "notos", "eosphoros", "helios"],
+        "sources": ["Hésiode, Théogonie", "Homère, Odyssée"]
+      },
+      {
+        "titre": "Tithon, l'éternel vieillard",
+        "resume": "Éos enleva le prince troyen Tithon, frère de Priam, et demanda à Zeus de le rendre immortel. Elle oublia cependant de demander pour lui la jeunesse éternelle. Tithon vieillit sans fin, perdit l'usage de ses membres et fut enfermé dans une chambre d'où l'on n'entendait plus que sa voix. Une tradition postérieure dit qu'il fut changé en cigale. De leur union était né Memnon, roi des Éthiopiens.",
+        "personnages": ["eos", "zeus", "memnon", "priam"],
+        "sources": ["Hymne homérique à Aphrodite", "Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Les larmes de l'Aurore",
+        "resume": "Venu au secours de Troie, Memnon, fils d'Éos, tua Antiloque avant d'être lui-même abattu par Achille. Selon l'épopée perdue de l'Éthiopide, Éos obtint de Zeus l'immortalité pour son fils. Ovide raconte qu'elle supplia le roi des dieux de lui accorder un honneur, et que des oiseaux naquirent du bûcher de Memnon. Depuis, la rosée du matin passe pour les larmes qu'elle verse sur son fils disparu.",
+        "personnages": ["eos", "memnon", "achille", "zeus"],
+        "sources": ["Éthiopide (résumé de Proclos)", "Ovide, Métamorphoses"]
+      },
+      {
+        "titre": "La malédiction d'Aphrodite",
+        "resume": "Apollodore rapporte qu'Éos partagea le lit d'Arès. Pour la punir, Aphrodite la condamna à tomber sans cesse amoureuse de mortels. Elle enleva ainsi Orion, que les dieux jaloux firent périr selon l'Odyssée, puis le chasseur Céphale, qu'elle arracha à son épouse Procris, et Clitos. Ces enlèvements expliquent son rôle de ravisseuse dans l'art grec.",
+        "personnages": ["eos", "aphrodite", "ares", "orion", "artemis"],
+        "sources": ["Apollodore, Bibliothèque", "Homère, Odyssée", "Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "leto",
+    "nom": "Léto",
+    "grec": "Λητώ",
+    "romain": "Latone",
+    "categorie": "titan",
+    "epithete": "Mère d'Apollon et d'Artémis",
+    "domaines": ["maternité", "douceur"],
+    "symboles": ["palmier", "voile"],
+    "tags": ["naissance", "famille", "jalousie", "vengeance", "délos", "immortel"],
+    "filiations": [
+      { "parents": ["coeos", "phoebe"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Mère d'Apollon et d'Artémis" }
+    ],
+    "histoires": [
+      {
+        "titre": "La naissance à Délos",
+        "resume": "Enceinte de Zeus, Léto erra par toute la terre sans trouver de lieu pour accoucher, car Héra, jalouse, avait interdit à toutes les régions de l'accueillir. Seule la petite île de Délos, alors errante et rocailleuse, accepta de la recevoir, contre la promesse d'un grand temple. Héra retint encore Ilithyie, déesse des accouchements, pendant neuf jours. Les autres déesses finirent par l'attirer en lui promettant un collier d'or. Léto, s'appuyant contre un palmier, mit alors au monde Apollon, précédé d'Artémis selon certaines versions.",
+        "personnages": ["leto", "zeus", "hera", "eileithyia", "apollon", "artemis", "asteria"],
+        "sources": ["Hymne homérique à Apollon", "Callimaque, Hymne à Délos", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "L'orgueil de Niobé",
+        "resume": "Niobé, reine de Thèbes, se vantait d'avoir quatorze enfants, alors que Léto n'en avait que deux. Elle alla jusqu'à interdire aux Thébaines d'honorer la déesse. Outragée, Léto demanda vengeance à ses enfants. Apollon abattit les fils de Niobé de ses flèches et Artémis tua les filles. Accablée de douleur, Niobé fut changée en rocher sur le mont Sipyle, d'où ses larmes coulent encore.",
+        "personnages": ["leto", "niobe", "apollon", "artemis"],
+        "sources": ["Homère, Iliade", "Ovide, Métamorphoses", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Les paysans de Lycie",
+        "resume": "Ovide rapporte que Léto, fuyant Héra avec ses nouveau-nés, arriva en Lycie, épuisée et assoiffée. Elle voulut boire à un étang, mais des paysans qui coupaient des joncs l'en empêchèrent grossièrement. Ils allèrent jusqu'à troubler l'eau de leurs pieds pour la rendre imbuvable. Indignée, la déesse les condamna à vivre pour toujours dans ce marais, et ils furent changés en grenouilles.",
+        "personnages": ["leto", "apollon", "artemis", "hera"],
+        "sources": ["Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "asteria",
+    "nom": "Astéria",
+    "grec": "Ἀστερία",
+    "categorie": "titan",
+    "epithete": "L'Étoilée",
+    "domaines": ["étoiles filantes", "divination nocturne"],
+    "tags": ["étoiles", "métamorphose", "délos", "transformé en animal", "immortel"],
+    "filiations": [
+      { "parents": ["coeos", "phoebe"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "perses", "note": "Mère d'Hécate" }
+    ],
+    "histoires": [
+      {
+        "titre": "La caille devenue île",
+        "resume": "Sœur de Léto, Astéria fut l'épouse de Persès, à qui elle donna Hécate. Selon Apollodore, Zeus la poursuivit de ses assiduités. Pour lui échapper, elle se changea en caille et se jeta dans la mer. Elle devint alors une île flottante, appelée Ortygie, l'île aux cailles, puis Délos. Callimaque raconte que c'est cette île errante qui accueillit plus tard sa sœur Léto pour la naissance d'Apollon, et qu'elle se fixa alors au fond de la mer.",
+        "personnages": ["asteria", "zeus", "perses", "hecate", "leto", "apollon"],
+        "sources": ["Apollodore, Bibliothèque", "Callimaque, Hymne à Délos", "Hésiode, Théogonie"]
+      }
+    ]
+  },
+  {
+    "id": "atlas",
+    "nom": "Atlas",
+    "grec": "Ἄτλας",
+    "romain": "Atlas",
+    "categorie": "titan",
+    "epithete": "Le porteur du ciel",
+    "domaines": ["endurance", "astronomie"],
+    "symboles": ["voûte céleste", "globe"],
+    "tags": ["ciel", "titanomachie", "châtiment", "montagne", "étoiles", "travaux d'héraclès", "persée", "géant"],
+    "filiations": [
+      { "parents": ["japet", "clymene"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["japet"], "source": "Apollodore, Bibliothèque (mère : Asia)" }
+    ],
+    "unions": [
+      { "avec": "pleione", "note": "Père des Pléiades" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le châtiment d'Atlas",
+        "resume": "Fils de Japet, Atlas prit part à la guerre des Titans contre Zeus, où il aurait conduit les troupes selon des auteurs tardifs. Après la victoire des Olympiens, Zeus lui assigna un châtiment particulier. Il dut soutenir la vaste voûte du ciel sur sa tête et ses bras infatigables, aux confins occidentaux de la terre, près du jardin des Hespérides. Homère en fait plutôt le gardien des hautes colonnes qui séparent la terre du ciel. Il est le père de Calypso, des Pléiades, des Hyades et des Hespérides.",
+        "personnages": ["atlas", "zeus", "japet", "calypso", "maia", "hyades"],
+        "sources": ["Hésiode, Théogonie", "Homère, Odyssée", "Hygin, Fables"]
+      },
+      {
+        "titre": "Les pommes des Hespérides",
+        "resume": "Pour son onzième travail, Héraclès devait rapporter les pommes d'or du jardin des Hespérides. Sur le conseil de Prométhée, il demanda à Atlas d'aller les cueillir et prit le ciel sur ses épaules à sa place. Atlas revint avec les pommes, mais décida de les porter lui-même à Eurysthée pour ne plus reprendre son fardeau. Héraclès feignit d'accepter et lui demanda seulement de tenir le ciel un instant, le temps de placer un coussin sur sa tête. Atlas reprit la voûte céleste, et le héros partit avec les fruits.",
+        "personnages": ["atlas", "heracles", "promethee", "ladon"],
+        "sources": ["Apollodore, Bibliothèque", "Phérécyde, fragments"]
+      },
+      {
+        "titre": "La montagne de pierre",
+        "resume": "Ovide raconte que Persée, de retour de son combat contre Méduse, demanda l'hospitalité à Atlas, roi des confins occidentaux. Un oracle avait averti le Titan qu'un fils de Zeus viendrait dérober les pommes d'or de son jardin. Craignant un voleur, Atlas chassa brutalement le héros. Persée lui présenta alors la tête de Méduse, et le géant fut changé en une immense montagne, dont la cime soutient le ciel et ses étoiles.",
+        "personnages": ["atlas", "persee", "meduse", "zeus"],
+        "sources": ["Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "promethee",
+    "nom": "Prométhée",
+    "grec": "Προμηθεύς",
+    "romain": "Prometheus",
+    "categorie": "titan",
+    "epithete": "Le Prévoyant, bienfaiteur des hommes",
+    "domaines": ["prévoyance", "feu", "techniques", "création des hommes"],
+    "symboles": ["fenouil contenant le feu", "aigle", "rocher enchaîné"],
+    "tags": ["feu", "ruse", "sacrifice", "châtiment", "création", "artisanat", "prophétie", "immortel"],
+    "filiations": [
+      { "parents": ["japet", "clymene"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["japet", "themis"], "source": "Eschyle, Prométhée enchaîné" }
+    ],
+    "unions": [],
+    "histoires": [
+      {
+        "titre": "Le partage de Mécone",
+        "resume": "À Mécone, dieux et hommes se réunirent pour fixer la part de chacun lors des sacrifices. Prométhée découpa un grand bœuf en deux lots. D'un côté il cacha les chairs et les entrailles sous l'estomac peu appétissant de l'animal, de l'autre il disposa les os blancs sous une couche de graisse luisante. Zeus choisit la graisse et découvrit les os, ce qui fixa pour toujours la règle : les hommes mangent la viande et brûlent les os pour les dieux. Irrité, Zeus refusa dès lors le feu aux mortels.",
+        "personnages": ["promethee", "zeus"],
+        "sources": ["Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Le vol du feu",
+        "resume": "Pour réparer la privation infligée par Zeus, Prométhée déroba le feu divin et le cacha dans une tige creuse de fenouil. Il l'apporta aux hommes, qui purent ainsi cuire leurs aliments, se chauffer et pratiquer les arts. Chez Eschyle, le Titan revendique d'avoir donné bien plus : l'écriture, le nombre, la domestication des animaux, la navigation et la médecine. Zeus, outragé, préparait déjà sa double vengeance, contre les hommes et contre leur bienfaiteur.",
+        "personnages": ["promethee", "zeus", "hephaistos"],
+        "sources": ["Hésiode, Théogonie", "Hésiode, Les Travaux et les Jours", "Eschyle, Prométhée enchaîné"]
+      },
+      {
+        "titre": "Le supplicié du Caucase",
+        "resume": "Pour punir Prométhée, Zeus le fit enchaîner par Héphaïstos, aidé de Kratos et Bia, à un rocher du Caucase. Chaque jour, un aigle venait lui dévorer le foie, qui repoussait pendant la nuit. Prométhée connaissait pourtant un secret menaçant le règne de Zeus et refusait de le révéler. Selon les versions, il resta enchaîné trente ans ou des millénaires. Héraclès finit par abattre l'aigle d'une flèche et le délivra avec l'accord de Zeus, qui voyait là un moyen d'accroître la gloire de son fils.",
+        "personnages": ["promethee", "zeus", "hephaistos", "kratos", "bia", "aigle-du-caucase", "heracles", "chiron"],
+        "sources": ["Hésiode, Théogonie", "Eschyle, Prométhée enchaîné", "Apollodore, Bibliothèque"]
+      },
+      {
+        "titre": "Le modeleur des hommes",
+        "resume": "Une tradition plus tardive, rapportée par Apollodore et Ovide, fait de Prométhée le créateur du genre humain. Il aurait façonné les premiers hommes avec de la terre mêlée d'eau, à l'image des dieux. À la différence des animaux, qui regardent vers le sol, il leur donna une stature droite pour qu'ils puissent contempler le ciel. Pausanias dit qu'on montrait encore en Phocide des pierres couleur d'argile, restes de son travail.",
+        "personnages": ["promethee", "athena"],
+        "sources": ["Apollodore, Bibliothèque", "Ovide, Métamorphoses", "Pausanias, Description de la Grèce"]
+      },
+      {
+        "titre": "Le conseil à Deucalion",
+        "resume": "Lorsque Zeus décida d'anéantir l'humanité de l'âge de bronze par un déluge, Prométhée avertit son fils Deucalion. Il lui conseilla de construire un coffre et d'y embarquer des provisions avec son épouse Pyrrha, fille d'Épiméthée. Le couple flotta neuf jours et neuf nuits avant d'échouer sur le Parnasse. Seuls survivants, ils repeuplèrent ensuite la terre en jetant des pierres derrière eux.",
+        "personnages": ["promethee", "deucalion", "pyrrha", "zeus", "epimethee"],
+        "sources": ["Apollodore, Bibliothèque", "Ovide, Métamorphoses"]
+      }
+    ]
+  },
+  {
+    "id": "epimethee",
+    "nom": "Épiméthée",
+    "grec": "Ἐπιμηθεύς",
+    "categorie": "titan",
+    "epithete": "Celui qui réfléchit après coup",
+    "domaines": ["imprévoyance"],
+    "tags": ["mariage", "malédiction", "création", "animaux", "immortel"],
+    "filiations": [
+      { "parents": ["japet", "clymene"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "pandore", "note": "Parents de Pyrrha" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le don de Pandore",
+        "resume": "Pour se venger du vol du feu, Zeus fit façonner par Héphaïstos la première femme, Pandore, que tous les dieux parèrent de dons. Hermès la conduisit chez Épiméthée. Prométhée avait pourtant recommandé à son frère de ne jamais accepter de présent de Zeus, mais celui-ci l'oublia et ne comprit son erreur qu'après coup. Pandore ouvrit la jarre qu'elle avait apportée, et tous les maux se répandirent parmi les hommes. Seule l'Espérance resta prisonnière sous le couvercle.",
+        "personnages": ["epimethee", "pandore", "promethee", "zeus", "hephaistos", "hermes", "athena"],
+        "sources": ["Hésiode, Les Travaux et les Jours", "Hésiode, Théogonie"]
+      },
+      {
+        "titre": "La distribution des qualités",
+        "resume": "Dans le Protagoras de Platon, les dieux chargent Prométhée et Épiméthée de répartir les qualités entre les espèces vivantes. Épiméthée obtient de faire seul le partage, sous le contrôle de son frère. Il donne aux uns la force, aux autres la vitesse, des ailes, des griffes ou une fourrure épaisse. Mais il épuise tous les dons avant d'arriver à l'homme, qui reste nu et sans défense. Prométhée doit alors voler le feu et l'habileté technique pour sauver l'humanité.",
+        "personnages": ["epimethee", "promethee", "athena", "hephaistos"],
+        "sources": ["Platon, Protagoras"]
+      }
+    ]
+  },
+  {
+    "id": "menoetios",
+    "nom": "Ménoetios",
+    "grec": "Μενοίτιος",
+    "categorie": "titan",
+    "epithete": "L'Orgueilleux",
+    "domaines": ["violence", "démesure"],
+    "tags": ["orgueil", "châtiment", "titanomachie", "foudre", "tartare"],
+    "filiations": [
+      { "parents": ["japet", "clymene"], "source": "Hésiode, Théogonie", "principale": true },
+      { "parents": ["japet"], "source": "Apollodore, Bibliothèque (mère : Asia)" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le foudroyé",
+        "resume": "Frère d'Atlas, de Prométhée et d'Épiméthée, Ménoetios était connu pour son arrogance et sa force brutale. Hésiode raconte que Zeus, à la vaste voix, le frappa de la foudre fumante et le précipita dans l'Érèbe. Il fut puni pour sa démesure et son courage excessif. Apollodore précise qu'il fut foudroyé lors de la Titanomachie et jeté dans le Tartare.",
+        "personnages": ["menoetios", "zeus", "japet", "atlas", "promethee"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "astraios",
+    "nom": "Astréos",
+    "grec": "Ἀστραῖος",
+    "categorie": "titan",
+    "epithete": "Le Titan étoilé",
+    "domaines": ["crépuscule", "étoiles", "vents"],
+    "tags": ["étoiles", "vent", "nuit", "immortel"],
+    "filiations": [
+      { "parents": ["crios", "eurybie"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "eos", "note": "Père des Vents et des étoiles" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le père des Vents et des étoiles",
+        "resume": "Fils du Titan Crios et d'Eurybie, Astréos s'unit à l'Aurore, Éos. Hésiode raconte qu'ils engendrèrent les vents qui éclaircissent le ciel : Zéphyr, Borée et Notos. Éos enfanta aussi l'Étoile du matin et tous les astres qui brillent dans la voûte céleste. Selon Aratos, la Vierge céleste, Dikè, serait fille d'Astréos, ce qui en fait une figure liée à l'ordre des constellations.",
+        "personnages": ["astraios", "eos", "crios", "eurybie", "zephyr", "boree", "notos", "eosphoros", "dike"],
+        "sources": ["Hésiode, Théogonie", "Aratos, Phénomènes"]
+      }
+    ]
+  },
+  {
+    "id": "pallas-titan",
+    "nom": "Pallas (Titan)",
+    "grec": "Πάλλας",
+    "categorie": "titan",
+    "epithete": "Père de la Victoire",
+    "domaines": ["guerre"],
+    "tags": ["guerre", "victoire", "titanomachie", "gigantomachie", "immortel"],
+    "filiations": [
+      { "parents": ["crios", "eurybie"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "styx", "note": "Père de Zélos, Niké, Kratos et Bia" }
+    ],
+    "histoires": [
+      {
+        "titre": "Les enfants de Styx",
+        "resume": "Fils de Crios et d'Eurybie, Pallas épousa l'Océanide Styx. Hésiode leur attribue quatre enfants : Zélos l'Ardeur, Niké la Victoire, Kratos la Puissance et Bia la Force. Lorsque Zeus appela les immortels à le rejoindre contre les Titans, Styx vint la première avec eux, sur le conseil de son père Océan. En récompense, Zeus garda auprès de lui ces quatre enfants, qui ne le quittent jamais. On distingue ce Titan du Géant Pallas qu'Athéna écorcha lors de la Gigantomachie.",
+        "personnages": ["pallas-titan", "styx", "zelos", "nike", "kratos", "bia", "zeus", "oceanos"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "perses",
+    "nom": "Persès",
+    "grec": "Πέρσης",
+    "categorie": "titan",
+    "epithete": "Le Titan de la destruction",
+    "domaines": ["destruction", "savoir"],
+    "tags": ["magie", "famille", "immortel"],
+    "filiations": [
+      { "parents": ["crios", "eurybie"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "asteria", "note": "Père d'Hécate" }
+    ],
+    "histoires": [
+      {
+        "titre": "Le père d'Hécate",
+        "resume": "Fils de Crios et d'Eurybie, Persès est décrit par Hésiode comme supérieur à tous par son savoir. Il épousa Astéria, sœur de Léto, et ils eurent pour fille Hécate. Zeus honora cette dernière plus que toute autre divinité, lui laissant une part de pouvoir sur la terre, la mer et le ciel étoilé. Des auteurs postérieurs ont confondu ou rapproché ce Titan avec Persès, frère d'Æétès, roi de Colchide.",
+        "personnages": ["perses", "asteria", "hecate", "zeus", "crios", "eurybie"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "metis",
+    "nom": "Métis",
+    "grec": "Μῆτις",
+    "categorie": "titan",
+    "epithete": "L'Intelligence rusée",
+    "domaines": ["intelligence pratique", "ruse", "conseil"],
+    "tags": ["sagesse", "ruse", "métamorphose", "naissance", "prophétie", "immortel"],
+    "filiations": [
+      { "parents": ["oceanos", "tethys"], "source": "Hésiode, Théogonie", "principale": true }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Première épouse de Zeus, mère d'Athéna" }
+    ],
+    "histoires": [
+      {
+        "titre": "La drogue donnée à Cronos",
+        "resume": "Selon Apollodore, lorsque Zeus fut devenu adulte, il fit appel à Métis, fille d'Océan, pour délivrer ses frères et sœurs. Métis prépara une drogue qu'elle fit boire à Cronos. Sous son effet, le Titan vomit d'abord la pierre qu'il avait avalée à la place de Zeus, puis les enfants qu'il avait engloutis. Ces derniers rejoignirent Zeus dans la guerre contre les Titans. Chez Hésiode, c'est une ruse de Gaïa qui produit ce résultat.",
+        "personnages": ["metis", "zeus", "cronos", "hestia", "demeter", "hera", "hades", "poseidon", "gaia"],
+        "sources": ["Apollodore, Bibliothèque", "Hésiode, Théogonie"]
+      },
+      {
+        "titre": "Avalée par Zeus",
+        "resume": "Métis fut la première épouse de Zeus, la plus savante des dieux et des hommes. Gaïa et Ouranos avertirent Zeus qu'après une fille, Métis lui donnerait un fils qui deviendrait roi des dieux et des hommes. Alors qu'elle était enceinte d'Athéna, Zeus la trompa par des paroles flatteuses et l'avala. Apollodore précise qu'elle se changeait en toutes sortes de formes pour lui échapper. Désormais logée en lui, Métis conseille Zeus de l'intérieur, et Athéna naquit plus tard tout armée de sa tête.",
+        "personnages": ["metis", "zeus", "athena", "gaia", "ouranos", "hephaistos"],
+        "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
+      }
+    ]
+  },
+  {
+    "id": "dione",
+    "nom": "Dioné",
+    "grec": "Διώνη",
+    "romain": "Dione",
+    "categorie": "titan",
+    "epithete": "Déesse de Dodone",
+    "domaines": ["oracle", "eaux"],
+    "tags": ["oracle", "prophétie", "famille", "immortel"],
+    "filiations": [
+      { "parents": ["ouranos", "gaia"], "source": "Apollodore, Bibliothèque", "principale": true },
+      { "parents": ["oceanos", "tethys"], "source": "Hésiode, Théogonie" }
+    ],
+    "unions": [
+      { "avec": "zeus", "note": "Mère d'Aphrodite selon Homère" }
+    ],
+    "histoires": [
+      {
+        "titre": "La consolation d'Aphrodite",
+        "resume": "Dans l'Iliade, Homère fait de Dioné la mère d'Aphrodite et de Zeus, alors qu'Hésiode fait naître la déesse de l'écume. Blessée à la main par Diomède en voulant protéger Énée, Aphrodite s'enfuit sur l'Olympe et se jette dans les bras de sa mère. Dioné la console en rappelant que bien des dieux ont souffert par la main des mortels, comme Arès enfermé par les Aloades ou Hadès blessé par Héraclès. Elle prédit aussi que l'audacieux Diomède ne vivra pas longtemps heureux. Puis elle essuie de ses mains le sang divin, et la blessure guérit.",
+        "personnages": ["dione", "aphrodite", "diomede", "enee", "zeus", "ares", "aloades", "hades", "heracles"],
+        "sources": ["Homère, Iliade"]
+      },
+      {
+        "titre": "La parèdre de Dodone",
+        "resume": "À Dodone, en Épire, se trouvait le plus ancien oracle de Grèce, où Zeus rendait ses réponses par le bruissement d'un chêne sacré. Dioné y était honorée à ses côtés comme son épouse, et son nom même semble former un pendant féminin à celui de Zeus. Les fidèles adressaient leurs questions au couple divin sur des lamelles de plomb retrouvées par les archéologues. Les auteurs anciens hésitent sur sa généalogie : Titanide pour Apollodore, Océanide pour Hésiode.",
+        "personnages": ["dione", "zeus"],
+        "sources": ["Hérodote, Histoires", "Strabon, Géographie", "Apollodore, Bibliothèque"]
+      }
+    ]
+  }
+]
