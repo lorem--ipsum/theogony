@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import { buildIndex, validate } from '../data/model'
+import { buildIndex } from '../data/model'
+import { validate } from '../data/validation'
 import type { Entity } from '../data/schema'
 import { buildGraph, focusSet } from './buildGraph'
 

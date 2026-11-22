@@ -1,5 +1,5 @@
 import { siblingsOf, type Index } from '../data/model'
-import type { Categorie } from '../data/schema'
+import type { Categorie } from '../data/categories'
 
 export type GNode =
   | { id: string; kind: 'entity'; entityId: string; label: string; categorie: Categorie; width: number; height: number }

@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { ReactFlowProvider } from '@xyflow/react'
 import { entities, index } from './data'
-import { CATEGORIES, CATEGORY_LABELS, type Categorie } from './data/schema'
+import { CATEGORIES, CATEGORY_LABELS, type Categorie } from './data/categories'
 import { focusSet } from './graph/buildGraph'
 import { GraphView } from './components/GraphView'
 import { DetailCard, EntityLink } from './components/DetailCard'

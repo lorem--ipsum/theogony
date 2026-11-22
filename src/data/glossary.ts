@@ -1,5 +1,6 @@
 import raw from './glossaire.json'
-import type { Categorie, Terme } from './schema'
+import type { Categorie } from './categories'
+import type { Terme } from './schema'
 
 export const terms: Terme[] = (raw as Terme[]).slice().sort((a, b) => a.terme.localeCompare(b.terme, 'fr'))
 export const termById = new Map(terms.map((t) => [t.id, t]))

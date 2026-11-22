@@ -1,6 +1,7 @@
 import { index } from '../data'
 import { primaryFiliation, siblingsOf } from '../data/model'
-import { CATEGORY_LABELS, type Entity } from '../data/schema'
+import { CATEGORY_LABELS } from '../data/categories'
+import type { Entity } from '../data/schema'
 import { CategoryIcon } from './CategoryIcon'
 import { termForCategory } from '../data/glossary'
 

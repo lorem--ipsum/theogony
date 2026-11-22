@@ -1,32 +1,5 @@
 import { z } from 'zod'
-
-export const CATEGORIES = [
-  'primordial',
-  'titan',
-  'olympien',
-  'dieu',
-  'demi-dieu',
-  'heros',
-  'nymphe',
-  'mortel',
-  'monstre',
-  'creature',
-] as const
-
-export type Categorie = (typeof CATEGORIES)[number]
-
-export const CATEGORY_LABELS: Record<Categorie, string> = {
-  primordial: 'Primordial',
-  titan: 'Titan',
-  olympien: 'Olympien',
-  dieu: 'Divinité',
-  'demi-dieu': 'Demi-dieu',
-  heros: 'Héros',
-  nymphe: 'Nymphe',
-  mortel: 'Mortel',
-  monstre: 'Monstre',
-  creature: 'Créature',
-}
+import { CATEGORIES } from './categories'
 
 const id = z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/, 'id en kebab-case ascii')
 

@@ -7,6 +7,11 @@
     <title>Théogonie · Arbre des dieux grecs</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+    <script>
+      // Vieux Safari (iOS < 14) : pas de BigInt. React Flow ne s'en sert que comme compteur,
+      // un simple Number suffit.
+      if (typeof BigInt === 'undefined') window.BigInt = function (v) { return Number(v) }
+    </script>
   </head>
   <body>
     <div id="root"></div>

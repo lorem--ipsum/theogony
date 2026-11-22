@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import Fuse from 'fuse.js'
 import { entities } from '../data'
-import { CATEGORIES, CATEGORY_LABELS, type Categorie } from '../data/schema'
+import { CATEGORIES, CATEGORY_LABELS, type Categorie } from '../data/categories'
 import { CategoryIcon } from './CategoryIcon'
 import { terms } from '../data/glossary'
 

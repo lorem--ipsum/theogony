@@ -13,7 +13,7 @@ import {
 } from '@xyflow/react'
 import '@xyflow/react/dist/style.css'
 import { index } from '../data'
-import type { Categorie } from '../data/schema'
+import type { Categorie } from '../data/categories'
 import { buildGraph } from '../graph/buildGraph'
 import { layoutGraph } from '../graph/layout'
 import { CategoryIcon } from './CategoryIcon'

@@ -1,4 +1,4 @@
-import type { Categorie } from '../data/schema'
+import type { Categorie } from '../data/categories'
 
 /** Petites icônes (traits) par catégorie, dessinées sur une grille 16×16. */
 const PATHS: Record<Categorie, string> = {

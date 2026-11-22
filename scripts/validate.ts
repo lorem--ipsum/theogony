@@ -4,7 +4,7 @@
  */
 import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
-import { validate, validateGlossary } from '../src/data/model'
+import { validate, validateGlossary } from '../src/data/validation'
 
 const dataDir = join(import.meta.dirname, '../src/data')
 const dir = join(dataDir, 'entities')
