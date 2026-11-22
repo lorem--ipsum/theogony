@@ -33,7 +33,7 @@ h1, h2, h3 { font-weight: 500; margin: 0; }
 .cat-creature { --cbg: var(--c-creature-bg); --cfg: var(--c-creature-fg); }
 
 /* ---------- structure ---------- */
-.app { height: 100dvh; display: flex; flex-direction: column; }
+.app { height: 100vh; height: 100dvh; display: flex; flex-direction: column; }
 .body {
   flex: 1; min-height: 0;
   display: grid; grid-template-columns: minmax(0, 3fr) minmax(340px, 2fr);
@@ -112,7 +112,7 @@ h1, h2, h3 { font-weight: 500; margin: 0; }
 .tag.is-on { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
 
 /* ---------- graphe ---------- */
-.graph { position: absolute; inset: 0; }
+.graph { position: absolute; top: 0; right: 0; bottom: 0; left: 0; }
 .graph-loading {
   position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
   padding: 6px 14px; border-radius: 999px; background: var(--surface); color: var(--text-2); font-size: 13px;
@@ -143,6 +143,7 @@ h1, h2, h3 { font-weight: 500; margin: 0; }
 .legend {
   position: absolute; top: 12px; left: 12px; z-index: 5; max-width: calc(100% - 24px);
   display: flex; flex-wrap: wrap; gap: 4px; padding: 6px; border-radius: var(--radius-lg);
+  background: var(--bg);
   background: color-mix(in srgb, var(--bg) 88%, transparent); border: 1px solid var(--border);
 }
 .legend-item {
@@ -244,7 +245,7 @@ button.legend-item:hover { box-shadow: 0 0 0 1.5px var(--cfg) inset; }
   .search { order: 1; flex-basis: calc(100% - 46px); max-width: none; }
   .tools { order: 2; width: 100%; justify-content: space-between; margin: 0; }
   .body { display: block; position: relative; }
-  .master { position: absolute; inset: 0; border: 0; }
+  .master { position: absolute; top: 0; right: 0; bottom: 0; left: 0; border: 0; }
   .legend { display: none; }
   .results { left: 12px; right: 12px; width: auto; max-height: 30%; top: 12px; }
   .detail-pane {

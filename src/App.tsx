@@ -21,8 +21,13 @@ function useIsMobile() {
   useEffect(() => {
     const mq = matchMedia(query)
     const on = () => setM(mq.matches)
-    mq.addEventListener('change', on)
-    return () => mq.removeEventListener('change', on)
+    // Safari < 14 ne connaît que addListener/removeListener
+    if (mq.addEventListener) {
+      mq.addEventListener('change', on)
+      return () => mq.removeEventListener('change', on)
+    }
+    mq.addListener(on)
+    return () => mq.removeListener(on)
   }, [])
   return m
 }
