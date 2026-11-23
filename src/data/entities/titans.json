@@ -107,7 +107,7 @@
     "histoires": [
       {
         "titre": "La mère du Soleil",
-        "resume": "Fille d'Ouranos et de Gaïa, Théia s'unit à son frère Hypérion et mit au monde Hélios, Séléné et Éos. L'Hymne homérique à Hélios l'appelle Euryphaessa, celle qui brille au loin. Pindare, dans une ode, l'invoque comme la mère du Soleil aux mille noms, grâce à qui les hommes estiment l'or plus que tout autre bien. Elle est donc associée à l'éclat des métaux précieux et à la lumière qui révèle la beauté des choses.",
+        "resume": "Fille d'Ouranos et de Gaïa, Théia s'unit à son frère Hypérion et mit au monde Hélios, Séléné et Éos. L'Hymne homérique à Hélios l'appelle Euryphaessa, celle qui brille au loin. Pindare, dans une ode, l'invoque comme la « déesse aux nombreux noms », mère du Soleil, grâce à qui les hommes estiment l'or plus que tout autre bien. Elle est donc associée à l'éclat des métaux précieux et à la lumière qui révèle la beauté des choses.",
         "personnages": ["theia", "hyperion", "helios", "selene", "eos"],
         "sources": ["Hésiode, Théogonie", "Hymne homérique à Hélios", "Pindare, Isthmiques"]
       }
@@ -179,7 +179,7 @@
     "histoires": [
       {
         "titre": "La faucille de Gaïa",
-        "resume": "Cronos, le plus jeune et le plus redoutable des Titans, haïssait son père Ouranos. Lorsque Gaïa demanda à ses enfants de la délivrer de son époux, il fut le seul à oser répondre à son appel. Armé de la faucille dentelée que sa mère avait forgée, il attendit en embuscade. Quand Ouranos s'approcha de la Terre, Cronos surgit, le frappa avec la faucille et le renversa. Il prit alors le pouvoir et libéra ses frères Titans, mais laissa les Cyclopes et les Hécatonchires enfermés.",
+        "resume": "Cronos, le plus jeune et le plus redoutable des Titans, haïssait son père Ouranos. Lorsque Gaïa demanda à ses enfants de la délivrer de son époux, il fut le seul à oser répondre à son appel. Armé de la faucille dentelée que sa mère avait forgée, il attendit en embuscade. Quand Ouranos s'approcha de la Terre, Cronos surgit, le frappa avec la faucille et le renversa. Il prit alors le pouvoir. Selon Apollodore, les Cyclopes et les Hécatonchires, d'abord délivrés du Tartare, y furent de nouveau enfermés par Cronos.",
         "personnages": ["cronos", "ouranos", "gaia", "cyclopes", "hecatonchires"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       },
@@ -270,7 +270,7 @@
       },
       {
         "titre": "La source de Mémoire",
-        "resume": "Des tablettes d'or retrouvées dans des tombes de Grande-Grèce et de Crète guident l'âme des initiés dans l'Hadès. Elles l'avertissent de ne pas boire à la première source, près d'un cyprès blanc, qui procure l'oubli. L'âme doit au contraire chercher l'eau fraîche qui coule du lac de Mémoire, gardé par des sentinelles. Elle doit leur déclarer être enfant de la Terre et du Ciel étoilé, mais de race céleste. Ainsi conserve-t-elle le souvenir de ses vies et échappe au cycle des renaissances.",
+        "resume": "Des tablettes d'or retrouvées dans des tombes de Grande-Grèce et de Crète guident l'âme des initiés dans l'Hadès. Elles l'avertissent de ne pas boire à la première source, près d'un cyprès blanc, qui procure l'oubli. L'âme doit au contraire chercher l'eau fraîche qui coule du lac de Mémoire, gardé par des sentinelles. Elle doit leur déclarer être enfant de la Terre et du Ciel étoilé, mais de race céleste. Ainsi conserve-t-elle le souvenir de ses vies et échappe au cycle des renaissances. Pausanias décrit un rite proche à l'oracle de Trophonios, à Lébadée : le consultant y buvait l'eau de l'Oubli, puis celle de Mémoire.",
         "personnages": ["mnemosyne", "gaia", "ouranos"],
         "sources": ["Tablettes d'or orphiques", "Pausanias, Description de la Grèce"]
       }
@@ -301,7 +301,7 @@
       },
       {
         "titre": "L'oracle avant Apollon",
-        "resume": "Plusieurs auteurs font de Thémis la détentrice de l'oracle de Delphes après Gaïa et avant Apollon. Chez Ovide, Deucalion et Pyrrha, seuls survivants du déluge, viennent au sanctuaire couvert de mousse de la déesse pour lui demander comment repeupler la terre. Thémis leur ordonne énigmatiquement de jeter derrière eux les os de leur grand-mère. Deucalion comprend qu'il s'agit des pierres de la Terre, qui se transforment en hommes et en femmes.",
+        "resume": "Plusieurs auteurs font de Thémis la détentrice de l'oracle de Delphes après Gaïa et avant Apollon. Chez Ovide, Deucalion et Pyrrha, seuls survivants du déluge, viennent au sanctuaire couvert de mousse de la déesse pour lui demander comment repeupler la terre. Thémis leur ordonne énigmatiquement de jeter derrière eux les os de leur « grande mère ». Deucalion comprend qu'il s'agit des pierres de la Terre, mère de tous, qui se transforment en hommes et en femmes.",
         "personnages": ["themis", "deucalion", "pyrrha", "gaia", "apollon"],
         "sources": ["Eschyle, Euménides", "Ovide, Métamorphoses"]
       },
@@ -381,7 +381,7 @@
     "histoires": [
       {
         "titre": "Le char du Soleil",
-        "resume": "Chaque matin, Hélios s'élance de l'orient sur un char d'or tiré par des chevaux qui soufflent le feu. Il traverse la voûte du ciel et éclaire les dieux comme les hommes. Le soir, il plonge dans l'Océan à l'occident. Selon Mimnerme et Stésichore, il revient ensuite vers l'est durant la nuit, endormi dans une coupe d'or qui flotte sur le fleuve Océan. Parce qu'il voit tout depuis les hauteurs, on l'invoque comme témoin des serments.",
+        "resume": "Chaque matin, Hélios s'élance de l'orient sur un char d'or tiré par des chevaux qui soufflent le feu. Il traverse la voûte du ciel et éclaire les dieux comme les hommes. Le soir, il plonge dans l'Océan à l'occident. Il revient ensuite vers l'est durant la nuit en traversant le fleuve Océan, dans une coupe d'or selon Stésichore, ou endormi dans un lit d'or ailé selon Mimnerme. Parce qu'il voit tout depuis les hauteurs, on l'invoque comme témoin des serments.",
         "personnages": ["helios", "oceanos"],
         "sources": ["Hymne homérique à Hélios", "Mimnerme, fragments", "Stésichore, fragments"]
       },
@@ -423,7 +423,7 @@
     "tags": ["lune", "nuit", "amour", "sommeil", "immortel", "personnification"],
     "filiations": [
       { "parents": ["hyperion", "theia"], "source": "Hésiode, Théogonie", "principale": true },
-      { "parents": ["hyperion"], "source": "Hymne homérique à Hermès (fille de Pallas, fils de Mégamédès)" }
+      { "parents": ["hyperion"], "source": "Hymne homérique à Hélios (mère : Euryphaessa)" }
     ],
     "unions": [
       { "avec": "zeus", "note": "Mère de Pandia selon l'Hymne homérique à Séléné" },
@@ -622,7 +622,7 @@
       },
       {
         "titre": "Le prisonnier du Caucase",
-        "resume": "Pour punir Prométhée, Zeus le fit enchaîner par Héphaïstos, aidé de Kratos et Bia, à un rocher du Caucase. Chaque jour, un aigle venait le tourmenter, et chaque nuit Prométhée retrouvait ses forces. Prométhée connaissait pourtant un secret menaçant le règne de Zeus et refusait de le révéler. Selon les versions, il resta enchaîné trente ans ou des millénaires. Héraclès finit par abattre l'aigle d'une flèche et le délivra avec l'accord de Zeus, qui voyait là un moyen d'accroître la gloire de son fils.",
+        "resume": "Pour punir Prométhée, Zeus le fit enchaîner par Héphaïstos, aidé de Kratos et Bia, à un rocher du Caucase. Chaque jour, un aigle venait le tourmenter, et chaque nuit Prométhée retrouvait ses forces. Prométhée connaissait pourtant un secret menaçant le règne de Zeus et refusait de le révéler. Hygin, citant Eschyle, dit qu'il devait rester enchaîné trente mille ans. Héraclès finit par abattre l'aigle d'une flèche et le délivra avec l'accord de Zeus, qui voyait là un moyen d'accroître la gloire de son fils.",
         "personnages": ["promethee", "zeus", "hephaistos", "kratos", "bia", "aigle-du-caucase", "heracles", "chiron"],
         "sources": ["Hésiode, Théogonie", "Eschyle, Prométhée enchaîné", "Apollodore, Bibliothèque"]
       },
@@ -782,7 +782,7 @@
       },
       {
         "titre": "Avalée par Zeus",
-        "resume": "Métis fut la première épouse de Zeus, la plus savante des dieux et des hommes. Gaïa et Ouranos avertirent Zeus qu'après une fille, Métis lui donnerait un fils qui deviendrait roi des dieux et des hommes. Alors qu'elle était enceinte d'Athéna, Zeus la trompa par des paroles flatteuses et l'avala. Apollodore précise qu'elle se changeait en toutes sortes de formes pour lui échapper. Désormais logée en lui, Métis conseille Zeus de l'intérieur, et Athéna naquit plus tard tout armée de sa tête.",
+        "resume": "Métis fut la première épouse de Zeus, la plus savante des dieux et des hommes. Gaïa et Ouranos avertirent Zeus qu'après une fille, Métis lui donnerait un fils qui deviendrait roi des dieux et des hommes. Alors qu'elle était enceinte d'Athéna, Zeus la trompa par des paroles flatteuses et l'avala. Apollodore précise qu'avant leur union, elle avait pris toutes sortes de formes pour échapper à Zeus. Désormais logée en lui, Métis conseille Zeus de l'intérieur, et Athéna naquit plus tard tout armée de sa tête.",
         "personnages": ["metis", "zeus", "athena", "gaia", "ouranos", "hephaistos"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       }

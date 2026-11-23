@@ -61,7 +61,7 @@
       },
       {
         "titre": "Les Géants et Typhon",
-        "resume": "Irritée de voir ses fils Titans jetés dans le Tartare, Gaïa suscita de nouveaux adversaires contre les Olympiens. Selon Apollodore, elle lança d'abord les Géants à l'assaut du ciel, et chercha même une herbe capable de les rendre invincibles, mais Zeus la fit cueillir avant elle. Après leur défaite, elle s'unit au Tartare et enfanta Typhon, le plus terrible de tous les monstres. Zeus dut affronter ce dernier dans un combat qui ébranla le monde entier avant de l'écraser sous la foudre.",
+        "resume": "Irritée de voir ses fils Titans jetés dans le Tartare, Gaïa suscita de nouveaux adversaires contre les Olympiens. Selon Apollodore, elle lança d'abord les Géants à l'assaut du ciel, et chercha même une herbe capable de les rendre invincibles, mais Zeus, après avoir interdit au Soleil, à la Lune et à l'Aurore de briller, la cueillit lui-même avant elle. Après leur défaite, elle s'unit au Tartare et enfanta Typhon, le plus terrible de tous les monstres. Zeus dut affronter ce dernier dans un combat qui ébranla le monde entier avant de l'écraser sous la foudre.",
         "personnages": ["gaia", "geants", "tartare", "typhon", "zeus", "heracles"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       },
@@ -333,7 +333,7 @@
     "tags": ["destin", "temps", "création", "personnification", "immortel"],
     "filiations": [],
     "unions": [
-      { "avec": "chronos", "note": "Dans les théogonies orphiques, le couple primordial enlacé autour du monde" }
+      { "avec": "chronos", "note": "Dans les théogonies orphiques, le couple primordial qui produit l'Éther, le Chaos et l'œuf cosmique" }
     ],
     "histoires": [
       {
@@ -344,7 +344,7 @@
       },
       {
         "titre": "Le couple orphique",
-        "resume": "Les théogonies orphiques transmises par des auteurs tardifs font d'Ananké une puissance des origines. Elle s'unit à Chronos, le Temps, sous la forme de serpents entrelacés qui enserrent l'univers. De leur action naissent l'Éther, le Chaos et l'œuf cosmique d'où surgit le premier dieu lumineux. Ces récits, qui s'écartent nettement d'Hésiode, montrent la Nécessité comme une contrainte à laquelle même les dieux ne peuvent échapper.",
+        "resume": "Les théogonies orphiques transmises par des auteurs tardifs font d'Ananké une puissance des origines. Elle s'unit à Chronos, le Temps, imaginé comme un serpent, tandis qu'elle-même étend ses bras à travers tout l'univers. De leur action naissent l'Éther, le Chaos et l'œuf cosmique d'où surgit le premier dieu lumineux. Ces récits, qui s'écartent nettement d'Hésiode, montrent la Nécessité comme une contrainte à laquelle même les dieux ne peuvent échapper.",
         "personnages": ["ananke", "chronos", "ether", "chaos"],
         "sources": ["Fragments orphiques", "Damascius, Des premiers principes"]
       }

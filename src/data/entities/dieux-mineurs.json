@@ -56,7 +56,7 @@
     "filiations": [
       { "parents": ["perses", "asteria"], "source": "Hésiode, Théogonie", "principale": true },
       { "parents": ["nyx"], "source": "Bacchylide, fragment" },
-      { "parents": ["zeus", "demeter"], "source": "Scholie à Apollonios de Rhodes (tradition locale)" }
+      { "parents": ["zeus", "demeter"], "source": "Scholie à Théocrite, Idylles II" }
     ],
     "histoires": [
       {
@@ -154,7 +154,7 @@
     "domaines": ["guerre", "fureur des combats"],
     "tags": ["guerre", "combat", "personnification", "guerre de troie", "immortel"],
     "filiations": [
-      { "parents": ["zeus", "hera"], "source": "Tradition tardive (Cornutus)", "principale": true }
+      { "parents": ["zeus", "hera"], "source": "Quintus de Smyrne, Suite d'Homère VIII", "principale": true }
     ],
     "unions": [
       { "avec": "ares", "note": "compagne de combat, parfois dite sa mère ou sa sœur" }
@@ -162,7 +162,7 @@
     "histoires": [
       {
         "titre": "Aux côtés d'Arès devant Troie",
-        "resume": "Dans l'Iliade, Ényo mène les Troyens au combat avec Arès, apportant le tumulte de la mêlée. Diomède, en blessant Aphrodite, lui rappelle qu'elle n'est ni Athéna ni Ényo, déesses qui règnent sur la guerre. Ényo incarne la fureur aveugle des combats plutôt que la stratégie.",
+        "resume": "Dans l'Iliade, Ényo mène les Troyens au combat avec Arès, apportant le tumulte de la mêlée. Quand Diomède attaque Aphrodite, le poète précise qu'il sait qu'elle n'est pas de ces déesses qui règnent sur la guerre, comme Athéna ou Ényo. Ényo incarne la fureur aveugle des combats plutôt que la stratégie.",
         "personnages": ["enyo", "ares", "diomede", "aphrodite", "athena"],
         "sources": ["Homère, Iliade V"]
       }
@@ -245,7 +245,7 @@
     "histoires": [
       {
         "titre": "L'enchaînement de Prométhée",
-        "resume": "Sur l'ordre de Zeus, Kratos et Bia conduisent Prométhée jusqu'aux rochers du Caucase. Kratos presse Héphaïstos, réticent, de river le Titan à la montagne. Il se montre impitoyable et raille le bienfaiteur des hommes, incarnant la brutalité du nouveau pouvoir de Zeus.",
+        "resume": "Sur l'ordre de Zeus, Kratos et Bia conduisent Prométhée jusqu'à un rocher désert de Scythie, au bout du monde. Kratos presse Héphaïstos, réticent, de river le Titan à la montagne. Il se montre impitoyable et raille le bienfaiteur des hommes, incarnant la brutalité du nouveau pouvoir de Zeus.",
         "personnages": ["kratos", "bia", "promethee", "hephaistos", "zeus"],
         "sources": ["Eschyle, Prométhée enchaîné"]
       }
@@ -494,7 +494,7 @@
         "titre": "Foudroyé pour avoir ressuscité les morts",
         "resume": "Asclépios ne se contente plus de guérir : il ramène des morts à la vie, parmi lesquels Hippolyte, fils de Thésée. Craignant que les hommes n'échappent au trépas, ou à la demande d'Hadès qui voit son royaume se dépeupler, Zeus le foudroie. Asclépios est ensuite placé parmi les astres sous la forme du Serpentaire.",
         "personnages": ["asclepios", "zeus", "hippolytos", "hades"],
-        "sources": ["Apollodore, Bibliothèque III", "Pindare, Pythiques III", "Ératosthène, Catastérismes"]
+        "sources": ["Apollodore, Bibliothèque III", "Pindare, Pythiques III", "Diodore de Sicile, Bibliothèque historique IV", "Ératosthène, Catastérismes"]
       },
       {
         "titre": "La vengeance d'Apollon",
@@ -564,7 +564,7 @@
     "histoires": [
       {
         "titre": "Zeus endormi sur l'Ida",
-        "resume": "Pour aider les Grecs devant Troie, Héra décide de détourner l'attention de Zeus. Elle demande à Hypnos d'endormir son époux, mais celui-ci hésite, car une première tentative lui avait presque coûté la vie. Héra lui promet alors la main de Pasithée, l'une des Charites. Hypnos accepte, se cache dans un pin sous la forme d'un oiseau et plonge dans un profond sommeil Zeus, charmé par Héra.",
+        "resume": "Pour aider les Grecs devant Troie, Héra décide de détourner l'attention de Zeus. Elle demande à Hypnos d'endormir son époux, mais celui-ci hésite, car une première tentative lui avait presque coûté la vie. Héra lui promet alors la main de Pasithée, l'une des Charites. Hypnos accepte, se cache dans un grand sapin sous la forme d'un oiseau et plonge dans un profond sommeil Zeus, charmé par Héra.",
         "personnages": ["hypnos", "hera", "zeus", "poseidon"],
         "sources": ["Homère, Iliade XIV"]
       },
@@ -883,9 +883,9 @@
       },
       {
         "titre": "Clotho et Pélops",
-        "resume": "Pour éprouver le savoir des dieux, Tantale leur avait offert un repas abominable, commettant un crime monstrueux contre son propre fils Pélops. Horrifiés, les dieux décident de rendre la vie à l'enfant, et c'est Clotho qui le ramène parmi les vivants. Il ne lui manque qu'une épaule, que les dieux remplacent par une pièce d'ivoire.",
+        "resume": "Pour éprouver le savoir des dieux, Tantale leur avait offert un repas abominable, commettant un crime monstrueux contre son propre fils Pélops. Horrifiés, les dieux décident de rendre la vie à l'enfant. Il ne lui manque qu'une épaule, que les dieux remplacent par une pièce d'ivoire. Pindare évoque Pélops « que Clotho retira du chaudron, pourvu d'une épaule d'ivoire », mais refuse de croire que les dieux aient touché à ce repas.",
         "personnages": ["clotho", "pelops", "tantale", "demeter"],
-        "sources": ["Pindare, Olympiques I"]
+        "sources": ["Pindare, Olympiques I", "Ovide, Métamorphoses VI"]
       }
     ]
   },
@@ -1212,7 +1212,7 @@
     "histoires": [
       {
         "titre": "La colère d'Aphrodite",
-        "resume": "Clio raille Aphrodite pour son amour envers le mortel Adonis. Pour se venger, la déesse inspire à Clio une passion pour Piéros, roi de Macédoine. De leur union naît Hyacinthe, dont Apollon tombera amoureux.",
+        "resume": "Clio raille Aphrodite pour son amour envers le mortel Adonis. Pour se venger, la déesse inspire à Clio une passion pour Piéros, fils de Magnès. De leur union naît Hyacinthe, dont Apollon tombera amoureux.",
         "personnages": ["clio", "aphrodite", "adonis", "hyacinthe", "apollon"],
         "sources": ["Apollodore, Bibliothèque I"]
       }

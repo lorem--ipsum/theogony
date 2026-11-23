@@ -55,7 +55,7 @@
     "histoires": [
       {
         "titre": "Le frère de Pégase",
-        "resume": "Chrysaor naît de Méduse, vaincue par Persée, en même temps que Pégase, tenant dans ses mains une épée d'or qui lui donne son nom. Il s'unit à Callirrhoé, fille de l'illustre Océan. De cette union naît Géryon, le géant à trois corps, qui sera plus tard tué par Héraclès dans l'île d'Érythie. Hésiode lui attribue aussi Échidna dans certains manuscrits, mais la filiation reste discutée.",
+        "resume": "Chrysaor naît de Méduse, vaincue par Persée, en même temps que Pégase, tenant dans ses mains une épée d'or qui lui donne son nom. Il s'unit à Callirrhoé, fille de l'illustre Océan. De cette union naît Géryon, le géant à trois corps, qui sera plus tard tué par Héraclès dans l'île d'Érythie. Juste après, Hésiode raconte la naissance d'Échidna sans nommer clairement sa mère (Callirrhoé ou Céto) : certains en font donc une fille de Chrysaor, mais la filiation reste discutée.",
         "personnages": ["meduse", "pegase", "persee", "callirhoe", "geryon", "heracles"],
         "sources": ["Hésiode, Théogonie", "Apollodore, Bibliothèque"]
       }
@@ -76,7 +76,7 @@
     "histoires": [
       {
         "titre": "Nés d'une nuée",
-        "resume": "Reçu à la table des dieux, Ixion ose vouloir Héra pour lui. Zeus façonne alors une nuée à l'image de la déesse, et Ixion la prend pour Héra. De cette nuée naît un être sans grâce, Centauros, qui vit parmi les chevaux sauvages du mont Pélion. De lui descendent les Centaures, hommes par le haut du corps et chevaux par le bas. Ixion est quant à lui attaché à une roue enflammée qui tourne sans fin.",
+        "resume": "Reçu à la table des dieux, Ixion ose vouloir Héra pour lui. Zeus façonne alors une nuée à l'image de la déesse, et Ixion la prend pour Héra. De cette nuée naît un être sans grâce, Centauros, qui vit parmi les chevaux sauvages du mont Pélion. De lui descendent les Centaures, hommes par le haut du corps et chevaux par le bas. Ixion est quant à lui attaché à une roue qui tourne sans fin.",
         "personnages": ["ixion", "hera", "zeus"],
         "sources": ["Pindare, Pythiques II", "Diodore de Sicile, Bibliothèque historique"]
       },
@@ -114,7 +114,7 @@
         "titre": "Une naissance étrange",
         "resume": "Cronos s'unit à l'Océanide Philyra en prenant la forme d'un cheval, pour échapper au regard de son épouse Rhéa. L'enfant qui naît de cette union est mi-homme, mi-cheval. Sa mère, horrifiée par son aspect, supplie les dieux de la transformer et devient un tilleul. Contrairement aux autres Centaures, Chiron est immortel, civilisé et réputé pour sa justice.",
         "personnages": ["cronos", "philyra", "rhea"],
-        "sources": ["Apollodore, Bibliothèque", "Apollonios de Rhodes, Argonautiques II"]
+        "sources": ["Apollodore, Bibliothèque", "Apollonios de Rhodes, Argonautiques II", "Hygin, Fables"]
       },
       {
         "titre": "Le précepteur des héros",
@@ -138,7 +138,7 @@
     "epithete": "Le passeur de l'Événos",
     "tags": ["hybride", "vengeance", "ruse", "tragédie", "travaux d'héraclès"],
     "filiations": [
-      { "parents": ["ixion"], "principale": true, "source": "Diodore de Sicile, Bibliothèque historique (avec Néphélé)" }
+      { "parents": ["ixion"], "principale": true, "source": "Hygin, Fables (avec Néphélé)" }
     ],
     "histoires": [
       {
@@ -191,7 +191,7 @@
       },
       {
         "titre": "Les Limiers",
-        "resume": "Dans un drame satyrique de Sophocle, Apollon promet une récompense à qui retrouvera ses vaches volées. Silène et les Satyres se lancent sur leur piste comme des chiens de chasse. Ils sont effrayés par un son inconnu qui sort d'une grotte du mont Cyllène. La nymphe qui y habite leur explique qu'il s'agit de la lyre inventée par le petit Hermès, véritable voleur du troupeau.",
+        "resume": "Dans un drame satyrique de Sophocle, Apollon promet une récompense à qui retrouvera ses vaches volées. Silène et les Satyres se lancent sur leur piste comme des chiens de chasse. Ils sont effrayés par un son inconnu qui sort d'une grotte du mont Cyllène. La nymphe Cyllène, qui y habite, leur explique qu'il s'agit de la lyre inventée par le petit Hermès, fils de Maïa ; les Satyres comprennent alors qu'il est le véritable voleur du troupeau.",
         "personnages": ["apollon", "hermes", "silene", "maia"],
         "sources": ["Sophocle, Les Limiers (fragments)"]
       }
@@ -208,12 +208,12 @@
     "tags": ["vin", "sagesse", "prophétie", "fête", "hybride"],
     "filiations": [
       { "parents": ["pan"], "principale": true },
-      { "parents": ["hermes"], "source": "Traditions tardives" }
+      { "parents": ["hermes"], "source": "Servius, Commentaire des Bucoliques de Virgile" }
     ],
     "histoires": [
       {
         "titre": "Silène et Midas",
-        "resume": "Le roi Midas désire entendre la sagesse de Silène et le fait capturer en versant du vin dans la source où il vient boire. Interrogé sur ce qui est le meilleur pour l'homme, le vieillard répond à contrecœur qu'il vaudrait mieux ne pas naître, et sinon mourir au plus tôt. Chez Ovide, des paysans phrygiens amènent à Midas Silène, qui s'était égaré, qui le traite avec honneur et le ramène à Dionysos. Pour le remercier, le dieu accorde au roi le vœu funeste de changer en or tout ce qu'il touche.",
+        "resume": "Le roi Midas désire entendre la sagesse de Silène et le fait capturer en versant du vin dans la source où il vient boire. Interrogé sur ce qui est le meilleur pour l'homme, le vieillard répond à contrecœur qu'il vaudrait mieux ne pas naître, et sinon mourir au plus tôt. Chez Ovide, des paysans phrygiens amènent à Midas Silène, qui s'était égaré ; le roi le traite avec honneur et le ramène à Dionysos. Pour le remercier, le dieu accorde au roi le vœu funeste de changer en or tout ce qu'il touche.",
         "personnages": ["midas", "dionysos"],
         "sources": ["Hérodote, Histoires VIII", "Aristote (fragment cité par Plutarque)", "Ovide, Métamorphoses XI"]
       },
@@ -232,7 +232,7 @@
     "categorie": "creature",
     "epithete": "Le joueur d'aulos",
     "symboles": ["aulos (double flûte)"],
-    "tags": ["musique", "orgueil", "châtiment", "lydie", "victime des dieux"],
+    "tags": ["musique", "orgueil", "châtiment", "phrygie", "victime des dieux"],
     "filiations": [
       { "parents": [], "principale": true, "source": "Apollodore, Bibliothèque (fils d'Olympos ; ailleurs d'Hyagnis)" }
     ],
@@ -450,7 +450,7 @@
     "histoires": [
       {
         "titre": "L'attelage de Poséidon",
-        "resume": "Homère décrit Poséidon attelant à son char des chevaux aux sabots de bronze et à la crinière d'or, dans son palais sous les eaux d'Aigai. Le dieu file alors sur les vagues, que les monstres marins saluent sur son passage, sans que l'essieu soit mouillé. Les artistes et les poètes ultérieurs ont donné à ces montures marines un corps de cheval terminé par une queue de poisson. Pausanias décrit ainsi des hippocampes et des Tritons ornant l'offrande du temple de Poséidon à l'Isthme, auprès d'Amphitrite et des Néréides.",
+        "resume": "Homère décrit Poséidon attelant à son char des chevaux aux sabots de bronze et à la crinière d'or, dans son palais sous les eaux d'Aigai. Le dieu file alors sur les vagues, que les monstres marins saluent sur son passage, sans que l'essieu soit mouillé. Les artistes et les poètes ultérieurs ont donné à ces montures marines un corps de cheval terminé par une queue de poisson. Dans le temple de Poséidon à l'Isthme, Pausanias décrit des offrandes montrant Poséidon et Amphitrite sur leur char entourés de Tritons, de Palémon et des Néréides, ainsi qu'un cheval dont le corps se termine comme celui d'un monstre marin.",
         "personnages": ["poseidon", "amphitrite", "nereides", "triton", "palemon"],
         "sources": ["Homère, Iliade XIII", "Pausanias, Description de la Grèce II"]
       }

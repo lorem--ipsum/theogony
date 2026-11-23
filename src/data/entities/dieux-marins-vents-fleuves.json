@@ -99,7 +99,8 @@
         "parents": [
           "poseidon"
         ],
-        "principale": true
+        "principale": true,
+        "source": "Apollodore, Bibliothèque"
       }
     ],
     "unions": [
@@ -384,7 +385,7 @@
     "histoires": [
       {
         "titre": "L'épouse de Crios",
-        "resume": "Eurybie, dont le nom évoque une vaste force, est la plus jeune fille de Pontos et de Gaïa. Hésiode lui prête un cœur d'acier dans la poitrine. Unie au Titan Crios, elle donne naissance à Astréos, père des vents et des astres, à Pallas et à Persès, qui surpasse tous les autres par sa sagesse.",
+        "resume": "Eurybie, dont le nom évoque une vaste force, est l'une des filles de Pontos et de Gaïa. Hésiode lui prête un cœur d'acier dans la poitrine. Unie au Titan Crios, elle donne naissance à Astréos, père des vents et des astres, à Pallas et à Persès, qui surpasse tous les autres par sa sagesse.",
         "personnages": [
           "crios",
           "astraios",
@@ -588,7 +589,7 @@
       },
       {
         "titre": "Le gendre des Athéniens",
-        "resume": "Lors de l'invasion de Xerxès, un oracle conseille aux Athéniens d'invoquer leur gendre. Ils comprennent qu'il s'agit de Borée, époux d'une princesse athénienne, et lui adressent des sacrifices. Une violente tempête venue du nord brise alors une partie de la flotte perse près du cap Artémision. Reconnaissants, les Athéniens lui élèvent un sanctuaire au bord de l'Ilissos.",
+        "resume": "Lors de l'invasion de Xerxès, un oracle conseille aux Athéniens d'invoquer leur gendre. Ils comprennent qu'il s'agit de Borée, époux d'une princesse athénienne, et lui adressent des sacrifices. Une violente tempête venue du nord brise alors une partie de la flotte perse, ancrée sur les côtes de Magnésie près du cap Sépias. Reconnaissants, les Athéniens lui élèvent un sanctuaire au bord de l'Ilissos.",
         "sources": [
           "Hérodote, Histoires VII"
         ]
@@ -672,7 +673,7 @@
           "patrocle"
         ],
         "sources": [
-          "Homère, Iliade XVI et XIX"
+          "Homère, Iliade XVI, XVII et XIX"
         ]
       },
       {

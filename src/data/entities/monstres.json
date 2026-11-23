@@ -46,8 +46,7 @@
     "tags": ["serpent", "hybride", "famille", "naissance", "immortel"],
     "filiations": [
       { "parents": ["ceto", "phorcys"], "source": "Hésiode, Théogonie", "principale": true },
-      { "parents": ["tartare", "gaia"], "source": "Apollodore, Bibliothèque" },
-      { "parents": ["typhon"], "source": "variante tardive" }
+      { "parents": ["tartare", "gaia"], "source": "Apollodore, Bibliothèque" }
     ],
     "unions": [
       { "avec": "typhon", "note": "Mère de Cerbère, Orthros, l'Hydre et la Chimère" },
@@ -301,7 +300,7 @@
       },
       {
         "titre": "La prêtresse punie par Athéna",
-        "resume": "Ovide propose une autre origine à sa monstruosité. Méduse était une jeune fille d'une grande beauté, célèbre surtout pour sa chevelure. Un jour, Poséidon la poursuivit jusque dans un temple d'Athéna. Athéna, offensée qu'on ait manqué de respect à son sanctuaire, la changea en monstre et transforma ses cheveux en serpents. Cette version fait de Méduse une victime autant qu'un monstre.",
+        "resume": "Ovide propose une autre origine à sa monstruosité. Méduse était une jeune fille d'une grande beauté, célèbre surtout pour sa chevelure. Un jour, Poséidon la poursuivit jusque dans un temple d'Athéna. Athéna, offensée qu'on ait manqué de respect à son sanctuaire, punit la jeune fille en changeant ses beaux cheveux en serpents. Cette version fait de Méduse une victime autant qu'un monstre.",
         "personnages": ["poseidon", "athena"],
         "sources": ["Ovide, Métamorphoses IV"]
       },
@@ -875,8 +874,8 @@
     "symboles": ["armures étincelantes", "jambes de serpent", "rochers"],
     "tags": ["géant", "gigantomachie", "groupe", "guerre", "terre", "orgueil"],
     "filiations": [
-      { "parents": ["gaia", "ouranos"], "source": "Hésiode, Théogonie (nés du sang d'Ouranos blessé)", "principale": true },
-      { "parents": ["gaia"], "source": "Apollodore, Bibliothèque (enfantés par Gaïa irritée du sort des Titans)" }
+      { "parents": ["gaia", "ouranos"], "source": "Hésiode, Théogonie (nés du sang d'Ouranos blessé) ; Apollodore, Bibliothèque I, 6 (enfantés par Gaïa, irritée du sort des Titans, et Ouranos)", "principale": true },
+      { "parents": ["gaia"], "source": "Sophocle, Les Trachiniennes (« l'armée des Géants née de la Terre »)" }
     ],
     "histoires": [
       {
@@ -901,7 +900,7 @@
     "epithete": "Roi des Géants",
     "tags": ["géant", "gigantomachie", "roi", "combat", "châtiment"],
     "filiations": [
-      { "parents": ["gaia", "ouranos"], "source": "Hésiode, Théogonie ; Apollodore", "principale": true }
+      { "parents": ["gaia", "ouranos"], "source": "Apollodore, Bibliothèque I, 6 (Hésiode pour la naissance des Géants)", "principale": true }
     ],
     "histoires": [
       {
@@ -920,7 +919,7 @@
     "epithete": "Le Géant immortel sur sa terre natale",
     "tags": ["géant", "gigantomachie", "terre", "combat"],
     "filiations": [
-      { "parents": ["gaia", "ouranos"], "source": "Hésiode, Théogonie ; Apollodore", "principale": true }
+      { "parents": ["gaia", "ouranos"], "source": "Apollodore, Bibliothèque I, 6 (Hésiode pour la naissance des Géants)", "principale": true }
     ],
     "histoires": [
       {
@@ -939,7 +938,7 @@
     "epithete": "Le Géant enseveli sous la Sicile",
     "tags": ["géant", "gigantomachie", "volcan", "combat", "châtiment"],
     "filiations": [
-      { "parents": ["gaia", "ouranos"], "source": "Hésiode, Théogonie ; Apollodore", "principale": true }
+      { "parents": ["gaia", "ouranos"], "source": "Apollodore, Bibliothèque I, 6 (Hésiode pour la naissance des Géants)", "principale": true }
     ],
     "histoires": [
       {
@@ -1043,7 +1042,7 @@
       },
       {
         "titre": "Vaincu par Médée",
-        "resume": "Lorsque l'Argo veut aborder en Crète au retour de Colchide, Talos empêche les héros de débarquer en jetant des blocs de pierre. Médée l'ensorcelle par ses chants et ses regards maléfiques, qui lui envoient des visions trompeuses. Le géant se heurte la cheville contre une pointe de rocher et le clou se détache : le liquide divin qui l'anime s'écoule comme du plomb fondu et il s'effondre. D'autres versions disent que Médée lui promit l'immortalité avant de retirer elle-même le clou, ou que Poias l'atteignit d'une flèche.",
+        "resume": "Lorsque l'Argo veut aborder en Crète au retour de Colchide, Talos empêche les héros de débarquer en jetant des blocs de pierre. Médée l'ensorcelle par ses chants et ses regards maléfiques, qui lui envoient des visions trompeuses. Le géant se heurte la cheville contre une pointe de rocher, et sa veine unique s'ouvre : le liquide divin qui l'anime s'écoule comme du plomb fondu et il s'effondre. D'autres versions disent que Médée lui promit l'immortalité avant de retirer elle-même le clou, ou que Poias l'atteignit d'une flèche.",
         "personnages": ["medee", "jason"],
         "sources": ["Apollonios de Rhodes, Argonautiques IV", "Apollodore, Bibliothèque I, 9"]
       }

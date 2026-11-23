@@ -143,7 +143,7 @@
     "histoires": [
       {
         "titre": "Le régent de Thèbes",
-        "resume": "Après la mort de Laïos, Créon, frère de Jocaste, gouverne Thèbes alors que le Sphinx décime la population. Il promet le trône et la main de la reine à quiconque délivrera la cité. Œdipe ayant vaincu le monstre, Créon lui cède le pouvoir. Auparavant, il avait purifié Amphitryon, exilé de Mycènes, et lui avait demandé de délivrer le pays du renard de Teumesse.",
+        "resume": "Après la mort de Laïos, Créon, frère de Jocaste, gouverne Thèbes alors que le Sphinx décime la population. Il promet le trône et la main de la reine à quiconque délivrera la cité. Œdipe ayant vaincu le monstre, Créon lui cède le pouvoir. Selon Apollodore, c'est aussi Créon qui avait purifié Amphitryon, exilé de Mycènes, et lui avait demandé de délivrer le pays du renard de Teumesse.",
         "personnages": ["creon", "jocaste", "oedipe", "sphinx", "amphitryon"],
         "sources": ["Apollodore, Bibliothèque II, 4 et III, 5", "Sophocle, Œdipe roi"]
       },
@@ -171,7 +171,7 @@
     "symboles": ["bâton", "oiseaux"],
     "tags": ["devin", "prophétie", "thèbes", "cycle thébain", "métamorphose", "odyssée", "enfers"],
     "filiations": [
-      { "parents": ["chariclo"], "principale": true, "source": "Fils du Spartoi Évérès et de la nymphe Chariclo (Apollodore, Callimaque)" }
+      { "parents": ["chariclo"], "principale": true, "source": "Fils d'Évérès, de la lignée du Sparte Oudaios, et de la nymphe Chariclo (Apollodore III, 6, 7 ; Callimaque, Hymne V, pour Chariclo)" }
     ],
     "histoires": [
       {
@@ -217,7 +217,7 @@
     "histoires": [
       {
         "titre": "Le fondateur d'Éphyra",
-        "resume": "Sisyphe fonde la cité d'Éphyra, qui deviendra Corinthe, et en est le premier roi. On lui attribue l'institution des Jeux isthmiques en l'honneur de Mélicerte. Célèbre pour son astuce, il démasque Autolycos, voleur de troupeaux, en marquant secrètement le sabot de ses bêtes. Une tradition tardive fait de lui le véritable père d'Ulysse, par une union avec Anticlée.",
+        "resume": "Sisyphe fonde la cité d'Éphyra, qui deviendra Corinthe, et en est le premier roi. On lui attribue l'institution des Jeux isthmiques en l'honneur de Mélicerte. Célèbre pour son astuce, il démasque Autolycos, voleur de troupeaux, en marquant secrètement le sabot de ses bêtes. Une tradition, déjà connue des tragiques athéniens, fait de lui le véritable père d'Ulysse, par une union avec Anticlée.",
         "personnages": ["sisyphe", "autolycos", "palemon", "ulysse"],
         "sources": ["Homère, Iliade VI", "Pausanias II", "Hygin, Fables 201"]
       },
@@ -250,7 +250,7 @@
     "symboles": ["roue enflammée"],
     "tags": ["roi", "thessalie", "châtiment", "orgueil", "hospitalité", "serment", "tartare"],
     "filiations": [
-      { "parents": [], "principale": true, "source": "Fils de Phlégyas (Pindare, Eschyle) ; parfois fils d'Arès (Hygin)" }
+      { "parents": [], "principale": true, "source": "Fils de Phlégyas (scholie à Apollonios de Rhodes III, 62) ; ou d'Antion et de Périmélé (Diodore de Sicile IV, 69), de Léontée (Hygin, Fables 62) ou d'Arès selon d'autres" }
     ],
     "histoires": [
       {
@@ -283,7 +283,7 @@
     "unions": [
       { "avec": "jason", "note": "Son époux, qu'elle aide à conquérir la Toison d'or" },
       { "avec": "egee", "note": "Roi d'Athènes, qui l'accueille après Corinthe" },
-      { "avec": "achille", "note": "Époux dans les Champs Élysées selon une tradition tardive" }
+      { "avec": "achille", "note": "Époux aux îles des Bienheureux, selon Ibycos et Simonide (cités par Apollodore, Épitomé V)" }
     ],
     "histoires": [
       {
@@ -294,7 +294,7 @@
       },
       {
         "titre": "Le meurtre d'Absyrtos et la mort de Pélias",
-        "resume": "Pour retarder la poursuite de son père, Médée fait périr son jeune frère Absyrtos, et Æétès doit s'arrêter pour rendre à son fils les honneurs funèbres. À Iolcos, elle se venge de Pélias, l'ennemi de Jason : sous les yeux de ses filles, elle rajeunit un vieux bélier en le plongeant dans un chaudron d'herbes magiques. Convaincues, les filles de Pélias font subir le même traitement à leur père, mais Médée retient le charme et le roi ne revient pas à la vie.",
+        "resume": "Selon Apollodore, pour retarder la poursuite de son père, Médée fait périr son jeune frère Absyrtos, et Æétès doit s'arrêter pour rendre à son fils les honneurs funèbres. À Iolcos, elle se venge de Pélias, l'ennemi de Jason : sous les yeux de ses filles, elle rajeunit un vieux bélier en le plongeant dans un chaudron d'herbes magiques. Convaincues, les filles de Pélias font subir le même traitement à leur père, mais Médée retient le charme et le roi ne revient pas à la vie.",
         "personnages": ["medee", "aeetes", "pelias", "jason", "alceste"],
         "sources": ["Apollodore, Bibliothèque I, 9", "Apollonios de Rhodes, Argonautiques IV", "Ovide, Métamorphoses VII"]
       },
@@ -321,8 +321,7 @@
     "symboles": ["Toison d'or", "taureaux d'airain"],
     "tags": ["roi", "colchide", "argonautes", "magie", "hospitalité", "ruse"],
     "filiations": [
-      { "parents": ["helios", "perseis"], "principale": true },
-      { "parents": ["helios", "idyia"], "source": "Variante isolée ; la tradition majoritaire fait d'Idyie son épouse" }
+      { "parents": ["helios", "perseis"], "source": "Hésiode, Théogonie", "principale": true }
     ],
     "unions": [
       { "avec": "idyia", "note": "Son épouse, mère de Médée" }
@@ -356,7 +355,7 @@
     "histoires": [
       {
         "titre": "La statue d'ivoire",
-        "resume": "Déçu par les Propétides, femmes de Chypre qui avaient renié Vénus, Pygmalion vit seul, sans épouse. Il sculpte dans l'ivoire une femme d'une beauté parfaite et s'éprend de son œuvre, qu'il pare de vêtements et de bijoux. Lors de la fête d'Aphrodite, il prie timidement la déesse de lui accorder une épouse semblable à sa statue. De retour chez lui, il effleure la statue et sent l'ivoire s'attendrir sous sa main : elle prend vie. De leur mariage naît Paphos, qui donnera son nom à la cité.",
+        "resume": "Déçu par les Propétides, femmes de Chypre qui avaient renié Aphrodite, Pygmalion vit seul, sans épouse. Il sculpte dans l'ivoire une femme d'une beauté parfaite et s'éprend de son œuvre, qu'il pare de vêtements et de bijoux. Lors de la fête d'Aphrodite, il prie timidement la déesse de lui accorder une épouse semblable à sa statue. De retour chez lui, il effleure la statue et sent l'ivoire s'attendrir sous sa main : elle prend vie. De leur mariage naît Paphos, qui donnera son nom à la cité.",
         "personnages": ["pygmalion", "aphrodite"],
         "sources": ["Ovide, Métamorphoses X"]
       }
@@ -428,7 +427,7 @@
       },
       {
         "titre": "Les autres causes de sa perte",
-        "resume": "Les auteurs anciens donnent d'autres raisons à son châtiment. Selon Euripide, Actéon se serait vanté d'être meilleur chasseur qu'Artémis. D'après une version plus ancienne rapportée par Apollodore, il aurait voulu épouser Sémélé, aimée de Zeus. Dans toutes les versions, il finit victime de sa propre meute.",
+        "resume": "Les auteurs anciens donnent d'autres raisons à son châtiment. Selon Euripide, Actéon se serait vanté d'être meilleur chasseur qu'Artémis. Selon Acousilaos, cité par Apollodore, et selon Stésichore, il aurait voulu épouser Sémélé, aimée de Zeus. Dans toutes les versions, il finit victime de sa propre meute.",
         "personnages": ["acteon", "artemis", "semele", "zeus"],
         "sources": ["Euripide, Les Bacchantes", "Apollodore, Bibliothèque III, 4", "Stésichore (fragments)"]
       }
@@ -653,7 +652,7 @@
     "histoires": [
       {
         "titre": "Le festin impie",
-        "resume": "Zeus visite l'Arcadie sous l'apparence d'un mortel pour éprouver la piété des hommes. Lycaon, roi du pays, veut vérifier si son hôte est vraiment un dieu et lui offre un repas abominable, fruit d'un crime monstrueux commis contre un otage ou, selon d'autres, contre un enfant de sa propre famille. Indigné, Zeus renverse la table et foudroie la demeure ; Lycaon, en fuite, est changé en loup, gardant sa sauvagerie. Chez Apollodore, ce sont ses cinquante fils impies que Zeus foudroie.",
+        "resume": "Zeus visite l'Arcadie sous l'apparence d'un mortel pour éprouver la piété des hommes. Lycaon, roi du pays, veut vérifier si son hôte est vraiment un dieu et lui offre un repas abominable, fruit d'un crime monstrueux commis contre un otage ou, selon d'autres, contre un enfant de sa propre famille. Indigné, Zeus renverse la table et foudroie la demeure ; Lycaon, en fuite, est changé en loup, gardant sa sauvagerie. Chez Apollodore, Zeus foudroie Lycaon et ses fils impies, à l'exception du plus jeune, Nyctimos.",
         "personnages": ["lycaon", "zeus", "arcas"],
         "sources": ["Ovide, Métamorphoses I", "Apollodore, Bibliothèque III, 8", "Pausanias VIII, 2"]
       },

@@ -96,7 +96,7 @@
     "histoires": [
       {
         "titre": "L'oracle accompli",
-        "resume": "Averti qu'il mourrait de la main de son petit-fils, Acrisios tenta de se débarrasser de Danaé et de Persée. Des années plus tard, apprenant le retour de Persée, il s'enfuit à Larissa, en Thessalie. Persée vint y participer à des jeux funèbres et lança le disque, qu'un coup de vent ou le hasard dévia sur la tête du vieillard. Acrisios mourut sur le coup, et l'oracle se trouva accompli malgré toutes ses précautions.",
+        "resume": "Averti qu'il mourrait de la main de son petit-fils, Acrisios tenta de se débarrasser de Danaé et de Persée. Des années plus tard, apprenant le retour de Persée, il s'enfuit à Larissa, en Thessalie. Persée vint y participer à des jeux funèbres et lança le disque, qui atteignit par malheur le vieillard au pied, selon Apollodore. Acrisios mourut sur le coup, et l'oracle se trouva accompli malgré toutes ses précautions.",
         "personnages": ["acrisios", "persee", "danae"],
         "sources": ["Apollodore, Bibliothèque II", "Pausanias II"]
       }
@@ -160,7 +160,7 @@
     "epithete": "Roi d'Éthiopie",
     "tags": ["mortel", "roi", "éthiopie", "persée", "transformé en constellation", "sacrifice"],
     "filiations": [
-      { "parents": [], "principale": true, "source": "Fils de Bélos (Apollodore)" }
+      { "parents": [], "principale": true, "source": "Fils de Bélos (Euripide, cité par Apollodore ; Hérodote)" }
     ],
     "unions": [
       { "avec": "cassiopee", "note": "Épouse" }
@@ -452,7 +452,7 @@
     "epithete": "Chasseur dévoué à Artémis",
     "tags": ["mortel", "chasse", "chevaux", "athènes", "tragédie", "victime des dieux", "thésée"],
     "filiations": [
-      { "parents": ["thesee", "hippolyte"], "principale": true, "source": "Euripide, Plutarque ; la mère est aussi nommée Antiope" }
+      { "parents": ["thesee", "hippolyte"], "principale": true, "source": "Mère nommée Hippolyte par Simonide (cité par Apollodore) ; elle est plus souvent appelée Antiope (Pindare, Plutarque)" }
     ],
     "histoires": [
       {
@@ -562,7 +562,7 @@
     "categorie": "mortel",
     "epithete": "Roi de Phrygie",
     "symboles": ["or", "oreilles d'âne"],
-    "tags": ["mortel", "roi", "richesse", "châtiment", "musique", "orgueil", "métamorphose"],
+    "tags": ["mortel", "roi", "richesse", "phrygie", "châtiment", "musique", "orgueil", "métamorphose"],
     "filiations": [
       { "parents": [], "principale": true, "source": "Fils de Gordias ; parfois de Cybèle (Hygin)" }
     ],
@@ -612,7 +612,7 @@
     "symboles": ["anémone", "sanglier"],
     "tags": ["mortel", "beauté", "chasse", "aimé des dieux", "transformé en plante", "fleurs", "mort", "chypre"],
     "filiations": [
-      { "parents": [], "principale": true, "source": "Fils de Cinyras, roi de Chypre, et de Myrrha (Ovide) ; de Théias et Smyrna (Apollodore)" }
+      { "parents": [], "principale": true, "source": "Fils de Cinyras, roi de Chypre, et de Myrrha (Ovide) ; de Thias, roi d'Assyrie, et de Smyrna (Panyasis, cité par Apollodore)" }
     ],
     "unions": [
       { "avec": "aphrodite", "note": "Déesse qui l'aima" },
@@ -621,7 +621,7 @@
     "histoires": [
       {
         "titre": "Né de l'arbre à myrrhe",
-        "resume": "Frappée par la colère d'Aphrodite, la princesse Myrrha commit une faute si grave envers son père, le roi Cinyras, qu'elle dut s'enfuir. Les dieux la changèrent en arbre à myrrhe, dont l'écorce s'ouvrit pour laisser naître Adonis. Selon Apollodore, Aphrodite cacha l'enfant dans un coffre confié à Perséphone, qui refusa ensuite de le rendre. Zeus trancha : Adonis passerait une part de l'année sous terre auprès de Perséphone et l'autre auprès d'Aphrodite.",
+        "resume": "Frappée par la colère d'Aphrodite, la princesse Myrrha commit une faute si grave envers son père, le roi Cinyras, qu'elle dut s'enfuir. Les dieux la changèrent en arbre à myrrhe, dont l'écorce s'ouvrit pour laisser naître Adonis. Selon Apollodore, Aphrodite cacha l'enfant dans un coffre confié à Perséphone, qui refusa ensuite de le rendre. Zeus trancha : Adonis passerait un tiers de l'année seul, un tiers sous terre auprès de Perséphone et un tiers auprès d'Aphrodite, à qui il choisit de donner aussi sa propre part.",
         "personnages": ["adonis", "aphrodite", "persephone", "zeus"],
         "sources": ["Ovide, Métamorphoses X", "Apollodore, Bibliothèque III"]
       },
@@ -1140,7 +1140,7 @@
     "epithete": "Reine de Troie",
     "tags": ["mortel", "reine", "troie", "guerre de troie", "vengeance", "transformé en animal", "tragédie", "famille"],
     "filiations": [
-      { "parents": [], "principale": true, "source": "Fille de Dymas, roi de Phrygie (Homère) ; ou de Cissée (Euripide)" }
+      { "parents": [], "principale": true, "source": "Fille de Dymas, qui vivait en Phrygie (Homère) ; ou de Cissée (Euripide)" }
     ],
     "unions": [
       { "avec": "priam", "note": "Époux" }

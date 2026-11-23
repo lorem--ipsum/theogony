@@ -119,7 +119,7 @@
     "histoires": [
       {
         "titre": "L'épée sous le rocher et la route de Trézène",
-        "resume": "Égée avait laissé à Trézène, sous un lourd rocher, son épée et ses sandales, demandant à Æthra d'envoyer leur fils à Athènes quand il pourrait les dégager. Devenu adolescent, Thésée souleva la pierre et choisit la route terrestre, réputée dangereuse. Il y élimina tour à tour les brigands de l'isthme : Périphétès le porteur de massue, Sinis le ployeur de pins, Sciron, Cercyon et Procuste, en leur infligeant le sort qu'ils réservaient aux voyageurs. Il tua aussi la laie de Crommyon.",
+        "resume": "Égée avait laissé à Trézène, sous un lourd rocher, son épée et ses sandales, demandant à Æthra d'envoyer leur fils à Athènes quand il pourrait les dégager. Devenu adolescent, Thésée souleva la pierre et choisit la route terrestre, réputée dangereuse. Il y élimina tour à tour les brigands de la route : Périphétès le porteur de massue, Sinis le ployeur de pins, Sciron, Cercyon et Procuste, en leur infligeant le sort qu'ils réservaient aux voyageurs. Il tua aussi la laie de Crommyon.",
         "personnages": ["egee", "ethra"],
         "sources": ["Bacchylide XVIII", "Plutarque, Vie de Thésée", "Apollodore, Épitomé I"]
       },
@@ -440,7 +440,7 @@
     "histoires": [
       {
         "titre": "Née d'un œuf",
-        "resume": "Léda eut de Zeus, venu à elle sous la forme d'un cygne, une fille qui naquit d'un œuf : Hélène. Selon les Chants cypriens, Hélène était en réalité la fille de Zeus et de Némésis, qui avait pris la forme d'une oie ; l'œuf qu'elle pondit fut recueilli et couvé par Léda. Encore enfant, Hélène fut enlevée par Thésée puis reprise par ses frères les Dioscures.",
+        "resume": "Léda eut de Zeus, venu à elle sous la forme d'un cygne, une fille qui naquit d'un œuf : Hélène. Selon une autre tradition (Chants cypriens, Apollodore), Hélène était en réalité la fille de Zeus et de Némésis, qui avait pris la forme d'une oie pour lui échapper ; l'œuf qu'elle pondit fut recueilli et couvé par Léda. Encore enfant, Hélène fut enlevée par Thésée puis reprise par ses frères les Dioscures.",
         "personnages": ["zeus", "leda", "nemesis", "thesee", "castor", "pollux"],
         "sources": ["Chants cypriens (fragments)", "Euripide, Hélène", "Apollodore, Bibliothèque III"]
       },
@@ -1094,7 +1094,7 @@
     "symboles": ["ceinture d'Arès"],
     "tags": ["amazone", "reine", "travaux d'héraclès", "guerre", "combat"],
     "filiations": [
-      { "parents": ["ares"], "principale": true, "source": "Fille d'Arès et d'Otréra (Apollodore)" }
+      { "parents": ["ares"], "principale": true, "source": "Fille d'Arès et d'Otréra (Hygin, Fables XXX)" }
     ],
     "unions": [
       { "avec": "thesee", "note": "Mère d'Hippolyte selon certaines traditions (ailleurs l'Amazone se nomme Antiope)" }
@@ -1374,7 +1374,7 @@
       },
       {
         "titre": "La Grande et la Petite Ourse",
-        "resume": "Callisto, la mère d'Arcas, avait été changée en ourse par Zeus, Héra ou Artémis. Devenu chasseur, Arcas rencontra l'ourse dans la forêt et s'apprêtait à la tuer sans la reconnaître. Zeus l'empêcha de tuer sa propre mère en les emportant tous deux au ciel, où ils devinrent la Grande Ourse et le Bouvier. Arcas régna auparavant sur l'Arcadie, à laquelle il donna son nom, et enseigna à son peuple la culture du blé et le tissage.",
+        "resume": "Callisto, la mère d'Arcas, avait été changée en ourse par Zeus, Héra ou Artémis. Devenu chasseur, Arcas rencontra l'ourse dans la forêt et s'apprêtait à la tuer sans la reconnaître. Zeus l'empêcha de tuer sa propre mère en les emportant tous deux au ciel, où ils devinrent la Grande Ourse et, selon les versions, la Petite Ourse (Ovide) ou le Bouvier. Arcas régna auparavant sur l'Arcadie, à laquelle il donna son nom, et enseigna à son peuple la culture du blé et le tissage.",
         "personnages": ["callisto", "zeus", "hera", "artemis"],
         "sources": ["Ovide, Métamorphoses II", "Pausanias VIII", "Apollodore, Bibliothèque III"]
       }
@@ -1533,7 +1533,7 @@
       },
       {
         "titre": "Les pierres devenues hommes",
-        "resume": "Désireux de repeupler la terre, Deucalion et Pyrrha consultèrent l'oracle de Thémis. La déesse leur ordonna de jeter derrière eux les os de leur grand-mère. Deucalion comprit qu'il s'agissait des pierres, os de la Terre. Celles qu'il lança devinrent des hommes, celles de Pyrrha des femmes. Leur fils Hellen donna son nom aux Grecs.",
+        "resume": "Désireux de repeupler la terre, Deucalion et Pyrrha consultèrent l'oracle de Thémis. La déesse leur ordonna de jeter derrière eux les os de leur grande mère. Deucalion comprit qu'il s'agissait des pierres, os de la Terre. Celles qu'il lança devinrent des hommes, celles de Pyrrha des femmes. Leur fils Hellen donna son nom aux Grecs.",
         "personnages": ["pyrrha", "themis", "gaia", "zeus", "hellen"],
         "sources": ["Apollodore, Bibliothèque I", "Ovide, Métamorphoses I"]
       }

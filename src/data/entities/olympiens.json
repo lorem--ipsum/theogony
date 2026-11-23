@@ -162,7 +162,7 @@
       },
       {
         "titre": "Les murailles de Troie",
-        "resume": "Pour s'être révoltés contre Zeus, Poséidon et Apollon furent condamnés à servir un an le roi troyen Laomédon. Poséidon bâtit les murailles de Troie, tandis qu'Apollon gardait les troupeaux. Laomédon refusa ensuite de payer le salaire promis et menaça les dieux. Poséidon envoya alors un monstre marin ravager le pays, et conserva contre les Troyens une rancune qui le rangea du côté des Grecs.",
+        "resume": "Sur l'ordre de Zeus, Poséidon et Apollon durent servir un an le roi troyen Laomédon en échange d'un salaire. Poséidon bâtit les murailles de Troie, tandis qu'Apollon gardait les troupeaux. Laomédon refusa ensuite de payer le salaire promis et menaça les dieux. Poséidon envoya alors un monstre marin ravager le pays, et conserva contre les Troyens une rancune qui le rangea du côté des Grecs.",
         "personnages": ["poseidon", "apollon", "zeus", "heracles"],
         "sources": ["Homère, Iliade", "Apollodore, Bibliothèque"]
       },
@@ -206,7 +206,7 @@
     "histoires": [
       {
         "titre": "La quête de Perséphone",
-        "resume": "Alors que Perséphone cueillait des fleurs, Hadès surgit de terre et l'emporta dans son royaume avec l'accord de Zeus. Déméter, n'entendant que l'écho de son cri, parcourut le monde neuf jours durant, une torche à la main, sans manger ni se laver. Hécate et Hélios, qui avait tout vu, lui révélèrent enfin le nom du ravisseur. Indignée, la déesse quitta l'Olympe et erra parmi les hommes sous l'apparence d'une vieille femme.",
+        "resume": "Alors que Perséphone cueillait des fleurs, Hadès surgit de terre et l'emporta dans son royaume avec l'accord de Zeus. Déméter, n'entendant que l'écho de son cri, parcourut le monde neuf jours durant, une torche à la main, sans manger ni se laver. Accompagnée d'Hécate, qui avait entendu le cri, elle interrogea Hélios, qui avait tout vu et lui révéla enfin le nom du ravisseur. Indignée, la déesse quitta l'Olympe et erra parmi les hommes sous l'apparence d'une vieille femme.",
         "personnages": ["demeter", "persephone", "hades", "zeus", "hecate", "helios"],
         "sources": ["Hymne homérique à Déméter", "Ovide, Métamorphoses", "Ovide, Fastes"]
       },
@@ -224,9 +224,9 @@
       },
       {
         "titre": "L'épaule de Pélops",
-        "resume": "Pour éprouver la clairvoyance des dieux, Tantale commit un crime monstrueux envers son propre fils Pélops et leur offrit un repas abominable. Tous devinèrent la vérité et n'y touchèrent pas, sauf Déméter, accablée par la perte de sa fille et distraite par son chagrin. Les dieux rendirent la vie à l'enfant ; seule une épaule lui manquait, et ils la remplacèrent par une épaule d'ivoire. Tantale fut condamné à une faim et une soif éternelles aux Enfers.",
+        "resume": "Pour éprouver la clairvoyance des dieux, Tantale commit un crime monstrueux envers son propre fils Pélops et leur offrit un repas abominable. Tous devinèrent la vérité et n'y touchèrent pas, sauf Déméter, accablée par la perte de sa fille et distraite par son chagrin. Les dieux rendirent la vie à l'enfant ; seule une épaule lui manquait, et ils la remplacèrent par une épaule d'ivoire. Tantale fut condamné à une faim et une soif éternelles aux Enfers. Pindare, qui rapporte cette histoire, la rejette pourtant comme une calomnie.",
         "personnages": ["demeter", "tantale", "pelops"],
-        "sources": ["Pindare, Olympiques", "Ovide, Métamorphoses"]
+        "sources": ["Pindare, Olympiques", "Ovide, Métamorphoses", "Hygin, Fables"]
       },
       {
         "titre": "Le châtiment d'Érysichthon",
@@ -291,7 +291,7 @@
     "histoires": [
       {
         "titre": "Le casque d'invisibilité",
-        "resume": "Libérés du Tartare par Zeus, les Cyclopes forgèrent des armes pour les trois frères : la foudre pour Zeus, le trident pour Poséidon et un casque rendant invisible pour Hadès. Grâce à lui, Hadès put approcher les Titans sans être vu et contribuer à leur défaite. Lors du partage du monde, il reçut le royaume souterrain des morts. Le casque fut plus tard prêté à Persée et à Athéna.",
+        "resume": "Libérés du Tartare par Zeus, les Cyclopes forgèrent des armes pour les trois frères : la foudre pour Zeus, le trident pour Poséidon et un casque rendant invisible pour Hadès. Ainsi armés, les dieux vainquirent les Titans. Lors du partage du monde, il reçut le royaume souterrain des morts. Le casque fut plus tard prêté à Persée et à Athéna.",
         "personnages": ["hades", "zeus", "poseidon", "cyclopes", "persee", "athena"],
         "sources": ["Apollodore, Bibliothèque", "Homère, Iliade"]
       },
@@ -323,7 +323,7 @@
         "titre": "La nymphe Menthé",
         "resume": "Hadès s'éprit de la nymphe Menthé, qui vivait près du Cocyte. Perséphone, jalouse, la transforma en une humble plante. Selon une autre version, c'est Déméter qui la châtia pour venger sa fille. La plante garda le nom de la nymphe et son parfum persistant.",
         "personnages": ["hades", "menthe", "persephone", "demeter"],
-        "sources": ["Strabon, Géographie", "Ovide, Métamorphoses"]
+        "sources": ["Strabon, Géographie", "Ovide, Métamorphoses", "Oppien, Halieutiques"]
       }
     ]
   },
@@ -375,7 +375,7 @@
       },
       {
         "titre": "La protectrice d'Ulysse",
-        "resume": "Athéna, qui chérissait l'esprit rusé d'Ulysse, plaida sa cause devant les dieux pour qu'il puisse enfin rentrer à Ithaque. Sous les traits de Mentor, elle encouragea Télémaque à partir en quête de nouvelles de son père. Elle accueillit Ulysse à son retour, le déguisa en vieux mendiant et l'aida à préparer sa revanche contre les prétendants. Elle mit enfin un terme à la guerre civile qui menaçait d'éclater.",
+        "resume": "Athéna, qui chérissait l'esprit rusé d'Ulysse, plaida sa cause devant les dieux pour qu'il puisse enfin rentrer à Ithaque. Sous les traits de Mentès puis de Mentor, elle encouragea Télémaque à partir en quête de nouvelles de son père. Elle accueillit Ulysse à son retour, le déguisa en vieux mendiant et l'aida à préparer sa revanche contre les prétendants. Elle mit enfin un terme à la guerre civile qui menaçait d'éclater.",
         "personnages": ["athena", "ulysse", "telemaque", "penelope", "zeus"],
         "sources": ["Homère, Odyssée"]
       }
@@ -530,7 +530,7 @@
       },
       {
         "titre": "Le dragon de Thèbes",
-        "resume": "Une source près du site de la future Thèbes était gardée par un dragon, fils d'Arès selon la tradition. Cadmos, venu fonder une cité, le tua pour pouvoir puiser l'eau nécessaire à un sacrifice. Pour expier ce meurtre, il dut servir Arès pendant une longue année. Les dieux lui accordèrent ensuite pour épouse Harmonie, fille d'Arès et d'Aphrodite.",
+        "resume": "Une source près du site de la future Thèbes était gardée par un dragon, fils d'Arès selon la tradition. Cadmos, venu fonder une cité, le tua pour pouvoir puiser l'eau nécessaire à un sacrifice. Pour expier ce meurtre, il dut servir Arès pendant une « année éternelle », qui valait alors huit ans. Les dieux lui accordèrent ensuite pour épouse Harmonie, fille d'Arès et d'Aphrodite.",
         "personnages": ["ares", "cadmos", "harmonie", "aphrodite", "athena"],
         "sources": ["Apollodore, Bibliothèque", "Ovide, Métamorphoses", "Euripide, Les Phéniciennes"]
       },
@@ -590,7 +590,7 @@
       },
       {
         "titre": "Adonis",
-        "resume": "Aphrodite s'éprit d'Adonis, jeune homme d'une beauté extraordinaire. Selon Apollodore, elle l'avait confié enfant à Perséphone, qui refusa de le rendre, et Zeus partagea son année entre les deux déesses. Malgré les avertissements d'Aphrodite, Adonis s'adonnait à la chasse et fut tué par un sanglier. En souvenir de lui, la déesse fit naître l'anémone, fleur éphémère.",
+        "resume": "Aphrodite s'éprit d'Adonis, jeune homme d'une beauté extraordinaire. Selon Apollodore, elle l'avait confié enfant à Perséphone, qui refusa de le rendre, et Zeus partagea son année en trois : un tiers avec chaque déesse et un tiers libre, qu'Adonis choisit de passer auprès d'Aphrodite. Malgré les avertissements d'Aphrodite, Adonis s'adonnait à la chasse et fut tué par un sanglier. En souvenir de lui, la déesse fit naître l'anémone, fleur éphémère.",
         "personnages": ["aphrodite", "adonis", "persephone", "zeus"],
         "sources": ["Ovide, Métamorphoses", "Apollodore, Bibliothèque", "Bion, Chant funèbre d'Adonis"]
       },
@@ -659,7 +659,7 @@
       },
       {
         "titre": "L'enchaînement de Prométhée",
-        "resume": "Sur l'ordre de Zeus, Héphaïstos dut lui-même enchaîner Prométhée à un rocher du Caucase. Il accomplit cette tâche à contrecœur, plein de pitié pour le Titan, sous la surveillance de Kratos et Bia. Il riva solidement les chaînes et fixa le captif au rocher avec un coin d'acier. Eschyle fait de cette scène l'ouverture de sa tragédie.",
+        "resume": "Sur l'ordre de Zeus, Héphaïstos dut lui-même enchaîner Prométhée à un rocher, aux confins du monde, en Scythie. Il accomplit cette tâche à contrecœur, plein de pitié pour le Titan, sous la surveillance de Kratos et Bia. Il riva solidement les chaînes et fixa le captif au rocher avec un coin d'acier. Eschyle fait de cette scène l'ouverture de sa tragédie.",
         "personnages": ["hephaistos", "promethee", "kratos", "bia", "zeus"],
         "sources": ["Eschyle, Prométhée enchaîné"]
       }

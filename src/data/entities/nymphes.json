@@ -191,7 +191,7 @@
     "symboles": ["tilleul"],
     "tags": ["océan", "métamorphose", "transformé en plante", "arbres", "thessalie", "montagne"],
     "filiations": [
-      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Apollodore, Bibliothèque I" }
+      { "parents": ["oceanos", "tethys"], "principale": true, "source": "Hygin, Fables 138" }
     ],
     "unions": [
       { "avec": "cronos", "note": "sous la forme d'un cheval ; mère de Chiron" }
@@ -323,7 +323,7 @@
     "histoires": [
       {
         "titre": "La prophétie et les noces avec Pélée",
-        "resume": "Zeus et Poséidon se disputaient la main de Thétis jusqu'au jour où Thémis, ou Prométhée selon d'autres, révéla qu'elle enfanterait un fils plus puissant que son père. Les dieux décidèrent alors de la marier à un mortel, Pélée. La Néréide résista en prenant toutes sortes de formes, feu, eau, lion ou serpent, mais Pélée, conseillé par Chiron, ne la lâcha pas jusqu'à ce qu'elle accepte de l'épouser. Leurs noces sur le Pélion réunirent tous les dieux, sauf Éris, qui jeta la pomme de discorde à l'origine de la guerre de Troie.",
+        "resume": "Zeus et Poséidon se disputaient la main de Thétis jusqu'au jour où Thémis, ou Prométhée selon d'autres, révéla qu'elle enfanterait un fils plus puissant que son père. Les dieux décidèrent alors de la marier à un mortel, Pélée. La Néréide résista en prenant toutes sortes de formes, feu, eau, lion ou serpent, mais Pélée, conseillé par Chiron (par Protée chez Ovide), ne la lâcha pas jusqu'à ce qu'elle accepte de l'épouser. Leurs noces sur le Pélion réunirent tous les dieux, sauf Éris, qui jeta la pomme de discorde à l'origine de la guerre de Troie.",
         "personnages": ["zeus", "poseidon", "themis", "promethee", "pelee", "chiron", "eris"],
         "sources": ["Pindare, Isthmiques VIII", "Eschyle, Prométhée enchaîné", "Apollodore, Bibliothèque III", "Ovide, Métamorphoses XI"]
       },
@@ -402,7 +402,7 @@
     "tags": ["source", "métamorphose", "chasse", "fleuve", "mystères d'éleusis"],
     "filiations": [
       { "parents": ["neree", "doris"], "principale": true, "source": "Hygin, Fables (préface)" },
-      { "parents": ["oceanos", "tethys"], "source": "Virgile, Géorgiques IV" }
+      { "parents": ["oceanos", "tethys"], "source": "tradition tardive ; Virgile, Géorgiques IV, la nomme seulement parmi les nymphes compagnes de Cyrène" }
     ],
     "unions": [
       { "avec": "alphee", "note": "poursuivie par le dieu-fleuve" }
@@ -465,7 +465,7 @@
     "tags": ["arbres", "transformé en plante", "métamorphose", "amour", "chasse", "thessalie", "aimé des dieux"],
     "filiations": [
       { "parents": ["peneios"], "principale": true, "source": "Ovide, Métamorphoses I" },
-      { "parents": [], "source": "Pausanias VIII ; Parthénios : fille du fleuve arcadien Ladon" }
+      { "parents": [], "source": "Pausanias VIII : fille du fleuve arcadien Ladon ; Parthénios la dit fille d'Amyclas" }
     ],
     "unions": [
       { "avec": "apollon", "note": "poursuivie par le dieu" }
@@ -747,7 +747,7 @@
     "histoires": [
       {
         "titre": "Mère d'Œnomaos",
-        "resume": "Stérope, appelée aussi Astéropé, s'unit à Arès selon Apollodore. Elle lui donna Œnomaos, roi de Pise en Élide, qui défiait à la course de chars les prétendants de sa fille Hippodamie. Pélops triompha de lui par la ruse et épousa Hippodamie. D'autres auteurs font de Stérope l'épouse et non la mère d'Œnomaos.",
+        "resume": "Stérope, appelée aussi Astéropé, s'unit à Arès selon Hygin. Elle lui donna Œnomaos, roi de Pise en Élide, qui défiait à la course de chars les prétendants de sa fille Hippodamie. Pélops triompha de lui par la ruse et épousa Hippodamie. Apollodore et Pausanias font au contraire de Stérope l'épouse et non la mère d'Œnomaos.",
         "personnages": ["ares", "pelops"],
         "sources": ["Apollodore, Bibliothèque III", "Pausanias, Description de la Grèce V", "Hygin, Fables"]
       }
@@ -843,7 +843,7 @@
     "histoires": [
       {
         "titre": "La fille du soir",
-        "resume": "Hespéréthuse, dont le nom évoque l'éclat du soir, est l'une des Hespérides citées par Apollodore. Avec ses sœurs, elle chantait d'une voix claire dans le jardin des pommes d'or, aux extrémités occidentales du monde. Apollonios de Rhodes l'appelle Hespéré et raconte qu'elle se changea en peuplier à l'arrivée des Argonautes. Elle pleurait alors avec ses sœurs la mort du dragon Ladon, tué par Héraclès.",
+        "resume": "Hespéréthuse, dont le nom évoque l'éclat du soir, est l'une des Hespérides, nommée dans un vers attribué à Hésiode ; Apollodore cite plutôt Hespérie et Aréthuse. Avec ses sœurs, elle chantait d'une voix claire dans le jardin des pommes d'or, aux extrémités occidentales du monde. Apollonios de Rhodes l'appelle Hespéré et raconte qu'elle se changea en peuplier à l'arrivée des Argonautes. Elle pleurait alors avec ses sœurs la mort du dragon Ladon, tué par Héraclès.",
         "personnages": ["heracles", "ladon", "aigle", "erytheia"],
         "sources": ["Apollodore, Bibliothèque II", "Apollonios de Rhodes, Argonautiques IV"]
       }
@@ -1019,7 +1019,7 @@
     "histoires": [
       {
         "titre": "La plante parfumée",
-        "resume": "Menthé, nymphe liée au fleuve infernal Cocyte, fut aimée d'Hadès. Elle se vanta d'être plus belle que Perséphone et prétendit que le dieu reviendrait vers elle. La reine des Enfers, ou Déméter selon d'autres, la changea avec colère en une humble plante. Hadès lui accorda du moins un parfum agréable. Sur le mont Triphylien, près de Pylos, se trouvait un sanctuaire qui conservait son souvenir.",
+        "resume": "Menthé, nymphe liée au fleuve infernal Cocyte, fut aimée d'Hadès. Elle se vanta d'être plus belle que Perséphone et prétendit que le dieu reviendrait vers elle. La reine des Enfers, ou Déméter selon d'autres, la changea avec colère en une humble plante. Hadès lui accorda du moins un parfum agréable. En Triphylie, près de Pylos, une montagne portait son nom, à côté d'un sanctuaire d'Hadès.",
         "personnages": ["hades", "persephone", "demeter"],
         "sources": ["Strabon, Géographie VIII", "Oppien, Halieutiques III", "Ovide, Métamorphoses X"]
       }
@@ -1060,8 +1060,8 @@
     "symboles": ["ourse", "Grande Ourse"],
     "tags": ["arcadie", "chasse", "transformé en animal", "transformé en constellation", "jalousie", "aimé des dieux", "victime des dieux", "étoiles"],
     "filiations": [
-      { "parents": ["lycaon"], "principale": true, "source": "Hésiode (fragments) ; Apollodore, Bibliothèque III" },
-      { "parents": [], "source": "Asios et Phérécyde, cités par Apollodore : fille de Nyctée ou nymphe" }
+      { "parents": ["lycaon"], "principale": true, "source": "Eumélos, cité par Apollodore, Bibliothèque III ; Hésiode (fragments)" },
+      { "parents": [], "source": "cités par Apollodore, Bibliothèque III : une nymphe selon Hésiode, fille de Nyctée selon Asios, de Cétée selon Phérécyde" }
     ],
     "unions": [
       { "avec": "zeus", "note": "mère d'Arcas" }
